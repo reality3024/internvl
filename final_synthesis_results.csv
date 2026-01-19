@@ -1,0 +1,791 @@
+class_name,num_batches_synthesized,final_description
+M58-Encoder側走行機身,"1. The component has a rigid L-shaped structure.
+2. This part features a large central circular hole.
+3. There is a rectangular slot near the top edge.
+4. Small rectangular slots are positioned near the bottom edge.
+5. The part has raised edges along the longer sides.
+6. A protruding tab is located on the upper left side.
+7. Several smaller holes are arranged symmetrically around the central hole.
+8. Rectangular slots are positioned parallel to the longer side of the L-shape.
+9. The large circular hole is centrally positioned on the vertical section.
+10. Small rectangular protrusions are on the left side near the bottom."
+M58-FORK定位固定片,"1. The component features an L-shaped metal bracket with a rectangular profile.
+2. This part has a flat base with a slight upward curve.
+3. It contains one large circular hole centrally located.
+4. There are two elongated slots vertically aligned on the upper section.
+5. The part has raised edges along the sides for structural support.
+6. Several smaller circular holes are arranged around the central opening.
+7. The vertical section features elongated slots symmetrically aligned.
+8. A rectangular slot is positioned near the top edge, parallel to the longer edges.
+9. The large circular hole is centrally aligned with the slots.
+10. The smaller circular holes are near the bottom edge, adjacent to the slots."
+M58-FORK定位檢知片,"1. The component has a rigid L-shaped structure with a flat base extending horizontally.
+2. This part features a large circular hole centrally located on the flat surface.
+3. There is a rectangular slot positioned near the top edge of the flat surface.
+4. A smaller rectangular slot is located near the bottom edge.
+5. The part has raised edges along the vertical side of the L-shape.
+6. Several smaller circular holes are arranged around the central opening.
+7. The component has a smooth transition between the L-shape and the flat base.
+8. A flat protrusion extends from the bottom section of the L-shape.
+9. The large circular hole is centrally aligned with the L-shape's curve.
+10. The rectangular slot is positioned parallel to the base and aligned with the vertical side."
+M58-FORK拖鏈支撐板,"1. The component is a long, slender rectangular bar with a consistent width.
+2. This part features a central elongated slot running vertically.
+3. There is a small circular hole near one end of the bar.
+4. The part has a slight protrusion along the top side.
+5. A small rectangular protrusion is present on one side of the bar.
+6. Several smaller holes are arranged around the central opening.
+7. The bar has a flat end cap on one side and a slightly rounded end on the opposite side.
+8. A small rectangular slot is positioned near the top edge of the bar.
+9. The central elongated slot is aligned parallel to the length of the bar.
+10. Small circular holes are symmetrically placed on either side of the central slot."
+M58-FORK拖鏈支撐板-2,"1. The component has a rectangular profile with rounded corners.
+2. This part features a central elongated slot running vertically.
+3. It contains a series of evenly spaced holes along the bottom edge.
+4. There is a small circular hole near the top left corner.
+5. The part has a raised ridge along the left side.
+6. Several smaller holes are arranged symmetrically around the central slot.
+7. The part has a flat protruding edge on one side.
+8. There is a small rectangular notch near the bottom edge.
+9. The central slot is flanked by two smaller rectangular slots on either side.
+10. The slot is positioned parallel to the longer edge of the rectangle."
+M58-FORK驅動軸心,"1. The component is a straight cylindrical rod with a uniform elongated shape.
+2. This part features a central circular hole running through its length.
+3. There is a small circular indentation near one end.
+4. A narrow slot is positioned along the side of the rod.
+5. The part has flat ends on both sides.
+6. A small rectangular slot is near one end of the rod.
+7. The rod has a slight protrusion at one end.
+8. There is a rounded tip at the opposite end.
+9. The central hole aligns perfectly with the rod's axis.
+10. The slot is positioned close to the flat end of the rod."
+M58-Fork機身-1,"1. The component features a flat rectangular bar with a consistent width.
+2. This part includes a central elongated slot running through the middle.
+3. There is a series of evenly spaced small circular holes along the length.
+4. The part has a slight upward bend on one end.
+5. It contains a rectangular slot near the corner.
+6. Small circular holes are evenly spaced around the central slot.
+7. The part has slightly raised edges along the top and bottom sides.
+8. Several smaller holes are arranged symmetrically around the central opening.
+9. The elongated slot is positioned horizontally across the middle.
+10. The rectangular slot is centrally located on the bar."
+M58-Fork機身-2,"1. The component is a flat rectangular plate with a central rectangular cutout.
+2. This part features a series of evenly spaced small holes along the top edge.
+3. There is a central rectangular slot dividing the plate.
+4. The part has raised edges along the top and bottom sides.
+5. Several smaller holes are arranged symmetrically around the central slot.
+6. There is a single elongated slot near the center.
+7. The part has a rectangular shape with a slight taper towards one end.
+8. There is a small rectangular slot near the top edge.
+9. The central slot is flanked by two rows of smaller holes.
+10. The rectangular slot is positioned centrally on the bottom edge."
+M58-Fork機身連接板,"1. The component is a flat rectangular plate with rounded corners.
+2. This part features a central elongated slot running horizontally.
+3. There is a large circular hole located centrally.
+4. The part has a series of evenly spaced holes along the length.
+5. It contains a rectangular slot near the edge.
+6. There is a U-shaped notch on the right side.
+7. The part has raised edges along the left and right sides.
+8. Several smaller holes are arranged around the central opening.
+9. The central elongated slot is surrounded by smaller holes.
+10. The rectangular slot is positioned parallel to the top edge."
+M58-Fork馬達固定板,"1. The component is an L-shaped metal bracket with a flat top surface.
+2. This part features a large circular hole located centrally.
+3. There is a rectangular slot near the top edge.
+4. The part has raised edges along the sides.
+5. Several smaller holes are arranged around the central opening.
+6. Rectangular slots are positioned near the top and bottom edges.
+7. The main body features a rigid structure with a flat base and an angled arm.
+8. There is a rectangular cutout near the corner.
+9. The central circular hole is surrounded by smaller holes.
+10. Rectangular cutouts and slots are on various edges."
+M58-SENSOR固定片(減速、急停),"1. The component has an L-shaped metal bracket configuration.
+2. This part features a large circular hole located centrally.
+3. There is a rectangular slot near the bottom edge.
+4. The part has raised edges along the longer side.
+5. A flat protruding top edge is present.
+6. Two small circular holes are aligned vertically near the top.
+7. The rectangular slot is positioned parallel to the longer side.
+8. The smaller hole is positioned above the central hole.
+9. The large circular hole is aligned with the shorter arm.
+10. The holes are symmetrically placed on the L-shaped structure."
+M58-SENSOR固定片(減速、急停)-2,"1. The component has a flat, elongated rectangular shape with rounded corners.
+2. This part features a central oval-shaped cutout.
+3. There is a large rectangular slot near the top edge.
+4. Two elongated slots are aligned vertically near the center.
+5. The part has slightly raised edges along the top and bottom sides.
+6. A smaller rectangular slot is positioned below the central oval cutout.
+7. The L-shaped metal bracket configuration includes a flat protrusion on the right side.
+8. Small circular holes are positioned symmetrically on the lower side.
+9. The larger slot is centrally located, with the smaller slot near the top right.
+10. Slots and holes are symmetrically arranged on the L-shaped structure."
+M58-下封板,"1. The component has an elongated rectangular shape with rounded corners.
+2. This part features a central rectangular cutout aligned with the main body.
+3. There is a series of evenly spaced small holes along the length.
+4. The part includes a rectangular slot positioned parallel to the longer side.
+5. Small circular holes are near the top left corner and bottom left corner.
+6. A rectangular slot is positioned directly below the central cutout.
+7. The part has raised edges along the top and bottom sides.
+8. A protruding tab is positioned at the top right corner.
+9. Several smaller holes are arranged symmetrically around the central slot.
+10. The rectangular slot is positioned centrally near the bottom edge."
+M58-下方護蓋1(從動側),"1. The component is an L-shaped metal plate.
+2. This part features a central rectangular cutout.
+3. There is a large rectangular slot near the bottom edge.
+4. The part has raised edges along the sides.
+5. Several smaller holes are arranged symmetrically around the central slot.
+6. There is a rectangular slot near the top edge.
+7. The part has a slight notch at the top left corner.
+8. A small circular hole is near the top left corner.
+9. The central rectangular cutout is flanked by two smaller circular holes on either side.
+10. The rectangular slot is positioned parallel to the longer side of the L-shape."
+M58-下方護蓋1(驅動側),"1. The component is a flat rectangular plate with a slight bend on one side.
+2. This part features a central rectangular cutout.
+3. There is a small rectangular slot near the bottom center.
+4. The part has a raised edge along the left side.
+5. Several smaller holes are arranged symmetrically around the central opening.
+6. A small L-shaped notch is positioned at the bottom left end.
+7. The part has a flat base at the bottom.
+8. A rectangular slot is positioned near the top edge.
+9. The rectangular slot is aligned parallel to the main body.
+10. The L-shaped notch is positioned at a 90-degree angle to the main body."
+M58-中牽夾具,"1. The component has an L-shaped metal bracket configuration.
+2. This part features a large circular hole located centrally.
+3. There is a rectangular slot near the top edge.
+4. The part contains a central rectangular cutout.
+5. It has raised edges along the sides.
+6. Several smaller holes are arranged around the central opening.
+7. The rectangular base has a flat top surface.
+8. There is a rectangular slot positioned near the right side.
+9. The large circular hole is surrounded by smaller holes.
+10. The rectangular slot is aligned parallel to the longer side."
+M58-中牽夾具-2-A,"1. The component has a flat rectangular plate with a large central rectangular cutout.
+2. This part features a large circular hole located centrally.
+3. There is a rectangular slot near the top edge.
+4. The part has raised edges along the sides.
+5. Several smaller holes are arranged around the central opening.
+6. The component features a large rectangular slot near the bottom edge.
+7. There is a protruding tab on the right side.
+8. Small circular holes are evenly spaced along the top edge.
+9. The rectangular slot is positioned parallel to the L-shape's corner.
+10. The large circular hole is centrally aligned with the L-shape."
+M58-乘載板,"1. The component is a flat rectangular metal plate with a central elongated slot.
+2. This part features a large rectangular opening in the center.
+3. There is a rectangular slot near the top edge.
+4. The part has raised edges along the left and right sides.
+5. Several smaller holes are arranged symmetrically around the central opening.
+6. A series of evenly spaced holes is along the top edge.
+7. The part has a flat rectangular base with flanges.
+8. Two large rectangular holes are near the ends.
+9. The central rectangular cutout is flanked by two smaller rectangular slots.
+10. The rectangular slot is positioned parallel to the longer side of the plate."
+M58-乘載板-2,"1. The component is a flat rectangular metal plate with a central elongated slot.
+2. This part features a large rectangular slot near the top edge.
+3. There is a central rectangular slot running horizontally through the length.
+4. The part has raised edges along the top and bottom sides.
+5. Several smaller holes are arranged symmetrically around the central opening.
+6. The L-shaped metal bracket configuration includes a flat rectangular base.
+7. The part has a slight overhang on the left side.
+8. Two large rectangular holes are positioned near the ends.
+9. The central rectangular cutout is flanked by two smaller rectangular slots.
+10. The rectangular slot is aligned parallel to the longer side of the plate."
+M58-乘載板固定座,"1. The component is an L-shaped metal bracket with a flat rectangular base.
+2. This part features a large rectangular slot near the center or edge.
+3. There is a large circular hole near the top or corner.
+4. The part has a broad flat surface on one side, extending from the corner.
+5. It contains a large rectangular cutout on one side.
+6. There are smaller circular holes near the corners or edges.
+7. The part has raised edges along the sides and top/bottom.
+8. A flat protrusion extends from the bottom edge.
+9. Several smaller holes are arranged around the central opening.
+10. The L-shaped metal bracket configuration includes a broad horizontal and vertical section."
+M58-乘載板導條,"1. The component is a flat rectangular bar with rounded corners.
+2. This part features a central elongated slot running horizontally.
+3. There is a large circular hole positioned centrally.
+4. Small circular holes are positioned near the left end.
+5. The part has raised edges along the bottom edge.
+6. There is a rectangular slot near the edge.
+7. Several smaller holes are arranged around the central opening.
+8. The part has slight protrusions along the left side.
+9. The central slot is aligned horizontally across the bar.
+10. Small circular holes are symmetrically placed on either end of the bar."
+M58-側邊導輪固定座擋塊,"1. The component is a rectangular metal plate with rounded edges.
+2. This part features a large central circular hole.
+3. There are three circular holes of varying sizes aligned horizontally.
+4. The part has slightly raised edges along the sides.
+5. Several smaller holes are arranged symmetrically around the central opening.
+6. A semi-circular cutout is positioned adjacent to the central hole.
+7. The edges of the part are slightly raised.
+8. The component has a smooth, flat surface with no additional protrusions.
+9. The central hole is aligned with the geometric center of the plate.
+10. Smaller holes are symmetrically placed around the central hole."
+M58-側邊導輪固定板,"1. The component has a rectangular shape with rounded edges.
+2. This part features a central oval-shaped cutout.
+3. There is a rectangular slot on the left side.
+4. The part has a slight taper on the rectangular shape.
+5. Raised edges are present along the top and bottom sides.
+6. Small circular holes are positioned symmetrically on opposite corners.
+7. A rectangular slot is positioned on the right side near the bottom.
+8. Several smaller holes are arranged around the central opening.
+9. The rectangular base has a slight angle.
+10. The central oval cutout is aligned with the rectangular shape."
+M58-側邊導輪固定板2,"1. The component has a rectangular shape with rounded corners.
+2. This part features a central oval-shaped hole.
+3. There is a rectangular slot on the left side.
+4. Small circular holes are positioned near the top right corner.
+5. The part has raised edges along the top side.
+6. Several smaller holes are arranged around the central opening.
+7. There is a rectangular slot near the bottom edge.
+8. Small circular holes are aligned vertically on the left side.
+9. The central oval-shaped hole is centrally aligned with the rectangular body.
+10. A rectangular slot is positioned parallel to the longer side."
+M58-加熱器固定板,"1. The component is a flat rectangular plate with a central rectangular cutout.
+2. This part features a large circular hole located centrally.
+3. There is a small rectangular slot near the bottom edge.
+4. The part has raised edges along the top and bottom sides.
+5. Several smaller holes are arranged symmetrically around the central opening.
+6. Four small circular holes are evenly spaced at the corners.
+7. The part has a slight overhang at the bottom edge.
+8. There is a small rectangular slot on the right side.
+9. The large rectangular opening is positioned in the center.
+10. Holes are evenly spaced around the perimeter of the plate."
+M58-在席檢固定片,"1. The component has an L-shaped metal bracket configuration.
+2. This part features a rectangular base with a flat top surface.
+3. It contains one large circular hole located centrally.
+4. There is a rectangular slot near the top edge.
+5. The part has raised edges along the vertical side.
+6. Two small circular holes are positioned near the top.
+7. The rectangular slot is aligned parallel to the top edge.
+8. The large circular hole is positioned above the side hole.
+9. The rectangular slot is positioned adjacent to the central circular hole.
+10. Two small circular holes are symmetrically placed near the bottom edge."
+M58-壓板調整座,"1. The component has an L-shaped metal bracket configuration with a flat base.
+2. This part features a large central circular hole.
+3. There is a rectangular slot positioned near the bottom edge.
+4. The part has raised edges along the longer sides of the L-shape.
+5. Several smaller holes are arranged symmetrically around the central opening.
+6. A rectangular slot is parallel to the longer side of the L-shape.
+7. The part has a slight protrusion at the bottom of the L-shape.
+8. Raised edges are along the vertical and horizontal sides of the L-shape.
+9. The central circular hole is surrounded by smaller holes.
+10. The rectangular slot is centrally located on the flat base."
+M58-封板固定座-1,"1. The component is an L-shaped metal bracket with a vertical and horizontal section.
+2. This part features a large circular hole located centrally.
+3. There is a small rectangular slot near the bottom edge.
+4. A single circular hole is positioned near the top left corner.
+5. The part has a small circular hole near the bend of the L-shape.
+6. There is a rectangular slot near the bottom right side.
+7. The part has raised edges along the vertical side.
+8. A small circular indentation is near the central hole.
+9. Several smaller holes are arranged around the central opening.
+10. The vertical section extends perpendicularly from the base."
+M58-封板固定座-2,"1. The component features an L-shaped metal bracket with a rectangular profile.
+2. This part includes a central circular hole.
+3. There is a rectangular slot near the bottom edge.
+4. A small rectangular slot is positioned on the lower side.
+5. The part has a slight protrusion at the bottom.
+6. A narrow elongated slot is on the horizontal section.
+7. Raised edges are along the vertical side.
+8. Several smaller holes are arranged around the central opening.
+9. The flat base extends horizontally from the vertical section.
+10. The vertical section is straight and uniform in width."
+M58-封板支撐柱,"1. The component is a flat rectangular bar with consistent width.
+2. This part features a long horizontal slot along its length.
+3. There is a slight indentation on one side of the bar.
+4. The part has a central elongated slot.
+5. Several small circular holes are positioned near the ends.
+6. A rectangular slot is positioned near the left edge.
+7. The bar has slight raised edges along the top surface.
+8. A small triangular notch is located at one end.
+9. The central elongated slot is aligned parallel to the bar's length.
+10. Small circular holes are arranged symmetrically around the central slot."
+M58-導向輪軸心,"1. The component features a cylindrical body with a flared end.
+2. This part has a central circular hole aligned with the cylindrical axis.
+3. There is a smaller circular hole near the front end or middle section.
+4. The part includes a rectangular slot near the end cap.
+5. It has a flanged end with a raised circular edge.
+6. A flat end cap is positioned opposite the cylindrical protrusion.
+7. The cylindrical shaft has a flange extending outward from the main shaft.
+8. A protruding section is positioned at the front end.
+9. The central hole is surrounded by a flanged section.
+10. A smaller hole is positioned adjacent to the flared end."
+M58-庫格檢固定片,"1. The component has an L-shaped metal bracket configuration.
+2. This part features a large circular hole centrally located.
+3. There is a rectangular slot near the bottom right.
+4. The part has raised edges along the sides.
+5. Several smaller holes are arranged around the central opening.
+6. It contains a small circular hole near the top left.
+7. The main body features a rigid structure with a rectangular shape and rounded corners.
+8. There is a small circular hole near the top edge.
+9. The rectangular base has a flat top surface with no additional features.
+10. The L-shaped metal bracket has a rectangular base and vertical extension."
+M58-庫格檢轉接片,"1. The component has an L-shaped metal bracket configuration.
+2. This part features a large central circular hole.
+3. There is a rectangular slot positioned near the top edge.
+4. The part contains two circular holes aligned vertically.
+5. A large oval slot is located near the center.
+6. There is a semi-circular cutout on the upper right side.
+7. The part has raised edges along the sides.
+8. Several smaller holes are arranged around the central opening.
+9. The rectangular slot is positioned parallel to the longer side of the L-shape.
+10. The central circular hole is aligned with the inner corner of the L-shape."
+M58-從動側FORK機身,"1. The component is an L-shaped metal bracket.
+2. This part features a large rectangular slot located centrally.
+3. There is a series of evenly spaced holes along the top edge.
+4. The part has raised edges along the sides.
+5. Several smaller holes are arranged around the central opening.
+6. It contains one large rectangular hole near the left side.
+7. There is a rectangular slot near the top edge.
+8. The part has a rectangular base with an extended L-shaped section.
+9. The central rectangular cutout is flanked by two rows of smaller holes.
+10. Two protruding tabs are located at the bottom corners."
+M58-從動側固定板,"1. The component has an L-shaped metal bracket configuration.
+2. This part features a central large circular hole.
+3. There is a rectangular slot near the top edge.
+4. The part has raised edges along the longer sides.
+5. Two small circular holes are aligned vertically near the top.
+6. A rectangular slot is positioned directly below the central hole.
+7. The part has a slight upward curve at the base.
+8. Small circular holes are positioned symmetrically around the central hole.
+9. The central hole is aligned vertically with the rectangular slot.
+10. The rectangular slot is aligned parallel to the longer side of the L-shape."
+M58-從動側外殼,"1. The component is an elongated rectangular bar with a central vertical slot.
+2. This part features a central rectangular cutout.
+3. There is a small square hole near the center.
+4. The part has a rectangular slot near the bottom edge.
+5. Small rectangular slots are positioned near the top edge.
+6. A central elongated slot runs through the length.
+7. The part has raised edges along the longer sides.
+8. Several smaller holes are arranged symmetrically around the central opening.
+9. A rectangular slot is positioned near the bottom edge.
+10. Small circular holes are near the top edge, symmetrically with the bottom hole."
+M58-從動側走行機身,"1. The component is a flat rectangular metal plate.
+2. This part features a central elongated rectangular cutout.
+3. There are two elongated rectangular slots near the center.
+4. The part has raised edges along the top and bottom sides.
+5. Several smaller holes are arranged symmetrically around the central slots.
+6. There is a large rectangular slot positioned centrally.
+7. The part includes two parallel rectangular slots positioned side by side.
+8. Small circular holes are distributed along the edges.
+9. The rectangular slots are parallel to each other and centrally aligned.
+10. The central rectangular cutout is positioned between the two slots."
+M58-拖鏈封蓋,"1. The component is a flat rectangular bar with a consistent width.
+2. This part features a central elongated slot running along the length.
+3. There is a long horizontal slot near the center.
+4. The part has a slight protrusion along the bottom edge.
+5. Two small circular holes are positioned near the ends.
+6. A narrow rectangular slot is located near the bottom edge.
+7. There is a slight elevation along the central axis.
+8. Raised edges are present along the top border.
+9. The central slot is aligned parallel to the longer edges.
+10. Several smaller holes are arranged symmetrically around the central slot."
+M58-擺臂,"1. The component is an L-shaped metal bracket with a cylindrical base.
+2. This part features a large central circular hole aligned with the L-shaped bend.
+3. There is a rectangular slot near the bottom edge, parallel to the L-shaped bend.
+4. The part has a rounded protrusion at one end.
+5. A cylindrical base supports the vertical section of the bracket.
+6. Small circular holes are positioned near the base and adjacent to slots.
+7. Raised edges are present along the sides and longer side of the bracket.
+8. A flat protrusion extends from the base of the bracket.
+9. The rectangular slot is positioned parallel to the longer side of the L-shape.
+10. The circular hole is centrally aligned with the base and the L-shaped bend."
+M58-擺臂下擋塊,"1. The component has a rectangular base with rounded corners.
+2. This part features a large circular hole centrally aligned.
+3. There is a small circular hole near the top left corner.
+4. The part has a slight angle on the rectangular shape.
+5. It contains a triangular notch on the top left corner.
+6. There is a rectangular slot near the top edge.
+7. The part has raised edges along the sides.
+8. Several smaller holes are arranged around the central opening.
+9. The large circular hole is centrally aligned with smaller holes.
+10. Smaller holes are symmetrically arranged around the central hole."
+M58-擺臂部檢知管,"1. The component is an L-shaped metal bracket with a cylindrical main body.
+2. This part features a large central circular hole aligned with the inner corner of the L-shape.
+3. There is a rectangular slot near the top edge, aligned parallel to the base.
+4. The part has a flat top surface with a slight taper towards the base.
+5. A small circular indentation is positioned near the rectangular slot.
+6. There is a rectangular slot on the side of the cylinder, aligned parallel to the cylinder's axis.
+7. The part has a flat rectangular extension on one side, forming a right angle with the cylindrical body.
+8. A raised rim surrounds the central circular hole.
+9. Several smaller circular holes are arranged around the central opening.
+10. A rectangular slot is positioned adjacent to the central circular hole."
+M58-擺臂部軸心,"1. The component is a cylindrical rod with a flat end.
+2. This part features a central circular hole aligned with the rod's axis.
+3. There is a small rectangular slot near the flat end.
+4. The rod has a central connector section slightly thicker than the rod.
+5. The part has a rounded end cap on one side.
+6. A flange protrudes outward from the rod near the middle section.
+7. The rod has a smooth cylindrical protrusion at one end.
+8. There is a small circular hole near one end of the rod.
+9. The central circular hole runs the full length of the rod.
+10. The flat end cap is positioned opposite the protrusion."
+M58-擺臂部軸承座,"1. The component features a robust L-shaped metal bracket configuration.
+2. This part has a rectangular base with a flat top surface.
+3. It contains one large circular hole located centrally.
+4. There is a rectangular slot positioned on the side.
+5. The part has raised edges along the vertical sides.
+6. A flat protrusion extends along the bottom edge.
+7. Several smaller circular holes are symmetrically arranged around the central hole.
+8. A rectangular slot is positioned adjacent to the central hole.
+9. The large central circular hole is aligned with the L-shaped bend.
+10. The rectangular slot is positioned near the bottom edge, close to the protrusion."
+M58-擺臂部馬達固定座,"1. The component has an L-shaped metal bracket configuration.
+2. This part features a large central circular hole.
+3. Four smaller circular holes are evenly distributed around the central hole.
+4. There is a rectangular slot aligned parallel to the longer side of the L-shape.
+5. The part has slightly raised edges along the sides of the L-shape.
+6. A flat surface is present on the longer side of the L-shape.
+7. The rectangular slot is positioned adjacent to the central circular hole.
+8. Smaller holes are symmetrically positioned around the central opening.
+9. The rectangular slot is aligned parallel to the longer side of the L-shape and positioned adjacent to the central hole.
+10. The L-shaped structure has a flat base on the bottom."
+M58-擺臂門型開關固定片,"1. The component is a flat rectangular plate with an L-shaped configuration.
+2. This part features a large circular hole located centrally.
+3. There is a rectangular slot near the top edge.
+4. The part has a protruding tab on the right side.
+5. Two small circular holes are positioned near the top and bottom edges.
+6. There is a rectangular slot near the bottom edge of the vertical part.
+7. The part has raised edges along the sides.
+8. Several smaller holes are arranged around the central opening.
+9. The large circular hole is centrally located on the horizontal section.
+10. The rectangular slot is positioned adjacent to the large circular hole."
+M58-擺臂門型開關固定片-1,"1. The component features a flat rectangular sheet with an L-shaped top.
+2. This part has a large circular hole centrally located.
+3. Two elongated slots are aligned vertically on the flat surface.
+4. Smaller circular holes are symmetrically placed around the central opening.
+5. Raised edges are present along the sides of the L-shape.
+6. The rectangular slot is positioned near the top edge.
+7. The large circular hole is aligned with the rectangular slot.
+8. The smaller circular holes are adjacent to the larger central hole.
+9. The rectangular slot is positioned below the central hole.
+10. The slots are evenly spaced along the vertical edge."
+M58-支撐固定座,"1. The component forms an L-shaped metal bracket with a flat profile.
+2. This part features a large central circular hole in each section.
+3. There are two elongated slots on the upper side.
+4. Two smaller circular holes are positioned on the left side.
+5. The part has a rectangular slot on the lower left side.
+6. There is a rectangular slot on the lower right side.
+7. The component has raised edges along the longer sides.
+8. A flat protrusion is present on the right side.
+9. The central hole is flanked by two smaller holes on the lower section.
+10. Rectangular slots are aligned parallel to the longer side of the L-shape."
+M58-時規皮帶上壓板-1,"1. The component features a flat rectangular plate with a large circular hole.
+2. This part has a large circular hole near the top left corner.
+3. It contains a series of evenly spaced vertical slots along the length.
+4. The part has raised edges along the sides.
+5. There is a rectangular slot near the top edge.
+6. Several smaller circular holes are arranged around the central opening.
+7. The part has a rectangular base with a vertical notch.
+8. It features a series of parallel horizontal lines along the length.
+9. A large circular hole is centrally located.
+10. Smaller circular holes are positioned near the bottom left and right corners."
+M58-時規皮帶下壓板-1,"1. The component has a flat rectangular metal plate structure.
+2. It features a central large circular hole.
+3. There are multiple small circular holes of varying sizes distributed across the surface.
+4. Rectangular slots are positioned near the edges.
+5. The part has raised edges along the top and bottom sides.
+6. Several smaller holes are arranged symmetrically around the central opening.
+7. The L-shaped metal bracket has a rectangular base with a protruding section.
+8. The rectangular base has a flat top surface.
+9. The large circular hole is centrally aligned with smaller holes.
+10. Rectangular slots are aligned parallel to the longer side of the L-shape."
+M58-時規皮帶下壓板-2,"1. The component is an L-shaped metal plate.
+2. This part features a large circular hole centrally located.
+3. There is a series of evenly spaced circular holes distributed across the surface.
+4. The part has a rectangular base with a slanted top edge.
+5. It contains smaller circular holes near the top left, bottom left, and bottom right corners.
+6. There is a medium-sized circular hole near the top right corner.
+7. The part has a flat top surface with no raised edges.
+8. Several smaller holes are arranged symmetrically around the central hole.
+9. The large circular hole is aligned horizontally with smaller holes.
+10. Holes are evenly distributed across the rectangular surface."
+M58-時規皮帶輪調整座,"1. The component has an L-shaped metal bracket configuration.
+2. This part features a central circular hole.
+3. There is a rectangular slot near the bottom edge.
+4. The part has a cylindrical protrusion extending horizontally from the center.
+5. Several smaller holes are arranged symmetrically along the vertical side.
+6. The cylindrical protrusion is centrally aligned with the horizontal arm of the L-shape.
+7. Raised edges are along the longer side of the bracket.
+8. The rectangular slot is positioned parallel to the longer side and near the bottom edge.
+9. The large circular hole is centrally located.
+10. Two small circular holes are positioned symmetrically near the top."
+M58-時規皮帶齒條,"1. The component is a flat rectangular plate with rounded corners.
+2. This part features a central circular hole.
+3. There is a long horizontal slot in the middle.
+4. The part has a series of evenly spaced holes along the bottom edge.
+5. A small circular hole is positioned near the left edge.
+6. The part includes a raised ridge along the bottom edge.
+7. There is a rectangular cutout on the right side.
+8. Several smaller holes are arranged around the central opening.
+9. The central hole is flanked by two smaller rectangular slots.
+10. The rectangular slot is positioned parallel to the top edge."
+M58-條碼Sensor固定片,"1. The component is an L-shaped metal bracket with a rectangular base and vertical extension.
+2. This part features a large circular hole located centrally.
+3. There is a rectangular slot near the top edge.
+4. The part has raised edges along the sides.
+5. Several smaller holes are arranged around the central opening.
+6. Two elongated slots are aligned vertically on the longer side.
+7. The part features a prominent central cutout.
+8. There is a rectangular slot near the bottom edge.
+9. Small circular holes are positioned near the top right and bottom left corners.
+10. The rectangular slots are aligned parallel to the longer side of the L-shape."
+M58-條碼Sensor固定轉接片,"1. The component has a flat, L-shaped profile with a rectangular base and a vertical extension.
+2. This part features a large oval-shaped cutout centrally located.
+3. There is a rectangular slot positioned near the top edge.
+4. The part contains four circular holes arranged in a square pattern.
+5. A small oval slot is located near the bottom edge.
+6. There is a rectangular slot on the right side.
+7. The part has raised edges along the longer sides of the L-shape.
+8. Several smaller holes are arranged around the central opening.
+9. The rectangular slot is positioned adjacent to the central circular hole.
+10. Slots are positioned parallel to the base's length."
+M58-機身下固定板,"1. The component has an L-shaped metal bracket configuration.
+2. This part features a large rectangular opening in the center.
+3. It contains one large circular hole centrally located.
+4. There is a rectangular slot near the bottom edge.
+5. The part has raised edges along the sides.
+6. Several smaller holes are arranged around the central opening.
+7. The part has a flat rectangular surface with a slight protrusion.
+8. There is a central horizontal slot running through its length.
+9. The large rectangular slot is positioned near the bottom edge.
+10. The central circular hole is aligned with the rectangular slot."
+M58-機身中牽-3,"1. The component is a long, slender cylindrical rod with a consistent diameter.
+2. This part features a central circular hole with a diameter of 50mm.
+3. There is a single elongated slot running along the length of the rod.
+4. The part has a rectangular frame with rounded corners.
+5. A narrow rectangular cutout is positioned near one end of the rod.
+6. There is a small circular indentation near the midpoint of the rod.
+7. The part has raised ridges running along the perimeter.
+8. Two parallel slots are positioned on the upper section of the rod.
+9. The central circular hole is flanked by two smaller holes on either side.
+10. The elongated slot is centrally aligned along the rod's length."
+M58-毛刷,"1. The component has a flat rectangular base with a right-angle bend forming an L-shape.
+2. This part features a large rectangular slot near the top edge.
+3. There are two elongated oval holes near the top, symmetrically aligned.
+4. The part has a series of evenly spaced vertical slots along the bottom edge.
+5. Raised edges along the sides create a defined outline for the L-shape.
+6. A central rectangular cutout is positioned on the side of the component.
+7. The top section is slightly elevated with a flat surface.
+8. Two elongated slots are positioned symmetrically on the upper section.
+9. The large circular hole is centrally located above the base.
+10. The rectangular slot is positioned adjacent to the L-shaped bend."
+M58-毛刷連接板,"1. The component has a flat rectangular shape with a slight bend forming an L-shape.
+2. This part features a large circular hole located centrally.
+3. There is a rectangular slot near the top edge.
+4. The part has raised edges along the horizontal side.
+5. Several smaller holes are arranged around the central opening.
+6. A rectangular slot is positioned parallel to the longer side.
+7. The part has a slight protrusion along the left side.
+8. Two small circular holes are aligned vertically on the left side.
+9. The rectangular slot is positioned above the central circular hole.
+10. Small circular holes are positioned symmetrically on the right side."
+M58-毛刷連接板-1,"1. The component is an L-shaped metal bracket with a flat base.
+2. This part features a central rectangular slot running through its length.
+3. There is a large rectangular slot near the bottom edge.
+4. Two elongated slots are positioned on the flat side.
+5. The part has raised edges along the sides.
+6. Several smaller holes are arranged around the central opening.
+7. A small circular hole is located near the top left corner.
+8. There is a rectangular slot near the top edge.
+9. The central rectangular cutout is aligned parallel to the longer side.
+10. Small circular holes are positioned symmetrically on the horizontal side."
+M58-滑軌墊片,"1. The component features a long cylindrical rod with a uniform diameter.
+2. This part has a central circular hole with a diameter of 50mm.
+3. It contains a single elongated rectangular slot running along its length.
+4. The rod has a consistent diameter throughout its length.
+5. One end of the rod has a slight taper.
+6. The part features a rectangular frame with rounded corners.
+7. There is a small circular hole near one end of the rod.
+8. The component has a rectangular bar with an elongated slot.
+9. Several smaller holes are arranged around the central opening.
+10. The elongated slot is centrally aligned with the rod's length."
+M58-煞車電阻盤,"1. The component is an elongated rectangular bar with a slight bend at the top.
+2. This part features a central rectangular cutout.
+3. There is a small circular hole near the top edge.
+4. The part has raised edges along the top and bottom sides.
+5. Several smaller holes are arranged symmetrically around the central opening.
+6. There is a rectangular slot near the bottom edge.
+7. The part has a slight protrusion along the top edge.
+8. Small circular holes are symmetrically placed on opposite ends.
+9. The rectangular slot is centrally aligned with the component.
+10. The L-shaped metal bracket configuration includes a rectangular slot aligned parallel to the longer side."
+M58-皮帶拖板,"1. The component features a rectangular metal strip with a central elongated slot.
+2. This part has an L-shaped metal bracket configuration.
+3. It contains a central rectangular slot aligned parallel to the longer side.
+4. There is a large rectangular slot near the top edge.
+5. The part has raised edges along the vertical sides.
+6. Several smaller holes are arranged symmetrically around the central slot.
+7. The component has a flat protrusion on the top edge.
+8. Small circular holes are positioned near the top and bottom edges.
+9. The central rectangular slot is aligned vertically with the main body.
+10. Rectangular slots are positioned parallel to the longer edge."
+M58-皮帶支撐片,"1. The component is a long rectangular bar with a consistent width.
+2. This part features a central elongated slot running parallel to the length.
+3. There is one large circular hole positioned centrally.
+4. Two small circular holes are aligned vertically near the ends.
+5. Small rectangular slots are positioned near the top and bottom edges.
+6. A narrow rectangular slot is located along the side edge.
+7. The part has smooth, straight edges along the length.
+8. There is a slight protrusion at one end of the bar.
+9. The central circular hole is aligned vertically with the elongated slot.
+10. Small circular holes are positioned symmetrically on either side of the central hole."
+M58-皮帶輪固定塊,"1. The component is a flat rectangular metal plate with a central cylindrical protrusion extending vertically.
+2. This part features a large circular hole positioned centrally.
+3. There is a rectangular slot near the edge of the plate.
+4. The part has raised edges along the sides of the L-shaped bracket configuration.
+5. Several smaller circular holes are symmetrically placed on either side of the central cylinder.
+6. A rectangular slot is positioned adjacent to the cylindrical protrusion.
+7. The central cylindrical protrusion extends from one end of the flat rectangular metal base.
+8. The L-shaped metal bracket configuration includes smooth and flat edges on the rectangular plate.
+9. The large circular hole is aligned with the left edge of the flat base.
+10. The smaller circular hole is positioned symmetrically on the right side of the flat base."
+M58-調整座牙片,"1. The component features a rectangular metal bar configuration.
+2. This part has a large circular hole near one end.
+3. It contains a central circular hole.
+4. There is a rectangular slot on the longer side.
+5. The part has slightly raised edges along the sides.
+6. Several smaller holes are arranged around the central opening.
+7. The rectangular metal bar has a uniform cross-section.
+8. The L-shaped metal bracket has sharp corners on the bend.
+9. Holes are evenly spaced along the length of the bar.
+10. The rectangular slot is positioned adjacent to the larger hole."
+M58-調整螺絲固定塊,"1. The component has a rectangular base with a protruding triangular section.
+2. This part features a central circular hole in the main body.
+3. There is a rectangular slot on the side.
+4. The part has a raised edge along the sides.
+5. Several smaller holes are arranged around the central opening.
+6. The component has a rectangular profile with rounded edges.
+7. The part has a flat top surface with defined edges.
+8. The component has a smooth transition between the flat base and the arm.
+9. The rectangular base has a slanted top edge.
+10. The part has a rectangular shape with rounded edges."
+M58-走行從動輪固定座,"1. The component features a robust L-shaped metal bracket.
+2. This part includes a large central circular hole.
+3. There is a rectangular slot positioned near the edge.
+4. The part has raised edges along the sides.
+5. Several smaller holes are arranged around the central opening.
+6. A cylindrical protrusion extends from the left side.
+7. The part has a flat top surface with multiple circular holes.
+8. There is a rectangular slot near the bottom edge.
+9. The large circular hole is positioned centrally on the component.
+10. Small circular holes are distributed across the surface."
+M58-走行馬達固定座,"1. The component has an L-shaped metal bracket configuration.
+2. This part features a large central circular hole.
+3. There is a rectangular slot near the top edge.
+4. Small circular holes are positioned near the corners.
+5. The part has raised edges along the sides of the L-shape.
+6. Several smaller holes are arranged symmetrically around the central opening.
+7. A rectangular slot is aligned parallel to the longer side of the L-shape.
+8. A protruding tab is aligned with the bottom edge of the frame.
+9. The central circular hole is centrally aligned with the L-shape.
+10. Rectangular slots are positioned adjacent to the central circular hole."
+M58-走行馬達固定座牙片,"1. The component is a flat rectangular bar with consistent width and thickness.
+2. This part features two small circular holes, one on each end.
+3. There is a small rectangular slot near the opposite end of the holes.
+4. The part has slight protrusions at both ends, angled outward.
+5. Several smaller holes are arranged around the central opening.
+6. The rectangular metal bar structure has a smooth surface.
+7. The part has a slight taper towards one end.
+8. There is a central circular hole with a diameter slightly less than half the width.
+9. The holes are aligned horizontally and parallel to the longer sides.
+10. The rectangular shape maintains a straight profile along its length."
+M58-走行馬達套管,"1. The component features a cylindrical shape with a hollow interior.
+2. This part has a flat top surface.
+3. It contains a large central circular hole.
+4. There are rectangular slots near the top and bottom edges.
+5. The part has raised edges along the sides.
+6. Several smaller holes are arranged around the central opening.
+7. The cylindrical tube has a smooth, continuous outer surface.
+8. There is a rectangular base with rounded edges and a central circular indentation.
+9. The central circular hole is aligned with the main axis of the cylinder.
+10. Rectangular slots are positioned parallel to the base."
+M58-走行驅動軸心,"1. The component has a rectangular base with rounded corners.
+2. This part features a central circular hole.
+3. There is a long horizontal slot positioned in the middle.
+4. The part includes a series of evenly spaced holes along the top edge.
+5. A narrow rectangular slot is present along one side.
+6. Two parallel slots are positioned on the top surface.
+7. The part has raised edges along the sides.
+8. Several smaller holes are arranged around the central opening.
+9. The central circular hole is flanked by two smaller holes on either side.
+10. The rectangular slot is positioned parallel to the longer side of the component."
+M58-車身連接補強鋁擠型,"1. The component has a rectangular frame structure with a central vertical division.
+2. This part features a large rectangular opening in the middle.
+3. There is a small circular hole near the top left corner.
+4. The part has a vertical slot on the right side.
+5. There are raised edges along the top and bottom sides.
+6. A horizontal slot is positioned parallel to the bottom edge.
+7. The central divider extends from the top to the bottom edge.
+8. Several smaller holes are arranged symmetrically around the central opening.
+9. The central rectangular opening aligns with the dividing line.
+10. A horizontal support beam intersects the central opening."
+M58-選擇開關固定板,"1. The component has an L-shaped metal bracket configuration.
+2. This part features a large central circular hole.
+3. There is a rectangular slot near the bottom edge.
+4. The part includes small circular holes near the corners.
+5. It has a smooth, continuous curve along the top edge.
+6. The L-shape corner has a sharp angle.
+7. Raised edges are present along the longer sides.
+8. A flat protruding edge runs along the top.
+9. The central circular hole is surrounded by smaller holes arranged symmetrically.
+10. The rectangular slot is positioned parallel to the longer side."
+M58-集電臂固定座,"1. The component has a rigid L-shaped structure.
+2. This part features a large circular hole located centrally.
+3. There is a rectangular slot positioned near the bottom edge.
+4. The part has raised edges along the longer side.
+5. Four circular holes are arranged in a square pattern around the central hole.
+6. There is a rectangular slot aligned parallel to the longer side of the L-shape.
+7. The part has flat protruding edges on the left and right sides.
+8. Several smaller holes are arranged symmetrically around the central opening.
+9. The rectangular slot is positioned adjacent to the right edge.
+10. Holes are symmetrically distributed along the L-shaped structure."
+M58-集電軌側走行機身,"1. The component has a rigid L-shaped structure with a flat base and vertical extension.
+2. This part features a large central circular hole aligned with the L-shape bend.
+3. There is a small rectangular slot near the top edge.
+4. The part contains multiple small circular holes distributed around the central area.
+5. There is a rectangular slot near the left edge.
+6. A small rectangular slot is positioned near the bottom edge.
+7. The part has raised edges along the longer sides for structural support.
+8. Several smaller holes are arranged symmetrically around the central opening.
+9. The large central circular hole is surrounded by a cluster of smaller holes.
+10. Rectangular slots are positioned parallel to the longer side of the L-shape."
+M58-電池固定架1,"1. The component has an L-shaped metal bracket configuration.
+2. This part features a large rectangular cutout in the center.
+3. It contains one large circular hole near the bottom.
+4. There is a rectangular slot near the bottom edge.
+5. The part has raised edges along the vertical sides.
+6. Several smaller holes are arranged around the central opening.
+7. The large circular hole is aligned with the central axis of the L-shape.
+8. Small circular holes are symmetrically placed on opposite corners.
+9. The rectangular slot is positioned parallel to the longer side of the L-shape.
+10. The large circular hole is positioned above the rectangular slot."
+M58-電池固定架2,"1. The component has an L-shaped metal bracket configuration.
+2. This part features a central rectangular slot.
+3. There is a rectangular slot positioned parallel to the longer side.
+4. The part includes a small circular hole near the top corner.
+5. It contains a small rectangular slot near the bottom edge.
+6. There is a large circular hole positioned centrally.
+7. The part has raised edges along the vertical side.
+8. A protruding tab is aligned with the top edge of the bracket.
+9. Several smaller holes are arranged symmetrically around the central opening.
+10. The rectangular slot is aligned parallel to the longer side of the L-shape."
+M58-驅動側FORK機身,"1. The component is an elongated rectangular metal plate.
+2. This part features a central rectangular cutout.
+3. There are multiple elongated slots along the length.
+4. The part has raised edges along the longer sides.
+5. Several smaller holes are arranged symmetrically around the central opening.
+6. There is a large rectangular slot near the top edge.
+7. The part has protruding tabs on the left and right sides.
+8. Series of evenly spaced holes are along the top edge.
+9. The central rectangular cutout is aligned with the main rectangular shape.
+10. Rectangular slots are positioned parallel to the longer sides."
+M58-驅動側外殼,"1. The component is an L-shaped metal bracket with a rectangular profile.
+2. This part features a central rectangular cutout.
+3. There is a small circular hole near the top right corner.
+4. A rectangular slot is positioned towards the upper right corner.
+5. The part has raised edges along the top and bottom sides.
+6. Several smaller holes are arranged around the central opening.
+7. There is a rectangular cutout on the left side.
+8. A small rectangular slot is near the top edge.
+9. The rectangular cutout is positioned centrally.
+10. A small circular hole is near the bottom left corner."

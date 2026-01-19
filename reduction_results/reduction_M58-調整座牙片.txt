@@ -1,0 +1,3392 @@
+Reduction Phase Results for Class: M58-調整座牙片
+Total Images: 256
+Batch Size: 15
+======================================================================
+
+
+======================================================================
+BATCH 1/18 (Images 1-15)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a rectangular metal bar.
+This part features a large circular hole near one end.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is a straight rectangular bar.
+This part features two circular holes.
+The component is a flat rectangular bar.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is a rectangular metal plate.
+This part features two circular holes on opposite ends.
+The component is a flat rectangular bar.
+This part features a single circular hole near one end.
+The component is a flat rectangular bar.
+This part features a single circular hole near one end.
+The component is a flat rectangular bar.
+This part features two circular holes.
+The component is a vertically oriented rectangular bar.
+This part features a central circular hole.
+The component is a rectangular metal plate.
+This part features two circular holes on opposite ends.
+The component is a rectangular metal bar.
+This part features a single circular hole near one end.
+The component is a rectangular metal bar.
+This part features a single circular hole near one end.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+
+**Holes & Slots:**
+There is a smaller circular hole positioned closer to the opposite end.
+The bar has a flat, elongated profile.
+The part includes two circular holes of different sizes.
+One circular hole is situated towards the left side.
+There is a small circular hole near the bottom edge.
+The object has a flat rectangular profile.
+It contains one large circular hole positioned centrally.
+There is a small circular hole located near the bottom.
+One circular hole is located near the top end.
+The other circular hole is positioned near the bottom end.
+The bar has a uniform rectangular cross-section.
+The edges of the bar are straight and parallel.
+One circular hole is located on the left side.
+The other circular hole is positioned on the right side.
+The rectangular bar has a uniform width throughout.
+The holes are evenly spaced along the length.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The bar has a flat, elongated shape.
+The edges of the bar are straight and parallel.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The bar has a flat, elongated shape.
+The edges of the bar are straight and parallel.
+The left circular hole is positioned near the left edge.
+The right circular hole is located close to the right edge.
+The component has a flat surface with no protrusions.
+The holes are evenly spaced along the length of the plate.
+There is a small circular hole close to the other end.
+The bar has a uniform rectangular cross-section.
+This part includes a central circular hole.
+The rectangular bar has a smooth surface without additional features.
+There is a small circular hole close to the other end.
+The bar has a uniform rectangular cross-section.
+This part includes a central circular hole.
+The rectangular bar has a consistent width throughout.
+One circular hole is located on the left side.
+The other circular hole is positioned on the right side.
+The holes are evenly spaced along the length.
+The rectangular bar has a uniform width throughout.
+There is a circular hole near the top end.
+The object has a circular hole at the bottom.
+The part includes a single circular hole in the middle.
+This component has a circular hole positioned centrally.
+The left circular hole is positioned near the left edge.
+The right circular hole is located close to the right edge.
+The component has a flat surface with no protrusions.
+The holes are evenly spaced along the length of the plate.
+There is a small circular hole positioned at the opposite end.
+The bar has a flat surface with no additional indentations.
+The part has a uniform width along its length.
+This component includes two circular holes, one at each end.
+There is a small circular hole positioned at the opposite end.
+The bar has a flat surface with no additional indentations.
+The part has a uniform width along its length.
+The edges of the bar are straight and parallel.
+There is a smaller circular hole near the bottom edge.
+The part includes a rectangular slot on the longer side.
+The bracket has a flat, elongated body.
+The component has a single circular hole on the shorter side.
+
+**Protrusions:**
+The edges of the bar are slightly raised.
+The bar has a consistent width throughout its length.
+The part has a smooth edge along the sides.
+The component has a raised edge along the top side.
+The bar has a flat surface along its length.
+The holes are evenly spaced along the bar.
+The edges of the bar are straight and parallel.
+The bar has a consistent thickness from top to bottom.
+The bar has a uniform width throughout its length.
+The holes are evenly spaced along the bar.
+The bar has a uniform width throughout its length.
+The holes are evenly spaced along the bar.
+The edges of the component are straight and parallel.
+The component has a uniform width throughout its length.
+The edges of the bar are slightly raised.
+The bar has a consistent width along its length.
+The edges of the bar are slightly raised.
+The bar has a smooth, flat surface.
+The edges of the bar are straight and parallel.
+There are no protrusions or indentations on the surface.
+The part has smooth edges along its length.
+The edges of the component are slightly raised.
+The edges of the component are straight and parallel.
+The component maintains a consistent width throughout its length.
+The edges of the bar are straight and parallel.
+The bar has a consistent cross-sectional profile.
+The bar has a slight protrusion at both ends.
+The holes are evenly spaced along the length of the bar.
+The part has a raised edge along the top side.
+The bracket includes a protruding tab at the corner.
+
+**Relative Positions:**
+The larger hole is aligned parallel to the shorter side.
+The smaller hole is positioned opposite the larger one.
+The large circular hole is centrally aligned with the L-shape.
+The small circular hole is positioned near the bottom left corner.
+The holes are aligned parallel to the length of the bar.
+The bar has a consistent width throughout its length.
+The left hole is aligned with the left edge.
+The right hole is aligned with the right edge.
+The holes are aligned diagonally across the bar.
+The bar has a consistent cross-sectional profile.
+The holes are aligned diagonally from one end to the other.
+The bar has a consistent cross-sectional profile.
+The two circular holes are aligned horizontally.
+The holes are symmetrically placed on the rectangular plate.
+The circular hole is positioned towards the left side.
+The other circular hole is located towards the right side.
+The circular hole is aligned parallel to the longer side.
+The holes are positioned at opposite ends of the bar.
+The holes are aligned horizontally with the bar.
+The bar maintains a consistent thickness from one end to the other.
+The circular hole at the top is aligned with the bottom hole.
+The two circular holes are vertically aligned on the component.
+The two circular holes are aligned horizontally.
+The holes are symmetrically placed on the rectangular plate.
+The circular holes are aligned along the length of the bar.
+The holes are positioned at opposite ends of the rectangular bar.
+The circular holes are aligned parallel to the length of the bar.
+The bar maintains a consistent cross-sectional profile.
+The circular hole is aligned parallel to the longer side.
+The rectangular slot is positioned adjacent to the larger hole.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular metal bar configuration.
+- L-shaped metal bracket configuration.
+- Flat rectangular bar configuration.
+- Rectangular metal plate configuration.
+
+[HOLES_SLOTS]
+- Two circular holes on opposite ends.
+- One large circular hole near one end.
+- Central circular hole.
+- Small circular hole near the bottom edge.
+- Circular hole near the top end.
+- Rectangular slot on the longer side.
+
+[PROTRUSIONS]
+- Slightly raised edges along the sides.
+- Raised edge along the top side.
+- Protruding tab at the corner.
+
+[RELATIVE_POSITIONS]
+- Holes are evenly spaced along the length.
+- Holes are aligned horizontally.
+- Holes are aligned diagonally across the bar.
+- Holes are positioned at opposite ends of the bar.
+- Rectangular slot is positioned adjacent to the larger hole.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 2/18 (Images 16-30)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a straight rectangular bar.
+This part features a single circular hole near one end.
+The component is a rectangular metal piece.
+This part features two circular holes.
+The component is a rectangular metal piece.
+This part features two circular holes.
+The component is a rectangular metal plate.
+This part features a single circular hole near the top.
+The component is a rectangular metal plate.
+This part features a single circular hole near the top.
+The component is an elongated rectangular bar.
+This part features two circular holes.
+The component is a rectangular metal block.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features a large circular hole near one end.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an elongated rectangular bar.
+This part features a large circular hole near one end.
+The component is a vertically oriented rectangular bar.
+This part features two circular holes aligned along its length.
+The component is a vertically oriented rectangular bar.
+This part features two circular holes aligned along its length.
+The component is a rectangular metal plate.
+This part features two circular holes.
+The component is a rectangular metal plate.
+This part features two circular holes aligned vertically.
+The component is a rectangular metal plate.
+This part features two circular holes on opposite ends.
+
+**Holes & Slots:**
+There is a circular hole positioned close to the opposite end.
+The bar has a uniform rectangular cross-section.
+This part includes a circular hole on the left side.
+The component has a circular hole on the right side.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The edges of the component are slightly rounded.
+The component has a uniform thickness throughout.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The edges of the component are slightly rounded.
+The component has a uniform thickness throughout.
+There is a circular hole positioned at the bottom.
+The object has a flat, elongated rectangular shape.
+This part includes a central circular opening.
+The component has a smooth, straight edge along the sides.
+There is another circular hole positioned at the bottom.
+The object has a flat, elongated shape.
+The part includes two circular holes aligned vertically.
+This component has a smooth, straight edge.
+One circular hole is located near the top end.
+The other circular hole is positioned near the bottom end.
+The bar has a flat surface with no additional protrusions.
+The edges of the bar are straight and parallel.
+One circular hole is located near the top.
+The other circular hole is positioned near the bottom.
+The edges of the component are straight and parallel.
+The component has a uniform width throughout its length.
+There is a smaller circular hole positioned closer to the other end.
+The bar has a flat, elongated profile.
+The part includes a central circular opening.
+There is a small circular hole near the bottom edge.
+There is a smaller circular hole near the bottom edge.
+The object has a flat rectangular profile.
+The part includes a rectangular slot on the longer side.
+There is a small circular hole positioned near the top edge.
+There is a smaller circular hole positioned closer to the opposite end.
+The bar has a flat surface with no additional indentations.
+The part has a uniform width along its length.
+The edges of the bar are straight and parallel.
+The upper circular hole is positioned near the top edge.
+The lower circular hole is situated close to the bottom edge.
+The bar has a uniform rectangular profile throughout its length.
+The component lacks any protrusions or additional features.
+The upper circular hole is positioned near the top edge.
+The lower circular hole is situated close to the bottom edge.
+The bar has a uniform rectangular profile throughout its length.
+The edges of the bar are straight and parallel.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The edges of the component are straight and parallel.
+The component has a uniform thickness throughout.
+One circular hole is positioned near the top edge.
+The other circular hole is located near the bottom edge.
+The edges of the component are straight and parallel.
+The component has a uniform thickness throughout.
+The left circular hole is positioned near the left edge.
+The right circular hole is located close to the right edge.
+The component has a flat surface with no protrusions.
+The holes are evenly spaced along the length of the plate.
+
+**Protrusions:**
+The edges of the bar are flat and parallel.
+The bar has a consistent width along its length.
+The holes are evenly spaced along the vertical axis.
+The component has a flat surface on the front side.
+The holes are evenly spaced along the vertical axis.
+The component has a flat surface on the front side.
+The part has a raised edge along the top side.
+There is a small circular indentation near the bottom.
+The part has a slight protrusion along the top edge.
+There is a small raised section on the bottom edge.
+The holes are evenly spaced along the length of the bar.
+The bar maintains a consistent width throughout its length.
+There are no protrusions on the surface of the part.
+The holes are evenly spaced along the vertical axis.
+The edges of the bar are slightly raised.
+The bar has a consistent width along its length.
+The part has a raised edge along the longer side.
+The component has a flat top surface.
+The bar has a slight notch at one corner.
+The holes are evenly spaced along the length of the bar.
+The two circular holes are evenly spaced along the bar.
+The bar maintains a consistent width from top to bottom.
+The bar has a flat surface with no protrusions.
+The two circular holes are evenly spaced along the bar.
+There are no protrusions on the surface.
+The holes are evenly spaced along the vertical axis.
+There are no protrusions on the surface of the part.
+The holes are evenly spaced along the length of the component.
+The edges of the component are straight and parallel.
+The component maintains a consistent width throughout its length.
+
+**Relative Positions:**
+The circular hole on the left is aligned with the shorter side.
+The circular hole on the right is aligned with the shorter side.
+The holes are aligned parallel to the length of the component.
+The component has a consistent width from top to bottom.
+The holes are aligned parallel to the length of the component.
+The component has a consistent width from top to bottom.
+The circular hole at the top is aligned vertically with the hole at the bottom.
+The rectangular shape is uniform in width along its length.
+The two circular holes are evenly spaced along the length.
+The holes are positioned symmetrically on the component.
+The holes are aligned parallel to the length of the bar.
+The bar has a uniform cross-sectional shape.
+The top and bottom edges are aligned with the holes.
+The component maintains a consistent cross-sectional profile.
+The larger hole is positioned towards the left side.
+The smaller hole is aligned parallel to the larger hole.
+The larger circular hole is centrally located.
+The smaller hole is positioned near the bottom edge.
+The larger hole is aligned parallel to the shorter side.
+The smaller hole is positioned at a right angle to the larger hole.
+The holes are centrally located within the bar's width.
+The component's design is simple, with no additional geometric details.
+The holes are aligned centrally with respect to the bar's width.
+The bar maintains a consistent cross-sectional shape from top to bottom.
+The top hole is aligned with the center of the component.
+The bottom hole is also centrally aligned with the component.
+The top and bottom edges are flat and smooth.
+The component maintains a consistent width from top to bottom.
+The holes are aligned horizontally with the component's length.
+The distance between the two holes is uniform across the component.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular metal bar with a uniform cross-section.
+- Elongated rectangular shape with a flat surface.
+- L-shaped metal bracket configuration.
+
+[HOLES_SLOTS]
+- Two circular holes aligned vertically.
+- One large circular hole near one end.
+- Central circular opening.
+- Small circular hole near the top edge.
+- Small circular hole near the bottom edge.
+- Holes evenly spaced along the length of the bar.
+
+[PROTRUSIONS]
+- Slight protrusion along the top edge.
+- Small raised section on the bottom edge.
+- Raised edge along the longer side.
+- Flat and parallel edges with no additional protrusions.
+
+[RELATIVE_POSITIONS]
+- Circular holes aligned parallel to the length of the component.
+- Holes positioned symmetrically on the component.
+- Top and bottom edges aligned with the holes.
+- Holes centrally located within the bar's width.
+- Distance between the two holes is uniform across the component.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 3/18 (Images 31-45)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a rectangular metal plate.
+This part features two circular holes on opposite ends.
+The component is an elongated rectangular bar.
+This part features two circular holes.
+The component is a rectangular metal block.
+This part features two circular holes aligned vertically.
+The component is an L-shaped metal bracket.
+This part features two circular holes at opposite ends.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is an elongated rectangular bar.
+This part features a large circular hole near one end.
+The component is a straight rectangular bar.
+This part features two circular holes at each end.
+The component is a rectangular metal piece.
+This part features a large circular hole near one end.
+The component is an L-shaped metal bracket.
+This part features two circular holes at the ends.
+The component is an elongated rectangular bar.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features two circular holes at each end.
+The component is a rectangular metal plate.
+This part features two circular holes.
+The component is a rectangular metal plate.
+This part features two circular holes.
+The component is a rectangular metal piece.
+This part features two circular holes.
+The component is a rectangular metal plate.
+This part features two circular holes aligned vertically.
+
+**Holes & Slots:**
+The left circular hole is positioned near the left edge.
+The right circular hole is located close to the right edge.
+The component has a flat surface with no protrusions.
+The holes are evenly spaced along the length of the plate.
+One circular hole is located near the top right corner.
+The other circular hole is positioned near the bottom left corner.
+The bar has a flat, uniform surface.
+The edges of the bar are straight and parallel.
+There is a circular hole near the top of the component.
+The component has another circular hole near the bottom.
+The edges of the component are slightly rounded.
+The component has a flat surface on all sides.
+It contains one large circular hole in the center.
+There is a rectangular slot near the edge.
+The part has a rectangular slot near the bottom edge.
+The component includes a small circular hole near the top.
+One circular hole is located near the top right corner.
+The other circular hole is positioned near the bottom left corner.
+The bar has a flat, elongated shape.
+The edges of the bar are straight and parallel.
+There is a smaller circular hole positioned closer to the center.
+The bar has a flat surface with no additional indentations.
+The part includes a slight notch at one end.
+There is a rectangular slot located near the bottom edge.
+The bar contains a circular hole on the left side.
+There is a circular hole on the right side of the bar.
+The edges of the bar are slightly raised.
+The bar has a uniform width throughout its length.
+There is a smaller circular hole positioned closer to the opposite end.
+The object has a flat, elongated shape.
+This part includes a rectangular slot on one side.
+The component has a smooth, straight profile.
+It contains one large circular hole in the center.
+There is a rectangular slot near the edge.
+The part has a flat surface with a slight protrusion on one side.
+The component includes a small circular hole near the bottom.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The bar has a flat, uniform profile.
+The edges of the bar are straight and parallel.
+The holes are evenly spaced along the length of the bar.
+The bar has a uniform rectangular cross-section.
+Each circular hole is positioned near the edge of the bar.
+The bar maintains a consistent width throughout its length.
+One circular hole is positioned near the top center.
+The other circular hole is located near the bottom center.
+The edges of the component are straight and parallel.
+The component has a uniform thickness throughout.
+One circular hole is positioned near the top center.
+The other circular hole is located near the bottom center.
+The edges of the component are straight and parallel.
+The component has a uniform thickness throughout.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The edges of the component are straight and parallel.
+The component has a uniform width throughout its length.
+One circular hole is positioned near the top edge.
+The other circular hole is located near the bottom edge.
+The edges of the component are slightly rounded.
+The component has a flat surface with no additional protrusions.
+
+**Protrusions:**
+The edges of the component are straight and parallel.
+The component maintains a consistent width throughout its length.
+The bar has a consistent width along its length.
+The holes are evenly spaced along the bar.
+The two circular holes are evenly spaced along the length.
+The component has a consistent width throughout its height.
+The part has raised edges along the sides.
+The component has a flat protrusion on one side.
+The bar has a uniform width throughout its length.
+The holes are evenly spaced along the bar.
+The edges of the component are straight and uniform.
+The part has a consistent thickness throughout its length.
+The circular holes are aligned parallel to the length of the bar.
+The bar has a consistent cross-sectional shape.
+The part has a slight protrusion along the length.
+There are rounded edges at both ends of the component.
+The part has raised edges along the sides.
+The component has a smooth outer contour with no additional protrusions.
+The component has a consistent width throughout its length.
+The holes are evenly spaced along the bar.
+The edges of the bar are slightly raised.
+The bar has a flat surface with no additional protrusions.
+There are no protrusions on the surface of the part.
+The holes are evenly spaced along the vertical axis.
+There are no protrusions on the surface of the part.
+The two circular holes are aligned vertically.
+There are no protrusions on the surface of the part.
+The holes are evenly spaced along the vertical axis.
+The two circular holes are evenly spaced along the length.
+The component maintains a consistent width throughout its length.
+
+**Relative Positions:**
+The holes are aligned horizontally with the component's length.
+The distance between the two holes is uniform across the component.
+The holes are aligned diagonally across the bar.
+The bar has a symmetrical design with respect to its length.
+The circular holes are positioned symmetrically on the face.
+The component maintains a uniform thickness from top to bottom.
+The circular holes are positioned at the ends of the L-shape.
+The rectangular slot is aligned parallel to the longer side.
+The holes are aligned diagonally on the bar.
+The bar has a consistent cross-sectional profile.
+The larger hole is aligned parallel to the longer side.
+The smaller hole is positioned perpendicular to the longer side.
+The holes are positioned symmetrically on opposite ends.
+The bar maintains a straight profile without any bends.
+The larger hole is aligned parallel to the shorter side.
+The smaller hole is situated opposite the rectangular slot.
+The circular holes are positioned at opposite ends of the bracket.
+The rectangular slot is aligned parallel to the longer side of the bracket.
+The holes are aligned diagonally from one end to the other.
+The bar maintains a straight orientation without any bends.
+The two circular holes are aligned parallel to each other.
+The holes are located at opposite ends of the rectangular bar.
+The top and bottom edges are aligned horizontally.
+The component maintains a consistent width from top to bottom.
+The holes are evenly spaced along the length of the component.
+The component has a flat surface with no additional features.
+The top hole is aligned with the upper edge.
+The bottom hole is aligned with the lower edge.
+The holes are symmetrically placed on the rectangular plate.
+The overall shape is straight with no bends or curves.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular metal plate or bar configuration.
+- L-shaped metal bracket configuration.
+- Elongated rectangular bar with uniform width.
+
+[HOLES_SLOTS]
+- Two circular holes at opposite ends.
+- One large circular hole near one end.
+- Small circular holes near the top and bottom.
+- Rectangular slot near the edge or bottom edge.
+
+[PROTRUSIONS]
+- Flat surface with no additional protrusions.
+- Slight protrusion on one side.
+- Raised edges along the sides.
+- Rounded edges at both ends.
+
+[RELATIVE_POSITIONS]
+- Holes aligned horizontally or vertically.
+- Symmetrical design with respect to the length.
+- Circular holes positioned symmetrically on opposite ends.
+- Rectangular slot aligned parallel to the longer side.
+- Holes evenly spaced along the length or vertical axis.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 4/18 (Images 46-60)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a rectangular metal plate.
+This part features two circular holes aligned vertically.
+The component is a straight rectangular bar.
+This part features two circular holes.
+The component is an elongated rectangular bar.
+This part features two circular holes.
+The component is a rectangular metal plate.
+This part features two circular holes on opposite ends.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is a rectangular metal plate.
+This part features two circular holes on opposite ends.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is a rectangular metal piece.
+This part features two circular holes.
+The component is a vertically oriented rectangular bar.
+This part features a central circular hole.
+The component is a vertically oriented rectangular bar.
+This part features a central circular hole.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features two circular holes.
+The component is an L-shaped metal bracket.
+This part features two circular holes.
+
+**Holes & Slots:**
+One circular hole is positioned near the top edge.
+The other circular hole is located near the bottom edge.
+The edges of the component are slightly rounded.
+The component has a flat surface with no additional protrusions.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The bar has a uniform rectangular cross-section.
+The edges of the bar are straight and parallel.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The bar has a flat, straight profile.
+The edges of the bar are smooth and uniform.
+The left circular hole is positioned near the left edge.
+The right circular hole is located close to the right edge.
+The component has a flat surface with no protrusions.
+The holes are evenly spaced along the length of the plate.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The bar has a flat, elongated shape.
+The edges of the bar are straight and parallel.
+The left circular hole is positioned near the left edge.
+The right circular hole is located close to the right edge.
+The component has a flat surface with no protrusions.
+The holes are evenly spaced along the length of the plate.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The bar has a flat, elongated shape.
+The edges of the bar are straight and parallel.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The bar has a flat, elongated shape.
+The edges of the bar are straight and parallel.
+There is a smaller circular hole near the bottom edge.
+The part has a rectangular slot on the longer side.
+The component has a flat, elongated body.
+This part includes a central circular opening.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The edges of the component are straight and parallel.
+The component has a uniform width throughout its length.
+There is a circular hole near the top end.
+The part includes a circular hole near the bottom end.
+The component has a flat, elongated rectangular shape.
+This part has a single circular hole positioned centrally.
+There is a circular hole near the top end.
+The object has a circular hole at the bottom.
+The part includes a single circular hole in the middle.
+This component has a circular hole positioned centrally.
+There is a smaller circular hole near the bottom edge.
+The part has a rectangular slot on the longer side.
+The component has a flat, elongated body.
+This part includes a central circular opening.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The bracket has a flat, elongated body.
+The edges of the bracket are straight and parallel.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The bracket has a flat, elongated body.
+The edges of the bracket are straight and parallel.
+
+**Protrusions:**
+The two circular holes are evenly spaced along the length.
+The component maintains a consistent width throughout its length.
+The bar has flat surfaces on both ends.
+The holes are evenly spaced along the length of the bar.
+The bar has a consistent width throughout its length.
+The holes are evenly spaced along the bar.
+The edges of the component are straight and parallel.
+The component maintains a consistent width throughout its length.
+The bar has a uniform width throughout its length.
+The holes are evenly spaced along the bar.
+The edges of the component are straight and parallel.
+The component maintains a consistent width throughout its length.
+The bar has a uniform width throughout its length.
+The holes are evenly spaced along the bar.
+The bar has a uniform width throughout its length.
+The holes are evenly spaced along the bar.
+The part has raised edges along the length.
+There are two small holes aligned parallel to the edges.
+There are no protrusions on the surface of the part.
+The holes are evenly spaced along the vertical axis.
+The part has smooth edges along its length.
+The component has a uniform rectangular profile.
+The part has a flat surface with no protrusions.
+The component does not have any raised edges or protrusions.
+The part has a raised edge along the top side.
+The component has a protruding corner at the end.
+The part has a uniform thickness throughout.
+The corners of the L-shape are sharply defined.
+The part has a uniform thickness throughout.
+The corners of the L-shape are sharply defined.
+
+**Relative Positions:**
+The holes are symmetrically placed on the rectangular plate.
+The overall shape is straight with no bends or curves.
+The holes are aligned parallel to the length of the bar.
+The bar has a consistent width throughout its length.
+The holes are aligned parallel to the length of the bar.
+The bar has a symmetrical design with respect to its length.
+The two circular holes are aligned horizontally.
+The holes are symmetrically placed on the rectangular plate.
+The holes are aligned diagonally across the bar.
+The bar has a consistent cross-sectional profile.
+The two circular holes are aligned horizontally.
+The holes are symmetrically placed on the rectangular plate.
+The holes are aligned diagonally across the bar.
+The bar has a consistent cross-sectional profile.
+The holes are aligned diagonally across the bar.
+The bar has a consistent cross-sectional profile.
+The circular hole is positioned towards the top right corner.
+The rectangular slot is located near the bottom left end.
+The top hole is aligned with the upper edge.
+The bottom hole is aligned with the lower edge.
+The circular hole at the top is aligned with the hole at the bottom.
+The rectangular bar has consistent dimensions along its length.
+The circular hole at the top is aligned with the hole at the bottom.
+The two circular holes are positioned at opposite ends of the bar.
+The smaller hole is aligned parallel to the rectangular slot.
+The circular holes are positioned at opposite ends of the elongated body.
+The holes are evenly spaced along the length of the bracket.
+The bracket's design includes a right-angled bend.
+The holes are evenly spaced along the length of the bracket.
+The bracket's design includes a right-angled bend.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular metal plate or bar configuration.
+- L-shaped metal bracket configuration.
+- Elongated rectangular bar with consistent width.
+
+[HOLES_SLOTS]
+- Two circular holes aligned vertically.
+- Two circular holes on opposite ends.
+- Central circular hole.
+- Circular holes near top and bottom edges.
+- Circular holes near top left and bottom right corners.
+- Rectangular slot on the longer side.
+
+[PROTRUSIONS]
+- No protrusions on the surface.
+- Sharp corners on the L-shape.
+- Raised edges along the length.
+- Uniform thickness throughout.
+
+[RELATIVE_POSITIONS]
+- Holes symmetrically placed on the rectangular plate.
+- Holes aligned parallel to the length of the bar.
+- Holes aligned diagonally across the bar.
+- Holes aligned horizontally.
+- Holes positioned at opposite ends of the bar.
+- Holes evenly spaced along the length of the bracket.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 5/18 (Images 61-75)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is a straight rectangular bar.
+This part features two circular holes.
+The component is an elongated rectangular bar.
+This part features a large circular hole near one end.
+The component is an elongated rectangular bar.
+This part features a large circular hole near one end.
+The component is a straight rectangular bar.
+This part features two circular holes.
+The component is a straight rectangular bar.
+This part features two circular holes.
+The component is an L-shaped metal bracket.
+This part features two circular holes on opposite ends.
+The component is an elongated rectangular bar.
+This part features a single circular hole near one end.
+The component is an elongated rectangular bar.
+This part features a single circular hole near one end.
+The component is a straight rectangular bar.
+This part features two circular holes.
+The component is an L-shaped metal bracket.
+This part features two circular holes on opposite ends.
+The component is a flat rectangular metal piece.
+This part features two circular holes on opposite ends.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is an L-shaped metal bracket.
+This part features two circular holes.
+
+**Holes & Slots:**
+There is a small circular hole near the top edge.
+The part includes a rectangular slot at the bottom end.
+The component has a flat, elongated body.
+This part has a single circular hole on the side.
+There is a small circular hole near the bottom edge.
+The object has a flat rectangular profile.
+It contains a single circular hole positioned centrally.
+There is a small circular hole located near the top edge.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The bar has a uniform rectangular cross-section.
+The edges of the bar are straight and parallel.
+There is a smaller circular hole positioned closer to the opposite end.
+The bar has a flat surface with no additional indentations.
+The part has a uniform width along its length.
+The edges of the bar are straight and parallel.
+There is a smaller circular hole positioned closer to the opposite end.
+The bar has a flat surface with no additional indentations.
+The part has a uniform width along its length.
+The edges of the bar are straight and parallel.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The bar has a uniform rectangular cross-section.
+The edges of the bar are straight and parallel.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The bar has a uniform rectangular cross-section.
+The edges of the bar are straight and parallel.
+It contains one large circular hole in the center.
+There is a rectangular slot near the edge.
+The part has a flat surface with a slight protrusion on one side.
+The component includes a small circular hole near the bottom.
+There is a circular hole positioned at the opposite end of the bar.
+The bar has a flat surface with no additional indentations.
+The part has a uniform width along its length.
+This component includes two circular holes, one at each end.
+There is a circular hole positioned at the opposite end of the bar.
+The bar has a flat surface with no additional indentations.
+The part has a uniform width along its length.
+This component includes two circular holes, one at each end.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The bar has a uniform rectangular cross-section.
+The edges of the bar are straight and parallel.
+It contains one large circular hole in the center.
+There is a rectangular slot near the edge.
+The part has a flat surface with a slight protrusion on one side.
+The component includes a small circular hole near the bottom.
+One circular hole is positioned near the left edge.
+The other circular hole is located near the right edge.
+The rectangular shape has a uniform width throughout.
+The edges of the rectangle are straight and parallel.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The edges of the bar are straight and parallel.
+The bar has a uniform width throughout its length.
+One circular hole is located near the top right corner.
+The other circular hole is positioned near the bottom left corner.
+The part has a flat rectangular body.
+The edges of the component are slightly rounded.
+
+**Protrusions:**
+The part has raised edges along the length.
+The component has a smooth, straight profile.
+The part has a smooth, flat surface along the sides.
+The edges of the component are slightly raised.
+The bar has a flat surface without any raised edges.
+The holes are evenly spaced along the length of the bar.
+The component lacks any raised or protruding features.
+The holes are aligned along the length of the bar.
+The component lacks any raised or protruding features.
+The holes are aligned along the length of the bar.
+The bar has a flat surface without any protrusions.
+The holes are evenly spaced along the length of the bar.
+The bar has a flat surface without any raised edges.
+The holes are evenly spaced along the length of the bar.
+The part has raised edges along the sides.
+There is a slight indentation on the longer side.
+The edges of the bar are straight and parallel.
+The bar has a consistent cross-sectional profile.
+The edges of the bar are straight and parallel.
+The bar has a consistent cross-sectional profile.
+The bar has a flat surface without any raised edges.
+The holes are evenly spaced along the length of the bar.
+The part has raised edges along the sides.
+The component has a smooth edge with a slight bevel.
+There are no raised edges or protrusions on the surface.
+The holes are evenly spaced along the length of the rectangle.
+The corners of the bar are slightly rounded.
+The holes are evenly spaced along the length of the bar.
+The component has a central rectangular slot.
+The slot runs parallel to the longer side of the L-shape.
+
+**Relative Positions:**
+The circular hole is positioned centrally on the flat side.
+The rectangular slot is located at the bottom end of the component.
+The central hole is aligned with the longer side of the L-shape.
+The smaller hole is positioned parallel to the shorter side of the L-shape.
+The holes are aligned parallel to the length of the bar.
+The bar maintains a consistent width throughout its length.
+The larger hole is situated towards the top side.
+The smaller hole is positioned towards the bottom side.
+The larger hole is situated towards the top side.
+The smaller hole is positioned towards the bottom side.
+The top hole is aligned vertically with the bottom hole.
+The bar maintains a consistent width throughout its length.
+The holes are aligned parallel to the length of the bar.
+The bar maintains a consistent width throughout its length.
+The circular holes are positioned at the ends of the L-shape.
+The rectangular slot is aligned parallel to the longer side.
+The circular holes are aligned along the length of the bar.
+The holes are positioned at opposite ends of the rectangular bar.
+The circular holes are aligned along the length of the bar.
+The holes are positioned at opposite ends of the rectangular bar.
+The holes are aligned parallel to the length of the bar.
+The bar maintains a consistent width throughout its length.
+The circular holes are positioned at the ends of the L-shape.
+The rectangular slot is aligned parallel to the longer side.
+The left hole is aligned with the left side of the rectangle.
+The right hole is aligned with the right side of the rectangle.
+The holes are aligned parallel to the longer sides of the bar.
+The bar has a consistent cross-sectional profile.
+The holes are symmetrically aligned along the diagonal axis.
+The component's corners are cut at a 90-degree angle.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- L-shaped metal bracket.
+- Elongated rectangular bar.
+- Flat rectangular metal piece.
+- Rectangular metal bar.
+
+[HOLES_SLOTS]
+- One large circular hole in the center.
+- Two circular holes on opposite ends.
+- Single circular hole near one end.
+- Small circular hole near the top edge.
+- Rectangular slot at the bottom end.
+- Circular holes positioned at the ends of the L-shape.
+- Central rectangular slot aligned with the longer side.
+
+[PROTRUSIONS]
+- Raised edges along the length.
+- Slight indentation on the longer side.
+- Slightly rounded corners.
+- Smooth, flat surface along the sides.
+- No raised edges or protrusions on the surface.
+
+[RELATIVE_POSITIONS]
+- Circular hole centrally positioned on the flat side.
+- Rectangular slot located at the bottom end.
+- Holes aligned parallel to the length of the bar.
+- Holes positioned at opposite ends of the rectangular bar.
+- Top hole aligned vertically with the bottom hole.
+- Holes symmetrically aligned along the diagonal axis.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 6/18 (Images 76-90)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is an L-shaped metal piece.
+This part features a large circular hole near one end.
+The component is a straight rectangular bar.
+This part features two circular holes.
+The component is a flat rectangular metal piece.
+This part features two circular holes on opposite ends.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is a rectangular metal plate.
+This part features two circular holes on opposite ends.
+The component is a rectangular metal plate.
+This part features two circular holes on opposite ends.
+The component is a straight rectangular bar.
+This part features a single circular hole near one end.
+The component is a straight rectangular bar.
+This part features a single circular hole near one end.
+The component is a flat rectangular metal plate.
+This part features two circular holes on opposite ends.
+The component is a flat rectangular metal plate.
+This part features two circular holes on opposite ends.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is a rectangular metal piece.
+This part features two circular holes.
+The component is a flat rectangular bar.
+This part features two circular holes.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+
+**Holes & Slots:**
+There is a smaller circular hole positioned closer to the bend.
+The object has a flat rectangular body.
+It contains one large circular hole in the upper section.
+There is a small circular hole near the lower section.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The bar has a uniform rectangular cross-section.
+The edges of the bar are straight and parallel.
+One circular hole is positioned on the left side.
+The other circular hole is located on the right side.
+The rectangular shape has a uniform width throughout.
+The edges of the rectangle are straight and parallel.
+One circular hole is located near the top end.
+The other circular hole is positioned near the bottom end.
+The bar has a flat, elongated shape.
+The edges of the bar are straight and parallel.
+One circular hole is located near the top end.
+The other circular hole is positioned near the bottom end.
+The bar has a flat, elongated shape.
+The edges of the bar are straight and parallel.
+One circular hole is positioned near the left edge.
+The other circular hole is located near the right edge.
+The component has a flat surface with no protrusions.
+The holes are evenly spaced along the length of the plate.
+One circular hole is positioned on the left side.
+The other circular hole is located on the right side.
+The edges of the component are straight and parallel.
+The component has a uniform width throughout its length.
+There is a small circular hole positioned at the opposite end.
+The bar has a flat surface along its length.
+The part includes a slight notch at one corner.
+This component has a uniform cross-section throughout.
+There is a circular hole positioned close to the opposite end.
+The bar has a flat surface along its length.
+The part includes a small circular hole near the bottom edge.
+This component has a uniform rectangular cross-section.
+One circular hole is positioned near the left edge.
+The other circular hole is located near the right edge.
+The rectangular shape has a uniform width throughout.
+The edges of the component are straight and parallel.
+One circular hole is positioned near the left edge.
+The other circular hole is located near the right edge.
+The rectangular plate has a uniform thickness throughout.
+The edges of the plate are straight and parallel.
+There is a smaller circular hole near the top edge.
+The part includes a rectangular slot on the side.
+The bracket has a flat, elongated body.
+This component has a central circular opening.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The edges of the component are straight and parallel.
+The component has a uniform width throughout its length.
+One circular hole is located on the left side.
+The other circular hole is positioned on the right side.
+The rectangular bar has a uniform width throughout its length.
+The edges of the bar are straight and parallel.
+There is a smaller circular hole near the top edge.
+The part includes a rectangular slot on the side.
+The bracket has a flat, elongated body.
+This component has a central circular opening.
+
+**Protrusions:**
+The part has a smooth, flat surface along the length.
+The edges of the component are slightly raised.
+The bar has a flat surface along its length.
+The holes are evenly spaced along the bar.
+There are no raised edges or protrusions on the surface.
+The holes are evenly spaced along the length of the rectangle.
+The bar has a uniform width throughout its length.
+The holes are evenly spaced along the bar.
+The bar has a uniform width throughout its length.
+The holes are evenly spaced along the bar.
+The edges of the component are straight and parallel.
+The component has a uniform width throughout its length.
+There are no raised edges or protrusions on the surface.
+The holes are evenly spaced along the length of the component.
+The edges of the bar are slightly raised.
+The bar has a consistent width from top to bottom.
+The bar has a slight protrusion at the top corner.
+The part has a raised edge along the bottom side.
+There are no raised edges or protrusions on the surface.
+The holes are evenly spaced along the length of the plate.
+There are no raised edges or protrusions on the surface.
+The holes are evenly spaced along the length of the plate.
+The part has raised edges along the length.
+There are two small holes on the flat surface.
+There are no protrusions on the surface of the part.
+The holes are evenly spaced along the vertical axis.
+There are no raised edges or protrusions on the bar.
+The holes are evenly spaced along the length of the bar.
+The part has raised edges along the length.
+There are two small holes on the flat surface.
+
+**Relative Positions:**
+The large circular hole is aligned parallel to the longer side.
+The smaller hole is positioned perpendicular to the longer side.
+The holes are aligned vertically on the bar.
+The bar maintains a consistent width throughout its length.
+The left hole is aligned with the left edge of the rectangle.
+The right hole is aligned with the right edge of the rectangle.
+The holes are aligned parallel to the length of the bar.
+The bar has a consistent cross-sectional profile.
+The holes are aligned parallel to the length of the bar.
+The bar has a consistent cross-sectional profile.
+The holes are aligned with the central axis of the plate.
+The rectangular shape provides a stable base for mounting.
+The left hole is aligned with the left edge of the component.
+The right hole is aligned with the right edge of the component.
+The circular hole is aligned parallel to the length of the bar.
+The smaller hole is positioned directly opposite the larger hole.
+The circular hole near the top end is aligned parallel to the bar's length.
+The circular hole near the bottom end is aligned parallel to the bar's length.
+The left hole is aligned with the left side of the rectangle.
+The right hole is aligned with the right side of the rectangle.
+The left hole is aligned with the left side of the plate.
+The right hole is aligned with the right side of the plate.
+The rectangular slot is positioned near the bottom edge.
+The holes are aligned parallel to the elongated side.
+The top hole is aligned with the upper edge.
+The bottom hole is aligned with the lower edge.
+The left hole is aligned with the left edge of the bar.
+The right hole is aligned with the right edge of the bar.
+The rectangular slot is positioned near the bottom edge.
+The holes are aligned parallel to the elongated side.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- L-shaped metal bracket.
+- Rectangular metal bar or plate.
+- Flat rectangular metal piece.
+
+[HOLES_SLOTS]
+- Two circular holes on opposite ends.
+- One large circular hole near one end.
+- One small circular hole near the bend.
+- Central circular opening.
+- Rectangular slot on the side.
+
+[PROTRUSIONS]
+- Slight protrusion at the top corner.
+- Raised edge along the bottom side.
+- Smooth, flat surface along the length.
+
+[RELATIVE_POSITIONS]
+- Holes aligned parallel to the length of the bar.
+- Left hole aligned with the left edge.
+- Right hole aligned with the right edge.
+- Top hole aligned with the upper edge.
+- Bottom hole aligned with the lower edge.
+- Rectangular slot positioned near the bottom edge.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 7/18 (Images 91-105)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is an elongated rectangular bar.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is a flat rectangular bar.
+This part features two circular holes.
+The component is a flat rectangular bar.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is a flat rectangular bar.
+This part features two circular holes.
+The component is a flat rectangular bar.
+This part features a large circular hole on the left side.
+The component is a rectangular metal piece.
+This part features two circular holes.
+The component is a flat rectangular bar.
+This part features a large circular hole on the left side.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is a rectangular metal plate.
+This part features two circular holes on opposite ends.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is a rectangular metal plate.
+This part features two circular holes on opposite ends.
+The component is a flat rectangular metal piece.
+This part features a large circular hole on the left side.
+
+**Holes & Slots:**
+One circular hole is located near the top end.
+The other circular hole is positioned near the bottom end.
+The bar has a flat surface along its length.
+The edges of the bar are straight and parallel.
+One circular hole is located near the top end.
+The other circular hole is positioned near the bottom end.
+The bar has a flat surface on both sides.
+The edges of the bar are straight and parallel.
+One circular hole is located on the left side.
+The other circular hole is positioned on the right side.
+The rectangular bar has a uniform width throughout its length.
+The edges of the bar are straight and parallel.
+One circular hole is located on the left side.
+The other circular hole is positioned on the right side.
+The rectangular bar has a uniform width throughout its length.
+The edges of the bar are straight and parallel.
+One circular hole is located near the top edge.
+The other circular hole is positioned near the bottom edge.
+The bar has a flat surface on both sides.
+The edges of the bar are slightly rounded.
+One circular hole is located near the top edge.
+The other circular hole is positioned near the bottom edge.
+The bar has a flat surface on both sides.
+There are no slots or additional cutouts.
+One circular hole is located near the left end.
+The other circular hole is positioned near the right end.
+The rectangular bar has a uniform width throughout its length.
+The edges of the bar are straight and parallel.
+There is a small circular hole near the right edge.
+The object has a uniform rectangular profile.
+The rectangular bar includes a central circular opening.
+This part has a single circular hole on the left end.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The edges of the component are straight and parallel.
+The component has a uniform width throughout its length.
+There is a small circular hole near the right side.
+The object has a uniform rectangular shape.
+The rectangular bar includes a central circular hole.
+This part has a small circular feature on the right end.
+There is a smaller circular hole near the bottom end.
+The object has a flat rectangular profile.
+It contains a single large circular hole towards the top.
+There is a small circular hole positioned near the bottom.
+One circular hole is positioned near the left edge.
+The other circular hole is located near the right edge.
+The component has a flat surface with no protrusions.
+The edges of the component are straight and parallel.
+There is a smaller circular hole near the bottom end.
+The part has a flat rectangular body.
+The component includes a rectangular slot on the longer side.
+This part has a single circular hole on the shorter side.
+One circular hole is positioned near the left edge.
+The other circular hole is located near the right edge.
+The component has a flat surface with no protrusions.
+The holes are evenly spaced along the length of the plate.
+There is a smaller circular hole on the right side.
+The object has a uniform rectangular shape.
+The part includes a central circular hole.
+There is a small circular slot near the right edge.
+
+**Protrusions:**
+The bar has a consistent width throughout its length.
+The holes are evenly spaced along the bar.
+The bar has a consistent width throughout its length.
+The holes are evenly spaced along the bar.
+There are no raised edges or protrusions on the bar.
+The holes are evenly spaced along the length of the bar.
+The bar has a slight indentation near the left hole.
+The right hole is slightly larger than the left hole.
+The holes are evenly spaced along the length of the bar.
+The bar has a consistent width throughout its length.
+The edges of the bar are slightly raised.
+The holes are evenly spaced along the length.
+The bar has a slight protrusion at the top right corner.
+The holes are evenly spaced along the length of the bar.
+The bar has a smooth, flat surface without any raised edges.
+The rectangular shape is consistent throughout the component.
+There are no protrusions on the surface of the part.
+The holes are evenly spaced along the vertical axis.
+The edges of the component are straight and parallel.
+The component has a consistent rectangular profile.
+The part has a flat top surface.
+The edges of the component are straight and parallel.
+The holes are evenly spaced along the length of the component.
+The component lacks any additional geometric features.
+The part has a raised edge along the longer side.
+The component has a flat top surface.
+The edges of the component are straight and parallel.
+The component has a uniform width throughout its length.
+The edges of the part are straight and parallel.
+The component has a consistent rectangular profile.
+
+**Relative Positions:**
+The holes are aligned parallel to the length of the bar.
+The bar has a uniform cross-sectional shape.
+The holes are aligned parallel to the length of the bar.
+The bar has a uniform cross-sectional shape.
+The left hole is aligned with the left edge of the bar.
+The right hole is aligned with the right edge of the bar.
+The holes are aligned along the central axis of the bar.
+The distance between the two holes is consistent with the bar's width.
+The holes are aligned parallel to the length of the bar.
+The bar has a uniform cross-sectional shape.
+The holes are aligned parallel to the length of the bar.
+The bar maintains a consistent width throughout its length.
+The left hole is aligned with the left edge of the bar.
+The right hole is aligned with the right edge of the bar.
+The large circular hole is positioned on the left side of the bar.
+The small circular hole is located near the right side of the bar.
+The top hole is aligned with the center of the component.
+The bottom hole is also centrally aligned with the component.
+The large circular hole is positioned on the left side.
+The small circular hole is located near the right edge.
+The large circular hole is aligned with the longer side.
+The smaller hole is located at the bottom corner.
+The holes are aligned with the component's central axis.
+The rectangular shape is consistent throughout the component.
+The circular hole is positioned near the top corner.
+The rectangular slot is aligned parallel to the longer edge.
+The holes are aligned with the central axis of the plate.
+The component lacks any additional geometric features or indentations.
+The large circular hole is positioned on the left end.
+The smaller circular hole is aligned with the right edge.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular metal bar with a flat surface.
+- L-shaped metal bracket configuration.
+- Rectangular metal plate with a uniform width.
+
+[HOLES_SLOTS]
+- Two circular holes on opposite ends.
+- One large circular hole on the left side.
+- Central circular opening.
+- Small circular hole near the right edge.
+- Rectangular slot on the longer side.
+
+[PROTRUSIONS]
+- No raised edges or protrusions on the bar.
+- Slight protrusion at the top right corner.
+- Smooth, flat surface without any raised edges.
+
+[RELATIVE_POSITIONS]
+- Holes are aligned parallel to the length of the bar.
+- Left hole aligned with the left edge of the bar.
+- Right hole aligned with the right edge of the bar.
+- Large circular hole positioned on the left side.
+- Small circular hole located near the right edge.
+- Holes are evenly spaced along the length of the bar.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 8/18 (Images 106-120)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a flat rectangular metal piece.
+This part features a large circular hole on the left side.
+The component is a rectangular metal piece.
+This part features two circular holes.
+The component is a rectangular metal piece.
+This part features two circular holes.
+The component is a rectangular metal plate.
+This part features two circular holes on opposite ends.
+The component is an elongated rectangular bar.
+This part features two circular holes.
+The component stands vertically with a rectangular profile.
+This part features two circular holes aligned vertically.
+The component is a rectangular metal plate.
+This part features two circular holes on opposite ends.
+The component is a rectangular metal plate.
+This part features two small circular holes.
+The component is a rectangular metal plate.
+This part features two small circular holes.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is a rectangular metal plate.
+This part features a single circular hole near the top.
+The component is a rectangular metal plate.
+This part features a single circular hole near the top.
+The component is a flat rectangular metal piece.
+This part features two circular holes on opposite ends.
+The component is a flat rectangular metal piece.
+This part features two circular holes.
+
+**Holes & Slots:**
+There is a smaller circular hole on the right side.
+The object has a uniform rectangular shape.
+The rectangular part includes two circular holes.
+One circular hole is larger and positioned on the left.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The edges of the component are straight and parallel.
+The component has a uniform thickness throughout.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The edges of the component are straight and parallel.
+The component has a uniform thickness throughout.
+One circular hole is positioned near the left edge.
+The other circular hole is located near the right edge.
+The component has a flat, elongated shape.
+The edges of the component are straight and parallel.
+One circular hole is located near the top end.
+The other circular hole is positioned near the bottom end.
+The bar has a flat surface with no additional protrusions.
+The edges of the bar are straight and parallel.
+The upper circular hole is positioned near the top edge.
+The lower circular hole is located near the bottom edge.
+The edges of the component are straight and parallel.
+The component has a uniform width throughout its length.
+One circular hole is positioned near the left edge.
+The other circular hole is located near the right edge.
+The component has a flat, elongated shape.
+There are no additional slots or indentations on the surface.
+One circular hole is positioned near the top edge.
+The other circular hole is located near the bottom edge.
+The edges of the component are straight and parallel.
+The component has a uniform thickness throughout.
+One circular hole is positioned near the top edge.
+The other circular hole is located near the bottom edge.
+The edges of the component are straight and parallel.
+The component has a uniform thickness throughout.
+There is a smaller circular hole near the top edge.
+The part includes a rectangular slot on the side.
+The component has a flat, elongated body.
+This part features two circular holes aligned vertically.
+There is a smaller circular hole near the top edge.
+The part includes a rectangular slot on the side.
+The bracket has a flat, elongated body.
+This component has a central circular opening.
+There is a circular hole positioned near the bottom.
+The object has a flat, elongated rectangular shape.
+This part includes a circular hole aligned vertically.
+The component has a smooth, straight edge along the sides.
+There is a circular hole positioned at the bottom.
+The object has a flat, elongated rectangular shape.
+This part includes a central circular opening.
+The component has a smooth, straight edge along the sides.
+One circular hole is positioned near the left edge.
+The other circular hole is located near the right edge.
+The rectangular shape has a uniform width throughout.
+The edges of the rectangle are straight and parallel.
+One circular hole is located on the left side.
+The other circular hole is positioned on the right side.
+The edges of the component are straight and parallel.
+The component has a uniform thickness throughout.
+
+**Protrusions:**
+The part has a flat surface with no raised edges.
+The smaller circular hole is located on the right side.
+There are no protrusions on the surface.
+The holes are evenly spaced vertically.
+There are no protrusions on the surface.
+The holes are evenly spaced vertically.
+There are no raised edges or protrusions on the component.
+The holes are evenly spaced along the length of the component.
+The component has a uniform thickness throughout its length.
+The holes are evenly spaced along the length of the bar.
+The corners of the part are slightly rounded.
+The holes are evenly spaced along the vertical axis.
+The edges of the component are straight and parallel.
+The component does not have any raised or indented features.
+There are no protrusions on the surface of the part.
+The holes are evenly spaced along the vertical axis.
+There are no protrusions on the surface of the part.
+The holes are evenly spaced along the vertical axis.
+The part has raised edges along the length.
+The component has a beveled corner at the junction.
+The part has raised edges along the length.
+There are two small holes on the flat surface.
+The part has a raised edge along the top and bottom.
+There is a circular hole situated centrally on the face.
+The part has a raised edge along the top side.
+There is a small circular indentation near the bottom.
+There are no raised edges or protrusions on the surface.
+The holes are evenly spaced along the length of the rectangle.
+There are no raised edges or protrusions on the surface.
+The holes are evenly spaced along the length of the component.
+
+**Relative Positions:**
+The larger hole is positioned towards the left end.
+The smaller hole is aligned parallel to the larger hole.
+The top hole is aligned with the upper edge.
+The bottom hole is aligned with the lower edge.
+The top hole is aligned with the upper edge.
+The bottom hole is aligned with the lower edge.
+The left hole is aligned with the left side of the component.
+The right hole is aligned with the right side of the component.
+The bar is designed with precision-cut edges.
+The holes are aligned parallel to the length of the bar.
+The component has a consistent cross-sectional shape.
+The holes are symmetrically placed within the rectangular body.
+The two circular holes are aligned along the length of the plate.
+The holes are evenly spaced apart on the rectangular surface.
+The component maintains a consistent width from top to bottom.
+The holes are aligned centrally on the component.
+The component maintains a consistent width from top to bottom.
+The holes are aligned centrally on the component.
+The smaller hole is positioned above the larger hole.
+The rectangular slot is located near the bottom edge.
+The rectangular slot is positioned near the bottom edge.
+The holes are aligned parallel to the elongated side.
+The circular hole at the top is aligned with the bottom hole.
+The rectangular shape is consistent throughout the component.
+The circular hole at the top is aligned vertically with the hole at the bottom.
+The rectangular shape is uniform in width along its length.
+The left hole is aligned with the left side of the rectangle.
+The right hole is aligned with the right side of the rectangle.
+The left hole is aligned with the left edge.
+The right hole is aligned with the right edge.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular metal plate.
+- L-shaped metal bracket.
+- Elongated rectangular bar.
+
+[HOLES_SLOTS]
+- Two circular holes on opposite ends.
+- One large circular hole on the left side.
+- Two circular holes aligned vertically.
+- Single circular hole near the top.
+- Central circular opening.
+- Rectangular slot on the side.
+
+[PROTRUSIONS]
+- Flat surface with no raised edges.
+- Slightly rounded corners.
+- Raised edges along the length.
+- Beveled corner at the junction.
+- Raised edge along the top and bottom.
+
+[RELATIVE_POSITIONS]
+- Holes are evenly spaced vertically.
+- Holes are aligned parallel to the length of the bar.
+- Holes are symmetrically placed within the rectangular body.
+- Left hole aligned with the left side.
+- Right hole aligned with the right side.
+- Top hole aligned with the upper edge.
+- Bottom hole aligned with the lower edge.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 9/18 (Images 121-135)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a flat rectangular metal piece.
+This part features two circular holes.
+The component is an elongated rectangular bar.
+This part features two circular holes.
+The component is a flat rectangular metal piece.
+This part features two circular holes on opposite ends.
+The component is an L-shaped metal bracket.
+This part features two circular holes on opposite ends.
+The component is an L-shaped metal bracket.
+This part features two circular holes on opposite ends.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is a flat rectangular metal piece.
+This part features a large circular hole on the left side.
+The component is a flat rectangular metal piece.
+This part features a large circular hole on the left side.
+The component is a flat rectangular metal piece.
+This part features a large circular hole on one side.
+The component is a flat rectangular metal piece.
+This part features a large circular hole on one side.
+The component is a flat rectangular bar.
+This part features a single circular hole on one end.
+The component is an L-shaped metal bracket.
+This part features two circular holes.
+The component is a flat rectangular metal piece.
+This part features a single circular hole on the right side.
+The component is a rectangular metal bar.
+This part features a single circular hole near the top.
+
+**Holes & Slots:**
+One circular hole is located on the left side.
+The other circular hole is positioned on the right side.
+The edges of the component are straight and parallel.
+The component has a uniform thickness throughout.
+One circular hole is located near the top end.
+The other circular hole is positioned near the bottom end.
+The bar has a flat surface with no additional protrusions.
+The edges of the bar are straight and parallel.
+One circular hole is positioned near the left edge.
+The other circular hole is located near the right edge.
+The rectangular shape has a uniform width throughout.
+The edges of the rectangle are straight and parallel.
+It contains one large circular hole in the center.
+There is a rectangular slot near the edge.
+The part has a flat surface with a slight protrusion on one side.
+The component includes a small circular hole near the corner.
+It contains one large circular hole in the center.
+There is a rectangular slot near the edge.
+The part has a flat surface with a slight protrusion on one side.
+The component includes a small circular hole near the corner.
+One circular hole is located near the top edge.
+The other circular hole is positioned near the bottom edge.
+The bar has a flat, elongated shape.
+The edges of the bar are straight and parallel.
+One circular hole is located near the top edge.
+The other circular hole is positioned near the bottom edge.
+The bar has a flat, elongated shape.
+The edges of the bar are straight and parallel.
+There is a small circular hole near the right edge.
+The object has a rectangular slot on the right side.
+The part includes a central circular hole.
+This component has a rectangular slot positioned towards the right end.
+There is a small circular hole near the right edge.
+The object has a rectangular slot on the right side.
+The part includes a central circular hole.
+This component has a rectangular slot positioned towards the right end.
+There is a small circular hole near the opposite end.
+The object has a uniform rectangular shape.
+It contains a single large circular hole in the center.
+A small circular hole is positioned at the far end.
+There is a small circular hole near the opposite end.
+The object has a uniform rectangular shape.
+It contains a single large circular hole in the center.
+A small circular hole is positioned at the far end.
+There is a circular hole near the left side.
+The bar has a uniform rectangular profile.
+This part includes a circular hole on the right side.
+The rectangular bar has a consistent width throughout.
+One circular hole is located near the bottom left corner.
+The other circular hole is positioned near the top right corner.
+The bracket has a flat, elongated body.
+The edges of the bracket are slightly raised.
+There is a circular hole on the left side of the component.
+The rectangular shape is consistent throughout the part.
+This part includes a circular hole near the right edge.
+The left side of the component has a circular hole.
+There is a small circular hole at the bottom end.
+The bar has a flat, elongated shape.
+This part includes a central circular hole.
+The component has a uniform rectangular profile.
+
+**Protrusions:**
+There are no protrusions on the surface of the part.
+The holes are evenly spaced along the length of the component.
+The component has a uniform width throughout its length.
+The holes are evenly spaced along the length of the bar.
+There are no raised edges or protrusions on the surface.
+The holes are evenly spaced along the length of the rectangle.
+The part has raised edges along the sides.
+The component has a smooth edge with a slight protrusion.
+The part has raised edges along the sides.
+The component has a smooth edge with a slight protrusion.
+The bar has a uniform cross-section along its length.
+The holes are evenly spaced along the bar.
+The bar has a uniform cross-section along its length.
+The holes are evenly spaced along the bar.
+The part has a flat surface with no raised edges.
+The component has a smooth outline with no protrusions.
+The part has a flat surface with no raised edges.
+The component has a smooth outline with no protrusions.
+The part has a flat surface with no raised edges.
+The edges of the component are straight and parallel.
+The part has a flat surface with no raised edges.
+The edges of the component are straight and parallel.
+The edges of the bar are slightly raised.
+The bar has a flat surface with no additional protrusions.
+The part has a rectangular slot near the bottom edge.
+The slot is aligned parallel to the longer side of the bracket.
+The edges of the part are slightly raised.
+The component has a uniform thickness along its length.
+The part has a slightly raised top edge.
+The bar has a flat bottom surface.
+
+**Relative Positions:**
+The left hole is aligned with the left edge.
+The right hole is aligned with the right edge.
+The bar is designed with precision-cut edges.
+The holes are aligned parallel to the length of the bar.
+The left hole is aligned with the left side of the rectangle.
+The right hole is aligned with the right side of the rectangle.
+The circular holes are positioned at the ends of the L-shape.
+Several smaller holes are arranged around the central opening.
+The circular holes are positioned at the ends of the L-shape.
+Several smaller holes are arranged around the central opening.
+The holes are aligned parallel to the length of the bar.
+The bar has a consistent width throughout its length.
+The holes are aligned parallel to the length of the bar.
+The bar has a consistent width throughout its length.
+The large circular hole is located on the left side of the component.
+The small circular hole is positioned near the right edge of the part.
+The large circular hole is positioned on the left side of the component.
+The small circular hole is located near the right edge, opposite the large hole.
+The large circular hole is centered on the longer side.
+The small circular hole is aligned with the shorter side.
+The large circular hole is centered on the longer side.
+The small circular hole is aligned with the shorter side.
+The circular hole on the left is aligned with the left edge.
+The circular hole on the right is positioned near the right edge.
+The holes are symmetrically placed along the length of the bracket.
+The bracket's corners are right-angled.
+The circular hole on the right is aligned with the right edge.
+The circular hole on the left is positioned near the left edge.
+The circular hole is aligned along the length of the bar.
+The smaller hole is positioned at one end of the bar.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Flat rectangular metal piece.
+- Elongated rectangular bar.
+- L-shaped metal bracket.
+
+[HOLES_SLOTS]
+- Two circular holes on opposite ends.
+- One large circular hole on one side.
+- Single circular hole on one end.
+- Small circular hole near the corner.
+- Rectangular slot near the edge.
+
+[PROTRUSIONS]
+- No raised edges or protrusions on the surface.
+- Smooth edge with a slight protrusion.
+- Raised edges along the sides.
+- Flat surface with no additional protrusions.
+
+[RELATIVE_POSITIONS]
+- Left hole aligned with the left edge.
+- Right hole aligned with the right edge.
+- Circular holes positioned at the ends of the L-shape.
+- Holes aligned parallel to the length of the bar.
+- Large circular hole on the left side, small circular hole near the right edge.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 10/18 (Images 136-150)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a rectangular metal bar.
+This part features a single circular hole near the top.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is a rectangular metal plate.
+This part features a single circular hole near the top.
+The component is a rectangular metal plate.
+This part features two circular holes.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is a flat rectangular metal piece.
+This part features a large circular hole on one side.
+The component is a flat rectangular metal piece.
+This part features a large circular hole on one side.
+The component is a flat rectangular bar.
+This part features a single circular hole on one end.
+The component is an L-shaped metal bracket.
+This part features two circular holes at the ends.
+The component is a rectangular metal bar.
+This part features a single circular hole on one end.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is an L-shaped metal bracket.
+This part features two circular holes on opposite ends.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is an L-shaped metal bracket.
+This part features two circular holes on opposite ends.
+The component is a rectangular metal bar.
+This part features a single circular hole on one end.
+
+**Holes & Slots:**
+There is a small circular hole at the bottom end.
+The bar has a flat, elongated shape.
+This part includes a central circular hole.
+The component has a uniform rectangular profile.
+There is a smaller circular hole near the bottom edge.
+The object has a rectangular slot on one side.
+The part includes a flat surface on the longer side.
+This component has a right-angled bend at the corner.
+There is a small circular hole positioned near the bottom.
+The object has a flat, elongated shape.
+The part includes a central circular hole.
+There is no slot or indentation on the surface.
+One circular hole is positioned near the top edge.
+The other circular hole is located near the bottom edge.
+The edges of the component are straight and parallel.
+The component has a uniform thickness throughout.
+There is a smaller circular hole near the bottom edge.
+The object has a flat rectangular profile.
+It contains a rectangular slot on one side.
+The part has a central circular opening.
+There is a small circular hole near the opposite end.
+The object has a rectangular slot on the right side.
+The part has a smooth, flat surface with no additional protrusions.
+The rectangular slot is positioned close to the right edge.
+There is a small circular hole near the opposite end.
+The object has a rectangular slot on the right side.
+The part has a smooth, flat surface with no additional protrusions.
+The rectangular slot is positioned close to the right edge.
+There is a circular hole near the left side.
+The bar has a uniform rectangular profile.
+This part includes a circular hole on the right side.
+The component has a consistent width throughout its length.
+It contains one large circular hole in the center.
+There is a rectangular slot near the edge.
+The part has a flat rectangular profile.
+The component includes a small circular hole near the bottom.
+There is a circular hole near the left side.
+The bar has a flat, elongated shape.
+This part includes a circular hole on the right side.
+The component has a uniform rectangular profile.
+One circular hole is located near the top end.
+The other circular hole is positioned near the bottom end.
+The bar has a flat, elongated shape.
+The edges of the bar are straight and parallel.
+It contains one large circular hole in the center.
+There is a rectangular slot near the edge.
+The part has a central rectangular cutout.
+A small circular hole is positioned near the corner.
+One circular hole is located near the top end.
+The other circular hole is positioned near the bottom end.
+The bar has a flat surface on both sides.
+The edges of the bar are straight and parallel.
+It contains one large circular hole in the center.
+There is a rectangular slot near the edge.
+The part has a central rectangular cutout.
+A small circular hole is positioned near the corner.
+There is a small circular hole near the opposite end.
+The bar has a flat, elongated shape.
+This part includes a large circular hole on one side.
+There is a small circular hole positioned near the other side.
+
+**Protrusions:**
+The part has a slightly raised top edge.
+The bar has a flat bottom surface.
+The part has a raised edge along the top side.
+There is a protruding section at the end of the longer side.
+The edges of the part are slightly raised.
+The component has smooth, straight sides.
+There are no protrusions on the surface of the part.
+The holes are evenly spaced along the vertical axis.
+The component has a raised rectangular section at the top.
+There are two small holes aligned vertically.
+The edges of the component are straight and parallel.
+The large circular hole is centrally located on the left side.
+The edges of the component are straight and parallel.
+The large circular hole is centrally located on the left side.
+The edges of the bar are slightly raised.
+The bar has a flat surface with no additional protrusions.
+The part has raised edges along the sides.
+The edges are slightly beveled for precision.
+The edges of the part are slightly raised.
+The bar has a consistent width throughout its length.
+The bar has a uniform cross-section along its length.
+The holes are evenly spaced along the bar.
+The part has raised edges along the sides.
+The component has a flat protruding section on one side.
+The bar has a uniform thickness throughout its length.
+The holes are evenly spaced along the bar.
+The part has raised edges along the sides.
+The component has a flat protruding section on one side.
+The part has a smooth, straight edge along its length.
+The bar has a uniform width throughout its length.
+
+**Relative Positions:**
+The circular hole is positioned towards the upper section.
+The bottom hole is aligned with the end of the bar.
+The central hole is aligned with the shorter side of the L-shape.
+The smaller hole is positioned parallel to the rectangular slot.
+The circular hole is aligned vertically.
+The holes are evenly spaced along the length.
+The component maintains a consistent width from top to bottom.
+The holes are aligned centrally on the component.
+The larger hole is positioned centrally on the flat side.
+The rectangular slot is located near the bottom right corner.
+The small circular hole is aligned parallel to the rectangular slot.
+The rectangular slot is positioned on the right side, opposite the large circular hole.
+The small circular hole is aligned parallel to the rectangular slot.
+The rectangular slot is positioned on the right side, opposite the large circular hole.
+The circular hole on the right is aligned with the left hole.
+The holes are positioned at opposite ends of the bar.
+The circular holes are positioned at opposite ends.
+The rectangular slot is aligned parallel to the longer side.
+The circular hole on the right is aligned with the left hole.
+The holes are positioned at opposite ends of the bar.
+The holes are aligned with the central axis of the bar.
+The bar has a consistent width throughout its length.
+The circular holes are aligned parallel to the longer side.
+The rectangular slot is positioned adjacent to the circular holes.
+The holes are aligned parallel to the length of the bar.
+The bar has a consistent cross-sectional shape.
+The circular holes are aligned parallel to the longer side.
+The rectangular slot is situated between the two circular holes.
+The large circular hole is positioned towards one end.
+The small circular hole is located near the opposite end.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular metal bar configuration.
+- L-shaped metal bracket configuration.
+- Flat rectangular metal piece configuration.
+
+[HOLES_SLOTS]
+- One large circular hole in the center.
+- Two circular holes at the ends.
+- Single circular hole near the top.
+- Small circular hole near the bottom.
+- Rectangular slot on one side.
+
+[PROTRUSIONS]
+- Slightly raised top edge.
+- Raised edge along the top side.
+- Flat protruding section on one side.
+- Raised rectangular section at the top.
+
+[RELATIVE_POSITIONS]
+- Circular hole positioned towards the upper section.
+- Bottom hole aligned with the end of the bar.
+- Holes evenly spaced along the length.
+- Rectangular slot positioned near the bottom right corner.
+- Circular holes positioned at opposite ends.
+- Rectangular slot positioned on the right side, opposite the large circular hole.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 11/18 (Images 151-165)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a rectangular metal bar.
+This part features a large circular hole on one end.
+The component is a rectangular metal plate.
+This part features a single circular hole near the top.
+The component is a rectangular metal plate.
+This part features a single circular hole near the top.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole near one end.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is a rectangular metal plate.
+This part features two small circular holes.
+The component is a rectangular metal plate.
+This part features a single circular hole near the top.
+The component is a flat rectangular metal piece.
+This part features a large circular hole on one side.
+The component is a flat rectangular metal piece.
+This part features a large circular hole on one side.
+The component is an elongated rectangular bar.
+This part features a single circular hole near the top.
+The component is an elongated rectangular bar.
+This part features a single circular hole near the top.
+The component is a rectangular metal plate.
+This part features two small circular holes.
+The component is a rectangular metal plate.
+This part features two small circular holes.
+The component is a flat rectangular bar.
+This part features two circular holes.
+
+**Holes & Slots:**
+There is a smaller circular hole near the opposite end.
+The bar has a flat, elongated shape.
+The part includes a central circular opening.
+A small circular hole is positioned near the left side.
+There is a small circular hole positioned near the bottom.
+The object has a flat, elongated shape.
+It contains one large circular hole in the center.
+This part has a rectangular slot near the bottom edge.
+There is a small circular hole positioned near the bottom.
+The object has a flat, elongated shape.
+It contains one large circular hole in the center.
+This part has a smooth, straight edge along the sides.
+There is a small circular hole near the top edge.
+The part includes a rectangular slot at the bottom.
+The component has a flat, elongated body.
+This part features two small circular holes on opposite sides.
+There is a smaller circular hole positioned at the opposite end.
+The object has a flat rectangular profile.
+It contains a single large circular hole in the center.
+There is a rectangular slot near the bottom edge.
+There is a small rectangular slot near the bottom edge.
+The object has a flat, elongated body.
+It contains one large circular hole positioned centrally.
+There is a small circular hole near the top edge.
+One circular hole is positioned near the top edge.
+The other circular hole is located near the bottom edge.
+The edges of the component are straight and parallel.
+The component has a uniform thickness throughout.
+There is a circular hole positioned near the bottom.
+The object has a flat, elongated rectangular shape.
+This part includes a small circular hole at the top.
+The component has a circular hole at the bottom.
+There is a small circular hole near the opposite end.
+The object has a rectangular slot on the right side.
+The part includes a central circular hole.
+This component has a small circular indentation on the left side.
+There is a small circular hole near the opposite end.
+The object has a rectangular slot on the right side.
+The part includes a central circular hole.
+There is a small protrusion on the right edge.
+There is a small circular hole at the bottom end.
+The bar has a flat top surface.
+The part has a slightly tapered end.
+This component includes a central circular hole.
+There is a small circular hole at the bottom end.
+The object has a flat, elongated body.
+This part includes a central circular opening.
+There is a rectangular slot near the top edge.
+One circular hole is positioned near the top edge.
+The other circular hole is located near the bottom edge.
+The edges of the component are straight and parallel.
+The component has a uniform thickness throughout.
+One circular hole is positioned near the top center.
+The other circular hole is located near the bottom center.
+The edges of the component are straight and parallel.
+The component has a flat surface with no additional protrusions.
+One circular hole is located near the left end.
+The other circular hole is positioned near the right end.
+The bar has a uniform width throughout its length.
+The edges of the bar are straight and parallel.
+
+**Protrusions:**
+The edges of the bar are slightly raised.
+The bar has a consistent width throughout its length.
+The part has a smooth edge along the sides.
+There are two small circular holes aligned vertically.
+The part has a raised edge along the top side.
+There is a small protrusion on the bottom edge.
+The part has raised edges along the length.
+The component has a beveled corner at the junction.
+The part has raised edges along the length.
+The component has a smooth outer surface.
+The part has a raised edge along the longer side.
+The component has a flat top surface.
+There are no protrusions on the surface of the part.
+The holes are evenly spaced along the vertical axis.
+The part has smooth edges along the sides.
+The edges of the component are slightly raised.
+The part has a flat surface with no raised edges.
+The component has a smooth rectangular profile.
+The component has raised edges along the length.
+The part has a flat surface with minimal protrusions.
+The edges of the bar are smooth and straight.
+The bar has a uniform cross-section along its length.
+The part has a flat top surface.
+The component has a smooth, straight profile.
+There are no protrusions on the surface of the part.
+The holes are evenly spaced along the vertical axis.
+The holes are evenly spaced vertically along the plate.
+The component maintains a consistent width throughout its length.
+The bar has a slight protrusion at the right end.
+The left end of the bar is flush with the main body.
+
+**Relative Positions:**
+The large circular hole is aligned with the right side.
+The smaller hole is situated close to the left end.
+The central hole is positioned towards the upper half.
+Several smaller holes are arranged symmetrically around the central opening.
+The circular hole is aligned vertically in the center.
+The small hole is located directly opposite the larger hole.
+The central hole is aligned with the longer side.
+The rectangular slot is positioned parallel to the shorter side.
+The large circular hole is aligned parallel to the longer side.
+The smaller hole is positioned perpendicular to the longer side.
+The circular hole is aligned with the shorter side of the L-shape.
+The rectangular slot is positioned parallel to the longer side.
+The component maintains a consistent width from top to bottom.
+The holes are aligned centrally on the component.
+The circular hole at the top is aligned vertically with the hole at the bottom.
+The holes are evenly spaced along the vertical axis.
+The large circular hole is positioned on the left side.
+The small circular hole is aligned parallel to the rectangular slot.
+The circular hole is positioned towards the left end.
+The rectangular slot is aligned parallel to the longer side.
+The circular hole is aligned with the central axis.
+The small hole at the bottom is positioned symmetrically.
+The circular hole is positioned centrally along the length.
+The small hole is located at the lower end of the bar.
+The component maintains a consistent width from top to bottom.
+The holes are aligned centrally on the component.
+The holes are aligned centrally with respect to the component's height.
+The component's design includes precise geometric symmetry.
+The two circular holes are aligned along the length of the bar.
+The holes are evenly spaced apart on the bar.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular metal plate.
+- L-shaped metal bracket.
+- Elongated rectangular bar.
+- Flat rectangular metal piece.
+
+[HOLES_SLOTS]
+- One large circular hole near one end.
+- Two small circular holes on opposite sides.
+- Central circular opening.
+- Rectangular slot near the bottom edge.
+- Small circular hole near the top edge.
+- Small circular hole near the bottom edge.
+- Small circular hole near the left side.
+- Small circular hole near the right end.
+
+[PROTRUSIONS]
+- Slightly raised edges along the length.
+- Beveled corner at the junction.
+- Small protrusion on the right edge.
+- Smooth outer surface.
+- Flat top surface.
+
+[RELATIVE_POSITIONS]
+- Large circular hole aligned with the right side.
+- Small hole located directly opposite the larger hole.
+- Circular hole aligned vertically in the center.
+- Rectangular slot positioned parallel to the shorter side.
+- Holes evenly spaced along the vertical axis.
+- Circular hole positioned towards the left end.
+- Small hole at the lower end of the bar.
+- Holes aligned centrally on the component.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 12/18 (Images 166-180)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a rectangular metal plate.
+This part features a central circular hole.
+The component is a flat rectangular metal piece.
+This part features a large circular hole in the center.
+The component is a flat rectangular metal piece.
+This part features a large circular hole in the center.
+The component is a flat rectangular bar.
+This part features two circular holes.
+The component is an L-shaped metal bracket.
+This part features two circular holes on opposite ends.
+The component is an L-shaped metal bracket.
+This part features two circular holes on opposite ends.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is a rectangular metal plate.
+This part features a central circular hole.
+The component is an L-shaped metal bracket.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is a straight rectangular bar.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component stands vertically with a rectangular profile.
+This part features two circular holes aligned vertically.
+The component is a straight rectangular bar.
+This part features two circular holes.
+
+**Holes & Slots:**
+There is a circular hole near the top edge.
+The part includes a circular hole near the bottom edge.
+The component has a flat surface with rounded corners.
+This part has a single circular hole in the middle.
+There is a small circular hole near the right edge.
+The object has a rectangular slot on the right side.
+The part has a smooth, flat surface with no additional protrusions.
+The rectangular slot is positioned parallel to the longer edge.
+There is a small circular hole near the right edge.
+The object has a uniform rectangular shape.
+The part includes a central circular opening.
+A small circular feature is present on the right side.
+One circular hole is located near the left end.
+The other circular hole is positioned near the right end.
+The bar has a uniform width throughout its length.
+The edges of the bar are straight and parallel.
+It contains one large circular hole in the center.
+There is a rectangular slot near the edge.
+The part has a central circular hole.
+A small circular hole is positioned near the bottom.
+It contains one large circular hole in the center.
+There is a rectangular slot near the edge.
+The part has a central circular hole.
+A small circular hole is positioned near the bottom.
+One circular hole is located near the top edge.
+The other circular hole is positioned near the bottom edge.
+The bar has a flat surface on both sides.
+The edges of the bar are straight and parallel.
+One circular hole is located near the top edge.
+The other circular hole is positioned near the bottom edge.
+The bar has a flat surface on both sides.
+The edges of the bar are straight and parallel.
+There is a circular hole near the top edge.
+The part includes a circular hole near the bottom edge.
+The component has a flat surface with rounded corners.
+This part has a single circular hole in the middle.
+One circular hole is located near the top right corner.
+The other circular hole is positioned near the bottom left corner.
+The bracket has a flat, elongated body.
+The edges of the bracket are slightly raised.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The bar has a flat, elongated shape.
+The edges of the bar are straight and parallel.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The bar has a uniform rectangular cross-section.
+The edges of the bar are straight and parallel.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The bar has a flat, elongated shape.
+The edges of the bar are straight and parallel.
+The upper circular hole is positioned near the top edge.
+The lower circular hole is situated close to the bottom edge.
+The edges of the component are slightly rounded.
+The component has a uniform width throughout its length.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The bar has a uniform rectangular cross-section.
+The edges of the bar are straight and parallel.
+
+**Protrusions:**
+The edges of the component are slightly raised.
+The part has a smooth outline with no protrusions.
+The edges of the component are straight and uniform.
+The central circular hole is symmetrical and well-defined.
+The edges of the component are slightly raised.
+The part has a consistent flat profile.
+The bar has a slight protrusion at one end.
+The holes are evenly spaced along the bar.
+The part has raised edges along the sides.
+The component has a flat protrusion on one side.
+The part has raised edges along the sides.
+The component has a flat protrusion on one side.
+The bar has a consistent width throughout its length.
+The holes are evenly spaced along the length of the bar.
+The bar has a consistent width throughout its length.
+The holes are evenly spaced along the length of the bar.
+The edges of the component are slightly raised.
+The part has a smooth outline with no protrusions.
+The part has a rectangular slot near the top edge.
+There is a small notch on the bottom left side.
+The bar has a uniform width throughout its length.
+The holes are evenly spaced along the bar.
+The bar has a flat surface without any protrusions.
+The holes are evenly spaced along the length of the bar.
+The bar has a consistent width along its length.
+The holes are evenly spaced along the bar.
+The holes are evenly spaced along the central axis.
+The part has a flat surface with no additional protrusions.
+The bar has a flat surface without any protrusions.
+The holes are evenly spaced along the length of the bar.
+
+**Relative Positions:**
+The circular hole is aligned vertically along the center.
+The component has two circular holes, one at the top and one at the bottom.
+The small circular hole is aligned with the central axis.
+The rectangular slot is located towards the right end of the component.
+The large circular hole is centrally aligned.
+The small circular hole is positioned to the right of the center.
+The holes are aligned parallel to the length of the bar.
+The bar maintains a consistent cross-sectional profile.
+The circular holes are aligned parallel to the longer edge.
+The rectangular slot is positioned adjacent to the circular holes.
+The circular holes are aligned parallel to the longer edge.
+The rectangular slot is positioned adjacent to the circular holes.
+The holes are aligned parallel to the length of the bar.
+The bar has a uniform cross-sectional shape.
+The holes are aligned parallel to the length of the bar.
+The bar has a uniform cross-sectional shape.
+The circular hole is aligned vertically along the center.
+The component has two circular holes, one at the top and one at the bottom.
+The circular holes are aligned diagonally across the bracket.
+The slot is parallel to the longer side of the L-shape.
+The holes are aligned diagonally from one end to the other.
+The bar has a consistent cross-sectional profile.
+The top hole is aligned vertically with the bottom hole.
+The bar maintains a consistent width throughout its length.
+The holes are aligned diagonally from one end to the other.
+The bar has a uniform cross-section throughout its length.
+The circular holes are symmetrically placed on the vertical face.
+The component maintains a consistent geometric shape from top to bottom.
+The top hole is aligned vertically with the bottom hole.
+The bar maintains a consistent width throughout its length.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular metal plate or bar configuration.
+- L-shaped metal bracket configuration.
+- Flat rectangular metal piece with a central circular hole.
+- Central circular hole in a rectangular bar.
+
+[HOLES_SLOTS]
+- One large circular hole in the center.
+- Two circular holes on opposite ends.
+- Small circular holes near the edges.
+- Rectangular slot near the edge, parallel to the longer edge.
+
+[PROTRUSIONS]
+- Slightly raised edges along the sides.
+- Flat protrusion on one side.
+- Smooth outline with no protrusions.
+
+[RELATIVE_POSITIONS]
+- Circular hole aligned vertically along the center.
+- Two circular holes aligned vertically, one at the top and one at the bottom.
+- Rectangular slot positioned adjacent to the circular holes.
+- Circular holes aligned parallel to the longer edge.
+- Holes aligned diagonally across the bracket.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 13/18 (Images 181-195)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is an elongated rectangular bar.
+This part features a large circular hole near one end.
+The component is a straight rectangular bar.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is an elongated rectangular bar.
+This part features a large circular hole near one end.
+The component is a straight rectangular bar.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is a flat rectangular bar.
+This part features two circular holes.
+The component is an elongated rectangular bar.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is an elongated rectangular bar.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is a flat rectangular bar.
+This part features two circular holes.
+
+**Holes & Slots:**
+There is a smaller circular hole positioned closer to the opposite end.
+The bar has a flat surface with no additional indentations.
+The part has a slight protrusion at one of the longer edges.
+The holes are evenly spaced along the length of the bar.
+One circular hole is located near the top end.
+The other circular hole is positioned near the bottom end.
+The bar has a uniform rectangular cross-section.
+The edges of the bar are straight and parallel.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The bar has a flat, elongated shape.
+The edges of the bar are straight and parallel.
+There is a smaller circular hole positioned closer to the opposite end.
+The bar has a flat surface with no additional indentations.
+The part has a slight protrusion at one of the longer edges.
+The holes are evenly spaced along the length of the bar.
+One circular hole is located near the top end.
+The other circular hole is positioned near the bottom end.
+The bar has a uniform rectangular cross-section.
+The edges of the bar are straight and parallel.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The bar has a flat, elongated shape.
+The edges of the bar are straight and parallel.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The bar has a flat, elongated shape.
+The edges of the bar are straight and parallel.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The rectangular bar has a uniform width throughout its length.
+The edges of the bar are straight and parallel.
+One circular hole is located near the top end.
+The other circular hole is positioned near the bottom end.
+The bar has a flat surface with no additional protrusions.
+The holes are evenly spaced along the length of the bar.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The edges of the bar are straight and parallel.
+The bar has a uniform width throughout its length.
+One circular hole is located near the top end.
+The other circular hole is positioned near the bottom end.
+The bar has a flat surface with no additional protrusions.
+The holes are evenly spaced along the length of the bar.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The bar has a flat, elongated shape.
+The edges of the bar are straight and parallel.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The bar has a uniform rectangular profile.
+The edges of the bar are straight and parallel.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The edges of the bar are straight and parallel.
+The bar has a uniform width throughout its length.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The rectangular bar has a uniform width throughout its length.
+The edges of the bar are straight and parallel.
+
+**Protrusions:**
+The bar maintains a consistent width throughout its length.
+The edges of the bar are smooth and straight.
+The bar has a flat surface along its length.
+The holes are evenly spaced along the bar.
+The bar has a uniform width throughout its length.
+The holes are evenly spaced along the bar.
+The bar maintains a consistent width throughout its length.
+The edges of the bar are smooth and straight.
+The bar has a flat surface along its length.
+The holes are evenly spaced along the bar.
+The bar has a uniform width throughout its length.
+The holes are evenly spaced along the bar.
+The bar has a uniform width throughout its length.
+The holes are evenly spaced along the bar.
+The bar has a slight thickness along its length.
+The holes are evenly spaced along the bar.
+The edges of the bar are straight and parallel.
+The bar maintains a consistent width throughout its length.
+There are no protrusions on the surface of the bar.
+The holes are evenly spaced along the vertical axis.
+The edges of the bar are straight and parallel.
+The bar maintains a consistent width throughout its length.
+The bar has a uniform width throughout its length.
+The holes are evenly spaced along the bar.
+The bar has a flat top surface.
+The bar has a flat bottom surface.
+There are no protrusions on the surface of the bar.
+The holes are evenly spaced along the vertical axis.
+The bar has a slight thickness along its length.
+The holes are evenly spaced along the bar.
+
+**Relative Positions:**
+The larger hole is aligned parallel to the shorter edge.
+The smaller hole is positioned at a right angle to the larger hole.
+The holes are aligned parallel to the length of the bar.
+The bar has a consistent width throughout its length.
+The holes are aligned diagonally from one end to the other.
+The bar has a consistent cross-sectional profile.
+The larger hole is aligned parallel to the shorter edge.
+The smaller hole is positioned at a right angle to the larger hole.
+The holes are aligned parallel to the length of the bar.
+The bar maintains a consistent width throughout its length.
+The holes are aligned diagonally from one end to the other.
+The bar has a consistent cross-sectional profile.
+The holes are aligned diagonally from one end to the other.
+The bar has a consistent cross-sectional profile.
+The holes are aligned diagonally across the bar.
+The bar has a consistent cross-sectional profile.
+The holes are aligned parallel to the length of the bar.
+The bar has a uniform cross-sectional profile.
+The holes are aligned centrally with respect to the bar's width.
+The bar maintains a consistent cross-sectional profile.
+The holes are aligned parallel to the length of the bar.
+The bar has a uniform cross-sectional profile.
+The holes are aligned diagonally from one end to the other.
+The bar has a consistent cross-sectional profile.
+The two circular holes are aligned vertically.
+The holes are evenly spaced along the length of the bar.
+The holes are aligned centrally with respect to the bar's width.
+The bar maintains a consistent cross-sectional profile.
+The holes are aligned diagonally across the bar.
+The bar has a consistent cross-sectional profile.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Elongated rectangular bar with a uniform width.
+- Straight rectangular bar with a consistent cross-sectional profile.
+
+[HOLES_SLOTS]
+- Two circular holes, one near the top end and the other near the bottom end.
+- Holes are evenly spaced along the length of the bar.
+- One large circular hole near one end and a smaller circular hole near the opposite end.
+
+[PROTRUSIONS]
+- No protrusions on the surface of the bar.
+- Flat surface along the length of the bar.
+
+[RELATIVE_POSITIONS]
+- Holes are aligned parallel to the length of the bar.
+- Holes are aligned diagonally from one end to the other.
+- The larger hole is aligned parallel to the shorter edge.
+- The smaller hole is positioned at a right angle to the larger hole.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 14/18 (Images 196-210)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a rectangular metal bar.
+This part features a single circular hole near one end.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is an L-shaped metal bracket.
+This part features a large circular hole near one end.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is an L-shaped metal bracket.
+This part features a large circular hole near one end.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is an elongated rectangular bar.
+This part features a large circular hole near one end.
+The component is an elongated rectangular bar.
+This part features a large circular hole near one end.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is a rectangular metal plate.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is a rectangular metal plate.
+This part features two circular holes on opposite ends.
+The component is a rectangular metal plate.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features a central circular hole.
+The component is a rectangular metal bar.
+This part features a central circular hole.
+
+**Holes & Slots:**
+There is a circular hole positioned close to the other end.
+The bar has a flat, elongated shape.
+This part includes a circular hole on one side.
+The component has a uniform rectangular profile.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The bar has a flat surface with no additional protrusions.
+The edges of the bar are straight and parallel.
+There is a smaller circular hole positioned closer to the bend.
+The object has a rectangular slot along the longer side.
+The part includes a central circular opening.
+There is a small circular hole near the shorter side.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The bar has a flat surface with no additional protrusions.
+The edges of the bar are straight and parallel.
+There is a smaller circular hole positioned closer to the bend.
+The bracket has a flat, elongated body.
+The part includes a rectangular slot on the longer side.
+The edges of the component are slightly rounded.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The edges of the bar are straight and parallel.
+The bar has a uniform width throughout its length.
+There is a smaller circular hole positioned closer to the opposite end.
+The bar has a flat surface with no additional indentations.
+The part has a slight notch at one of the longer edges.
+This section includes a small circular indentation on the side.
+There is a smaller circular hole positioned closer to the opposite end.
+The bar has a flat surface with no additional indentations.
+The part includes a slight notch at one corner.
+This section has a smooth edge without any protrusions.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The bar has a flat, elongated shape.
+The edges of the bar are straight and parallel.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The edges of the component are straight and parallel.
+The component has a uniform width throughout its length.
+One circular hole is located near the top edge.
+The other circular hole is positioned near the bottom edge.
+The bar has a flat, elongated shape.
+The edges of the bar are straight and parallel.
+The left circular hole is aligned with the left edge.
+The right circular hole is aligned with the right edge.
+The component has a flat surface with no protrusions.
+The holes are evenly spaced along the length of the plate.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The edges of the component are straight and parallel.
+The component has a uniform width throughout its length.
+There is a smaller circular hole near the bottom end.
+The bar has a flat, elongated profile.
+The edges of the bar are straight and parallel.
+The component has a uniform width throughout its length.
+There is a smaller circular hole near one end.
+The bar has a flat, elongated profile.
+The edges of the bar are straight and parallel.
+The component has a uniform cross-section along its length.
+
+**Protrusions:**
+The part has a smooth, straight edge along its length.
+There are no raised edges or protrusions on the sides.
+The holes are evenly spaced along the length of the bar.
+The bar maintains a consistent width throughout its length.
+The part has raised edges along the longer side.
+The component has a flat surface with rounded corners.
+The holes are evenly spaced along the length of the bar.
+The bar maintains a consistent width throughout its length.
+The part has a raised edge along the shorter side.
+The longer side of the bracket is straight and uniform.
+There are no protrusions on the surface of the bar.
+The holes are evenly spaced along the vertical axis.
+The edges of the bar are straight and parallel.
+The bar maintains a consistent width throughout its length.
+The component has a uniform thickness throughout its length.
+The holes are aligned parallel to the length of the bar.
+The bar has a uniform width throughout its length.
+The holes are evenly spaced along the bar.
+There are no protrusions on the surface of the part.
+The holes are evenly spaced along the vertical axis.
+The part has a uniform width along its length.
+There are no protrusions on the surface of the bar.
+The edges of the component are straight and parallel.
+The component maintains a consistent width throughout its length.
+There are no protrusions on the surface of the part.
+The holes are evenly spaced along the vertical axis.
+The bar has a slight bevel on the corners.
+The holes are evenly spaced along the bar.
+The bar has a slight protrusion at one end.
+The opposite end of the bar is slightly recessed.
+
+**Relative Positions:**
+The circular hole is aligned parallel to the longer side.
+The holes are positioned at opposite ends of the bar.
+The holes are aligned parallel to the longer sides of the bar.
+The bar's geometry is simple and symmetrical.
+The larger hole is positioned towards the top right corner.
+The smaller hole is aligned parallel to the rectangular slot.
+The holes are aligned parallel to the longer sides of the bar.
+The bar's geometry is simple and symmetrical.
+The smaller hole is aligned parallel to the rectangular slot.
+The circular holes are positioned at opposite ends of the L-shape.
+The holes are aligned centrally with respect to the bar's width.
+The bar maintains a consistent cross-sectional profile.
+The larger hole is aligned parallel to the shorter edge.
+The smaller hole is positioned opposite the larger hole.
+The larger hole is situated towards the top side.
+The smaller hole is positioned towards the bottom side.
+The holes are aligned diagonally from one end to the other.
+The bar has a consistent cross-sectional profile.
+The top hole is aligned with the center of the component.
+The bottom hole is also centrally aligned with the component.
+The two circular holes are aligned along the length of the bar.
+The holes are evenly spaced apart on the bar.
+The holes are positioned symmetrically on the plate.
+The component lacks any additional geometric features or indentations.
+The top hole is aligned with the upper edge of the plate.
+The bottom hole is aligned with the lower edge of the plate.
+The central hole is aligned with the bar's length.
+The smaller hole is positioned at the opposite end of the central hole.
+The central hole is aligned with the length of the bar.
+The smaller hole is positioned close to the protrusion.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular metal bar with a uniform cross-section.
+- L-shaped metal bracket configuration.
+- Elongated rectangular bar with a flat surface.
+
+[HOLES_SLOTS]
+- Two circular holes positioned at opposite ends.
+- Central circular hole aligned with the bar's length.
+- Smaller circular hole near the shorter side.
+- Rectangular slot along the longer side.
+
+[PROTRUSIONS]
+- No raised edges or protrusions on the sides.
+- Slight protrusion at one end.
+- Slight recess at the opposite end.
+
+[RELATIVE_POSITIONS]
+- Holes aligned parallel to the longer sides.
+- Holes positioned symmetrically on the plate.
+- Smaller hole aligned parallel to the rectangular slot.
+- Holes aligned diagonally from one end to the other.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 15/18 (Images 211-225)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is a rectangular metal piece.
+This part features two circular holes.
+The component is a rectangular metal plate.
+This part features two circular holes on opposite ends.
+The component is a rectangular metal piece.
+This part features two circular holes.
+The component is a rectangular metal piece.
+This part features two circular holes.
+The component stands vertically with a rectangular profile.
+This part features two circular holes aligned vertically.
+The component stands vertically with a rectangular profile.
+This part features two circular holes aligned vertically.
+The component stands vertically with a rectangular profile.
+This part features two circular holes aligned vertically.
+The component stands vertically with a rectangular profile.
+This part features two circular holes aligned vertically.
+The component is a rectangular metal bar.
+This part features a large circular hole near one end.
+The component is a flat rectangular bar.
+This part features two circular holes.
+The component is a flat rectangular bar.
+This part features two circular holes.
+The component is a rectangular metal piece.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features two circular holes.
+
+**Holes & Slots:**
+One circular hole is located near the top edge.
+The other circular hole is positioned near the bottom edge.
+The bar has a flat surface along its length.
+The edges of the bar are straight and parallel.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The edges of the component are straight and parallel.
+The component has a uniform width throughout its length.
+The left circular hole is aligned with the left edge.
+The right circular hole is aligned with the right edge.
+The component has a flat surface with no protrusions.
+The holes are evenly spaced along the length of the plate.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The edges of the component are straight and parallel.
+The component has a uniform thickness throughout.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The edges of the component are straight and parallel.
+The component has a uniform thickness throughout.
+The upper hole is positioned near the top edge.
+The lower hole is situated close to the bottom edge.
+The edges of the component are straight and parallel.
+The component has a uniform width throughout its length.
+The upper circular hole is positioned near the top edge.
+The lower circular hole is situated close to the bottom edge.
+The edges of the component are straight and parallel.
+The component has a uniform width throughout its length.
+The upper circular hole is positioned near the top edge.
+The lower circular hole is situated close to the bottom edge.
+The edges of the component are slightly rounded.
+The component has a consistent width throughout its length.
+The upper circular hole is positioned near the top edge.
+The lower circular hole is situated close to the bottom edge.
+The edges of the component are slightly rounded.
+The component has a consistent width throughout its height.
+There is a smaller circular hole positioned closer to the opposite end.
+The bar has a flat, elongated profile.
+The part includes two circular holes aligned along its length.
+The holes are evenly spaced along the bar.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The rectangular bar has a uniform width throughout its length.
+The edges of the bar are straight and parallel.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The rectangular bar has a uniform width throughout its length.
+The edges of the bar are straight and parallel.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The edges of the component are straight and parallel.
+The component has a uniform width throughout its length.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The bar has a uniform rectangular profile.
+The edges of the bar are straight and parallel.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The edges of the bar are straight and parallel.
+The bar has a uniform width throughout its length.
+
+**Protrusions:**
+The bar has a uniform thickness throughout.
+The holes are evenly spaced along the bar.
+There are no protrusions on the surface of the part.
+The holes are evenly spaced along the vertical axis.
+The edges of the component are straight and parallel.
+The component maintains a consistent width throughout its length.
+There are no protrusions on the surface.
+The holes are evenly spaced vertically.
+There are no protrusions on the surface.
+The holes are evenly spaced along the vertical axis.
+There are no protrusions or raised features on the surface.
+The holes are evenly spaced along the vertical axis.
+There are no protrusions or raised features on the surface.
+The holes are evenly spaced along the vertical axis.
+The holes are evenly spaced along the central axis.
+The part has a flat top and bottom surface.
+The holes are evenly spaced along the length of the component.
+The component has a flat top and bottom surface.
+The edges of the bar are slightly raised.
+The bar has a consistent width throughout its length.
+The bar has a slight thickness along its length.
+The holes are evenly spaced along the bar.
+The bar has a slight thickness along its length.
+The holes are evenly spaced along the bar.
+There are no protrusions on the surface of the part.
+The holes are evenly spaced along the vertical axis.
+The bar has a flat top surface.
+The bar has a flat bottom surface.
+There are no protrusions on the surface of the bar.
+The holes are evenly spaced along the vertical axis.
+
+**Relative Positions:**
+The holes are aligned parallel to the length of the bar.
+The bar has a consistent cross-sectional profile.
+The top hole is aligned with the upper edge.
+The bottom hole is aligned with the lower edge.
+The holes are positioned symmetrically on the plate.
+The component lacks any additional geometric features or indentations.
+The top hole is aligned with the upper edge.
+The bottom hole is aligned with the lower edge.
+The top hole is aligned with the upper edge.
+The bottom hole is aligned with the lower edge.
+The component maintains a consistent cross-sectional shape.
+The circular holes are symmetrically placed within the structure.
+The circular holes are centered within the rectangular body.
+The component maintains a consistent cross-sectional shape.
+The circular holes are symmetrically placed within the component.
+The component maintains a uniform height from top to bottom.
+The circular holes are symmetrically placed in the center.
+The component maintains a uniform cross-sectional shape.
+The larger hole is situated towards the top side.
+The smaller hole is aligned parallel to the larger hole.
+The holes are aligned diagonally across the bar.
+The bar has a consistent cross-sectional profile.
+The holes are aligned diagonally across the bar.
+The bar has a consistent cross-sectional profile.
+The top hole is aligned with the upper edge.
+The bottom hole is aligned with the lower edge.
+The two circular holes are aligned vertically.
+The holes are evenly spaced along the length of the bar.
+The top hole is aligned with the upper edge of the bar.
+The bottom hole is aligned with the lower edge of the bar.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular metal bar with a flat profile.
+- Uniform width and thickness throughout its length.
+
+[HOLES_SLOTS]
+- Two circular holes aligned vertically.
+- Holes are evenly spaced along the length of the bar.
+- Holes are positioned near the top and bottom edges.
+
+[PROTRUSIONS]
+- No protrusions or raised features on the surface.
+
+[RELATIVE_POSITIONS]
+- Holes are aligned parallel to the length of the bar.
+- Top hole is aligned with the upper edge.
+- Bottom hole is aligned with the lower edge.
+- Holes are symmetrically placed within the rectangular body.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 16/18 (Images 226-240)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a rectangular metal bar.
+This part features a large circular hole near one end.
+The component is a rectangular metal plate.
+This part features a central circular hole.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component stands vertically with a rectangular profile.
+This part features two circular holes aligned vertically.
+The component stands vertically with a rectangular profile.
+This part features two circular holes aligned vertically.
+The component is a rectangular metal bar.
+This part features a single circular hole near one end.
+The component is a rectangular metal plate.
+This part features a central circular hole.
+The component is a rectangular metal bar.
+This part features a single circular hole near one end.
+The component is a straight rectangular bar.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features a central circular hole.
+The component is a rectangular metal plate.
+This part features a large circular hole near one end.
+The component is an elongated rectangular bar.
+This part features a large circular hole near one end.
+The component is a flat rectangular metal piece.
+This part features a large circular hole near one end.
+The component is an elongated rectangular bar.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features a large circular hole near one end.
+
+**Holes & Slots:**
+There is a smaller circular hole positioned closer to the opposite end.
+The bar has a flat, elongated profile.
+The part includes two circular holes of different sizes.
+One circular hole is situated towards the top right corner.
+There is a circular hole near the top edge.
+The part includes a circular hole near the bottom edge.
+The component has a flat surface with rounded corners.
+This part has a single circular hole in the middle.
+One circular hole is located near the top edge.
+The other circular hole is positioned near the bottom edge.
+The bar has a flat, elongated shape.
+The edges of the bar are straight and parallel.
+The upper hole is positioned near the top edge.
+The lower hole is situated close to the bottom edge.
+The edges of the component are straight and parallel.
+The component has a uniform width throughout its length.
+The upper hole is positioned near the top edge.
+The lower hole is situated close to the bottom edge.
+The edges of the component are straight and parallel.
+The component has a uniform width throughout its height.
+There is a circular hole positioned towards the top side.
+The bar has a flat surface with no additional indentations.
+The part includes a circular hole on the opposite end from the first.
+There are no slots or additional cutouts on the surface.
+There is a circular hole near the top edge.
+The part includes a circular hole near the bottom edge.
+The component has a flat surface with rounded corners.
+This part has a single circular hole in the middle.
+There is a circular hole positioned towards the top side.
+The bar has a flat surface with no additional indentations.
+The part includes a circular hole on the shorter side.
+This component has a uniform rectangular profile.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The bar has a uniform rectangular cross-section.
+The edges of the bar are straight and parallel.
+There is a smaller circular hole near one end.
+The bar has a flat, elongated profile.
+The edges of the bar are straight and parallel.
+The component has a uniform cross-section along its length.
+There is a smaller circular hole positioned closer to the opposite end.
+The part has a flat, elongated shape.
+This component includes a single large circular hole.
+There is a small circular hole near the bottom edge.
+There is a smaller circular hole positioned closer to the opposite end.
+The bar has a flat surface with no additional indentations.
+The part has a uniform width along its length.
+The edges of the component are straight and parallel.
+There is a smaller circular hole positioned closer to the opposite end.
+The object has a rectangular slot on the longer side.
+The part includes a small notch on the shorter side.
+This component has a smooth, elongated rectangular shape.
+One circular hole is located near the top right corner.
+The other circular hole is positioned near the bottom left corner.
+The bar has a flat surface with no additional protrusions.
+The holes are evenly spaced along the length of the bar.
+There is a smaller circular hole positioned closer to the opposite end.
+The bar has a flat, elongated profile.
+The part includes a central circular opening.
+There is a rectangular cutout along the length of the bar.
+
+**Protrusions:**
+The edges of the component are slightly raised.
+The bar maintains a consistent width throughout its length.
+The edges of the component are slightly raised.
+The component has a smooth outline with no protrusions.
+The bar has a uniform width throughout its length.
+The holes are evenly spaced along the bar.
+There are no protrusions or raised features on the surface.
+The holes are evenly spaced along the length of the component.
+There are no protrusions or raised features on the surface.
+The holes are evenly spaced along the length of the component.
+The edges of the bar are straight and uniform.
+The bar has a consistent width along its length.
+The edges of the component are slightly raised.
+The component has a smooth outline with no protrusions.
+The edges of the part are straight and parallel.
+The part has a slight protrusion along the length.
+The bar has a flat top surface.
+The bar has a flat bottom surface.
+The bar has a slight protrusion at one end.
+The opposite end of the bar is slightly recessed.
+The part has a smooth, straight edge along the length.
+The component has a slight protrusion at one corner.
+The component lacks any raised or protruding features.
+The holes are aligned along the length of the bar.
+The part has a raised edge along the longer side.
+There is a slight protrusion on the shorter side.
+The edges of the bar are straight and parallel.
+The bar maintains a consistent width throughout its length.
+The edges of the bar are slightly raised.
+The part has a consistent width throughout its length.
+
+**Relative Positions:**
+The larger hole is aligned parallel to the longer side.
+The smaller hole is positioned at an angle relative to the larger hole.
+The circular hole is aligned vertically in the center.
+The component has two circular holes, one at the top and one at the bottom.
+The holes are aligned parallel to the length of the bar.
+The bar has a consistent cross-sectional profile.
+The circular holes are aligned centrally on the face.
+The component maintains a consistent cross-sectional shape.
+The circular holes are centered on the face of the component.
+The component maintains a consistent cross-sectional shape.
+The circular holes are aligned parallel to the length of the bar.
+The holes are evenly spaced along the bar's length.
+The circular hole is aligned vertically in the center.
+The component has two circular holes, one at the top and one at the bottom.
+The circular hole is aligned with the longer side.
+The holes are evenly spaced along the length of the bar.
+The two circular holes are aligned vertically.
+The holes are evenly spaced along the length of the bar.
+The central hole is aligned with the length of the bar.
+The smaller hole is positioned at a 90-degree angle to the central hole.
+The large circular hole is aligned parallel to the longer side.
+The smaller hole is positioned opposite the larger hole.
+The larger hole is situated towards the top side.
+The smaller hole is positioned towards the bottom side.
+The large circular hole is aligned parallel to the shorter side.
+The smaller circular hole is positioned opposite the rectangular slot.
+The holes are aligned diagonally across the bar.
+The component has a uniform rectangular profile.
+The larger hole is aligned parallel to the shorter side.
+The smaller hole is situated at an angle relative to the larger hole.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular metal bar with a uniform cross-section.
+- Elongated rectangular shape with straight edges.
+- Flat surface with rounded corners.
+
+[HOLES_SLOTS]
+- Two circular holes aligned vertically.
+- Central circular hole.
+- Large circular hole near one end.
+- Smaller circular hole near the opposite end.
+- Circular hole near the top edge.
+- Circular hole near the bottom edge.
+- Single circular hole in the middle.
+- Rectangular cutout along the length of the bar.
+
+[PROTRUSIONS]
+- Slightly raised edges.
+- Slight protrusion at one end.
+- Slight protrusion along the length.
+- Raised edge along the longer side.
+- Slight protrusion on the shorter side.
+
+[RELATIVE_POSITIONS]
+- Holes are evenly spaced along the length of the bar.
+- Circular holes are aligned parallel to the length of the bar.
+- Larger hole is aligned parallel to the longer side.
+- Smaller hole is positioned opposite the larger hole.
+- Circular hole is aligned vertically in the center.
+- Component has two circular holes, one at the top and one at the bottom.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 17/18 (Images 241-255)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is an elongated rectangular bar.
+This part features a large circular hole near one end.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is a rectangular metal bar.
+This part features two circular holes.
+The component is a rectangular metal block.
+This part features a single circular hole near the top.
+The component is a straight rectangular bar.
+This part features two circular holes.
+The component is a rectangular metal block.
+This part features a single circular hole near the top.
+The component is a vertically oriented rectangular bar.
+This part features a central circular hole.
+The component is an L-shaped metal bracket.
+This part features a large circular hole near one end.
+The component is an elongated rectangular bar.
+This part features two circular holes.
+The component is a vertically oriented rectangular bar.
+This part features a central circular hole.
+The component is an L-shaped metal piece.
+This part features a large circular hole near one end.
+The component is an elongated rectangular bar.
+This part features a large circular hole near one end.
+The component is a straight rectangular bar.
+This part features two circular holes.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is a rectangular metal bar.
+This part features a large circular hole near one end.
+
+**Holes & Slots:**
+There is a smaller circular hole positioned closer to the opposite end.
+The bar has a flat surface with no additional indentations.
+The part includes a slight notch at one corner.
+This section has a smooth edge without any protrusions.
+One circular hole is located near the top edge.
+The other circular hole is positioned near the bottom edge.
+The bar has a flat surface with no additional protrusions.
+The edges of the bar are straight and parallel.
+One circular hole is located near the top left corner.
+The other circular hole is positioned near the bottom right corner.
+The bar has a flat, elongated shape.
+The edges of the bar are straight and parallel.
+There is another circular hole positioned at the bottom.
+The object has a flat, elongated rectangular shape.
+This part includes two circular holes aligned vertically.
+The component has a smooth, straight edge along its length.
+One circular hole is positioned near the top.
+The other circular hole is located near the bottom.
+The bar has a uniform rectangular cross-section.
+The edges of the bar are straight and parallel.
+There is a circular hole positioned at the bottom.
+The object has a flat, elongated rectangular shape.
+This part includes a central circular opening.
+The component has a smooth, straight profile.
+There is a circular hole near the top end.
+The part includes a circular hole near the bottom end.
+The component has a flat, elongated rectangular shape.
+This part has a single circular hole positioned centrally.
+It contains a smaller circular hole close to the other end.
+The part has a rectangular slot along the longer side.
+There is a small circular hole positioned near the corner.
+The component includes a rectangular cutout on the longer edge.
+One circular hole is located near the top right corner.
+The other circular hole is positioned near the bottom left corner.
+The bar has a flat, uniform surface.
+The edges of the bar are straight and parallel.
+There is a circular hole near the top end.
+The object has a circular hole at the bottom.
+The part includes a single circular hole in the middle.
+This component has a circular hole positioned centrally.
+There is a smaller circular hole positioned closer to the bend.
+The object has a flat rectangular profile.
+It contains one large circular hole in the center.
+There is a rectangular slot near the edge.
+There is a smaller circular hole positioned closer to the opposite end.
+The bar has a flat surface with no additional indentations.
+The part includes a slight notch at one corner.
+This section has a smooth edge without any protrusions.
+One circular hole is located near the top end.
+The other circular hole is positioned near the bottom end.
+The bar has a uniform rectangular cross-section.
+The edges of the bar are straight and parallel.
+There is a small circular hole near the bottom edge.
+The object has a flat rectangular profile.
+It contains one large circular hole positioned centrally.
+There is a small circular hole located near the bottom.
+There is a smaller circular hole positioned closer to the opposite end.
+The bar has a flat, elongated profile.
+The part includes two circular holes of different sizes.
+One circular hole is situated towards the left side.
+
+**Protrusions:**
+The component has a uniform thickness throughout its length.
+The holes are aligned parallel to the length of the bar.
+The holes are evenly spaced along the length of the bar.
+The bar maintains a consistent width throughout its length.
+The bar has a uniform width throughout its length.
+The holes are evenly spaced along the bar.
+The part has a slight protrusion on the top surface.
+There is a small raised edge on the bottom side.
+The bar has a flat top surface.
+The bar has a flat bottom surface.
+The part has a slightly rounded top edge.
+The edges of the component are straight and parallel.
+The part has a smooth, straight outline.
+The component has a uniform rectangular profile.
+The part has raised edges along the shorter sides.
+The edges are slightly beveled for easier handling.
+The bar has a consistent width throughout its length.
+The holes are evenly spaced along the bar.
+The part has no protrusions along the sides.
+The edges of the component are flat and unobstructed.
+The part has raised edges along the sides.
+The component has a smooth outer contour.
+The component has a uniform thickness throughout its length.
+The holes are aligned parallel to the length of the bar.
+The bar has a flat surface along its length.
+The holes are evenly spaced along the bar.
+The part has a smooth edge along the sides.
+The component has a raised edge along the top side.
+The edges of the component are slightly raised.
+The bar maintains a consistent width throughout its length.
+
+**Relative Positions:**
+The larger hole is situated towards the top side.
+The smaller hole is positioned towards the bottom side.
+The holes are aligned parallel to the longer sides of the bar.
+The bar's geometry is simple and symmetrical.
+The holes are aligned parallel to the length of the bar.
+The bar has a consistent cross-sectional profile.
+The two circular holes are evenly spaced along the length.
+The holes are aligned parallel to the longer sides.
+The two circular holes are aligned vertically.
+The holes are evenly spaced along the length of the bar.
+The circular hole at the top is aligned vertically with the bottom hole.
+The holes are evenly spaced along the vertical axis.
+The circular hole at the top is aligned with the hole at the bottom.
+The rectangular bar has two circular holes, one at each end.
+The larger hole is aligned parallel to the longer side.
+The smaller hole is positioned perpendicular to the longer side.
+The holes are aligned diagonally across the bar.
+The bar has a symmetrical design with respect to its length.
+The circular hole at the top is aligned with the hole at the bottom.
+The two circular holes are vertically aligned along the bar.
+The large circular hole is aligned parallel to the longer side.
+The smaller hole is positioned perpendicular to the longer side.
+The larger hole is situated towards the top side.
+The smaller hole is positioned towards the bottom side.
+The holes are aligned parallel to the length of the bar.
+The bar has a consistent width throughout its length.
+The large circular hole is centrally aligned with the L-shape.
+The small circular hole is positioned near the bottom left corner.
+The larger hole is aligned parallel to the shorter side.
+The smaller hole is positioned opposite the larger one.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Elongated rectangular bar.
+- Rectangular metal block.
+- L-shaped metal bracket.
+- Vertically oriented rectangular bar.
+
+[HOLES_SLOTS]
+- Two circular holes aligned vertically.
+- One large circular hole near one end.
+- Central circular hole.
+- Smaller circular hole positioned closer to the opposite end.
+- Rectangular slot along the longer side.
+
+[PROTRUSIONS]
+- Slight protrusion on the top surface.
+- Small raised edge on the bottom side.
+- Raised edges along the shorter sides.
+- Slightly rounded top edge.
+- Smooth edge along the sides.
+
+[RELATIVE_POSITIONS]
+- Holes aligned parallel to the longer sides.
+- Two circular holes evenly spaced along the length.
+- Circular hole at the top aligned vertically with the bottom hole.
+- Rectangular bar with two circular holes, one at each end.
+- Large circular hole centrally aligned with the L-shape.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 18/18 (Images 256-256)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 1 images of the same component:
+
+**Global Shape:**
+The component is a vertically oriented rectangular bar.
+This part features a central circular hole.
+
+**Holes & Slots:**
+There is a circular hole near the top end.
+The object has a circular hole at the bottom.
+The part includes a single circular hole in the middle.
+This component has a circular hole positioned centrally.
+
+**Protrusions:**
+The part has smooth edges along its length.
+The edges of the component are slightly raised.
+
+**Relative Positions:**
+The circular hole at the top is aligned with the bottom hole.
+The two circular holes are vertically aligned on the bar.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+Vertically oriented rectangular bar.
+
+[HOLES_SLOTS]
+Central circular hole.
+
+[PROTRUSIONS]
+Smooth edges along the length.
+Slightly raised edges.
+
+[RELATIVE_POSITIONS]
+Circular holes are vertically aligned.
+----------------------------------------------------------------------
+

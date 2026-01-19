@@ -1,0 +1,3661 @@
+Reduction Phase Results for Class: M58-車身連接補強鋁擠型
+Total Images: 264
+Batch Size: 15
+======================================================================
+
+
+======================================================================
+BATCH 1/18 (Images 1-15)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a rectangular frame structure.
+This part features a central vertical division.
+The component is a rectangular frame with two sections.
+This part features a central dividing line separating the two sections.
+The component forms a rectangular frame with a flat top.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component forms a rectangular frame with four straight sides.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central vertical support beam.
+The component is a rectangular frame structure.
+This part features two vertical sections divided by a central divider.
+The component forms a right-angled triangular frame.
+This part features a central elongated rectangular slot.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features two vertical sections on the left side.
+The component is a rectangular frame.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features two vertical sections divided by a central pillar.
+The component is a rectangular frame.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+
+**Holes & Slots:**
+There is a horizontal slot near the bottom edge.
+The frame includes a small circular hole on the left side.
+The right side of the frame has a rectangular cutout.
+This part has a large rectangular opening in the middle.
+There is a small rectangular cutout near the top left corner.
+The frame has a large rectangular opening in the middle.
+The part includes a vertical slot on the right side.
+There is a horizontal slot near the bottom edge.
+There is a small square hole near the top left corner.
+The frame includes a long horizontal slot on the right side.
+The part has a vertical slot on the left side.
+There is a small circular hole near the bottom right corner.
+There is a vertical slot on the left side.
+The right side includes a horizontal slot.
+The frame has a consistent thickness throughout.
+The edges are straight and parallel.
+There is a small rectangular slot near the bottom edge.
+The frame includes a vertical rectangular slot on the left side.
+The part has a horizontal rectangular slot on the right side.
+There is a small circular hole near the top left corner.
+There is a small rectangular slot near the bottom edge.
+The object has a flat top surface.
+The part includes a vertical support beam on the right side.
+There is a horizontal support beam on the left side.
+There is a horizontal slot near the bottom edge.
+The object includes a large rectangular opening in the middle.
+This part has a smaller rectangular slot on the left side.
+The component contains a vertical slot on the right side.
+There is a horizontal slot along the bottom edge.
+The frame includes a small circular indentation on the left side.
+The right side of the component has a protruding edge.
+The top section has a slight notch near the corner.
+There is a smaller rectangular slot near the bottom edge.
+The object has a large rectangular cutout in the middle.
+This part includes a series of parallel grooves along the length.
+There is a small circular hole near the top corner.
+There is a vertical slot near the top edge.
+The frame includes a horizontal slot near the bottom edge.
+The part has a rectangular protrusion on one side.
+There is a small notch on the right side.
+It contains a large rectangular opening in the center.
+There is a small rectangular slot near the bottom edge.
+The frame has a horizontal section at the top.
+This part includes a vertical support beam on the right side.
+There is a vertical slot on the left side.
+The frame includes a horizontal slot on the right side.
+The part has a rectangular protrusion at the top corner.
+There is a rectangular protrusion at the bottom corner.
+It contains a large rectangular opening on the left side.
+There is a smaller rectangular opening on the right side.
+The frame has a flat base along the bottom edge.
+The top edge of the frame is straight and continuous.
+There is a vertical slot on the left side.
+The frame includes a horizontal slot on the right side.
+The part has a protruding edge along the top.
+There is a protruding edge along the bottom.
+There is a smaller rectangular slot near the top edge.
+The frame includes a vertical rectangular cutout on the right side.
+The part has a horizontal rectangular cutout on the left side.
+The frame has a protruding edge along the bottom.
+
+**Protrusions:**
+The frame has raised edges along the top and bottom.
+The corners of the frame are slightly rounded.
+The frame has raised edges along the perimeter.
+The part has a protruding section on the bottom right.
+The frame has a raised edge along the bottom side.
+The part includes a protruding tab at the top left corner.
+The corners are right angles.
+The top edge is flat and continuous.
+The frame has raised edges along the top and bottom sides.
+The part includes a protruding tab at the bottom left corner.
+The frame has a raised edge along the top perimeter.
+The bottom edge of the component is slightly indented.
+The part has a raised edge along the top side.
+There is a protruding section at the bottom center.
+The part has raised edges along the perimeter.
+The central divider extends fully from top to bottom.
+The part has a raised edge along the inner side of the frame.
+The component has a flanged protrusion at the top corner.
+The left side of the component has a raised edge.
+The bottom edge is slightly elevated.
+The part has a flat base along the bottom edge.
+The frame has a raised edge along the top section.
+The top edge of the frame has a raised section.
+The bottom edge of the frame has a raised section.
+The part has a raised border along the perimeter.
+The central pillar is slightly thicker than the side sections.
+The left side has a vertical protrusion.
+The right side has a horizontal protrusion.
+The part includes raised edges along the top and bottom.
+There are two smaller rectangular slots on the left side.
+
+**Relative Positions:**
+The central vertical division aligns with the horizontal slot.
+The rectangular cutout is positioned on the right side of the frame.
+The central opening is aligned with the dividing line.
+The rectangular slots are positioned symmetrically on opposite sides.
+The rectangular slot is positioned parallel to the bottom edge.
+The small square hole is aligned with the top edge.
+The bottom edge aligns parallel to the top edge.
+The left and right sides are evenly spaced from the top and bottom edges.
+The central rectangular opening is aligned with the frame's main axis.
+Several smaller rectangular slots are positioned symmetrically along the sides.
+The vertical support beam is aligned with the central opening.
+The horizontal support beam intersects the central opening.
+The vertical support beam is centrally aligned within the frame.
+The horizontal slot is positioned parallel to the bottom edge.
+The horizontal slot is aligned with the bottom edge of both vertical sections.
+The slight notch on the top section is positioned near the right corner.
+The rectangular slot is aligned parallel to the frame's base.
+The central cutout is positioned symmetrically within the frame.
+The vertical slot is aligned with the central opening.
+The horizontal slot is parallel to the central opening.
+The vertical sections are aligned parallel to the central opening.
+The horizontal section is positioned above the central opening.
+The vertical slot is aligned with the central opening.
+The horizontal slot is parallel to the central opening.
+The left and right openings are aligned horizontally.
+The base extends slightly beyond the main rectangular area.
+The vertical slot is aligned with the top protrusion.
+The horizontal slot is aligned with the bottom protrusion.
+The central opening is aligned with the vertical cutout.
+The horizontal cutout is positioned parallel to the central opening.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular frame structure with a central vertical division.
+- Two vertical sections divided by a central pillar.
+- Central rectangular opening aligned with the dividing line.
+- Flat top surface with straight and parallel edges.
+
+[HOLES_SLOTS]
+- One large rectangular opening in the middle.
+- Small circular holes near the top left and bottom right corners.
+- Small rectangular slots near the top left and bottom edges.
+- Vertical and horizontal slots on the left and right sides.
+- Horizontal slot near the bottom edge.
+
+[PROTRUSIONS]
+- Raised edges along the top and bottom sides.
+- Protruding tab at the top left and bottom left corners.
+- Slightly rounded corners.
+- Flanged protrusion at the top corner.
+- Central pillar slightly thicker than the side sections.
+
+[RELATIVE_POSITIONS]
+- Central vertical division aligns with the horizontal slot.
+- Rectangular cutout positioned on the right side of the frame.
+- Small square hole aligned with the top edge.
+- Rectangular slots positioned symmetrically on opposite sides.
+- Vertical support beam aligned with the central opening.
+- Horizontal support beam intersects the central opening.
+- Horizontal slot aligned with the bottom edge of both vertical sections.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 2/18 (Images 16-30)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a rectangular frame with two sections.
+This part features a central dividing line separating the two sections.
+The component is a rectangular frame.
+This part features a central vertical support beam.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component is a rectangular frame.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features two vertical sections divided by a central divider.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features two vertical sections on the left side.
+The component is a rectangular frame.
+This part features a central vertical divider.
+The component forms a rectangular frame with straight edges.
+This part features a central rectangular cutout.
+The component forms a rectangular frame with a diagonal crossbar.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features two vertical sections forming a U-shape.
+The component is a rectangular frame.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central vertical support beam.
+
+**Holes & Slots:**
+There is a small rectangular cutout near the top left corner.
+The frame has a large rectangular opening in the middle.
+The part includes a vertical slot on the right side.
+There is a horizontal slot near the bottom edge.
+There is a horizontal slot near the top edge.
+The frame includes a vertical slot on the right side.
+The part has a horizontal protrusion along the bottom edge.
+This component has a vertical protrusion on the left side.
+There is a vertical slot near the top edge.
+The frame includes a horizontal slot near the bottom edge.
+The part has a small circular hole near the bottom left corner.
+There is another small circular hole near the top right corner.
+There is a vertical slot on the right side.
+The frame includes a horizontal slot on the left side.
+The part has a rectangular cutout in the middle.
+There is a small rectangular slot near the bottom edge.
+It contains a large rectangular opening in the middle.
+There is a small rectangular slot near the bottom edge.
+The part has a flat base along the bottom side.
+This section includes a protruding ledge on the right side.
+There is a vertical slot near the left side.
+The frame includes a horizontal slot near the bottom edge.
+The part has a protruding edge along the top side.
+There is a small notch on the right side.
+It contains a large rectangular opening in the center.
+There is a small rectangular slot near the bottom edge.
+The frame has a flat base along the bottom.
+The top section is a continuous horizontal bar.
+There is a horizontal slot near the bottom edge.
+The frame has a uniform rectangular outline.
+This section includes a small circular indentation on the left side.
+The right side of the frame has a slight protrusion.
+There is a narrow slot along the top side.
+The structure includes a series of evenly spaced holes along the bottom edge.
+The part has a flat base with a slight upward angle.
+There is a small circular hole near the bottom left corner.
+There is a smaller rectangular slot near the bottom edge.
+The frame includes a diagonal support beam.
+The part has a large rectangular cutout in the middle.
+There is a small rectangular slot near the top edge.
+There is a narrow slot along the bottom edge.
+The frame includes a small circular hole near the top left corner.
+The structure has a protruding tab at the bottom center.
+There is a rectangular slot on the right side.
+It contains a central rectangular opening.
+There is a horizontal slot near the bottom edge.
+The part has a flat base extending from the bottom.
+This section includes a small notch on the right side.
+There is a vertical slot on the left side.
+The frame includes a horizontal slot on the right side.
+The part has a flat top edge.
+The bottom edge of the component is straight.
+There is a vertical slot on the left side.
+The right side includes a horizontal slot.
+The frame has a consistent thickness throughout.
+The edges are straight and parallel.
+There is a horizontal slot near the bottom edge.
+The object includes a large rectangular opening in the middle.
+This part has a small circular hole on the left side.
+The frame contains a vertical slot on the right side.
+
+**Protrusions:**
+The frame has raised edges along the perimeter.
+The part has a protruding section on the bottom right.
+The frame includes a horizontal protrusion along the top edge.
+There is a vertical protrusion on the right side.
+The frame has raised edges along the top and bottom sides.
+The sides of the frame have slight protrusions at the corners.
+The frame has raised edges along the perimeter.
+The part includes a protruding edge on the top side.
+The frame has raised edges along the top and bottom.
+Several smaller rectangular openings are aligned horizontally.
+The frame has raised corners at each corner.
+Several smaller openings are aligned along the bottom edge.
+The part has a raised edge along the right side.
+The left side has a vertical protrusion extending upwards.
+The part has raised edges along the top and bottom.
+There are two parallel vertical lines on the left side.
+The component has a raised border along the perimeter.
+The frame includes a protruding tab at the top right corner.
+The component has a flat base along the bottom side.
+The part includes a protruding edge on the right side.
+The part has a raised edge along the top side.
+The frame includes a small notch on the left side.
+The frame has raised edges along the perimeter.
+The corners are slightly rounded for structural integrity.
+The corners of the frame are right-angled.
+The sides of the frame are parallel to each other.
+The corners are right angles.
+The top edge is flat and continuous.
+The part has a flat top surface.
+The component has a flat bottom surface.
+
+**Relative Positions:**
+The central opening is aligned with the dividing line.
+The rectangular sections are connected by a shared vertical edge.
+The central support beam is aligned vertically within the frame.
+The horizontal slot is positioned parallel to the top edge.
+The vertical slot is aligned parallel to the left and right edges.
+The two small circular holes are positioned diagonally opposite each other.
+The vertical slot is aligned with the central opening.
+The horizontal slot is positioned parallel to the central opening.
+The central divider is positioned equidistant from the left and right sections.
+The rectangular openings are parallel to each other.
+The central opening is flanked by two vertical slots.
+The protruding edges are parallel to the frame's sides.
+The rectangular opening is centrally aligned with the frame.
+The small slot is positioned parallel to the base.
+The central divider is aligned with the frame's height.
+The horizontal slot is positioned symmetrically on the frame.
+The rectangular slot is parallel to the longer sides.
+Several smaller holes are aligned along the bottom edge near the base.
+The diagonal crossbar intersects the frame near the top left corner.
+The rectangular slot near the bottom edge is aligned parallel to the frame's length.
+The central opening is flanked by two smaller rectangular slots.
+A small protrusion is located at the bottom right corner.
+The central opening is aligned with the horizontal slot.
+The vertical sections are evenly spaced on either side.
+The vertical slot is aligned with the central opening.
+The horizontal slot intersects the central opening.
+The bottom edge aligns parallel to the top edge.
+The vertical slots are evenly spaced along the sides.
+The central support beam is aligned vertically.
+The horizontal slot is positioned parallel to the top edge.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular frame structure with a central dividing line.
+- Central vertical support beam.
+- Two vertical sections divided by a central divider.
+- Central rectangular opening.
+- Diagonal crossbar intersecting the frame.
+
+[HOLES_SLOTS]
+- Large rectangular opening in the middle.
+- Vertical slot on the right side.
+- Horizontal slot near the bottom edge.
+- Small circular hole near the bottom left corner.
+- Small circular hole near the top right corner.
+- Small rectangular slot near the bottom edge.
+- Vertical slot near the top edge.
+- Horizontal slot near the top edge.
+- Small rectangular slot near the top edge.
+
+[PROTRUSIONS]
+- Raised edges along the perimeter.
+- Protruding section on the bottom right.
+- Horizontal protrusion along the top edge.
+- Vertical protrusion on the right side.
+- Raised edges along the top and bottom.
+- Raised corners at each corner.
+- Protruding tab at the bottom center.
+- Flat base along the bottom side.
+- Protruding edge on the right side.
+
+[RELATIVE_POSITIONS]
+- Central opening aligned with the dividing line.
+- Central support beam aligned vertically within the frame.
+- Horizontal slot positioned parallel to the top edge.
+- Vertical slot aligned parallel to the left and right edges.
+- Two small circular holes positioned diagonally opposite each other.
+- Vertical slot aligned with the central opening.
+- Horizontal slot positioned parallel to the central opening.
+- Central divider positioned equidistant from the left and right sections.
+- Rectangular openings parallel to each other.
+- Small slot positioned parallel to the base.
+- Diagonal crossbar intersecting the frame near the top left corner.
+- Rectangular slot near the bottom edge aligned parallel to the frame's length.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 3/18 (Images 31-45)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features two vertical sections divided by a central divider.
+The component is a rectangular frame.
+This part features two vertical sections divided by a central divider.
+The component is a rectangular frame structure.
+This part features two vertical sections divided by a central divider.
+The component is a rectangular frame structure.
+This part features two vertical sections divided by a central divider.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features two vertical sections connected by a horizontal bar.
+The component forms a rectangular frame.
+This part features a central vertical support beam.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component forms a right-angled triangular frame.
+This part features a central elongated rectangular cutout.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component consists of three parallel rectangular bars.
+This part features a central rectangular opening.
+
+**Holes & Slots:**
+There is a horizontal slot near the top edge.
+The frame includes a vertical slot on the right side.
+The part has a flat base along the bottom edge.
+There is a small notch on the left side.
+It contains a large rectangular opening in the middle.
+There is a smaller rectangular section on the right side.
+The part has a flat base extending horizontally.
+This section includes a horizontal divider near the bottom edge.
+It contains a large rectangular opening on the left side.
+There is a smaller rectangular opening on the right side.
+The frame has a flat top edge.
+The bottom edge of the frame is straight and continuous.
+It contains a large rectangular opening in the middle.
+There is a small rectangular slot near the bottom edge.
+The frame has a flat base extending horizontally.
+This section includes a protruding ledge along the top edge.
+It contains a large rectangular opening on the left side.
+There is a smaller rectangular opening on the right side.
+The frame has a flat base along the bottom edge.
+The top edge of the frame is straight and continuous.
+There is a vertical slot near the left side.
+The frame includes a horizontal slot near the bottom edge.
+The part has a rectangular protrusion on the right side.
+There is a small rectangular notch on the top edge.
+There is a vertical slot near the top edge.
+The frame includes a horizontal slot near the bottom edge.
+The part has a rectangular protrusion on one side.
+There is a small rectangular notch on the opposite side.
+There is a small rectangular slot near the bottom edge.
+The object has a flat top surface.
+The part includes a vertical support beam on the left side.
+There is a horizontal support beam on the right side.
+It contains a large rectangular opening in the center.
+There is a smaller rectangular slot near the bottom edge.
+The frame has a flat top surface.
+The sides of the frame are straight and parallel.
+There is a horizontal slot near the bottom edge.
+The object includes a vertical rectangular cutout on the left side.
+The part has a flat top surface.
+This component has a bottom horizontal support beam.
+There is a vertical slot near the top edge.
+The frame includes a horizontal slot near the bottom edge.
+The part has a rectangular cutout in the middle.
+There are two small holes aligned vertically on the right side.
+There is a smaller rectangular slot near the bottom edge.
+The object has a large rectangular opening in the middle.
+This part includes a series of parallel grooves along the length.
+There is a small circular hole near the top right corner.
+There is a smaller rectangular slot near the top edge.
+The frame includes a vertical rectangular slot on the left side.
+The part has a horizontal rectangular slot on the right side.
+The frame has a large rectangular opening in the center.
+There is a vertical slot near the left side.
+The frame includes a horizontal slot near the bottom edge.
+The part has a rectangular protrusion on the top side.
+There is a small rectangular notch on the right side.
+There is a small circular hole near the top right corner.
+The bars have evenly spaced slots along their length.
+The structure has a flat base at the bottom.
+The top bar has a slight protrusion at the end.
+
+**Protrusions:**
+The frame has straight edges along all sides.
+The corners of the frame are right-angled.
+The frame has straight edges along the perimeter.
+The component has a central vertical support beam.
+The frame has a raised border along the perimeter.
+The central divider extends from the top to the bottom edge.
+The part has raised edges along the sides.
+The frame includes a horizontal support beam at the bottom.
+The part has a raised border along the perimeter.
+The central divider extends from the top to the bottom edge.
+The frame has raised edges along the perimeter.
+The part includes a rectangular protrusion on the left side.
+The edges of the frame are raised.
+The corners of the frame are reinforced with additional material.
+The frame has a consistent thickness throughout.
+The edges of the frame are straight and parallel.
+The part has a raised base along the bottom edge.
+The corners of the frame are right-angled.
+The frame has straight edges along the perimeter.
+The part includes a right-angle bend at the corner.
+The frame has raised edges along the perimeter.
+The component has a protruding section on the left side.
+The part has a raised edge along the bottom side.
+The component has a flat protrusion on the top left corner.
+The part has raised edges along the top and bottom sides.
+The frame includes a protruding edge on the left side.
+The frame has raised edges along the perimeter.
+The part includes a rectangular protrusion on the bottom side.
+The sides of the bars are straight and uniform.
+The component has a symmetrical design.
+
+**Relative Positions:**
+The horizontal slot is parallel to the top edge.
+The vertical slot aligns with the right side of the frame.
+The left section is aligned parallel to the right section.
+The horizontal base is connected to both vertical sections.
+The left rectangular opening is aligned with the central divider.
+The right rectangular opening is positioned adjacent to the central divider.
+The central divider is positioned equidistant from the left and right sections.
+Several smaller rectangular openings are aligned vertically along the sides.
+The left rectangular opening is aligned with the left side of the frame.
+The right rectangular opening is aligned with the right side of the frame.
+The vertical slot is aligned with the central opening.
+The horizontal slot is positioned parallel to the central opening.
+The central opening is aligned with the vertical slot.
+The horizontal slot is parallel to the base of the frame.
+The central opening is aligned with the horizontal beam.
+The vertical and horizontal beams intersect at the center.
+The horizontal bar is centered between the two vertical sections.
+The rectangular opening spans the entire height of the frame.
+The vertical support beam is centrally aligned.
+The horizontal slot is parallel to the base.
+The vertical slot is positioned above the horizontal slot.
+The central opening is flanked by two smaller holes on the right side.
+Several smaller rectangular slots are aligned along the bottom edge.
+The central rectangular cutout is flanked by two parallel slots.
+The central opening is aligned with the vertical slot on the left.
+The horizontal slot on the right is parallel to the central opening.
+The vertical slot is aligned with the central opening.
+The horizontal slot is positioned parallel to the central opening.
+The slots are aligned parallel to the bars.
+The circular hole is positioned close to the central opening.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular frame structure with a central rectangular opening.
+- Two vertical sections divided by a central divider.
+- Three parallel rectangular bars configuration.
+- Central vertical support beam.
+
+[HOLES_SLOTS]
+- Large rectangular opening in the middle.
+- Horizontal slot near the top edge.
+- Vertical slot on the right side.
+- Small rectangular slot near the bottom edge.
+- Small circular hole near the top right corner.
+- Vertical slot near the left side.
+- Horizontal slot near the bottom edge.
+- Smaller rectangular opening on the right side.
+
+[PROTRUSIONS]
+- Raised border along the perimeter.
+- Rectangular protrusion on the right side.
+- Flat protrusion on the top left corner.
+- Raised edges along the sides.
+- Central divider extends from the top to the bottom edge.
+
+[RELATIVE_POSITIONS]
+- Central opening aligned with the vertical slot on the left.
+- Horizontal slot parallel to the top edge.
+- Vertical slot aligns with the right side of the frame.
+- Central divider positioned equidistant from the left and right sections.
+- Horizontal slot parallel to the base of the frame.
+- Vertical slot positioned above the horizontal slot.
+- Central opening flanked by two smaller holes on the right side.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 4/18 (Images 46-60)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component forms a rectangular frame with four straight sides.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component forms a rectangular frame with four straight sides.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features two vertical sections connected by a horizontal bar.
+The component is a rectangular frame.
+This part features two vertical sections.
+The component forms a rectangular frame with a flat top.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component is a rectangular frame with a right-angle bend.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features three vertical sections.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+
+**Holes & Slots:**
+There is a small rectangular slot near the bottom edge.
+The object has a flat top surface.
+The part includes a vertical support beam on the left side.
+There is a horizontal support beam on the bottom side.
+There is a small circular hole near the top left corner.
+The frame includes a vertical slot on the right side.
+The part has a horizontal slot on the bottom edge.
+There is a small circular hole near the bottom right corner.
+There is a horizontal slot near the top edge.
+The frame includes a vertical slot on the right side.
+The part has a flat base extending from the bottom.
+There is a small notch on the left side.
+There is a vertical slot near the left side.
+The right side includes a horizontal slot.
+The top edge has a small rectangular cutout.
+The bottom edge features a similar small rectangular cutout.
+It contains a large rectangular opening in the center.
+There is a smaller rectangular slot near the top left corner.
+The frame has a central vertical division.
+A horizontal slot is present near the bottom edge.
+It contains a central rectangular opening.
+There is a horizontal section connecting the vertical parts.
+The frame has a right-angled corner.
+This part includes a flat base.
+There is a vertical slot on the left side.
+The right side includes a diagonal support beam.
+The frame has a horizontal base connecting the vertical supports.
+The structure includes a triangular brace at the bottom right corner.
+There is a small rectangular slot near the bottom edge.
+The object has a large rectangular cutout in the middle.
+This part includes a long horizontal slot on the top side.
+There is a narrow rectangular slot on the left side.
+There is a smaller rectangular slot adjacent to the main opening.
+The frame has a consistent width throughout its structure.
+The part includes a vertical protrusion on one side.
+There is a horizontal protrusion on the opposite side.
+There is a vertical slot near the left edge.
+The frame includes a horizontal slot near the bottom edge.
+The part has a rectangular protrusion on the top side.
+There is a small rectangular notch on the right side.
+There is a small rectangular slot near the top edge.
+The frame includes a larger rectangular cutout in the middle.
+The part has a protruding edge along the bottom side.
+There is a smaller rectangular slot near the bottom edge.
+There is a vertical slot on the right side.
+The frame includes a horizontal slot on the left side.
+The part has a rectangular protrusion at the bottom.
+There is a small rectangular notch near the top left corner.
+There is a vertical slot near the left side.
+The frame includes a horizontal slot near the bottom edge.
+The part has a flat top surface.
+This section has a protruding edge along the right side.
+It contains a large rectangular opening in the center.
+There is a smaller rectangular slot near the bottom edge.
+The frame has a flat top edge.
+The sides of the frame are straight and parallel.
+There is a small rectangular slot near the bottom edge.
+The object has a large rectangular cutout in the middle.
+This part includes a long horizontal slot on the top side.
+There is a narrow rectangular slot on the left side.
+
+**Protrusions:**
+The frame has a consistent thickness throughout.
+The edges of the frame are straight and parallel.
+The frame has raised edges along the top and bottom.
+The part includes a protruding tab on the left side.
+The frame has straight edges along the perimeter.
+The corners are reinforced with additional material.
+The frame has raised edges along all four sides.
+The corners are slightly rounded.
+The part has raised edges along the perimeter.
+The corners of the frame are reinforced with additional material.
+The edges are straight and uniform.
+The corners are sharply defined.
+The edges of the frame are straight and uniform.
+The component has a flat surface along the top edge.
+The part has a raised edge along the top side.
+The component has a protruding edge on the right side.
+The edges of the frame are straight and parallel.
+The frame has a uniform thickness along its perimeter.
+The frame has raised edges along the top and bottom.
+The part includes a rectangular protrusion on the left side.
+The component has a raised edge along the left side.
+The frame includes a protruding corner on the top right.
+The frame has raised edges along the top and bottom.
+The sides of the frame have slight protrusions.
+The frame has a raised border around the perimeter.
+Several smaller rectangular cutouts are aligned vertically.
+The part has a raised base along the bottom.
+The corners of the frame are right-angled.
+The part has a raised edge along the top side.
+The component has a protruding edge on the right side.
+
+**Relative Positions:**
+The vertical support beam is aligned with the left side of the frame.
+The horizontal support beam is positioned centrally along the bottom edge.
+The central opening is flanked by two smaller slots on opposite sides.
+Several small holes are arranged symmetrically around the central opening.
+The horizontal slot is aligned with the central opening.
+The vertical slot intersects the central opening.
+The vertical slot is aligned with the central opening.
+The horizontal slot is positioned parallel to the central opening.
+The smaller slot is aligned parallel to the horizontal bar.
+The central opening is flanked by two vertical sections.
+The vertical sections are aligned parallel to each other.
+The horizontal section is centered between the vertical parts.
+The vertical supports are evenly spaced along the frame.
+The diagonal beam intersects the vertical support on the right side.
+The rectangular slot is positioned parallel to the top edge.
+The central opening is aligned with the horizontal slot.
+The smaller slot is aligned parallel to the main opening.
+The vertical and horizontal protrusions are positioned at opposite ends.
+The central opening is flanked by two vertical slots.
+The rectangular protrusions are positioned symmetrically on the top and bottom sides.
+The central opening is aligned with the rectangular slots.
+The rectangular slots are positioned symmetrically on opposite sides.
+The vertical slot is aligned with the central opening.
+The horizontal slot is positioned parallel to the central opening.
+The central opening is flanked by two vertical slots.
+The protruding edges are evenly spaced along the frame.
+The central opening is flanked by two vertical sections.
+The smaller slot is aligned horizontally with the central opening.
+The rectangular slot is positioned parallel to the top edge.
+The central opening is aligned with the horizontal slot.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular frame structure with four straight sides.
+- Central rectangular opening.
+- Two vertical sections connected by a horizontal bar.
+- Flat top edge.
+- Consistent width throughout the structure.
+
+[HOLES_SLOTS]
+- Small rectangular slot near the bottom edge.
+- Small circular hole near the top left and bottom right corners.
+- Horizontal slot near the top and bottom edges.
+- Vertical slot on the left and right sides.
+- Central rectangular opening.
+- Small rectangular notch on the left and right sides.
+- Horizontal slot aligned with the central opening.
+
+[PROTRUSIONS]
+- Raised edges along the top and bottom.
+- Rectangular protrusion on the left side.
+- Protruding tab on the left side.
+- Raised edge along the top side.
+- Protruding edge on the right side.
+- Raised border around the perimeter.
+
+[RELATIVE_POSITIONS]
+- Vertical support beam aligned with the left side.
+- Horizontal support beam positioned centrally along the bottom edge.
+- Central opening flanked by two vertical sections.
+- Vertical slots aligned with the central opening.
+- Horizontal slot positioned parallel to the central opening.
+- Rectangular protrusions positioned symmetrically on the top and bottom sides.
+- Vertical and horizontal protrusions positioned at opposite ends.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 5/18 (Images 61-75)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component forms a rectangular frame.
+This part features a central vertical support beam.
+The component forms a rectangular frame.
+This part features a central vertical support beam.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component is an L-shaped metal frame.
+This part features a large rectangular opening in the center.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component forms a rectangular frame with a flat top.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component forms a right-angled triangular frame.
+This part features a central elongated rectangular slot.
+The component is a rectangular frame structure.
+This part features two vertical sections divided by a central pillar.
+The component is a rectangular frame.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central vertical support beam.
+The component is an L-shaped metal frame.
+This part features a large rectangular opening in the center.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+
+**Holes & Slots:**
+There is a horizontal slot near the top edge.
+The object includes a vertical rectangular cutout on the left side.
+The part has a flat top surface.
+This component has a bottom horizontal support beam.
+There is a horizontal slot near the top edge.
+The structure includes a vertical slot on the right side.
+The frame has a horizontal support beam at the bottom.
+This part contains a small circular hole near the bottom left corner.
+There is a small rectangular slot near the bottom edge.
+The object has a large rectangular cutout in the middle.
+This part includes a long horizontal slot on the right side.
+There is a narrow rectangular slot on the left side.
+There is a smaller rectangular slot near the bottom edge.
+The frame has a central rectangular cutout.
+A narrow rectangular slot is present on the right side.
+The left side of the component has a small circular hole.
+There is a vertical slot on the left side.
+The right side includes a horizontal slot.
+The frame has a uniform thickness throughout.
+The edges are straight and parallel.
+There is a vertical slot near the left side.
+The frame includes a horizontal slot near the bottom edge.
+The part has a protruding edge along the top side.
+There is a small notch on the right side.
+There is a vertical support beam on the left side.
+The right side includes a vertical support beam.
+The frame has a horizontal support beam at the bottom.
+The top edge is straight and continuous.
+There is a horizontal slot near the top edge.
+The frame includes a vertical slot on the right side.
+The part has a small rectangular hole near the bottom left corner.
+There is a rectangular slot on the left side.
+There is a smaller rectangular slot near the bottom edge.
+The object has a large circular hole at the top corner.
+The part includes a series of evenly spaced holes along the side.
+There is a rectangular slot positioned parallel to the base.
+It contains a large rectangular opening on the right side.
+There is a smaller rectangular opening on the left side.
+The frame has a flat base along the bottom edge.
+The top edge of the frame is straight and continuous.
+There is a vertical slot near the left side.
+The frame includes a horizontal slot near the bottom edge.
+The part has a rectangular protrusion on the top side.
+There is a small rectangular notch on the right side.
+There is a horizontal slot near the bottom edge.
+The object includes a small circular hole on the left side.
+The part has a rectangular cutout in the middle.
+This component has a large rectangular slot on the right side.
+There is a small circular hole near the bottom left corner.
+The frame includes a narrow vertical slot on the right side.
+The part has a protruding edge along the top.
+There is a small rectangular slot near the bottom right corner.
+There is a small rectangular slot near the bottom edge.
+The frame has a consistent width throughout.
+The corners of the frame are reinforced with additional material.
+There are no circular holes present in this design.
+There is a vertical slot near the left side.
+The frame includes a horizontal slot near the bottom edge.
+The part has a protruding edge along the top side.
+There is a small notch on the right side.
+
+**Protrusions:**
+The frame has a protruding edge along the top side.
+The part includes a vertical protrusion on the right side.
+The component has a flat base along the bottom edge.
+The frame includes a vertical protrusion on the left side.
+The part has raised edges along the top and bottom.
+The component has a protruding edge on the left side.
+The part has raised edges along the top and bottom.
+The frame includes a protruding tab on the left side.
+The corners are right angles.
+The component has a flat top surface.
+The component has raised corners at each corner.
+Several smaller rectangular cutouts are arranged symmetrically.
+The corners are right-angled and sharp.
+The sides are straight and parallel to each other.
+The frame has a raised edge along the bottom side.
+The part includes a protruding section at the bottom right corner.
+The frame has raised edges along the top and bottom sides.
+The component has a protruding section at the top left corner.
+The part has a raised border along the perimeter.
+The central pillar extends vertically between the two sections.
+The frame has raised edges along the perimeter.
+The part includes a rectangular protrusion on the bottom side.
+The part has a raised edge along the top perimeter.
+The component includes a protruding section on the bottom left corner.
+The component has a raised edge along the left side.
+The part includes a protruding tab on the bottom left.
+The edges of the frame are slightly raised.
+The frame has a uniform thickness along all sides.
+The frame has raised corners at each corner.
+The part includes a series of parallel lines along the sides.
+
+**Relative Positions:**
+The central support beam is aligned vertically within the frame.
+The horizontal slot is positioned parallel to the top edge.
+The central support beam is aligned vertically within the frame.
+The horizontal slot is positioned parallel to the top edge.
+The rectangular slot is positioned parallel to the top edge.
+The central opening is aligned with the horizontal slot.
+The central opening is aligned with the rectangular slot on the right.
+The small circular hole is positioned near the left protruding tab.
+The vertical slot is aligned with the left edge.
+The horizontal slot is aligned with the bottom edge.
+The central opening is flanked by two vertical slots.
+The protruding edges are parallel to the frame's sides.
+The vertical beams are equidistant from the central opening.
+The bottom beam aligns symmetrically with the top edge.
+The central opening is aligned with the horizontal slot.
+The vertical slot is positioned adjacent to the central opening.
+The central slot is aligned with the bottom rectangular slot.
+Several smaller holes are arranged symmetrically around the central slot.
+The left section is aligned parallel to the right section.
+The openings are evenly spaced within the frame structure.
+The vertical slot is aligned with the central opening.
+The horizontal slot is positioned parallel to the central opening.
+The central support beam is aligned vertically.
+The rectangular slot on the right side is parallel to the top edge.
+The large rectangular opening is positioned centrally.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is aligned parallel to the longer sides.
+The central opening is symmetrical within the frame.
+The central opening is flanked by two vertical slots.
+The horizontal slot is aligned with the central opening.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular frame structure with a central vertical support beam.
+- L-shaped metal frame configuration.
+- Central rectangular opening within the frame.
+- Right-angled triangular frame design.
+
+[HOLES_SLOTS]
+- Horizontal slot near the top edge.
+- Vertical rectangular cutout on the left side.
+- Small circular hole near the bottom left corner.
+- Large rectangular opening in the center.
+- Vertical slot on the right side.
+- Small rectangular slot near the bottom edge.
+- Narrow rectangular slot on the left side.
+- Horizontal slot near the bottom edge.
+
+[PROTRUSIONS]
+- Protruding edge along the top side.
+- Vertical protrusion on the right side.
+- Flat base along the bottom edge.
+- Raised edges along the top and bottom.
+- Protruding tab on the left side.
+- Raised corners at each corner.
+- Raised border along the perimeter.
+- Rectangular protrusion on the bottom side.
+
+[RELATIVE_POSITIONS]
+- Central support beam aligned vertically within the frame.
+- Horizontal slot positioned parallel to the top edge.
+- Central opening aligned with the horizontal slot.
+- Vertical slot aligned with the left edge.
+- Horizontal slot aligned with the bottom edge.
+- Central opening flanked by two vertical slots.
+- Protruding edges parallel to the frame's sides.
+- Vertical beams equidistant from the central opening.
+- Bottom beam aligns symmetrically with the top edge.
+- Vertical slot positioned adjacent to the central opening.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 6/18 (Images 76-90)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features two vertical sections divided by a central divider.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component forms a rectangular frame with four straight sides.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features a central vertical division.
+The component forms a rectangular frame with four straight sides.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a large rectangular opening in the center.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features two vertical sections divided by a central divider.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features two vertical sections connected by a horizontal base.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+
+**Holes & Slots:**
+There is a small rectangular slot near the top edge.
+The frame includes a larger rectangular cutout in the middle.
+The part has a protruding edge along the bottom side.
+There is a small circular hole near the bottom left corner.
+There is a horizontal slot near the bottom edge.
+The frame includes a small circular indentation on the left side.
+The right side of the component has a protruding edge.
+The top edge of the frame is slightly elevated.
+There is a small circular hole near the top left corner.
+The structure includes a long horizontal slot on the bottom side.
+The part has a vertical slot on the right side.
+There is a small circular hole near the bottom right corner.
+There is a small rectangular slot near the bottom edge.
+The object has a flat top surface.
+The part includes a vertical support beam on the left side.
+There is a horizontal support beam on the bottom side.
+There is a vertical slot on the right side.
+The left side includes a horizontal slot.
+The frame has a consistent thickness throughout.
+The edges are straight and parallel.
+It contains two large rectangular openings side by side.
+There is a small rectangular slot near the bottom edge.
+The frame has a flat base along the bottom.
+The top edge is straight and continuous.
+There is a vertical slot on the right side of the frame.
+The left side of the component includes a horizontal slot near the bottom.
+The top edge of the part has a slight indentation.
+The bottom edge of the component is flat and continuous.
+There is a small rectangular slot near the bottom edge.
+The frame has a consistent rectangular profile throughout.
+This part includes a central rectangular cutout.
+There is a narrow rectangular slot on the right side.
+There is a vertical slot near the top edge.
+The frame includes a horizontal slot near the bottom edge.
+The part has a rectangular protrusion on the right side.
+There is a small rectangular hole near the left side.
+It contains a large rectangular opening on the left side.
+There is a smaller rectangular opening on the right side.
+The frame has a flat base along the bottom edge.
+The top edge is straight and continuous without any interruptions.
+There is a small rectangular slot near the top edge.
+The frame includes a larger rectangular cutout in the middle.
+The part has a straight horizontal slot on the top side.
+There is a narrow rectangular slot on the bottom side.
+There is a small rectangular slot near the top edge.
+The frame includes a larger rectangular slot on the side.
+The part has a protruding edge along the bottom side.
+There is a small notch on the upper right corner.
+It contains a large rectangular opening in the center.
+There is a smaller rectangular slot near the bottom edge.
+The frame has a protruding edge along the top side.
+This section includes a small circular indentation on the left side.
+There is a vertical slot near the left side.
+The frame includes a horizontal slot on the right side.
+The part has a protruding edge along the top.
+There is a raised corner at the top-right corner.
+There is a small rectangular slot near the top edge.
+The object has a large rectangular cutout in the middle.
+This part includes a long rectangular slot on one side.
+The component has a rectangular hole near the bottom edge.
+
+**Protrusions:**
+The component has a raised edge along the right side.
+The frame includes a small rectangular slot near the top right corner.
+The left section has a rectangular cutout near the bottom.
+The bottom edge features a slight inward curve.
+The frame has raised edges along the perimeter.
+The corners of the frame are slightly rounded.
+The edges of the component are straight and uniform.
+The part has a slight inward curve at the corners.
+The corners are right angles.
+The top edge is flat and continuous.
+The part has a raised border along the perimeter.
+The corners are right-angled and sharp.
+The frame has a protruding lip along the top side.
+The corners of the part are sharply defined and right-angled.
+The part has straight edges along the perimeter.
+The frame has a uniform rectangular outline.
+The frame has raised edges along the top and bottom.
+The part includes a vertical protrusion on the left side.
+The part has a raised border along the perimeter.
+The central divider extends from the top to the bottom edge.
+The edges of the frame are slightly raised.
+The corners of the frame are reinforced with thicker sections.
+The component has a raised edge along the left side.
+The frame includes a small rectangular protrusion on the bottom left.
+The part has raised edges along the bottom perimeter.
+There is a rectangular notch on the right side.
+Several smaller rectangular openings are aligned along the bottom edge.
+The component has a flat base at the bottom.
+The part has raised edges along the perimeter.
+There are two small protrusions on the left side.
+
+**Relative Positions:**
+The central rectangular opening is aligned with the frame's center.
+Several smaller rectangular slots are positioned along the bottom edge.
+The central divider extends from the top to the bottom edge.
+The right vertical section is slightly thicker than the left.
+The rectangular slot is aligned parallel to the bottom edge.
+The small circular holes are symmetrically placed on opposite corners.
+The vertical support beam is aligned with the left side of the frame.
+The horizontal support beam is positioned directly below the central opening.
+The bottom edge aligns parallel to the top edge.
+The vertical slots are evenly spaced along the sides.
+The two openings are evenly spaced within the frame.
+The base extends slightly beyond the main rectangular area.
+The vertical slot is aligned parallel to the right side.
+The horizontal slot is positioned adjacent to the bottom edge.
+The rectangular slot is aligned parallel to the frame's length.
+The central opening is surrounded by a rectangular border.
+The vertical slot is positioned above the horizontal slot.
+The rectangular protrusion is aligned with the central opening.
+The left rectangular opening is positioned adjacent to the frame's left side.
+The right rectangular opening is aligned parallel to the left opening.
+The central opening is aligned with the horizontal slot.
+The rectangular cutout is positioned symmetrically within the frame.
+The central opening is aligned with the rectangular slots on the sides.
+The notch is positioned adjacent to the rectangular slot on the top edge.
+The central opening is flanked by two vertical sections.
+The smaller slot is positioned directly below the central opening.
+The vertical slot is positioned adjacent to the central opening.
+The horizontal slot is parallel to the central opening.
+The rectangular slot is positioned parallel to the top edge.
+The central opening is aligned with the rectangular slots.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular frame structure with four straight sides.
+- Central rectangular opening.
+- Two vertical sections divided by a central divider.
+- Flat base along the bottom edge.
+
+[HOLES_SLOTS]
+- Small circular holes near the bottom left and right corners.
+- Small rectangular slots near the top and bottom edges.
+- Horizontal slot near the bottom edge.
+- Vertical slot on the right side.
+- Large rectangular opening in the center.
+
+[PROTRUSIONS]
+- Raised edge along the right side.
+- Raised border along the perimeter.
+- Central divider extends from the top to the bottom edge.
+- Vertical protrusion on the left side.
+- Flat base at the bottom.
+
+[RELATIVE_POSITIONS]
+- Central rectangular opening aligned with the frame's center.
+- Vertical slots evenly spaced along the sides.
+- Horizontal support beam positioned directly below the central opening.
+- Rectangular slot aligned parallel to the bottom edge.
+- Central opening surrounded by a rectangular border.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 7/18 (Images 91-105)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component forms a rectangular frame with a flat top.
+This part features a central rectangular opening.
+The component is an L-shaped metal frame.
+This part features a central rectangular opening.
+The component consists of three parallel metal bars.
+This part features a triangular frame at one end.
+The component is a rectangular frame structure.
+This part features two vertical sections divided by a central divider.
+The component is an L-shaped metal bracket.
+This part features a large rectangular slot near the bottom edge.
+The component forms a rectangular frame with a flat top.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component forms a rectangular frame with a flat top.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features a large rectangular opening in the center.
+The component is a rectangular frame structure.
+This part features two vertical panels connected by a horizontal beam.
+The component consists of three parallel elongated beams.
+This part features a triangular cross-section along its length.
+The component is a rectangular frame with a flat top.
+This part features a central rectangular opening.
+The component is an L-shaped metal frame.
+This part features a large rectangular opening in the center.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features two vertical sections divided by a central divider.
+
+**Holes & Slots:**
+There is a small rectangular slot near the bottom edge.
+The frame has two vertical supports on either side.
+The structure includes a horizontal base connecting the supports.
+The component has a flat top surface extending across the width.
+There is a small circular hole near the top left corner.
+The frame includes a vertical slot on the right side.
+The part has a protruding edge along the bottom.
+There is a horizontal slot near the bottom edge.
+It contains a small square hole near the top corner.
+There is a rectangular slot along the side of the bars.
+The bars have a consistent width throughout their length.
+The triangular frame has a right-angle bend.
+It contains a large rectangular opening in the middle.
+There is a small rectangular slot near the bottom edge.
+The part has a flat base along the bottom side.
+This section includes a protruding ledge on the right side.
+It contains one central circular hole.
+There is a smaller rectangular slot adjacent to the main slot.
+The part has a raised edge along the longer side.
+The component includes a small circular hole near the corner.
+There is a vertical slot on the right side.
+The left side includes a horizontal slot near the bottom.
+The frame has a consistent thickness throughout.
+The corners are right-angled, providing a sharp geometric transition.
+There is a vertical slot on the right side.
+The left side includes a horizontal slot.
+The frame has a uniform thickness throughout.
+The corners are sharply angled and precise.
+There is a vertical support beam on the left side.
+The right side includes a diagonal support beam.
+The frame has a horizontal base connecting the supports.
+The top edge is straight and parallel to the base.
+There is a small rectangular slot near the bottom edge.
+The frame has a central rectangular cutout.
+This part includes a vertical rectangular slot on the left side.
+There is a horizontal rectangular slot on the right side.
+It contains a central rectangular opening.
+There is a small rectangular slot near the bottom edge.
+The frame has a flat top surface.
+The sides of the frame are straight and parallel.
+The beams have a consistent rectangular profile throughout.
+There are no visible holes or slots on the surface.
+The edges of the beams are sharply defined and straight.
+The component maintains a uniform thickness from one end to the other.
+There is a vertical slot on the right side.
+The frame includes a horizontal slot near the bottom edge.
+The part has a protruding edge along the top side.
+There is a small notch on the left side.
+There is a small circular hole near the top left corner.
+The frame includes a narrow vertical slot on the right side.
+The part has a protruding edge along the bottom.
+There is a small rectangular slot near the bottom right corner.
+There is a long horizontal slot near the top edge.
+The structure includes a vertical slot on the left side.
+The part has a protruding edge along the bottom.
+There is a small notch on the right side.
+It contains a large rectangular opening in the middle.
+There is a small rectangular slot near the bottom edge.
+The part has a flat top surface.
+This section includes a horizontal divider at the top.
+
+**Protrusions:**
+The part has a consistent thickness throughout its structure.
+The edges of the frame are straight and parallel.
+The component has raised corners at the intersections.
+Several smaller holes are arranged symmetrically around the central opening.
+The edges of the bars are slightly raised.
+The bars are aligned in a straight configuration.
+The frame has raised edges along the top and bottom.
+Several smaller rectangular openings are aligned vertically.
+The part has a protruding tab at the top right corner.
+There is a rectangular slot positioned parallel to the longer side.
+The edges are straight and parallel to the frame's sides.
+The top edge is slightly elevated compared to the bottom edge.
+The edges are straight and well-defined.
+The part has no raised or indented features.
+The left vertical beam is perpendicular to the base.
+The diagonal beam connects the top and right vertical beams.
+The part has raised edges along the top and bottom.
+The frame includes protruding corners at each corner.
+The part has a protruding ledge along the bottom edge.
+The corners of the frame are right-angled.
+The beams are connected at one end forming a right angle.
+The opposite ends of the beams are open and free.
+The frame has a raised border around the perimeter.
+Several small holes are evenly spaced along the vertical slot.
+The component has a raised edge along the left side.
+The part includes a small circular hole near the top right corner.
+The frame has a raised border around the perimeter.
+The component includes a corner reinforcement at the intersection.
+The frame has raised edges along the perimeter.
+The corners of the frame are right-angled.
+
+**Relative Positions:**
+The rectangular opening is aligned centrally within the frame.
+The supports are evenly spaced from the central opening.
+The rectangular slot is positioned parallel to the vertical edge.
+The protruding edges are consistent along the length of the frame.
+The square hole is positioned close to the triangular frame.
+The rectangular slot is located between the bars.
+The central divider is positioned equidistant from the left and right sections.
+The rectangular openings are parallel to the longer sides of the frame.
+The central hole is aligned with the main rectangular slot.
+Several smaller holes are arranged symmetrically around the central opening.
+The vertical slot is aligned with the right side of the frame.
+The horizontal slot is positioned symmetrically on the left side.
+The slots are aligned parallel to the frame's sides.
+The rectangular opening is centrally positioned within the frame.
+The central opening is aligned with the horizontal base.
+The diagonal support beam intersects the central opening.
+The rectangular slot on the left is aligned vertically.
+The rectangular slot on the right is aligned horizontally.
+The central opening is flanked by two vertical panels.
+The horizontal beam spans the width of the frame.
+The right angle connection is precise and symmetrical.
+The beams extend in a straight line from the connected end.
+The rectangular opening is centrally aligned within the frame.
+The horizontal slot is positioned parallel to the base.
+The large rectangular opening is positioned centrally.
+Several smaller holes are arranged around the central rectangular opening.
+The horizontal slot is aligned parallel to the top edge.
+The vertical slot is positioned adjacent to the central opening.
+The central divider is aligned vertically with the frame.
+The rectangular openings are evenly spaced within the frame.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular frame structure with a flat top.
+- Central rectangular opening.
+- L-shaped metal frame.
+- Three parallel elongated beams.
+- Triangular cross-section along its length.
+
+[HOLES_SLOTS]
+- Small rectangular slot near the bottom edge.
+- Small circular hole near the top left corner.
+- Central rectangular opening.
+- Vertical slot on the right side.
+- Horizontal slot near the bottom edge.
+- Small rectangular slot near the bottom right corner.
+- Long horizontal slot near the top edge.
+- Vertical slot on the left side.
+
+[PROTRUSIONS]
+- Raised edges along the top and bottom.
+- Protruding ledge along the bottom edge.
+- Protruding tab at the top right corner.
+- Raised corners at the intersections.
+- Raised border around the perimeter.
+
+[RELATIVE_POSITIONS]
+- Rectangular opening centrally aligned within the frame.
+- Vertical slot aligned with the right side of the frame.
+- Horizontal slot positioned symmetrically on the left side.
+- Central divider equidistant from the left and right sections.
+- Diagonal support beam intersects the central opening.
+- Rectangular slot positioned parallel to the vertical edge.
+- Small circular hole near the top right corner.
+- Several smaller holes arranged symmetrically around the central opening.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 8/18 (Images 106-120)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features two vertical sections divided by a central divider.
+The component forms a rectangular frame with straight edges.
+This part features a central rectangular opening.
+The component consists of three parallel elongated beams.
+This part features a flat rectangular base at one end.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component forms a rectangular frame with straight edges.
+This part features a central rectangular opening.
+The component is a rectangular frame.
+This part features two vertical sections divided by a central pillar.
+The component is a rectangular frame structure.
+This part features two vertical sections divided by a central divider.
+The component consists of three parallel metal bars.
+This part features a rectangular cross-section along its length.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component forms a rectangular frame with straight edges.
+This part features a central rectangular cutout.
+The component is an L-shaped metal frame.
+This part features a large rectangular opening in the center.
+The component is an L-shaped metal frame.
+This part features a central rectangular opening.
+
+**Holes & Slots:**
+There is a long horizontal slot on the left side.
+The right side includes a vertical slot near the top.
+The frame has a protruding corner at the top left.
+The bottom edge has a slight indentation.
+It contains a large rectangular opening in the middle.
+There is a small rectangular slot near the bottom edge.
+The part has a flat top surface.
+This section includes a horizontal divider at the top.
+There is a small rectangular slot near the bottom edge.
+The frame includes a larger rectangular cutout in the middle.
+The part has a flat base extending from one side.
+There is a narrow slot along the top side of the frame.
+There is a small rectangular slot near the top of the beams.
+The beams have a series of evenly spaced holes along their length.
+The structure includes a protruding bracket at the base.
+The component has a central alignment with symmetrical design.
+There is a vertical slot on the right side.
+The left side includes a horizontal slot near the bottom.
+The frame has a consistent rectangular profile throughout.
+The corners are reinforced with additional structural elements.
+There is a vertical slot near the left edge.
+The frame includes a horizontal slot near the bottom edge.
+The part has a rectangular protrusion on the top side.
+There is a small rectangular protrusion on the right side.
+There is a smaller rectangular slot near the bottom edge.
+The frame includes a larger rectangular cutout in the middle.
+The part has a protruding edge along the top side.
+There is a small notch on the right side of the frame.
+It contains a large rectangular opening in the middle.
+There is a small rectangular slot near the bottom edge.
+The part has a flat top surface.
+This section includes a horizontal divider at the top.
+It contains a large rectangular opening on the left side.
+There is a smaller rectangular opening on the right side.
+The frame has a flat top edge.
+The bottom edge of the frame is also flat.
+The bars have a series of evenly spaced holes along their sides.
+There is a central rectangular slot running through the middle bar.
+The bars are connected by a vertical support structure.
+The support structure has a square base at the top.
+There is a small rectangular slot near the top edge.
+The frame includes a larger rectangular slot on the side.
+The part has a protruding edge along the bottom side.
+There is a small notch on the right side.
+There is a small square hole near the top left corner.
+The frame includes a long horizontal slot on the right side.
+The part has a vertical slot on the left side.
+There is a small circular hole near the bottom right corner.
+There is a narrow slot along the top side.
+The object includes a small circular hole near the bottom left corner.
+The part has a rectangular slot on the right side.
+There is a small rectangular hole positioned near the bottom right corner.
+There is a small circular hole near the top left corner.
+The frame includes a narrow vertical slot on the right side.
+The part has a protruding edge along the bottom.
+There is a small rectangular slot near the bottom left corner.
+There is a small circular hole near the corner.
+The frame includes a long horizontal slot on one side.
+The part has a vertical protrusion along the left edge.
+There are two parallel slots on the right side.
+
+**Protrusions:**
+The top edge is slightly raised compared to the rest.
+The sides have parallel grooves running along their length.
+The frame has raised edges along the perimeter.
+The corners of the frame are right-angled.
+The edges of the frame are slightly raised.
+The corners of the frame are reinforced with additional material.
+The beams are connected by a perpendicular support at the base.
+The part has a flat surface on the underside of the beams.
+The edges are slightly raised for added stability.
+The top edge has a protruding lip for mounting purposes.
+The frame has raised edges along the top and bottom sides.
+The left side of the frame has a vertical protrusion.
+The component has a raised edge along the left side.
+The frame includes a series of parallel lines running along the length.
+The frame has a raised border along the perimeter.
+The central pillar extends vertically through the middle.
+The frame has a raised border along the perimeter.
+The central divider extends from the top to the bottom edge.
+The bars have flanges at both ends for attachment.
+The flanges have multiple holes for fastening purposes.
+The component has a raised edge along the left side.
+The part includes a small rectangular cutout near the bottom.
+The frame has raised edges along the top and bottom.
+The corners of the frame are reinforced with additional material.
+The frame has a raised edge along the bottom side.
+The component has a protruding section at the top right corner.
+The frame has raised edges along the top and bottom.
+Several smaller holes are arranged around the central opening.
+The component has a raised edge along the bottom.
+The top edge features a slight indentation.
+
+**Relative Positions:**
+The horizontal slot is aligned with the bottom edge.
+The vertical slot is positioned above the horizontal slot.
+The central divider is aligned vertically with the frame.
+The rectangular openings are evenly spaced within the frame.
+The central opening is aligned with the main rectangular shape.
+The base extends outward, providing stability to the structure.
+The rectangular slot is aligned parallel to the beams.
+The protruding bracket is positioned directly beneath the beams.
+The central opening is flanked by two vertical slots.
+The bottom section includes a recessed area for alignment.
+The central opening is flanked by two vertical slots.
+The rectangular protrusions are positioned symmetrically on the top and bottom sides.
+The central opening is aligned with the main rectangular shape.
+The smaller slot is positioned adjacent to the central opening.
+The two vertical sections are symmetrically aligned.
+The rectangular opening spans the entire height of the frame.
+The left and right sections are of equal height.
+The openings are aligned horizontally with the frame's edges.
+The central bar is positioned slightly above the other two.
+The vertical support connects the bars at their midpoints.
+The central opening is aligned with the rectangular slots.
+The slots are positioned parallel to each other on the sides.
+The rectangular slot is aligned parallel to the bottom edge.
+The small square hole is positioned adjacent to the vertical slot.
+The rectangular cutout is aligned centrally within the frame.
+The slot on the right side is parallel to the top edge.
+The rectangular slot is positioned parallel to the vertical edges.
+The protruding edge is located along the bottom section of the frame.
+The rectangular opening is positioned centrally.
+Two smaller holes are aligned vertically near the bottom.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular frame structure with straight edges.
+- Central rectangular opening.
+- Three parallel elongated beams.
+- Flat rectangular base at one end.
+- L-shaped metal frame.
+
+[HOLES_SLOTS]
+- Long horizontal slot on the left side.
+- Vertical slot near the top on the right side.
+- Small rectangular slot near the bottom edge.
+- Central rectangular slot running through the middle bar.
+- Small circular hole near the bottom right corner.
+- Small rectangular slot near the top edge.
+- Vertical slot on the left side.
+- Small rectangular slot near the bottom left corner.
+- Small square hole near the top left corner.
+
+[PROTRUSIONS]
+- Raised edges along the perimeter.
+- Raised edge along the left side.
+- Protruding bracket at the base.
+- Raised border along the top and bottom sides.
+- Central pillar extends vertically through the middle.
+- Flanges at both ends for attachment.
+- Small rectangular cutout near the bottom.
+- Raised edge along the bottom side.
+- Protruding section at the top right corner.
+
+[RELATIVE_POSITIONS]
+- Horizontal slot aligned with the bottom edge.
+- Vertical slot positioned above the horizontal slot.
+- Central divider aligned vertically with the frame.
+- Rectangular openings evenly spaced within the frame.
+- Base extends outward for stability.
+- Rectangular slot aligned parallel to the beams.
+- Protruding bracket beneath the beams.
+- Central opening flanked by two vertical slots.
+- Rectangular protrusions positioned symmetrically on the top and bottom sides.
+- Smaller slot positioned adjacent to the central opening.
+- Two vertical sections symmetrically aligned.
+- Rectangular opening spans the entire height of the frame.
+- Left and right sections of equal height.
+- Openings aligned horizontally with the frame's edges.
+- Central bar positioned slightly above the other two.
+- Vertical support connects the bars at their midpoints.
+- Slots positioned parallel to each other on the sides.
+- Rectangular slot aligned parallel to the bottom edge.
+- Small square hole positioned adjacent to the vertical slot.
+- Rectangular cutout aligned centrally within the frame.
+- Slot on the right side parallel to the top edge.
+- Rectangular slot positioned parallel to the vertical edges.
+- Protruding edge located along the bottom section of the frame.
+- Rectangular opening positioned centrally.
+- Two smaller holes aligned vertically near the bottom.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 9/18 (Images 121-135)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a rectangular frame structure.
+This part features two vertical sections divided by a central divider.
+The component is a rectangular frame structure.
+This part features two vertical sections divided by a central divider.
+The component is a rectangular frame structure.
+This part features two vertical sections divided by a central divider.
+The component forms a right-angled triangular frame.
+This part features a central elongated slot running along the length.
+The component forms a rectangular frame with a right-angle bend.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features two vertical sections divided by a central pillar.
+The component forms a rectangular frame with straight edges.
+This part features a central rectangular opening.
+The component forms a rectangular frame with straight edges.
+This part features a central rectangular opening.
+The component forms a triangular frame.
+This part features three parallel elongated slots.
+The component is an L-shaped metal frame.
+This part features a central rectangular cutout.
+The component forms a triangular frame.
+This part features a central rectangular opening.
+The component is an L-shaped metal bracket.
+This part features a large rectangular slot near the top edge.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component forms a right-angled triangular shape.
+This part features a central elongated rectangular slot.
+The component consists of three parallel elongated bars.
+This part features a central rectangular cutout.
+
+**Holes & Slots:**
+It contains a large rectangular opening in the middle.
+There is a small rectangular slot near the bottom edge.
+The frame has a flat base along the bottom side.
+This section includes a protruding ledge on the right side.
+It contains a large rectangular opening on the left side.
+There is a smaller rectangular opening on the right side.
+The frame has a flat base along the bottom edge.
+The top edge of the frame is straight and continuous.
+It contains a large rectangular opening on the left side.
+There is a smaller rectangular opening on the right side.
+The frame has a flat top edge.
+The bottom edge of the frame is slightly protruding.
+There is a smaller slot parallel to the main slot near the base.
+The structure includes a series of evenly spaced holes along the top edge.
+The part has a prominent triangular cutout at the corner.
+This section has a rectangular slot aligned with the main frame.
+There is a small square hole near the top left corner.
+The frame includes a long horizontal slot on the right side.
+The part has a vertical slot on the left side.
+There is a rectangular cutout at the bottom right corner.
+It contains a large rectangular opening in the middle.
+There is a horizontal slot near the bottom edge.
+The frame has a flat base extending along the bottom.
+This section includes a small notch on the right side.
+There is a small rectangular slot near the bottom edge.
+The object has a large rectangular cutout in the middle.
+This part includes a series of parallel lines along the length.
+There is a small rectangular slot near the top edge.
+There is a narrow slot along the top side.
+The structure includes a small circular hole near the bottom left corner.
+The part has a rectangular cutout on the right side.
+There is a rectangular slot positioned along the bottom edge.
+It contains a central rectangular cutout.
+There is a smaller triangular notch at the top corner.
+The part has a flat base extending from the bottom edge.
+This section includes a series of evenly spaced indentations along the sides.
+There is a small circular hole near the corner.
+The frame includes a long horizontal slot.
+The part has a vertical slot on the side.
+There are two parallel rectangular slots along the length.
+There is a long horizontal slot near the bottom edge.
+The triangular frame has a vertical slot on the left side.
+The part includes a small circular hole near the top vertex.
+There is a rectangular slot on the right side of the frame.
+It contains one central circular hole.
+There is a smaller rectangular slot adjacent to the main slot.
+The part has a series of evenly spaced holes along the side.
+This section includes a triangular cutout near the corner.
+There is a vertical slot near the left side.
+The frame includes a horizontal slot near the bottom edge.
+The part has a rectangular protrusion on the top side.
+There is a small rectangular notch on the right side.
+There is a smaller rectangular slot near the bottom edge.
+The object has a large rectangular cutout in the middle.
+This part includes a series of parallel grooves along the sides.
+The component has a prominent rectangular opening at the top.
+There is a small triangular notch at the top left corner.
+The bars have a consistent rectangular cross-section.
+This part includes a series of evenly spaced rectangular slots along the length.
+The component has a flat base at the bottom.
+
+**Protrusions:**
+The left side of the component has a raised edge.
+The top edge of the frame is slightly elevated.
+The part has a raised border along the perimeter.
+The central divider extends from the top to the bottom edge.
+The part has a raised border along the perimeter.
+The corners of the frame are slightly rounded.
+The edges of the component are slightly raised for structural support.
+The corners of the frame are reinforced with additional material.
+The frame has a raised edge along the top side.
+The part includes a protruding tab at the top left corner.
+The part has raised edges along the top and bottom.
+The corners are slightly rounded for structural integrity.
+The part has a flat surface along the sides.
+The component has a slight indentation along the edges.
+The frame has a raised edge along the left side.
+The component has a protruding tab at the top right corner.
+The triangular frame has a protruding edge on the left side.
+The component has a raised ridge along the right side.
+The component has raised edges along the top and bottom.
+The part includes a protruding tab at the corner.
+The frame has a raised edge along the top side.
+The bottom side of the component has a slight protrusion.
+The part has raised edges along the longer sides.
+There are two parallel protrusions on the shorter side.
+The frame has raised edges along the top and bottom.
+The part includes a rectangular protrusion on the left side.
+The part has raised edges along the length of the sides.
+There are multiple small rectangular cutouts near the base.
+The edges of the bars are slightly raised.
+The top edges of the bars have a stepped design.
+
+**Relative Positions:**
+The central divider is positioned equidistant from both vertical sections.
+The rectangular openings are aligned horizontally across the frame.
+The left opening is positioned adjacent to the frame's left side.
+The right opening is aligned parallel to the left opening.
+The left opening is aligned centrally with the frame.
+The right opening is positioned symmetrically opposite the left opening.
+The main slot is positioned centrally within the triangular frame.
+Smaller holes are distributed symmetrically along the sides of the frame.
+The rectangular slot is positioned parallel to the bottom edge.
+The small square hole is aligned with the right-angle bend.
+The central pillar is positioned equidistant from the two vertical sections.
+The horizontal slot is aligned parallel to the base.
+The rectangular slot is positioned parallel to the longer sides.
+The central opening is aligned with the main frame structure.
+The rectangular slot is aligned parallel to the bottom edge.
+The central opening is flanked by two smaller rectangular cutouts.
+The central rectangular cutout is aligned with the elongated slots.
+The triangular notch is positioned adjacent to the central cutout.
+The rectangular slots are aligned parallel to the frame's length.
+The central cutout is flanked by two smaller slots.
+The rectangular slot is positioned parallel to the base.
+The small circular hole is aligned with the central opening.
+The rectangular slot is positioned above the central hole.
+Several smaller holes are arranged symmetrically around the central opening.
+The central opening is flanked by two vertical slots.
+The rectangular protrusions are positioned symmetrically on the top and bottom edges.
+The central slot is aligned parallel to the base edge.
+Several smaller slots are positioned symmetrically around the central opening.
+The rectangular slots are aligned parallel to the main bars.
+The triangular notch is positioned adjacent to the central cutout.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular frame structure with a central divider.
+- Right-angled triangular frame configuration.
+- L-shaped metal bracket design.
+- Central elongated rectangular slot.
+- Three parallel elongated slots.
+- Rectangular frame with a right-angle bend.
+
+[HOLES_SLOTS]
+- Large rectangular opening in the middle.
+- Small rectangular slot near the bottom edge.
+- Central rectangular cutout.
+- Horizontal slot near the bottom edge.
+- Vertical slot on the left side.
+- Small circular hole near the bottom left corner.
+- Small rectangular notch on the right side.
+- Small triangular notch at the top corner.
+- Small square hole near the top left corner.
+- Series of evenly spaced holes along the top edge.
+
+[PROTRUSIONS]
+- Raised edge along the top side.
+- Raised border along the perimeter.
+- Protruding tab at the top left corner.
+- Rectangular protrusion on the top side.
+- Raised ridge along the right side.
+- Slight indentation along the edges.
+- Raised edge along the left side.
+- Protruding tab at the top right corner.
+- Raised edges along the top and bottom.
+- Slight protrusion along the bottom side.
+
+[RELATIVE_POSITIONS]
+- Central divider equidistant from both vertical sections.
+- Rectangular openings aligned horizontally across the frame.
+- Left opening adjacent to the frame's left side.
+- Right opening symmetrically opposite the left opening.
+- Central slot positioned centrally within the triangular frame.
+- Smaller holes distributed symmetrically along the sides.
+- Rectangular slot positioned parallel to the bottom edge.
+- Small square hole aligned with the right-angle bend.
+- Central pillar equidistant from the two vertical sections.
+- Horizontal slot aligned parallel to the base.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 10/18 (Images 136-150)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component forms a triangular frame structure.
+This part features a central rectangular opening.
+The component forms a triangular frame structure.
+This part features a central rectangular opening.
+The component consists of two parallel elongated bars.
+This part features a central rectangular cutout.
+The component consists of three parallel metal bars.
+This part features a rectangular cutout at one end.
+The component is an L-shaped metal frame.
+This part features a central rectangular opening.
+The component forms a triangular frame with three straight sides.
+This part features a central rectangular opening.
+The component is an L-shaped metal frame.
+This part features a central rectangular cutout.
+The component is an L-shaped metal frame.
+This part features a central rectangular slot.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component is an L-shaped metal frame.
+This part features a large rectangular opening in the center.
+The component forms a triangular frame structure.
+This part features a central elongated slot.
+The component consists of two parallel elongated bars.
+This part features a rectangular cutout near the top edge.
+The component consists of two parallel elongated sections.
+This part features a rectangular cutout at one end.
+The component is an L-shaped metal frame.
+This part features a large rectangular opening in the center.
+The component is an L-shaped metal frame.
+This part features a central rectangular cutout.
+
+**Holes & Slots:**
+There is a small circular hole near the top vertex.
+The triangular frame has a diagonal support beam.
+The part includes a slot along the bottom edge.
+There is a rectangular cutout near the right side.
+There is a small circular hole near the top vertex.
+The part includes a long rectangular slot along one side.
+The triangular frame has a right-angle bend at the base.
+There are two parallel slots running along the bottom edge.
+There is a small circular hole near the top right corner.
+The bars have a series of evenly spaced slots along their length.
+The structure includes a triangular brace connecting the bars.
+The component has a flat base at the bottom left.
+There is a small square hole near the top left corner.
+The bars have a consistent rectangular cross-section.
+A larger rectangular slot is present along the side.
+The component includes a series of evenly spaced holes along the length.
+There is a small circular hole near the corner.
+The frame includes a long horizontal slot on one side.
+The part has a protruding edge along the vertical section.
+There is a narrow vertical slot adjacent to the main opening.
+There is a small circular hole near the top vertex.
+The structure includes a long horizontal slot on the right side.
+The left side of the component has a vertical slot.
+There is a small rectangular cutout near the bottom left corner.
+There is a small circular hole near the top corner.
+The frame includes a long horizontal slot on one side.
+The part has a large rectangular slot on the longer edge.
+There are two smaller holes aligned vertically near the bottom.
+There is a large circular hole near the corner.
+The frame includes a smaller rectangular slot adjacent to the central slot.
+The part has a protruding edge along the longer side.
+There are two parallel slots running along the length.
+There is a vertical rectangular slot on the right side.
+The frame includes a horizontal rectangular slot on the bottom edge.
+The part has a flat base extending from the bottom.
+There is a small rectangular cutout near the top left corner.
+There is a small circular hole near the top left corner.
+The frame includes a narrow vertical slot on the right side.
+The part has a protruding edge along the bottom.
+There is a small rectangular slot near the bottom right corner.
+There is a smaller triangular cutout near the top corner.
+The object has a large rectangular opening on one side.
+This part includes a series of parallel grooves along the length.
+There is a small circular hole near the bottom edge.
+The object has a flat base with a slight upward angle.
+There is a small rectangular slot near the bottom left corner.
+The part includes a central rectangular opening.
+The component has a symmetrical design with two main sections.
+There is a small square hole near the top left corner.
+The object has a flat base extending from the main body.
+It contains a series of evenly spaced slots along the length.
+The part includes a central rectangular opening.
+There is a narrow vertical slot near the top edge.
+The frame includes a small circular hole on the left side.
+The part has a wide horizontal slot on the right side.
+There is a medium-sized rectangular hole near the bottom edge.
+There is a small circular hole near the corner.
+The frame includes a long horizontal slot on one side.
+The part has a vertical slot along the shorter edge.
+There are two small holes aligned parallel to the longer side.
+
+**Protrusions:**
+The frame has a raised edge along the left side.
+The component has a protruding section at the bottom corner.
+The part has a raised triangular section at the top corner.
+The frame includes a series of evenly spaced holes along the sides.
+The bars are connected by a perpendicular support beam.
+There is a larger rectangular slot near the bottom edge.
+The bars have flat, straight edges.
+The part has a central alignment of the bars.
+The L-shaped structure has a right-angle bend.
+The component includes a series of evenly spaced holes along the horizontal arm.
+The part has a raised triangular section at the top vertex.
+The edges of the component are slightly beveled.
+The frame has raised edges along the inner perimeter.
+The part includes a protruding tab at the top right corner.
+The component has a raised edge on the shorter side.
+The frame includes a small circular hole near the base.
+The frame has raised edges along the perimeter.
+The corners of the frame are reinforced with additional material.
+The component has a raised edge along the left side.
+The part includes a small circular hole near the top right corner.
+The part has a raised triangular edge on the right side.
+The component has a protruding triangular section at the bottom.
+The bars are connected by a perpendicular support structure.
+The part has a rectangular protrusion on the left side.
+The edges are slightly raised for structural support.
+There are two protruding sections at the bottom.
+The frame has raised edges along the top and bottom.
+The part includes a small protrusion on the left side.
+The frame has a raised edge along the inner perimeter.
+The component includes a protruding tab at the top corner.
+
+**Relative Positions:**
+The central rectangular opening is flanked by two smaller slots.
+The diagonal support beam intersects the central opening.
+The rectangular slot is positioned parallel to the base.
+The small circular hole is aligned with the right-angle bend.
+The triangular brace is positioned at the upper right section.
+The support beam is aligned centrally between the two bars.
+The rectangular slot is positioned between the bars.
+The small square hole is adjacent to the rectangular cutout.
+The rectangular slot is positioned parallel to the vertical edge.
+Several smaller holes are arranged symmetrically around the central opening.
+The rectangular slot is aligned parallel to the bottom side.
+The small circular hole is positioned close to the central opening.
+The rectangular slot is positioned parallel to the longer side.
+The smaller holes are evenly spaced around the central cutout.
+The central slot is aligned with the longer side of the L-shape.
+Several smaller holes are positioned around the central rectangular slot.
+The central opening is aligned with the vertical slot on the right.
+The horizontal slot on the bottom edge is parallel to the central opening.
+The large rectangular opening is positioned centrally.
+Several smaller holes are arranged around the central rectangular opening.
+The central slot is aligned parallel to the base edge.
+Several smaller triangular cutouts are positioned around the central slot.
+The rectangular slot is aligned parallel to the main bars.
+The perpendicular support structure connects the two elongated bars at the top.
+The slots are aligned parallel to the main axis.
+The rectangular cutout is positioned adjacent to the slots.
+The rectangular opening is positioned centrally within the frame.
+Several smaller holes are arranged symmetrically around the central opening.
+The rectangular slot is positioned adjacent to the central cutout.
+The small circular hole is located near the bottom right corner.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Triangular frame structure with three straight sides.
+- L-shaped metal frame with a right-angle bend.
+- Rectangular frame structure with a central opening.
+- Component consists of two parallel elongated bars.
+- Component features a central rectangular opening or slot.
+
+[HOLES_SLOTS]
+- Small circular hole near the top vertex or corner.
+- Long rectangular slot along the bottom edge or side.
+- Series of evenly spaced holes or slots along the length.
+- Central rectangular opening or slot.
+- Small square hole near the top left corner.
+- Vertical rectangular slot on the right side.
+- Horizontal slot on one side, parallel to the base.
+- Small rectangular cutout near the bottom left or top left corner.
+
+[PROTRUSIONS]
+- Raised edge along the left side or inner perimeter.
+- Protruding tab at the top right corner or bottom corner.
+- Raised triangular section at the top corner or vertex.
+- Perpendicular support beam connecting the bars.
+- Rectangular protrusion on the left side.
+- Beveled edges for structural support.
+- Raised edge along the shorter side or bottom.
+- Small circular hole near the base or top right corner.
+
+[RELATIVE_POSITIONS]
+- Central rectangular opening flanked by smaller slots.
+- Diagonal support beam intersecting the central opening.
+- Rectangular slot positioned parallel to the base or vertical edge.
+- Small circular hole aligned with the right-angle bend.
+- Triangular brace positioned at the upper right section.
+- Support beam aligned centrally between the two bars.
+- Rectangular slot positioned between the bars or parallel to the longer side.
+- Small square hole adjacent to the rectangular cutout.
+- Horizontal slot on the bottom edge parallel to the central opening.
+- Large rectangular opening positioned centrally within the frame.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 11/18 (Images 151-165)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is an L-shaped metal frame.
+This part features a central rectangular opening.
+The component is an L-shaped metal frame.
+This part features a large rectangular opening in the center.
+The component is an L-shaped metal beam.
+This part features a large rectangular slot near the top edge.
+The component is an L-shaped metal frame.
+This part features a central rectangular cutout.
+The component is a rectangular frame structure.
+This part features two vertical sections connected by a horizontal beam.
+The component is an L-shaped metal bracket.
+This part features a large rectangular slot near the corner.
+The component consists of two parallel elongated bars.
+This part features a rectangular cutout at one end.
+The component consists of two parallel elongated beams.
+This part features a central rectangular cutout.
+The component is an elongated rectangular plate.
+This part features a central elongated slot.
+The component is an elongated rectangular beam.
+This part features a series of parallel grooves along its length.
+The component is an elongated rectangular beam.
+This part features a central longitudinal slot.
+The component is an elongated rectangular beam.
+This part features a central rectangular slot running along its length.
+The component is an elongated rectangular bar.
+This part features a large rectangular slot near the top edge.
+The component is an L-shaped metal bracket.
+This part features a large rectangular slot near the top edge.
+The component is an elongated rectangular bar.
+This part features a central rectangular slot.
+
+**Holes & Slots:**
+There is a small circular hole near the corner.
+The object has a large rectangular slot on one side.
+The part includes a series of evenly spaced holes along the edge.
+This component has a narrow elongated slot at the bottom.
+It contains a small circular hole near the top corner.
+There is a narrow slot along the right side.
+The part has a protruding edge on the left side.
+The component includes a small rectangular slot near the bottom.
+It contains one central circular hole.
+There is a smaller rectangular slot adjacent to the main slot.
+The part has a raised edge along the longer side.
+The shorter side of the L-shape has a flat surface.
+There is a small circular hole near the corner.
+The object has a large elongated slot on one side.
+The part includes a series of evenly spaced holes along the edge.
+This section has a triangular notch at the bottom.
+It contains a large rectangular opening in the center.
+There is a smaller rectangular slot near the bottom edge.
+The frame has a protruding edge along the top side.
+This section includes a small circular hole near the left side.
+It contains one central circular hole.
+There is a smaller rectangular slot adjacent to the main slot.
+The part has a triangular cutout at the end.
+This section includes a series of evenly spaced holes along the side.
+There is a small square hole near the top left corner.
+The bars have a central groove running along their length.
+The part includes a series of evenly spaced slots along the side.
+There is a large rectangular slot near the bottom edge.
+There is a smaller rectangular slot near the bottom edge.
+The object has a flat, elongated profile.
+It contains a series of evenly spaced holes along the side.
+The part includes a large rectangular opening near the top.
+There is a smaller rectangular slot near the top edge.
+The object contains a series of evenly spaced holes along the length.
+The part has a large rectangular cutout near one end.
+There is a small circular hole positioned near the bottom edge.
+There is a large rectangular slot near the top edge.
+The object contains a smaller rectangular slot closer to the bottom.
+The part has a central rectangular cutout.
+There are two smaller rectangular slots positioned symmetrically on either side of the central cutout.
+There is a smaller transverse slot near the middle.
+The object has a series of evenly spaced holes along its length.
+The part includes a large rectangular cutout on one side.
+There are two parallel slots running along the length of the beam.
+There is a smaller rectangular slot near the top edge.
+The part includes a large rectangular hole near the bottom.
+The component has a protruding section at one end.
+This part features a smaller rectangular slot near the side.
+It contains a smaller rectangular slot parallel to the larger one.
+The part has a central rectangular hole running along its length.
+There is a small rectangular protrusion on one side.
+The component has a rectangular cutout near the bottom edge.
+It contains one central circular hole.
+There is a smaller rectangular slot adjacent to the main slot.
+The part has a series of evenly spaced holes along the side.
+This section includes a triangular cutout near the bottom.
+There is a smaller rectangular slot near the top edge.
+The object has a large rectangular cutout in the middle.
+This part includes a series of small square holes along the side.
+There is a rectangular slot positioned near the bottom edge.
+
+**Protrusions:**
+The part has raised edges along the vertical sides.
+There are two protruding tabs on the horizontal section.
+The part has a raised edge along the bottom side.
+There is a small circular hole positioned near the left corner.
+The component has a protruding section at the corner.
+There are two parallel lines running along the length of the beam.
+The component has raised flanges on the longer sides.
+There are two parallel protrusions extending from the top.
+The part has a raised edge along the bottom side.
+There is a rectangular protrusion on the right side.
+The bracket has raised edges along the longer sides.
+There are two protruding tabs on the shorter side.
+The bars have raised edges along their length.
+The component has a flange at the top left corner.
+The edges are slightly raised for structural support.
+The beams have a consistent width throughout.
+The part has raised edges along the top and bottom sides.
+The component has a flat surface with no protrusions.
+The part has raised edges along the top and bottom sides.
+The component has a flange at one end.
+The edges of the component are slightly raised.
+The part has a notch at one end.
+The part has a raised edge along the top side.
+There is a protruding tab at the bottom end.
+The part has raised edges along the top and bottom sides.
+There is a rectangular notch on the left side.
+The bracket has raised edges along the longer sides.
+There are two parallel protrusions on the shorter side.
+The part has a raised edge along the top side.
+The component has a flat surface with no protrusions.
+
+**Relative Positions:**
+The rectangular slot is positioned adjacent to the central hole.
+Several smaller holes are arranged symmetrically around the central opening.
+The rectangular opening is aligned with the L-shaped corner.
+Several smaller holes are arranged around the central rectangular opening.
+The rectangular slot is positioned above the circular hole.
+The protruding section is located at the intersection of the L-shape.
+The rectangular slot is positioned adjacent to the central hole.
+Several smaller holes are aligned vertically near the base.
+The central opening is flanked by two vertical sections.
+A small slot is positioned near the top right corner.
+The rectangular slot is positioned parallel to the longer edge.
+Several smaller holes are arranged around the central rectangular slot.
+The rectangular cutout is aligned parallel to the longer side.
+Several smaller slots are arranged symmetrically along the length.
+The rectangular slot is aligned parallel to the main beams.
+Several smaller holes are positioned along the length of the beams.
+Several smaller holes are arranged symmetrically around the central slot.
+The elongated slot is aligned parallel to the length of the component.
+The rectangular slot near the top edge is aligned parallel to the length of the beam.
+The smaller rectangular slots are positioned equidistant from the central cutout.
+The central slot is aligned with the transverse slot.
+Several smaller holes are positioned symmetrically around the central slot.
+The central slot is aligned parallel to the main beam.
+The smaller slot near the top edge is perpendicular to the main slot.
+The larger slot is positioned slightly above the smaller slot.
+The rectangular protrusion is aligned with the central cutout.
+The central hole is aligned with the rectangular slot.
+Several smaller holes are arranged symmetrically around the central opening.
+The central slot is aligned parallel to the longer side.
+Several small square holes are arranged along the side near the bottom.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- L-shaped metal frame with a central rectangular opening.
+- Rectangular frame structure with two parallel elongated bars.
+- Elongated rectangular beam with a central rectangular slot.
+- L-shaped metal bracket with a large rectangular slot near the corner.
+
+[HOLES_SLOTS]
+- One central circular hole.
+- Series of evenly spaced holes along the edge.
+- Large rectangular slot near the top edge.
+- Smaller rectangular slot adjacent to the main slot.
+- Small circular hole near the corner.
+- Central rectangular cutout.
+- Large rectangular slot near the bottom edge.
+- Smaller rectangular slot near the bottom edge.
+
+[PROTRUSIONS]
+- Raised edges along the vertical sides.
+- Two protruding tabs on the horizontal section.
+- Raised edge along the bottom side.
+- Rectangular protrusion on the right side.
+- Flange at the top left corner.
+- Raised edges along the top and bottom sides.
+- Protruding tab at the bottom end.
+- Notch at one end.
+
+[RELATIVE_POSITIONS]
+- Rectangular slot positioned adjacent to the central hole.
+- Smaller holes arranged symmetrically around the central opening.
+- Rectangular slot positioned above the circular hole.
+- Protruding section located at the intersection of the L-shape.
+- Rectangular slot positioned parallel to the longer edge.
+- Smaller slots arranged symmetrically along the length.
+- Central slot aligned with the transverse slot.
+- Smaller slot near the top edge perpendicular to the main slot.
+- Larger slot positioned slightly above the smaller slot.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 12/18 (Images 166-180)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component is an L-shaped metal frame.
+This part features a central rectangular opening.
+The component consists of two parallel elongated bars.
+This part features a rectangular cutout at one end.
+The component is an L-shaped metal frame.
+This part features a central rectangular opening.
+The component has a rectangular profile with a slight taper towards the top.
+This part features a central elongated slot running vertically.
+The component has a rectangular profile with a slight taper towards the top.
+This part features a central elongated slot running vertically.
+The component has a rectangular base with a vertical extension.
+This part features a central circular hole.
+The component has a rectangular profile with a slight taper towards the top.
+This part features a central elongated slot running vertically.
+The component is elongated with a rectangular profile.
+This part features a series of parallel grooves along its length.
+The component is a long rectangular bar.
+This part features a series of parallel grooves along its length.
+The component is an elongated rectangular bar.
+This part features a central rectangular slot.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component is a long rectangular bar.
+This part features a series of evenly spaced slots along its length.
+The component is a long rectangular bar.
+This part features a series of evenly spaced holes along its length.
+The component is a long rectangular bar.
+This part features a series of evenly spaced slots along its length.
+
+**Holes & Slots:**
+There is a vertical rectangular slot on the left side.
+The frame has a horizontal rectangular slot on the bottom edge.
+The part includes a small square notch near the top right corner.
+There is a rectangular cutout on the right side.
+There is a small circular hole near the corner.
+The object has a large rectangular slot on one side.
+The part includes a series of evenly spaced holes along the edge.
+This component has a prominent rectangular cutout in the middle.
+There is a small square hole near the top left corner.
+The bars have a consistent rectangular cross-section.
+This part includes a series of evenly spaced holes along the length.
+The component has a flat surface with minimal protrusions.
+There is a small circular hole near the corner.
+The object has a large rectangular slot on one side.
+The part includes a series of evenly spaced holes along the edge.
+This component has a prominent rectangular cutout in the middle.
+There is a small circular hole near the bottom edge.
+The object includes a large rectangular cutout on one side.
+This part has a series of evenly spaced holes along the side.
+The component has a U-shaped bend at the bottom.
+There is a small circular hole near the bottom edge.
+The object includes a large rectangular cutout on one side.
+This part has a series of evenly spaced holes along the side.
+The component has a U-shaped bend at the bottom.
+There is a small slot near the bottom edge.
+The object includes a large rectangular cutout on one side.
+The part has a protruding tab on the right side.
+There are two smaller holes aligned horizontally near the top.
+There is a small circular hole near the bottom left corner.
+The object includes a large rectangular cutout on the right side.
+The part has a protruding edge along the bottom edge.
+There is a narrow slot positioned horizontally near the top.
+There is a small square hole near the top right corner.
+The object contains a rectangular slot close to the bottom left end.
+The part has a central elongated slot running along its length.
+There are multiple small square holes aligned near the top edge.
+There is a small square hole near the top right corner.
+The bar includes a rectangular slot close to the bottom edge.
+The part has a central elongated slot running its length.
+There are two smaller rectangular slots near the bottom.
+There is a smaller rectangular slot near the top edge.
+The object has a large rectangular hole near one end.
+The part includes a series of parallel grooves along its length.
+There is a small square hole near the bottom edge.
+There is a vertical slot near the left edge.
+The frame includes a horizontal slot near the bottom edge.
+The part has a protruding edge along the top side.
+There is a small notch on the right side.
+There is a large rectangular hole near one end.
+The bar has a smaller rectangular slot close to the large hole.
+The part includes a series of small square holes near the other end.
+There is a narrow elongated slot running parallel to the bar's length.
+There is a small square hole near one end.
+The bar has a central elongated slot running parallel to its length.
+The part includes a rectangular cutout near the middle.
+There are two small holes aligned vertically on one side.
+There is a small square hole at one end of the bar.
+The bar has a central elongated slot running parallel to its length.
+The part includes a rectangular cutout near the middle section.
+There are two small square holes at the opposite end of the bar.
+
+**Protrusions:**
+The frame has a raised border along the perimeter.
+The part includes a protruding edge on the bottom left corner.
+The part has raised edges along the vertical sides.
+There are two small protrusions on the horizontal side.
+The bars are connected by a central joint.
+There is a slight indentation along the side edges.
+The part has raised edges along the vertical sides.
+There are two small protrusions on the horizontal side.
+The part includes a raised ridge along the top edge.
+There is a protruding tab on the right side.
+The part includes a raised ridge along the top edge.
+There is a protruding tab on the right side.
+The component has a raised edge along the left side.
+This part features a U-shaped notch on the bottom.
+The component has a raised ridge along the left side.
+Several small holes are distributed evenly around the central slot.
+The part has a raised edge along the top side.
+The component includes a protruding section at the bottom left.
+The component has a flat protrusion along the top edge.
+The bar includes a raised edge along the bottom side.
+The part has a raised edge along the top side.
+The component has a flat protrusion on one end.
+The frame has raised corners at each corner.
+The part includes a series of parallel lines along the sides.
+The component has a flat surface with no protrusions.
+The bar has a slight bend towards one end.
+The edges of the bar are slightly raised.
+The bar has a protruding section at one end.
+The bar has a slight protrusion along its central axis.
+The edges of the bar are slightly raised for structural support.
+
+**Relative Positions:**
+The central opening is aligned with the vertical slot on the left.
+The rectangular cutout on the right is positioned parallel to the bottom edge.
+The rectangular slot is positioned adjacent to the central opening.
+Several smaller holes are arranged symmetrically around the central slot.
+The rectangular slot is aligned parallel to the bars.
+The component maintains a uniform width throughout its length.
+The rectangular slot is positioned adjacent to the central opening.
+Several smaller holes are arranged symmetrically around the central slot.
+The central slot is flanked by two smaller holes on either side.
+The rectangular cutout is positioned adjacent to the U-shaped bend.
+The central slot is flanked by two smaller holes on either side.
+The rectangular cutout is positioned adjacent to the central slot.
+The central hole is surrounded by four smaller circular openings.
+The rectangular slot is positioned adjacent to the central hole.
+The rectangular slot is aligned parallel to the longer side of the component.
+The protruding edge is located on the left side, adjacent to the central slot.
+The rectangular slot is positioned centrally along the length.
+Several small square holes are arranged near the top right end.
+The rectangular slots are evenly spaced along the bar.
+The square hole is positioned at the top right end.
+The rectangular slot is positioned centrally along the length.
+Several smaller holes are arranged symmetrically around the central slot.
+The central opening is aligned with the vertical slot.
+The horizontal slot is positioned directly below the central opening.
+The large rectangular hole is positioned towards the left side.
+The small square holes are aligned in a row near the right side.
+The small square hole is positioned at the top left corner.
+The central slot is flanked by two smaller rectangular cutouts.
+The square holes are positioned at opposite ends of the bar.
+The central slot is aligned with the main body of the bar.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular frame structure with a central rectangular opening.
+- L-shaped metal frame with a vertical extension.
+- Elongated rectangular bar with a slight taper towards the top.
+- Series of parallel grooves along its length.
+
+[HOLES_SLOTS]
+- Central elongated slot running vertically.
+- Series of evenly spaced holes along the length.
+- Small circular holes near corners and edges.
+- Large rectangular slot on one side.
+- Small square holes near the top edge.
+
+[PROTRUSIONS]
+- Raised border along the perimeter.
+- Protruding tab on the right side.
+- Raised ridge along the top edge.
+- Flat protrusion along the top edge.
+- Slight indentation along the side edges.
+
+[RELATIVE_POSITIONS]
+- Central opening aligned with the vertical slot on the left.
+- Rectangular cutout positioned parallel to the bottom edge.
+- Rectangular slot positioned adjacent to the central opening.
+- Smaller holes arranged symmetrically around the central slot.
+- Horizontal slot positioned directly below the central opening.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 13/18 (Images 181-195)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a long rectangular bar.
+This part features a central elongated slot.
+The component is a long rectangular bar.
+This part features a central elongated slot.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features a central vertical division.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component is a rectangular frame.
+This part features two vertical panels.
+The component is a rectangular frame structure.
+This part features two vertical sections divided by a central divider.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+
+**Holes & Slots:**
+There is a small square hole near one end.
+The bar has a series of evenly spaced holes along its length.
+The part includes a rectangular cutout on one side.
+There is a small circular hole positioned near the other end.
+There is a small square hole near one end.
+The bar has a rectangular cutout along its length.
+This part includes a series of parallel grooves on one side.
+There is a large rectangular slot near the opposite end.
+There is a narrow slot along the bottom edge.
+The frame includes a small circular hole near the top left corner.
+The structure has a protruding edge on the right side.
+There is a rectangular slot on the left side.
+There is a vertical slot near the left edge.
+The frame includes a horizontal slot near the bottom edge.
+The part has a rectangular protrusion on the top side.
+There is a small rectangular notch on the right side.
+There is a horizontal slot near the bottom edge.
+The frame includes a small circular indentation on the left side.
+The right side of the component has a protruding edge.
+The top section of the frame is slightly elevated.
+There is a vertical slot near the left side.
+The frame includes a horizontal slot on the right side.
+The part has a protruding edge along the bottom.
+Raised corners are present at each corner of the frame.
+There is a vertical slot near the left side.
+The object has a horizontal slot near the bottom edge.
+The part includes a small circular hole on the right side.
+There is a rectangular cutout on the top edge.
+It contains a central dividing line.
+There is a horizontal support beam at the top.
+The frame has a flat base.
+This section includes a protruding ledge at the bottom.
+There is a horizontal opening at the top of the frame.
+The frame includes a flat base at the bottom.
+The part has a protruding edge along the left side.
+There is a slight indentation on the right side of the frame.
+There is a small rectangular slot near the bottom edge.
+The frame includes a large rectangular cutout in the middle.
+This part has a small circular hole near the top left corner.
+There is a rectangular slot positioned near the right edge.
+There is a small rectangular slot near the bottom edge.
+The frame includes a large rectangular cutout in the middle.
+This part has a rectangular protrusion on the left side.
+The component has a rectangular indentation on the right side.
+There is a small square hole near the bottom left corner.
+The frame includes a long horizontal slot on the right side.
+The part has a vertical protrusion on the left edge.
+There is a short horizontal protrusion at the top right corner.
+There is a vertical slot near the left edge.
+The frame includes a horizontal slot near the bottom edge.
+The part has a protruding edge along the top side.
+There is a raised corner on the right side.
+There is a vertical slot near the top edge.
+The frame includes a horizontal slot on the right side.
+The part has a protruding edge along the bottom.
+There is a small notch on the left side.
+There is a vertical slot on the left side.
+The right side includes a horizontal slot.
+The top edge has a small protrusion.
+The bottom edge shows a slight indentation.
+
+**Protrusions:**
+The bar has a slight protrusion along its length.
+The edges of the bar are slightly raised.
+The part has a raised edge along the top side.
+The bar has a notch on the bottom side.
+The part has a raised edge along the top perimeter.
+The frame includes a small rectangular cutout near the bottom right corner.
+The frame has raised edges along the top and bottom.
+The part includes a rectangular protrusion on the left side.
+The bottom part has a flat base for stability.
+Two smaller rectangular cutouts are aligned vertically on the left side.
+Several smaller rectangular openings are aligned along the top edge.
+The component has a flat base at the bottom.
+The frame has raised corners at each corner.
+The part has a protruding edge along the bottom.
+The part has a uniform thickness throughout.
+Several smaller recesses are aligned along the sides.
+The central divider extends from the top to the bottom of the frame.
+The left and right sections are symmetrical in shape.
+The part has raised edges along the top and bottom sides.
+The frame includes a small protrusion on the left side.
+The frame has raised edges along the top and bottom.
+There is a rectangular notch on the left side.
+Several smaller rectangular slots are aligned along the bottom edge.
+The frame has a slight inward curve on the top side.
+Several smaller rectangular slots are aligned along the bottom edge.
+The frame has a protruding lip along the left side.
+The frame has raised corners at each vertex.
+Several smaller openings are aligned along the sides.
+Several smaller rectangular slots are aligned along the sides.
+The corners are reinforced with additional material.
+
+**Relative Positions:**
+The central slot is aligned parallel to the length of the bar.
+Several smaller holes are arranged symmetrically along the central slot.
+The small square hole is positioned close to the rectangular slot.
+The parallel grooves run along the length of the bar.
+The central opening is aligned with the rectangular slots on the sides.
+Several small holes are positioned around the central rectangular opening.
+The vertical slot is aligned with the central opening.
+The horizontal slot is positioned parallel to the central opening.
+The central division runs parallel to the longer sides.
+The horizontal slot is positioned symmetrically with respect to the vertical division.
+The central opening is flanked by two vertical slots.
+The rectangular frame has a consistent thickness throughout.
+The rectangular slot is aligned parallel to the top edge.
+The central opening is flanked by two smaller rectangular cutouts.
+The vertical panels are evenly spaced.
+The horizontal beam is centered between the panels.
+The horizontal opening is aligned with the central divider.
+The flat base supports the entire structure at the bottom.
+Several smaller rectangular slots are arranged around the central opening.
+The rectangular cutout is aligned centrally within the frame.
+The central opening is flanked by two smaller rectangular slots.
+The rectangular protrusions are aligned parallel to the frame's length.
+The central opening is flanked by two vertical slots on either side.
+A small circular hole is positioned near the top left corner.
+A small circular hole is positioned near the top left corner.
+The rectangular slots are evenly spaced along the bottom edge.
+The vertical slot is positioned above the horizontal slot.
+The central opening is flanked by two parallel slots.
+The vertical slot is positioned near the top left corner.
+The horizontal slot is aligned with the bottom right corner.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Long rectangular bar with a central elongated slot.
+- Rectangular frame structure with a central rectangular opening.
+- Two vertical panels divided by a central divider.
+
+[HOLES_SLOTS]
+- Small square hole near one end.
+- Series of evenly spaced holes along the length.
+- Small circular hole near the other end.
+- Rectangular cutout on one side.
+- Large rectangular slot near the opposite end.
+- Narrow slot along the bottom edge.
+- Horizontal slot near the bottom edge.
+- Vertical slot near the left edge.
+- Small rectangular slot near the bottom edge.
+- Rectangular slot positioned near the right edge.
+
+[PROTRUSIONS]
+- Raised edges along the top and bottom sides.
+- Rectangular protrusion on the left side.
+- Flat base at the bottom for stability.
+- Raised corners at each corner of the frame.
+- Protruding edge along the bottom.
+- Uniform thickness throughout.
+- Small protrusion on the left side.
+- Rectangular notch on the left side.
+- Protruding lip along the left side.
+
+[RELATIVE_POSITIONS]
+- Central slot aligned parallel to the length of the bar.
+- Small square hole positioned close to the rectangular slot.
+- Parallel grooves run along the length of the bar.
+- Central opening flanked by two vertical slots.
+- Horizontal slot positioned parallel to the central opening.
+- Central division runs parallel to the longer sides.
+- Horizontal slot positioned symmetrically with respect to the vertical division.
+- Rectangular cutout aligned centrally within the frame.
+- Rectangular slots evenly spaced along the bottom edge.
+- Vertical slot positioned above the horizontal slot.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 14/18 (Images 196-210)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a rectangular frame structure.
+This part features a large rectangular opening in the center.
+The component is a rectangular frame structure.
+This part features two vertical sections divided by a central divider.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component forms a rectangular frame with straight edges.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features a central vertical division.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features a large rectangular opening in the center.
+The component forms a rectangular frame with a central opening.
+This part features a large rectangular cutout in the middle.
+The component is a rectangular frame.
+This part features a central dividing line.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features a large rectangular opening in the center.
+The component is a rectangular frame structure.
+This part features two parallel vertical sections.
+
+**Holes & Slots:**
+There is a vertical slot near the left edge.
+The frame includes a horizontal slot near the bottom edge.
+The part has a central rectangular cutout.
+There is a small circular hole near the top right corner.
+It contains a large rectangular opening in the middle.
+There is a horizontal slot near the bottom edge.
+The frame has a flat top surface.
+This part includes a small notch on the right side.
+There is a vertical slot near the left side.
+The frame includes a horizontal slot near the bottom edge.
+The part has a protruding edge along the top side.
+There is a small notch on the right side.
+There is a vertical slot near the top edge.
+The structure includes a horizontal slot near the bottom edge.
+The frame has a protruding edge along the top side.
+The part has a raised edge along the bottom side.
+There is a vertical slot on the right side.
+The left side includes a horizontal slot near the bottom.
+The frame has a consistent rectangular profile throughout.
+The corners of the frame are right-angled.
+There is a vertical slot near the top edge.
+The frame includes a horizontal slot near the bottom edge.
+The part has a rectangular protrusion on the right side.
+There is a small rectangular notch on the left side.
+There is a small rectangular slot near the bottom edge.
+The frame includes a larger rectangular cutout in the middle.
+The part has a flat base at the bottom.
+There is a narrow rectangular slot on the left side.
+It contains a large rectangular opening on the left side.
+There is a smaller rectangular opening adjacent to the larger one.
+The frame has a consistent thickness throughout.
+The corners of the frame are right-angled.
+There is a vertical slot near the left side.
+The frame includes a horizontal slot near the bottom edge.
+The part has a protruding edge along the top side.
+There is a small notch on the right side.
+There is a vertical slot near the bottom edge.
+The frame includes a horizontal slot near the top edge.
+The part has a small circular hole near the bottom left corner.
+There is another small circular hole near the top right corner.
+There is a smaller rectangular slot near the top edge.
+The frame includes a vertical slot on the right side.
+The part has a horizontal slot on the left side.
+There is a small circular hole near the bottom left corner.
+It contains two large rectangular openings.
+The frame has a uniform thickness throughout.
+The edges are straight and parallel.
+There are no additional holes or slots present.
+There is a vertical slot near the left side.
+The frame includes a horizontal slot near the bottom edge.
+The part has a protruding edge along the top side.
+There is a small notch on the right side.
+There is a vertical slot near the left edge.
+The frame includes a horizontal slot near the bottom edge.
+The part has a central rectangular cutout.
+There is a small rectangular slot positioned near the right edge.
+There is a horizontal slot near the bottom edge.
+The frame includes a central rectangular opening.
+The part has a small circular hole on the left side.
+There is a rectangular slot on the right side.
+
+**Protrusions:**
+The frame has raised edges along the top and bottom.
+The sides of the frame are slightly protruding.
+The component has a raised border along the perimeter.
+The frame has a protruding edge at the bottom.
+The frame has raised corners at each corner.
+Several smaller rectangular cutouts are arranged symmetrically.
+Several smaller rectangular slots are aligned along the sides.
+The component has a central rectangular opening with no additional holes.
+The edges of the frame are straight and uniform.
+The frame has a flat base at the bottom.
+The frame has raised edges along the top and bottom.
+The part includes a protruding tab on the bottom right corner.
+The frame has a raised border along the perimeter.
+The edges of the frame are uniformly thick.
+The part has a flat base along the bottom edge.
+The top edge of the frame is straight and parallel to the sides.
+The frame has raised corners at each corner.
+The part includes a series of small holes along the bottom edge.
+The frame has raised edges along the top and bottom sides.
+The part includes a protruding tab on the left side.
+The frame has a raised edge along the top side.
+The part includes a protruding section at the bottom right corner.
+The corners are right angles.
+The frame has a flat base.
+The component has raised corners at each corner.
+Several smaller rectangular cutouts are arranged symmetrically.
+The frame has raised edges along the top and bottom.
+The part includes a protruding section at the bottom left corner.
+The frame has raised edges along the perimeter.
+The part includes a protruding section at the top left corner.
+
+**Relative Positions:**
+The rectangular slot is positioned parallel to the left edge.
+The central opening is flanked by two smaller rectangular slots.
+The central divider is positioned symmetrically between the two vertical sections.
+The rectangular opening spans the entire height of the frame.
+The central opening is flanked by two vertical slots.
+The protruding edges are aligned parallel to the frame's sides.
+The vertical slot is positioned above the horizontal slot.
+The protruding edges are parallel to the frame's longer sides.
+The central opening is aligned with the vertical slot.
+The horizontal slot is positioned parallel to the base.
+The vertical slot is aligned with the central opening.
+The horizontal slot is positioned parallel to the central opening.
+The central opening is aligned with the frame's length.
+The rectangular slot on the left is parallel to the frame's width.
+The smaller opening is positioned to the right of the larger one.
+The frame maintains uniform dimensions along all sides.
+The vertical slot is aligned with the central opening.
+Several smaller holes are arranged symmetrically around the central opening.
+The rectangular opening is centrally aligned within the frame.
+The vertical slot is positioned directly below the central opening.
+The rectangular slot on the right is parallel to the top edge.
+The smaller circular hole is positioned adjacent to the central opening.
+The openings are evenly spaced within the frame.
+The dividing line runs vertically through the center.
+The central opening is flanked by two vertical slots.
+The protruding edges are parallel to the frame's sides.
+The vertical slot is aligned with the central opening.
+The horizontal slot is positioned parallel to the central opening.
+The central opening is flanked by two vertical slots.
+The rectangular slots are symmetrically positioned on opposite sides.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular frame structure with a central rectangular opening.
+- Two parallel vertical sections divided by a central divider.
+- Consistent rectangular profile with right-angled corners.
+
+[HOLES_SLOTS]
+- Central rectangular cutout.
+- Horizontal slot near the bottom edge.
+- Vertical slot near the left edge.
+- Small circular hole near the top right corner.
+- Small rectangular slot near the bottom edge.
+- Vertical slot near the top edge.
+- Small circular hole near the bottom left corner.
+
+[PROTRUSIONS]
+- Raised edges along the top and bottom.
+- Raised border along the perimeter.
+- Raised corners at each corner.
+- Flat base at the bottom.
+- Protruding tab on the bottom right corner.
+
+[RELATIVE_POSITIONS]
+- Central opening flanked by two vertical slots.
+- Horizontal slot positioned parallel to the base.
+- Vertical slot aligned with the central opening.
+- Rectangular slot on the left parallel to the frame's width.
+- Smaller opening positioned to the right of the larger one.
+- Dividing line runs vertically through the center.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 15/18 (Images 211-225)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a rectangular frame.
+This part features two vertical sections divided by a central divider.
+The component is a rectangular frame.
+This part features two vertical sections divided by a central divider.
+The component is a rectangular frame structure.
+This part features two large rectangular openings side by side.
+The component is a rectangular frame.
+This part features two vertical sections.
+The component forms a rectangular frame with right angles.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component is an L-shaped metal frame.
+This part features a central rectangular opening.
+The component forms a rectangular frame with a right-angle bend.
+This part features a central rectangular opening.
+The component forms a rectangular frame with straight edges.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features two vertical slots on the left side.
+The component is a rectangular frame structure.
+This part features two vertical sections divided by a central divider.
+The component is a rectangular frame structure.
+This part features two parallel vertical sections.
+The component is a rectangular frame.
+This part features two vertical sections divided by a central divider.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component forms a rectangular frame with a right angle.
+This part features a central rectangular opening.
+
+**Holes & Slots:**
+There is a horizontal slot near the bottom edge.
+The frame has a consistent rectangular outline.
+This part includes a central rectangular opening.
+There are no circular holes present in the design.
+The frame has a uniform thickness throughout.
+There are no holes present in the frame.
+The frame has a flat base.
+The edges of the frame are straight and parallel.
+There is a vertical division between the two rectangular openings.
+The frame has a consistent rectangular outline.
+This part includes a horizontal base connecting the two openings.
+The edges of the frame are straight and parallel.
+It contains a central dividing line.
+There is a horizontal slot near the bottom edge.
+The frame has a uniform thickness throughout.
+This section includes a small notch on the right side.
+There is a small rectangular slot near the top edge.
+The frame includes a larger rectangular slot on the side.
+The part has a protruding edge along the top side.
+There is a small notch on the bottom right corner.
+There is a vertical slot near the top edge.
+The frame includes a horizontal slot near the bottom edge.
+The part has a rectangular protrusion on the left side.
+There is a rectangular protrusion on the right side.
+There is a small circular hole near the corner.
+The frame includes a long horizontal slot on one side.
+The part has a large rectangular cutout in the middle.
+There are two smaller slots aligned vertically on the left side.
+There is a small circular hole near the top left corner.
+The frame includes a long horizontal slot on the right side.
+The part has a protruding tab at the top right corner.
+There is a narrow vertical slot along the bottom edge.
+There is a small rectangular slot near the bottom edge.
+The frame includes a larger rectangular cutout in the middle.
+The part has a flat base extending from one side.
+There are two parallel rectangular slots on the longer sides.
+It contains a large rectangular opening in the center.
+The frame has a horizontal support beam at the top.
+There is a small circular hole near the bottom left corner.
+The right side of the component has a protruding edge.
+It contains a large rectangular opening in the middle.
+There is a small rectangular slot near the bottom edge.
+The part has a flat top surface.
+This section includes a horizontal divider at the top.
+It contains a central rectangular opening.
+There is a horizontal slot near the bottom edge.
+The frame has a consistent rectangular profile along its perimeter.
+This section includes a small rectangular cutout on the left side.
+It contains a single vertical slot running through the middle.
+The frame has a uniform rectangular outline.
+This part includes a horizontal divider at the top edge.
+There is a small rectangular cutout near the bottom left corner.
+There is a small circular hole near the top left corner.
+The structure includes a long horizontal slot on the bottom side.
+The part has a vertical slot on the right edge.
+There is a small circular hole near the bottom right corner.
+There is a long horizontal slot near the top edge.
+The structure includes a vertical slot on the left side.
+The part has a flat base extending from the bottom.
+There is a small notch on the right side.
+
+**Protrusions:**
+The edges of the frame are straight and uniform.
+The frame has a flat base along the bottom.
+The frame has a consistent width along all sides.
+The corners of the frame are right angles.
+The part has a flat base supporting the entire structure.
+The corners of the frame are right angles.
+The part has a flat base.
+Raised edges are present along the perimeter.
+The component has a raised edge along the left side.
+The frame includes a small protrusion on the bottom left.
+The left side of the component has raised edges.
+The right side of the part has raised edges.
+The frame has raised edges along the perimeter.
+The part includes a protruding tab at the top right corner.
+The frame has a raised edge along the left side.
+The component includes a small notch on the bottom left.
+The edges of the frame are slightly raised.
+The corners of the frame are reinforced with additional material.
+The part has a flat base along the bottom edge.
+The top horizontal beam extends slightly beyond the sides.
+The frame has raised edges along the perimeter.
+The corners of the frame are right-angled.
+The part has a flat base extending horizontally.
+The frame includes a slight inward curve on the top edge.
+The part has a flat base along the bottom edge.
+The frame has a consistent rectangular profile throughout.
+The frame has raised edges along the perimeter.
+The corners of the frame are slightly rounded.
+The frame has parallel sides with consistent width.
+The component has a protruding edge along the top.
+
+**Relative Positions:**
+The central divider runs parallel to the top and bottom edges.
+The two vertical sections are symmetrical around the central divider.
+The central divider runs vertically through the middle of the frame.
+The two vertical sections are symmetrical around the central divider.
+The two rectangular openings are aligned centrally within the frame.
+The horizontal base extends across the width of the frame.
+The vertical sections are aligned symmetrically.
+The dividing line runs parallel to the top and bottom edges.
+The rectangular slot on the side is aligned parallel to the top edge.
+The central opening is positioned symmetrically within the frame.
+The vertical slot is aligned with the central opening.
+The horizontal slot is positioned parallel to the central opening.
+The rectangular opening is positioned centrally within the L-shape.
+Two smaller holes are located symmetrically on either side of the central opening.
+The rectangular slot is positioned parallel to the bottom edge.
+The central opening is aligned with the main frame structure.
+The rectangular slot on the left side is aligned with the central opening.
+The base extends outward, providing stability to the structure.
+The vertical slots are evenly spaced on the left side.
+The rectangular opening is aligned centrally within the frame.
+The central divider is aligned vertically with the frame.
+The rectangular openings are evenly spaced within the frame.
+The central opening is flanked by two vertical sections on either side.
+The horizontal slot is aligned with the central opening.
+The central divider is aligned vertically with the frame.
+The rectangular sections are evenly spaced within the frame.
+The rectangular slot is aligned parallel to the bottom edge.
+The small circular holes are symmetrically placed on opposite corners.
+The rectangular slot is aligned with the central opening.
+The base extends outward, creating a stable foundation.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular frame structure with right angles.
+- Central rectangular opening.
+- Two vertical sections divided by a central divider.
+- L-shaped metal frame with a right-angle bend.
+
+[HOLES_SLOTS]
+- One large rectangular opening in the center.
+- Horizontal slot near the bottom edge.
+- Small rectangular slot near the top edge.
+- Small circular hole near the top left corner.
+- Vertical slot near the top edge.
+- Long horizontal slot on one side.
+- Small rectangular cutout near the bottom left corner.
+- Small circular hole near the bottom right corner.
+
+[PROTRUSIONS]
+- Flat base extending from the bottom edge.
+- Raised edges along the perimeter.
+- Protruding tab at the top right corner.
+- Rectangular protrusion on the left side.
+- Slight inward curve on the top edge.
+
+[RELATIVE_POSITIONS]
+- Central divider runs vertically through the middle.
+- Two vertical sections are symmetrical around the central divider.
+- Horizontal base extends across the width of the frame.
+- Rectangular slot on the side is aligned parallel to the top edge.
+- Small circular holes are symmetrically placed on opposite corners.
+- Base extends outward, providing stability to the structure.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 16/18 (Images 226-240)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a rectangular frame.
+This part features two vertical sections connected by a horizontal base.
+The component is a rectangular frame with two sections.
+This part features a central dividing line separating the two sections.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features four straight edges.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component is an L-shaped metal frame.
+This part features a central rectangular opening.
+The component is an L-shaped metal frame.
+This part features a large rectangular opening in the center.
+The component forms a rectangular frame with straight edges.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features two vertical rectangular sections.
+The component forms a rectangular frame with a central opening.
+This part features a large rectangular slot near the top edge.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+
+**Holes & Slots:**
+It contains a central rectangular opening.
+There is a smaller rectangular cutout near the top section.
+The frame has a uniform thickness throughout.
+The edges of the frame are straight and parallel.
+There is a small rectangular cutout near the top left corner.
+The frame has a large rectangular opening in the middle.
+The part includes a vertical slot on the left side.
+There is a horizontal slot on the right side.
+There is a long horizontal slot on the top side.
+The bottom side includes a short vertical slot.
+The frame has a uniform thickness throughout.
+The corners are reinforced with additional material.
+It contains a central rectangular opening.
+There is a small notch on one of the longer sides.
+The part has a uniform thickness throughout.
+This section includes a series of parallel lines along the edges.
+There is a vertical slot near the left side.
+The frame includes a horizontal slot near the bottom edge.
+The part has a rectangular protrusion on the right side.
+There is a small rectangular notch on the top edge.
+There is a vertical slot near the left side.
+The frame includes a horizontal slot near the bottom edge.
+The part has a protruding edge along the top side.
+There is a small notch on the right side.
+There is a small circular hole near the corner.
+The frame includes a vertical slot on the left side.
+The part has a horizontal slot on the right side.
+There are two small holes aligned vertically near the top.
+There is a small circular hole near the top left corner.
+The frame includes a vertical slot on the right side.
+The part has a protruding edge along the bottom.
+There is a horizontal slot near the bottom edge.
+There is a small rectangular slot near the bottom edge.
+The frame includes a larger rectangular cutout in the middle.
+The part has a flat base extending from one side.
+There is a narrow rectangular slot on the right side.
+There is a small square hole near the bottom left corner.
+The frame includes a vertical slot on the right side.
+The part has a horizontal slot on the top edge.
+There is a circular hole positioned near the bottom right corner.
+There is a small rectangular slot near the bottom edge.
+The frame includes a large rectangular cutout in the middle.
+The part has a rectangular protrusion on the top side.
+There is a rectangular slot on the right side.
+There is a small rectangular slot near the top edge.
+The object has a large rectangular cutout in the middle.
+This part includes a long horizontal slot on one side.
+There is a narrow rectangular slot near the bottom edge.
+It contains a central horizontal division.
+There is a small rectangular cutout near the top left corner.
+The frame has a uniform thickness throughout.
+This section includes a narrow vertical slot on the right side.
+It contains a smaller rectangular slot adjacent to the larger one.
+The part has a central rectangular cutout.
+There is a rectangular protrusion on the left side.
+The component includes a rectangular slot on the right side.
+There is a small rectangular slot near the bottom edge.
+The object has a large rectangular cutout in the middle.
+This part includes a long rectangular slot on one side.
+The component has a rectangular hole positioned near the top.
+
+**Protrusions:**
+The part has a flat base supporting the structure.
+The corners of the frame are right angles.
+The frame has raised edges along the perimeter.
+The part has a protruding edge at the bottom right corner.
+The edges are slightly raised for structural integrity.
+The sides are straight and parallel to each other.
+The component has a flat base.
+The edges are slightly raised.
+The frame has raised edges along the perimeter.
+The part includes a rectangular protrusion on the left side.
+The frame has raised corners at each corner.
+Several smaller rectangular cutouts are arranged symmetrically.
+The frame has raised edges along the inner perimeter.
+The outer edges of the frame are slightly protruding.
+The component has raised corners at each end.
+Several smaller holes are arranged around the central opening.
+The edges of the frame are slightly raised.
+The corners of the frame are reinforced with additional material.
+The frame has raised edges along the top and bottom.
+The sides of the component have protruding ridges.
+The component has a rectangular protrusion along the left edge.
+The frame includes a rectangular protrusion on the bottom side.
+The part has raised edges along the perimeter.
+The component has a protruding edge on the left side.
+The part has a flat base along the bottom edge.
+The frame includes a slight protrusion along the bottom edge.
+The part has a rectangular protrusion along the bottom edge.
+This part features a rectangular slot near the bottom edge.
+The part has raised edges along the perimeter.
+There are protruding edges on the left and right sides.
+
+**Relative Positions:**
+The central opening is aligned with the horizontal base.
+The smaller cutout is positioned above the central opening.
+The central opening is aligned with the dividing line.
+The rectangular sections are connected by a shared vertical edge.
+The horizontal slot is aligned with the top edge.
+The vertical slot is positioned near the bottom edge.
+The rectangular opening is centrally aligned.
+The parallel lines run along the length of each side.
+The vertical slot is aligned with the central opening.
+The horizontal slot is positioned parallel to the central opening.
+The vertical slot is aligned with the central opening.
+The horizontal slot is positioned parallel to the central opening.
+The rectangular opening is positioned centrally within the L-shape.
+The vertical slot is located adjacent to the central opening.
+The rectangular slot is positioned parallel to the vertical edge.
+The protruding edges are aligned with the frame's corners.
+The central opening is aligned with the rectangular slots.
+The base extends outward, providing stability to the structure.
+The rectangular slot is aligned parallel to the top edge.
+The central opening is flanked by two smaller square holes.
+The rectangular slot is positioned parallel to the top edge.
+The rectangular protrusions are evenly spaced along the frame.
+The rectangular slot is positioned parallel to the top edge.
+The central opening is aligned with the horizontal slot.
+The central division is aligned symmetrically with the frame.
+The vertical sections are evenly spaced within the frame.
+The rectangular slots are aligned parallel to each other.
+The rectangular protrusions are positioned on opposite sides of the frame.
+The rectangular slot is aligned parallel to the longer sides.
+The central opening is surrounded by four straight edges.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular frame structure with a central rectangular opening.
+- L-shaped metal frame with a large rectangular slot near the top edge.
+- Two vertical sections connected by a horizontal base.
+
+[HOLES_SLOTS]
+- Central rectangular opening.
+- Small rectangular cutout near the top section.
+- Small rectangular slot near the top left corner.
+- Vertical slot on the left side.
+- Horizontal slot on the right side.
+- Long horizontal slot on the top side.
+- Small circular hole near the corner.
+- Small rectangular slot near the bottom edge.
+- Small rectangular slot near the top edge.
+
+[PROTRUSIONS]
+- Flat base extending from one side.
+- Rectangular protrusion on the right side.
+- Rectangular protrusion on the top side.
+- Rectangular protrusion on the left side.
+- Rectangular protrusion on the bottom side.
+- Raised edges along the perimeter.
+- Raised corners at each end.
+
+[RELATIVE_POSITIONS]
+- Central opening aligned with the horizontal base.
+- Smaller cutout positioned above the central opening.
+- Rectangular sections connected by a shared vertical edge.
+- Horizontal slot aligned with the top edge.
+- Vertical slot positioned near the bottom edge.
+- Rectangular opening centrally aligned.
+- Vertical slot aligned with the central opening.
+- Horizontal slot positioned parallel to the central opening.
+- Rectangular slot positioned parallel to the vertical edge.
+- Protruding edges aligned with the frame's corners.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 17/18 (Images 241-255)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a rectangular frame.
+This part features two vertical dividers.
+The component is a rectangular frame structure.
+This part features two vertical sections divided by a central divider.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features two vertical sections divided by a central pillar.
+The component forms a rectangular frame with right angles.
+This part features a central rectangular opening.
+The component is a rectangular frame with two sections.
+This part features a central dividing line separating the two sections.
+The component forms a rectangular frame with two parallel sides.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features two vertical sections divided by a central pillar.
+The component is a rectangular frame.
+This part features two vertical sections.
+The component is a rectangular frame.
+This part features two vertical sections divided by a central divider.
+The component is a rectangular frame structure.
+This part features two vertical sections connected by a horizontal bar.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+
+**Holes & Slots:**
+It contains a large rectangular opening in the center.
+There is a small rectangular slot near the bottom edge.
+The frame has a flat top surface.
+This part includes a horizontal divider at the top.
+It contains a large rectangular opening in the middle.
+There is a small rectangular slot near the bottom edge.
+The frame has a flat base extending horizontally.
+This section includes a protruding edge along the top side.
+There is a vertical slot near the top edge.
+The frame includes a horizontal slot near the bottom edge.
+The part has a rectangular protrusion on the left side.
+There is a rectangular protrusion on the right side.
+There is a vertical slot near the left edge.
+The frame includes a horizontal slot near the bottom edge.
+The part has a flat base along the bottom side.
+This component has a protruding edge along the top side.
+It contains a large rectangular opening in the middle.
+There is a small rectangular slot near the bottom edge.
+The part has a flat top surface.
+This section includes a horizontal support beam at the bottom.
+There is a small square hole near the top left corner.
+The frame includes a long horizontal slot on the right side.
+The part has a vertical slot on the left side.
+There is a small circular hole near the bottom right corner.
+There is a small rectangular cutout near the top left corner.
+The frame has a large rectangular opening in the middle.
+The part includes a vertical slot on the right side.
+There is a horizontal slot on the bottom edge.
+There is a small rectangular slot near the bottom edge.
+The object has a symmetrical design with equal side lengths.
+It contains a large rectangular cutout in the middle.
+The part includes a smaller rectangular slot on the left side.
+It contains a large rectangular opening in the middle.
+There is a smaller rectangular slot near the bottom edge.
+The frame has a flat top edge.
+This part includes a horizontal support beam at the bottom.
+It contains a central rectangular opening.
+There is a horizontal section connecting the vertical parts.
+The frame has a uniform rectangular outline.
+This part includes a flat base at the bottom.
+It contains a large rectangular opening on the left side.
+There is a smaller rectangular opening on the right side.
+The frame has a flat top edge.
+The bottom edge of the component is straight and continuous.
+It contains a central rectangular opening.
+There is a smaller rectangular cutout near the top left corner.
+The frame has a uniform thickness throughout.
+This section includes a narrow elongated slot on the right side.
+There is a vertical slot on the left side.
+The right side includes a horizontal slot near the bottom.
+The frame has a consistent thickness throughout.
+The corners are reinforced with additional structural elements.
+There is a long horizontal slot near the bottom edge.
+The frame includes a vertical slot on the left side.
+The part has a small circular hole at the top corner.
+There is a rectangular cutout on the right side.
+There is a vertical slot on the left side.
+The right side includes a horizontal slot.
+The frame has a consistent thickness throughout.
+The edges are straight and parallel.
+
+**Protrusions:**
+The part has a raised edge along the bottom.
+The frame has a flat bottom surface.
+The part has raised corners at each corner.
+Several smaller rectangular openings are aligned vertically.
+The left side of the component has raised edges.
+The right side of the part has raised edges.
+The frame has raised corners at each corner.
+Several smaller rectangular openings are aligned vertically.
+The frame has raised edges along the perimeter.
+The corners of the frame are reinforced with additional material.
+The frame has raised edges along the top and bottom sides.
+The corners of the frame are reinforced with additional material.
+The frame has raised edges along the perimeter.
+The part has a protruding section on the left side.
+The edges of the component are straight and uniform.
+The part has a slight protrusion at the bottom corner.
+The part has a raised border along the perimeter.
+The component has a protruding corner at the top left.
+The edges of the frame are straight and parallel.
+The corners of the frame are right angles.
+The frame has a raised border along the perimeter.
+The central divider extends from the top to the bottom edge.
+The part has a flat base along the bottom edge.
+Raised edges are present along the top and bottom sides.
+The edges are slightly raised for added strength.
+The top edge has a protruding lip for alignment.
+The frame has raised edges along the perimeter.
+The part includes a protruding tab at the bottom left corner.
+The corners are right angles.
+The top edge is slightly elevated.
+
+**Relative Positions:**
+The vertical dividers are evenly spaced within the frame.
+The rectangular opening spans the entire height of the frame.
+The central divider is positioned equidistant from the left and right sections.
+The horizontal base extends slightly beyond the main rectangular area.
+The vertical slot is aligned with the central opening.
+The horizontal slot is positioned parallel to the central opening.
+The vertical slot is positioned to the left of the central opening.
+The horizontal slot is located below the central opening.
+The central pillar is aligned vertically between the two sections.
+The rectangular openings are evenly spaced along the frame.
+The rectangular slot is aligned parallel to the longer sides.
+The small square hole is positioned adjacent to the vertical slot.
+The rectangular cutout is aligned with the central dividing line.
+The vertical slot is positioned adjacent to the right section.
+The rectangular slot is aligned parallel to the longer sides.
+The central opening is positioned symmetrically within the frame.
+The central opening is flanked by two vertical sections.
+The horizontal support beam is positioned directly below the central opening.
+The vertical sections are aligned symmetrically.
+The horizontal section is centered between the vertical parts.
+The left rectangular opening is aligned with the central divider.
+The right rectangular opening is positioned parallel to the left opening.
+The central opening is aligned with the horizontal bar.
+The smaller cutout is positioned adjacent to the central opening.
+The vertical slot is aligned parallel to the frame's height.
+The horizontal slot is positioned symmetrically with the vertical slot.
+The rectangular slot is aligned parallel to the bottom edge.
+The central opening is flanked by two smaller rectangular cutouts.
+The slots are aligned with the frame's sides.
+The central opening is symmetrical.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular frame structure with right angles.
+- Central rectangular opening.
+- Two vertical sections divided by a central divider.
+- Horizontal support beam at the bottom.
+
+[HOLES_SLOTS]
+- Large rectangular opening in the center.
+- Small rectangular slot near the bottom edge.
+- Vertical slot near the top edge.
+- Horizontal slot near the bottom edge.
+- Small square hole near the top left corner.
+- Small circular hole near the bottom right corner.
+- Vertical slot near the left edge.
+- Long horizontal slot on the right side.
+
+[PROTRUSIONS]
+- Raised edges along the perimeter.
+- Raised corners at each corner.
+- Protruding section on the left side.
+- Protruding tab at the bottom left corner.
+- Slight protrusion at the bottom corner.
+- Raised border along the perimeter.
+- Protruding lip for alignment on the top edge.
+
+[RELATIVE_POSITIONS]
+- Central divider equidistant from left and right sections.
+- Horizontal base extends slightly beyond the main rectangular area.
+- Vertical slot aligned with the central opening.
+- Horizontal slot positioned parallel to the central opening.
+- Central pillar aligned vertically between the two sections.
+- Rectangular slot aligned parallel to the longer sides.
+- Small square hole positioned adjacent to the vertical slot.
+- Horizontal support beam positioned directly below the central opening.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 18/18 (Images 256-264)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 9 images of the same component:
+
+**Global Shape:**
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component is a rectangular frame.
+This part features a central vertical divider.
+The component forms a rectangular frame with a right angle.
+This part features a central rectangular cutout.
+The component forms a rectangular frame with two parallel sides.
+This part features a central rectangular cutout.
+The component is a rectangular frame.
+This part features two vertical sections divided by a central divider.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component forms a rectangular frame.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features a central rectangular opening.
+The component is a rectangular frame structure.
+This part features two vertical sections divided by a central divider.
+
+**Holes & Slots:**
+There is a vertical slot near the left side.
+The frame includes a horizontal slot near the bottom edge.
+The part has a raised border along the perimeter.
+The frame has a corner reinforcement at each joint.
+There is a horizontal slot near the bottom edge.
+The frame has a uniform rectangular outline.
+This section includes a small circular indentation on the left side.
+The right side of the frame has a slight protrusion.
+There is a long horizontal slot near the bottom edge.
+The frame includes a vertical slot on the left side.
+The part has a small circular hole at the top corner.
+There is a rectangular slot on the right side near the bottom.
+There is a long horizontal slot on the top side.
+The object has a symmetrical design with equal length sides.
+It contains a smaller rectangular slot near the bottom edge.
+The part has a flat surface with no additional protrusions.
+The frame has a uniform thickness throughout.
+There are no holes present in the structure.
+The edges of the frame are straight and parallel.
+The corners of the frame are right angles.
+There is a vertical slot near the top edge.
+The frame includes a horizontal slot at the bottom.
+The part has a rectangular protrusion on the left side.
+There is a small rectangular notch on the right side.
+There is a small rectangular slot near the bottom edge.
+The object has a large rectangular cutout in the middle.
+This part includes a long horizontal slot on the top side.
+There is a narrow rectangular slot on the left side.
+There is a smaller rectangular slot near the top edge.
+The frame includes a vertical rectangular cutout on the left side.
+The part has a horizontal rectangular cutout on the right side.
+The frame has a protruding edge along the bottom side.
+It contains a large rectangular opening in the middle.
+There is a small rectangular slot near the bottom edge.
+The part has a flat base along the bottom side.
+This section includes a protruding ledge on the top edge.
+
+**Protrusions:**
+Several smaller rectangular openings are aligned along the top edge.
+The component has a protruding ledge on the right side.
+The component has a flat top surface.
+The bottom edge of the frame is slightly elevated.
+The frame has a raised edge along the top side.
+The part includes a protruding tab at the bottom left corner.
+The rectangular frame has a consistent width throughout.
+There are two parallel elongated slots on the longer sides.
+The frame has a flat base along the bottom edge.
+The top edge of the frame is slightly recessed.
+The frame has raised edges along the top and bottom.
+The part includes a protruding tab on the left side.
+The part has raised edges along the perimeter.
+The component has a protruding edge on the right side.
+The part includes raised edges along the top and bottom sides.
+There are two smaller rectangular slots near the bottom corners.
+The frame has raised edges along the sides.
+The corners of the frame are reinforced with additional material.
+
+**Relative Positions:**
+The central opening is flanked by two vertical slots.
+The frame's corners are slightly rounded for structural integrity.
+The central divider is aligned symmetrically within the frame.
+The horizontal slot is positioned parallel to the base.
+The rectangular cutout is aligned centrally within the frame.
+The horizontal slot is positioned parallel to the bottom edge.
+The central cutout is aligned with the horizontal slots.
+The slots are evenly spaced along the length of the frame.
+The central divider runs vertically from the top to the bottom.
+The two vertical sections are symmetrical along the central divider.
+The central opening is flanked by two vertical slots.
+The horizontal slot is aligned with the central opening.
+The rectangular slot is positioned parallel to the top edge.
+The central opening is aligned with the horizontal slot.
+The central opening is aligned with the smaller slots on the sides.
+The rectangular cutouts are symmetrically positioned on opposite sides.
+The central divider is positioned equidistant from the left and right sections.
+The rectangular openings are aligned vertically within the frame.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular frame structure with a central rectangular opening.
+- Two vertical sections divided by a central divider.
+- Uniform thickness throughout the frame.
+- Straight and parallel edges with right-angle corners.
+
+[HOLES_SLOTS]
+- Central rectangular cutout aligned symmetrically.
+- Long horizontal slots near the bottom edge.
+- Vertical slots near the left and right sides.
+- Small circular hole at the top corner.
+- Rectangular slots on the right side near the bottom.
+
+[PROTRUSIONS]
+- Raised border along the perimeter.
+- Protruding ledge on the right side.
+- Flat base along the bottom edge.
+- Raised edges along the top and bottom sides.
+- Corner reinforcement at each joint.
+
+[RELATIVE_POSITIONS]
+- Central opening flanked by two vertical slots.
+- Horizontal slot positioned parallel to the base.
+- Central divider aligned symmetrically within the frame.
+- Slots evenly spaced along the length of the frame.
+- Central opening aligned with the horizontal slots.
+----------------------------------------------------------------------
+

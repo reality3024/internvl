@@ -1,0 +1,3398 @@
+Reduction Phase Results for Class: M58-導向輪軸心
+Total Images: 251
+Batch Size: 15
+======================================================================
+
+
+======================================================================
+BATCH 1/17 (Images 1-15)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component resembles a cylindrical nozzle.
+This part features a smooth, elongated body.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical with a flared end.
+This part features a central cylindrical shaft.
+The component resembles a cylindrical tube with a protruding end.
+This part features a large circular opening on one side.
+The component is cylindrical with a protruding end.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component has a cylindrical shape with a hollow interior.
+This part features a large circular opening at one end.
+The component has a cylindrical shape with a flat end.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is a cylindrical pipe with a flange.
+This part features a large circular opening on one end.
+The component is cylindrical with a flat end.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component resembles a cylindrical tube with a flange.
+This part features a large circular opening on one end.
+The component is cylindrical with a protruding rectangular section.
+This part features a central circular hole.
+
+**Holes & Slots:**
+It contains a central circular opening.
+There is a smaller circular hole near the front end.
+The nozzle has a slightly tapered front section.
+The cylindrical body has a consistent diameter throughout.
+There is a circular hole positioned in the middle section.
+The cylindrical part has a smooth outer surface.
+The component has a protruding section on one end.
+This part includes a circular hole near the center.
+There is a small circular hole near the middle section.
+The object has a smooth cylindrical body.
+This part includes a protruding cylindrical section at one end.
+The cylindrical component has a flat circular face on one side.
+There is a circular hole near the flared end.
+The cylindrical section has a smooth outer surface.
+The flared end has a slightly wider diameter.
+This part includes a hollow cylindrical section.
+There is a small circular hole near the protruding end.
+The cylindrical section has a smooth outer surface.
+The protruding end has a flat, rectangular shape.
+This part includes a central circular hole.
+There is a small circular hole near the middle.
+The cylindrical section has a smooth outer surface.
+The protruding end is slightly rounded.
+This part includes a flat base at one end.
+There is a small circular hole near the middle.
+The cylindrical part has a smooth outer surface.
+The component has a protruding circular section on one end.
+This part includes a hollow cylindrical section.
+There is a smaller circular hole near the center of the cylindrical section.
+The cylindrical section has a smooth outer surface.
+The component has a protruding lip around the central opening.
+There is a shallow indentation on the side of the cylinder.
+There is a protruding cylindrical section on one side.
+The cylindrical part has a smooth outer surface.
+The flat end is perpendicular to the cylindrical section.
+The component has a hollow interior along the length.
+There is a circular hole positioned in the middle.
+The cylindrical object has a uniform diameter throughout.
+This part includes a circular opening near one end.
+The component has a smooth outer surface without additional features.
+There is a smaller circular hole near the flange.
+The cylindrical section has a smooth outer surface.
+The flange has a raised circular edge.
+The component has a protruding cylindrical section on one side.
+There is a small circular hole near the middle.
+The cylindrical section has a smooth outer surface.
+The flat end has a slightly raised rim.
+The component has a uniform diameter along its length.
+There is a small circular hole near the center.
+The cylindrical part has a flat end cap.
+The object has a protruding cylindrical section on one side.
+This part includes a circular opening in the middle.
+There is a smaller circular hole near the flange.
+The cylindrical section has a smooth outer surface.
+The flange includes a protruding lip on one side.
+The component has a central cylindrical body.
+There is a small circular hole near the middle.
+The cylindrical section has a smooth outer surface.
+The rectangular protrusion extends from the cylindrical body.
+The component has a flat base at one end.
+
+**Protrusions:**
+The part has a flared end on one side.
+The nozzle includes a protruding lip at the front.
+The cylindrical object has a flanged end.
+There is a circular hole aligned with the central axis.
+The part has a slight indentation along the length.
+There is a circular hole aligned with the central axis.
+The component has a protruding cylindrical extension.
+The cylindrical shaft is uniform in diameter.
+The cylindrical body has a slightly tapered design.
+The protruding section has a rounded tip.
+The component has a flange around the central opening.
+There is a small notch on the side of the protruding end.
+The cylindrical part has a flat end cap.
+The component has a circular opening in the middle.
+The part has a flanged edge on the wider end.
+The cylindrical body tapers slightly towards the narrower end.
+The cylindrical section is slightly wider than the flat end.
+The central hole is aligned with the cylindrical axis.
+The cylindrical part has a slight protrusion on one side.
+There is a raised section along the length of the cylinder.
+The flange is positioned perpendicular to the main cylinder.
+The cylindrical part extends from the center of the flange.
+The central hole is aligned with the cylindrical axis.
+The flat end is perpendicular to the cylindrical body.
+The cylindrical section has a raised edge along its length.
+The component has a smooth outer surface.
+The flange extends outward from the main body.
+The cylindrical part is connected to the flange seamlessly.
+The rectangular section has a slight indentation.
+The cylindrical part is connected to the rectangular section.
+
+**Relative Positions:**
+The central opening is aligned with the main body.
+The smaller hole is positioned adjacent to the flared end.
+The flanged end is positioned on the left side.
+The central hole is surrounded by a flanged section.
+The cylindrical section is connected to a shorter cylindrical part.
+The shorter section is positioned at the opposite end of the main cylinder.
+The flared end is positioned at one end of the shaft.
+The hollow section is aligned with the central shaft.
+The circular hole is aligned with the cylindrical body.
+The rectangular protrusion extends from the cylindrical section.
+The circular hole is aligned with the central axis.
+The flange extends around the circumference of the central opening.
+The circular hole is aligned with the central axis.
+The cylindrical section extends from the flat end cap.
+The smaller circular hole is aligned parallel to the main cylindrical axis.
+The flanged edge surrounds the larger circular opening.
+The flat end is positioned opposite the cylindrical protrusion.
+The component has a uniform diameter along the cylindrical part.
+The central hole is aligned with the cylindrical axis.
+The protrusion is located on the side opposite the circular hole.
+The smaller hole is aligned with the main opening.
+The protruding section is parallel to the main cylinder.
+The small circular hole is positioned close to the flat end.
+The cylindrical body extends from the flat end.
+The central hole is aligned with the cylindrical axis.
+The flat end cap is positioned at one end of the cylinder.
+The smaller hole is aligned with the central opening.
+The protruding lip is positioned on the flange's edge.
+The circular hole is aligned with the rectangular protrusion.
+The flat base is perpendicular to the cylindrical section.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical body with a flared end.
+- Central cylindrical shaft.
+- Smooth, elongated structure.
+- Hollow interior along the length.
+
+[HOLES_SLOTS]
+- Central circular hole aligned with the cylindrical axis.
+- Smaller circular hole near the front end or middle section.
+- Circular opening at one end.
+- Flat circular face on one side.
+
+[PROTRUSIONS]
+- Flared end with a slightly wider diameter.
+- Protruding cylindrical extension.
+- Flanged end with a raised circular edge.
+- Flat end cap with a slightly raised rim.
+
+[RELATIVE_POSITIONS]
+- Central hole surrounded by a flanged section.
+- Smaller hole positioned adjacent to the flared end.
+- Flanged end positioned on one side.
+- Flat end cap positioned opposite the cylindrical protrusion.
+- Protruding section parallel to the main cylinder.
+- Circular hole aligned with the central axis.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 2/17 (Images 16-30)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component consists of a cylindrical shaft with a flange.
+This part features a central rectangular protrusion.
+The component has a cylindrical shape with a hollow center.
+This part features a circular hole near the end.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central hollow section.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component has a cylindrical shape with a rounded tip.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component has a cylindrical shape with a flat end.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is cylindrical with a central circular hole.
+This part features a large circular opening in the middle.
+The component is cylindrical in shape.
+This part features a smooth, elongated body.
+
+**Holes & Slots:**
+There is a small protrusion on the side.
+The object has a smooth outer surface.
+It contains a large circular hole in the middle section.
+There is a rectangular slot near the end cap.
+There is a circular hole on the side of the flange.
+The cylindrical section is connected to the flange at a right angle.
+The flange has a raised edge around its perimeter.
+A smaller circular hole is present near the end of the shaft.
+It contains a larger circular opening on one side.
+The object has a smooth, elongated body.
+There is a smaller circular hole adjacent to the larger opening.
+The part includes a flat surface on one end.
+There is a small circular protrusion on the side.
+The object has a smooth outer surface.
+It contains a large circular hole in the middle section.
+The cylindrical part has a flat end cap.
+There is a smaller circular hole near the center.
+The cylindrical section has a flanged end.
+The part has a protruding flange on one side.
+The flange has a circular indentation.
+There is a circular opening at one end.
+The cylindrical body has a uniform diameter.
+This part includes a flange at the midpoint.
+The flange has a flat surface extending outward.
+There is a small circular protrusion near the middle.
+The object has a flat surface on one end.
+The cylindrical part has a flange on one side.
+This component includes a recessed area near the flange.
+There is a circular hole positioned in the middle section.
+The cylindrical part has a hollow interior.
+This object has a uniform cylindrical form.
+The component includes a circular opening at the center.
+There is a protruding section on one end of the cylinder.
+The cylindrical body has a smooth outer surface.
+The component includes a flanged section near the base.
+This part has a hollow interior along its length.
+There is a small circular hole near the center.
+The object has a flat mounting surface on one end.
+The cylindrical body has a protruding flange on one side.
+The flange has a circular hole in the middle.
+There is a protruding cylindrical section on one side.
+The cylindrical section has a smooth outer surface.
+The flat end is perpendicular to the cylindrical body.
+The central hole is aligned with the cylindrical axis.
+There is a small circular hole near the center.
+The cylindrical part has a hollow interior.
+The component has a flanged end on one side.
+This part includes a protruding lip around the central hole.
+There is a small circular protrusion on the side.
+The object has a hollow cylindrical section.
+This part includes a flanged end on one side.
+The cylindrical body has a smooth outer surface.
+There is a smaller circular hole near the center.
+The object has a smooth cylindrical body.
+This part includes a circular hole aligned with the main axis.
+The cylindrical component has a central circular cutout.
+It contains a central circular opening.
+There is a smaller circular protrusion on one end.
+The part has a flanged end on the opposite side.
+This section includes a slight indentation near the middle.
+
+**Protrusions:**
+The part has a raised edge along the length.
+The cylindrical body has a flange at one end.
+The shaft has a smooth cylindrical shape.
+The flange extends outward from the main shaft.
+The component has a protruding section at the front.
+The part features a raised edge along the length.
+The component has a raised circular feature on one side.
+This part includes a protruding circular element.
+The cylindrical body is uniform in diameter.
+The flange extends outward from the main body.
+The component has a protruding section on one side.
+The protruding section is perpendicular to the main body.
+The part has a raised circular feature on the side.
+There is a protruding section on the cylindrical body.
+The part has a smooth outer surface.
+There are no protrusions on the cylindrical surface.
+The cylindrical part has a slight taper towards the tip.
+The flanged section has a flat, circular face.
+The part has a smooth cylindrical body.
+The mounting surface is perpendicular to the cylindrical body.
+The cylindrical body has a uniform diameter.
+The flat end is slightly recessed from the main body.
+The cylindrical section has a smooth outer surface.
+The flanged end has a raised circular edge.
+The component has a raised circular ridge along the length.
+There is a small circular indentation near the flanged end.
+The part has a raised circular section along the length.
+There is a protruding circular feature on the side.
+The cylindrical body has a uniform diameter.
+The flanged end provides a flat surface.
+
+**Relative Positions:**
+The small protrusion is positioned near the central hole.
+The rectangular slot is aligned parallel to the cylinder's axis.
+The circular hole on the flange is aligned with the shaft.
+The smaller hole is positioned parallel to the main shaft.
+The smaller hole is positioned close to the larger opening.
+The protruding section is aligned parallel to the main body.
+The central hole is aligned with the cylindrical body.
+The small protrusion is positioned near the central hole.
+The central hole aligns with the flange.
+The smaller hole is positioned adjacent to the flange.
+The circular opening is aligned with the central axis.
+The flange is positioned between the two cylindrical sections.
+The flange is positioned on the opposite end of the central hole.
+The recessed area is adjacent to the raised circular feature.
+The circular hole is aligned with the central axis.
+The cylindrical shape extends uniformly in length.
+The central hole is aligned with the cylindrical axis.
+The protruding section is perpendicular to the main body.
+The central hole is aligned with the cylindrical axis.
+The flange extends outward from the main body.
+The central hole is positioned near the flat end.
+The cylindrical section extends from the flat end.
+The central hole is aligned with the cylindrical axis.
+The small circular hole is positioned adjacent to the flanged end.
+The central opening is aligned with the cylindrical body.
+The flanged end is positioned at one end of the cylinder.
+The central hole is positioned along the cylindrical axis.
+The circular hole is centrally located on the cylindrical body.
+The smaller protrusion is aligned parallel to the main body.
+The central opening is positioned midway along the length.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical shaft with a flange.
+- Central circular opening.
+- Smooth, elongated body.
+- Flat end cap.
+- Hollow interior along its length.
+
+[HOLES_SLOTS]
+- Large circular hole in the middle section.
+- Smaller circular hole near the center.
+- Rectangular slot near the end cap.
+- Circular hole on the side of the flange.
+- Smaller circular hole near the end of the shaft.
+- Circular opening at one end.
+
+[PROTRUSIONS]
+- Raised edge along the length.
+- Protruding section at the front.
+- Flange extends outward from the main shaft.
+- Raised circular feature on one side.
+- Protruding section on one side.
+
+[RELATIVE_POSITIONS]
+- Central hole aligns with the cylindrical body.
+- Flange is positioned between the two cylindrical sections.
+- Rectangular slot is aligned parallel to the cylinder's axis.
+- Smaller hole is positioned parallel to the main shaft.
+- Protruding section is perpendicular to the main body.
+- Flange extends outward from the main body.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 3/17 (Images 31-45)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is cylindrical in shape.
+This part features a central hollow section.
+The component consists of two cylindrical sections connected by a central hub.
+This part features a symmetrical design with uniform cylindrical shapes.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component consists of two cylindrical sections connected together.
+This part features a central cylindrical shaft.
+The component resembles a cylindrical connector.
+This part features a smooth, elongated body.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical with a central circular hole.
+This part features a prominent circular opening in the middle.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component resembles a cylindrical connector.
+This part features a smooth, elongated body.
+The component resembles a cylindrical connector.
+This part features a smooth, elongated body.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical with a flat end.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component resembles a cylindrical connector.
+This part features a large circular opening on one end.
+
+**Holes & Slots:**
+It contains a large circular hole in the middle.
+There is a smaller circular hole near one end.
+The part has a protruding flange on one side.
+The other end of the component is open and hollow.
+The central hub has a rectangular recess in the middle.
+There is a circular groove around the circumference of the connecting section.
+The cylindrical sections have smooth, rounded ends.
+The connecting hub has a slight indentation on one side.
+There is a small circular hole near the front end.
+The cylindrical body has a flanged end.
+The component has a protruding section at one end.
+This part includes a recessed area on the side.
+There is a circular opening in the middle section.
+The cylindrical sections are aligned horizontally.
+The component has a protruding circular feature on one side.
+This part includes a small circular protrusion near the connection.
+It contains a central circular opening.
+There is a smaller circular hole near the end cap.
+The part has a protruding cylindrical section at one end.
+This section has a flanged edge for secure attachment.
+There is a smaller circular hole near the central hole.
+The cylindrical part has a flange on one end.
+The flange has a raised circular edge.
+The component has a smooth outer surface.
+There is a small circular hole situated centrally.
+The object has a cylindrical shape with a central hole.
+This part includes a circular hole positioned in the center.
+The cylindrical component has a single circular hole.
+There is a smaller circular hole near the end.
+The cylindrical body has a smooth outer surface.
+The component has a flanged end on one side.
+This part includes a protruding section at the opposite end.
+It contains a central circular opening.
+There is a smaller circular protrusion near one end.
+The part has a flanged end on one side.
+This section includes a slightly indented area.
+It contains a central circular opening.
+There is a smaller cylindrical protrusion at one end.
+The part has a flanged section near the larger opening.
+A tapered section connects the flange to the main body.
+There is a circular hole positioned in the middle.
+The cylindrical object has a uniform diameter throughout.
+This part includes a circular opening at the center.
+The component has a single circular hole.
+There is a small circular hole near the middle.
+The object has a smooth cylindrical body.
+This part includes a protruding cylindrical section.
+The cylindrical part has a hollow interior.
+There is a circular hole in the middle section.
+The cylindrical part has a flat mounting surface.
+The component has a protruding circular flange on one end.
+This part includes a circular hole aligned with the central axis.
+There is a small protruding knob on the side.
+The object has a smooth outer surface.
+It contains a rectangular slot near the middle.
+The cylindrical part has a flange at one end.
+There is a smaller circular hole near the center.
+The cylindrical section has a smooth outer surface.
+The part includes a protruding cylindrical section at one end.
+This component has a hollow cylindrical shape.
+
+**Protrusions:**
+The cylindrical body has a raised edge along its length.
+The flange is positioned at the midpoint of the cylinder.
+The part has a protruding lip along the outer edge of the central hub.
+The cylindrical sections are aligned parallel to each other.
+The cylindrical part has a raised edge along its length.
+The flanged end has a circular lip.
+The cylindrical sections are joined by a flanged area.
+The flanged area has a raised circular detail.
+The cylindrical body has a slightly tapered design.
+The end cap is slightly wider than the main body.
+The central hole is aligned with the cylindrical axis.
+The smaller hole is offset from the central hole.
+The part has a raised cylindrical section on one side.
+There is a protruding cylindrical section on the right side.
+The flange has a raised circular edge.
+The protruding section is slightly wider than the main body.
+The cylindrical body has a uniform diameter.
+The flanged end provides a flat surface.
+The cylindrical protrusion is slightly rounded.
+The flange has a flat, broad surface.
+The part has a smooth outer surface.
+The cylindrical part has a flat end.
+The component has a flat circular face on one end.
+There is a circular indentation on the side.
+The cylindrical section has a raised circular edge.
+The component has a circular hole near the mounting surface.
+The component has a raised ridge along its length.
+There is a small circular indentation on the side.
+The cylindrical body has a flanged end.
+There is a small circular hole in the flanged end.
+
+**Relative Positions:**
+The central hole aligns with the hollow section.
+The smaller hole is located adjacent to the flange.
+The rectangular recess is centrally positioned within the hub.
+The protruding lip is located on the outer perimeter of the connecting section.
+The small circular hole is aligned with the central opening.
+The protruding section is positioned at the front end.
+The circular opening is positioned between the two cylinders.
+The protruding feature is located on the side of the right cylinder.
+The central opening is aligned with the cylindrical axis.
+The smaller hole is positioned adjacent to the end cap.
+The flange extends outward from the main cylinder.
+The holes are positioned along the length of the cylinder.
+The central hole is aligned with the cylindrical body.
+The circular hole is positioned along the length of the cylinder.
+The central hole aligns with the main cylindrical axis.
+The smaller hole is positioned perpendicular to the main axis.
+The smaller protrusion is aligned parallel to the main body.
+The central opening is positioned near the middle of the cylinder.
+The central opening is aligned with the main cylindrical body.
+The tapered section leads to the smaller protrusion.
+The circular hole is centrally aligned with the cylinder.
+The cylindrical structure has a consistent cross-section.
+The central hole is aligned with the cylindrical axis.
+The flat end is perpendicular to the cylindrical body.
+The circular hole is positioned centrally on the flat surface.
+The cylindrical part has a circular hole aligned with the mounting flange.
+The flange is positioned at the left end of the cylinder.
+The rectangular slot is aligned parallel to the central axis.
+The flanged end is positioned opposite the cylindrical opening.
+The cylindrical section is aligned parallel to the flanged end.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical connector with a central circular hole.
+- Smooth, elongated body with a central hollow section.
+- Two cylindrical sections connected by a central hub.
+- Symmetrical design with uniform cylindrical shapes.
+
+[HOLES_SLOTS]
+- Central circular hole aligned with the cylindrical axis.
+- Smaller circular hole near one end.
+- Rectangular recess in the central hub.
+- Circular groove around the circumference of the connecting section.
+- Small circular hole near the front end.
+- Flanged end with a raised circular edge.
+
+[PROTRUSIONS]
+- Protruding flange on one side.
+- Protruding cylindrical section at one end.
+- Raised edge along the length of the cylindrical body.
+- Flanged end with a flat, broad surface.
+- Small circular protrusion near the connection.
+
+[RELATIVE_POSITIONS]
+- Central hole aligns with the hollow section.
+- Smaller hole is located adjacent to the flange.
+- Rectangular recess is centrally positioned within the hub.
+- Protruding lip is located on the outer perimeter of the connecting section.
+- Small circular hole is aligned with the central opening.
+- Protruding section is positioned at the front end.
+- Circular opening is positioned between the two cylinders.
+- Protruding feature is located on the side of the right cylinder.
+- Central opening is aligned with the cylindrical axis.
+- Smaller hole is positioned adjacent to the end cap.
+- Flange extends outward from the main cylinder.
+- Holes are positioned along the length of the cylinder.
+- Central hole is aligned with the main cylindrical axis.
+- Circular hole is positioned along the length of the cylinder.
+- Central hole aligns with the main cylindrical body.
+- Smaller hole is positioned perpendicular to the main axis.
+- Smaller protrusion is aligned parallel to the main body.
+- Central opening is positioned near the middle of the cylinder.
+- Central opening is aligned with the main cylindrical body.
+- Tapered section leads to the smaller protrusion.
+- Circular hole is centrally aligned with the cylinder.
+- Flat end is perpendicular to the cylindrical body.
+- Circular hole is positioned centrally on the flat surface.
+- Cylindrical part has a circular hole aligned with the mounting flange.
+- Flange is positioned at the left end of the cylinder.
+- Rectangular slot is aligned parallel to the central axis.
+- Flanged end is positioned opposite the cylindrical opening.
+- Cylindrical section is aligned parallel to the flanged end.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 4/17 (Images 46-60)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component resembles a cylindrical connector with a flange.
+This part features a large circular opening on one end.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component resembles a cylindrical connector with a flange.
+This part features a large circular opening on one end.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component consists of two cylindrical sections connected together.
+This part features a central circular opening.
+The component is a cylindrical pipe with a flange.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central hollow section.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component consists of two cylindrical sections connected together.
+This part features a central cylindrical shaft.
+The component is cylindrical in shape.
+This part features a central circular hole.
+
+**Holes & Slots:**
+There is a circular hole positioned in the middle section.
+The cylindrical part has a smooth outer surface.
+The component has a protruding circular section on one end.
+This part includes a circular hole aligned with the central axis.
+There is a circular hole positioned in the middle section.
+The cylindrical part has a flat end cap on one side.
+The component has a protruding section on one end.
+This part includes a circular hole near the center.
+There is a circular hole positioned in the middle.
+The cylindrical object has a flat end cap.
+The part includes a protruding circular section on one side.
+This cylindrical piece has a hollow center.
+There is a smaller circular hole near the flange.
+The cylindrical section has a smooth outer surface.
+The flange extends outward with a flat surface.
+This part includes a protruding tab on the side.
+There is a circular hole in the middle section.
+The cylindrical part has a smooth outer surface.
+The component has a hollow circular center.
+This part includes a circular opening in the middle.
+There is a smaller circular hole near the flange.
+The cylindrical body has a smooth outer surface.
+The flange extends outward from the main body.
+A small protruding tab is present on the side.
+There is a small circular hole near the center.
+The cylindrical part has a flat end cap.
+The object has a protruding section on one side.
+This part includes a circular indentation on the side.
+There is a circular hole in the middle section.
+The cylindrical part has a smooth outer surface.
+The component has a hollow circular section.
+This part includes a circular opening on one side.
+There is a small protruding knob on the side.
+The object has a smooth cylindrical shape.
+This part includes a flange connecting the two main sections.
+The cylindrical sections are aligned parallel to each other.
+There is a rectangular slot on the side of the flange.
+The cylindrical section is smooth and uniform in diameter.
+The flange has a flat, rectangular protrusion extending from it.
+The component has a consistent circular cross-section along its length.
+There is a circular hole positioned in the middle.
+The cylindrical part has a uniform diameter throughout.
+This object has a hollow center.
+The component includes a single circular opening.
+It contains a circular opening at one end.
+There is a protruding lip around the central opening.
+The part has a uniform diameter along its length.
+This section includes a flanged edge on one side.
+There is a circular hole in the middle section.
+The cylindrical part has a flat end cap.
+The object has a protruding cylindrical section on one side.
+This part includes a circular hole aligned with the central axis.
+There is a circular groove around the middle section.
+The left section has a smooth cylindrical shape.
+The right section includes a slightly protruding cylindrical end.
+The connection between the sections has a flanged interface.
+There is a small circular hole near the center.
+The object has a hollow cylindrical section.
+This part includes a protruding circular lip.
+The cylindrical part has a flat end cap.
+
+**Protrusions:**
+The cylindrical structure has a raised circular section on one side.
+The component has a circular hole near the central axis.
+The cylindrical object has a raised edge along its length.
+The component has a smooth outer surface with no additional features.
+The component has a raised circular section on one end.
+The cylindrical part has a smooth outer surface.
+The tab is positioned perpendicular to the cylindrical body.
+The cylindrical body has a hollow interior.
+The cylindrical object has a flat end cap.
+The part has a protruding circular feature on one side.
+The main body is elongated and cylindrical.
+The flange has a flat, circular shape.
+The cylindrical section has a raised edge along its length.
+The component has a flange at one end.
+The cylindrical object has a protruding rim around the hole.
+The part has a raised circular edge near the hole.
+The component has a raised circular ridge around the connection area.
+There is a small circular protrusion near the middle.
+The flange includes a raised rectangular section for attachment.
+The cylindrical part connects seamlessly to the flange.
+The part has a smooth outer surface.
+The cylindrical section is solid with no additional features.
+The cylindrical body extends straight from the flanged edge.
+The component has a smooth outer surface.
+The cylindrical component has a raised circular ridge.
+The part has a circular hole near the center.
+The part has a uniform cylindrical profile on both ends.
+The middle section is slightly wider than the ends.
+The component has a raised circular edge.
+There is a circular indentation on one side.
+
+**Relative Positions:**
+The circular hole is centrally located on the cylindrical part.
+The cylindrical part has a protruding circular section on one end.
+The central hole is aligned with the main cylindrical body.
+The protruding section is located at one end of the cylinder.
+The central hole is aligned with the cylindrical axis.
+The flat end cap is positioned on the opposite side of the central hole.
+The flange is located at the wider end of the cylinder.
+The protruding tab is aligned with the central axis of the cylinder.
+The central hole is aligned with the cylindrical axis.
+The circular hole is positioned centrally along the length.
+The small tab is positioned on the side of the flange.
+The circular opening is aligned with the cylindrical body.
+The central hole is aligned with the cylindrical axis.
+The flange is positioned at the opposite end of the central hole.
+The central hole is aligned with the cylindrical body.
+The circular hole is positioned centrally on the cylindrical part.
+The knob is positioned between the two cylindrical sections.
+The flange is located at the junction of the two cylinders.
+The rectangular slot is aligned parallel to the cylindrical axis.
+The flange extends perpendicularly from the cylindrical body.
+The central hole is aligned with the axis of the cylinder.
+The circular hole is centrally located within the cylindrical body.
+The flanged edge is positioned at the narrower end.
+The central hollow section runs through the middle of the cylinder.
+The central hole is aligned with the cylindrical body.
+The cylindrical section extends from the main body.
+The cylindrical sections are aligned parallel to each other.
+The flanged interface connects the two cylindrical parts securely.
+The central hole is aligned with the cylindrical axis.
+The small circular hole is positioned adjacent to the main hole.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical connector with a flange.
+- Central circular hole.
+- Two cylindrical sections connected together.
+- Smooth outer surface.
+
+[HOLES_SLOTS]
+- Central circular hole.
+- Circular hole near the flange.
+- Circular opening on one end.
+- Rectangular slot on the side of the flange.
+
+[PROTRUSIONS]
+- Raised circular section on one end.
+- Protruding circular lip around the hole.
+- Raised circular ridge around the connection area.
+- Small circular protrusion near the middle.
+- Raised rectangular section on the flange.
+
+[RELATIVE_POSITIONS]
+- Central hole aligned with the cylindrical axis.
+- Flange located at the wider end of the cylinder.
+- Protruding tab aligned with the central axis.
+- Rectangular slot parallel to the cylindrical axis.
+- Flange positioned at the junction of the two cylinders.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 5/17 (Images 61-75)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central hollow section.
+The component is cylindrical in shape.
+This part features a central hollow section.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a smooth, elongated body.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component resembles a cylindrical connector.
+This part features a large circular opening on one end.
+The component consists of a cylindrical shaft.
+This part features a central hollow section.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component consists of two cylindrical sections connected together.
+This part features a central cylindrical shaft.
+The component is cylindrical in shape.
+This part features a smooth, elongated form.
+
+**Holes & Slots:**
+There is a small protruding knob on the side.
+The object has a hollow cylindrical section.
+This part includes a flanged end on one side.
+The cylindrical body has a smooth outer surface.
+There is a smaller circular hole near the center.
+The cylindrical part has a flange on one end.
+The flange has a circular indentation.
+There is a protruding section on the side.
+There is a circular hole in the middle section.
+The cylindrical part has a hollow center.
+This object has a uniform cylindrical form.
+The component includes a central circular opening.
+There is a circular hole in the middle section.
+The cylindrical part has a smooth outer surface.
+The component has a circular opening on one end.
+This part includes a circular hole aligned with the central axis.
+There is a circular opening at one end.
+The cylindrical body has a uniform diameter.
+This part includes a flange around the central opening.
+The flange has a consistent thickness.
+There is a protruding cylindrical extension on one end.
+The component has a flanged end on the opposite side.
+The cylindrical body has a uniform diameter throughout.
+This part includes a shoulder connecting the extension and the main body.
+There is a small circular protrusion on the side.
+The object has a hollow cylindrical section.
+This part includes a flanged end on one side.
+There is a circular indentation near the flanged end.
+There is a smaller circular hole near the end.
+The object has a smooth outer surface.
+The cylindrical part has a hollow interior.
+This component includes a protruding section at one end.
+It contains a large circular opening on one end.
+There is a smaller circular protrusion near the middle.
+The part has a tapered end on one side.
+This section includes a flange around the larger opening.
+There is a circular indentation in the middle.
+The object has a uniform cylindrical body.
+This part includes a hollow cylindrical section.
+The cylindrical component has a consistent diameter.
+There is a smaller circular hole near the middle section.
+The object has a protruding lip on the side.
+The part includes a cylindrical extension on one end.
+This component has a smooth outer surface with no visible indentations.
+There is a circular opening at one end of the cylinder.
+The component has a flange extending from the side.
+The part includes a protruding lip on the side.
+There is a small circular protrusion near the flange.
+There is a small circular hole near the center.
+The object has a hollow cylindrical section.
+This part includes a protruding circular lip.
+The cylindrical part has a smooth outer surface.
+There is a circular groove around the middle section.
+The object has a smooth cylindrical shape on both ends.
+This part includes a flange connecting the two cylindrical sections.
+The cylindrical sections are aligned parallel to each other.
+It contains a central circular opening.
+There is a smaller circular hole near one end.
+The part has a protruding section at one end.
+This section is slightly wider than the main body.
+
+**Protrusions:**
+The component has a raised circular lip around the opening.
+There is a small circular indentation near the flange.
+The part has a smooth cylindrical body.
+The central hole is aligned with the cylinder's axis.
+The part has a smooth outer surface.
+The cylindrical section has a consistent diameter.
+The cylindrical section has a raised circular feature.
+The component has a circular protrusion on the side.
+The component has a smooth outer surface.
+The central hollow section is aligned with the cylinder's axis.
+The flanged end has a raised circular rim.
+The extension is perpendicular to the main cylindrical body.
+The part has a raised circular ridge along the length.
+The component has a smooth cylindrical body.
+The part has a flanged edge on the wider side.
+There is a raised circular ridge along the length.
+The component has a raised ridge along its length.
+There is a protruding lip on the tapered end.
+The part has a protruding cylindrical section on one side.
+There is a cylindrical extension at one end.
+The cylindrical connector has a flanged end.
+There is a small notch on the side of the component.
+The cylindrical shaft has a uniform diameter.
+The flange is positioned perpendicular to the shaft.
+The component has a flanged end on one side.
+There is a raised circular edge around the central hole.
+The component has a slight protrusion at the connection point.
+There are no raised edges along the sides of the cylinders.
+The cylindrical body has a uniform diameter.
+The component has a flat circular face at one end.
+
+**Relative Positions:**
+The flange is positioned at one end of the cylinder.
+The protruding knob is located on the side opposite the flange.
+The smaller hole is positioned adjacent to the central hole.
+The protruding section is located on the opposite side of the flange.
+The central hole is aligned with the cylindrical axis.
+The circular hole is positioned centrally along the length.
+The circular hole is positioned centrally on the cylindrical part.
+The cylindrical part has a circular hole near the middle.
+The flange surrounds the opening evenly.
+The cylindrical body extends from both ends of the flange.
+The shoulder is positioned midway along the length of the cylinder.
+The flanged end is aligned parallel to the extension.
+The flanged end is positioned on the left side.
+The circular indentation is aligned with the central axis.
+The central hole is aligned with the cylindrical axis.
+The smaller hole is positioned adjacent to the protruding section.
+The larger opening is positioned at the wider end.
+The flange encircles the larger opening centrally.
+The central hole is aligned with the cylindrical body.
+The cylindrical extension is positioned parallel to the main body.
+The large circular opening is aligned with the cylindrical extension.
+The flanged end is positioned opposite the cylindrical extension.
+The small protrusion is located adjacent to the flange.
+The central hollow section runs along the length of the shaft.
+The central hole is aligned with the cylindrical shaft.
+The flanged end is positioned at one end of the cylinder.
+The cylindrical sections are positioned end-to-end.
+The connection point is centrally located between the two cylinders.
+The smaller hole is aligned parallel to the main axis.
+The protruding section is positioned at the narrower end.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical shaft with a central hollow section.
+- Smooth, elongated body with a uniform diameter.
+- Component consists of two cylindrical sections connected together.
+- Features a flanged end on one side.
+
+[HOLES_SLOTS]
+- Central circular hole aligned with the cylindrical axis.
+- Smaller circular hole near the center or end.
+- Large circular opening on one end.
+- Circular groove around the middle section.
+
+[PROTRUSIONS]
+- Raised circular lip around the opening.
+- Flanged end with a raised circular rim.
+- Protruding cylindrical extension on one end.
+- Small circular protrusion on the side.
+
+[RELATIVE_POSITIONS]
+- Flange positioned at one end of the cylinder.
+- Central hole aligned with the cylindrical axis.
+- Smaller hole positioned adjacent to the central hole or protruding section.
+- Cylindrical extension positioned parallel to the main body.
+- Flanged end aligned parallel to the extension.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 6/17 (Images 76-90)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component consists of two cylindrical sections connected together.
+This part features a central circular hole on one of the cylinders.
+The component is a cylindrical pipe with a flange.
+This part features a large circular opening on one end.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component resembles a cylindrical connector.
+This part features a large circular opening on one end.
+The component is cylindrical with a central circular hole.
+This part features a large circular opening in the middle.
+The component resembles a cylindrical metal connector.
+This part features a smooth, elongated cylindrical shape.
+The component resembles a cylindrical metal fitting.
+This part features a large circular opening on one end.
+The component is cylindrical in shape.
+This part features a central hollow section.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical with a central circular hole.
+This part features a hollow cylindrical design.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is cylindrical with a flared end.
+This part features a central circular opening.
+The component consists of two cylindrical sections connected together.
+This part features a central rectangular cutout.
+The component is cylindrical in shape.
+This part features a central circular hole.
+
+**Holes & Slots:**
+There is a smaller circular hole adjacent to the larger one.
+The cylindrical sections are aligned parallel to each other.
+The connection between the cylinders has a flanged interface.
+The part includes a protruding ring around the connection area.
+There is a smaller circular opening near the flange.
+The flange has a raised circular edge.
+The cylindrical section is connected to the flange.
+The flange has a protruding circular lip.
+There is a smaller circular hole near the end.
+The cylindrical body has a smooth outer surface.
+The part includes a flanged end on one side.
+There is a protruding lip around the larger circular hole.
+There is a smaller circular hole near the center.
+The object has a protruding section at one end.
+This part includes a cylindrical body with a flange.
+There is a circular indentation on the side.
+There is a smaller circular hole near the end of the cylinder.
+The cylindrical part has a smooth outer surface.
+The component has a protruding section on one side.
+This part includes a circular indentation on the side.
+It contains a central circular opening.
+There is a smaller circular hole near the end cap.
+The part has a protruding cylindrical section at one end.
+This section has a slightly wider diameter compared to the main body.
+There is a smaller circular hole near the base.
+The object has a smooth, rounded protrusion on one side.
+The part includes a flat, circular surface on the opposite end.
+There is a small circular indentation on the side.
+There is a circular opening at one end.
+The other end of the component is closed.
+The component has a uniform diameter throughout its length.
+This part includes a flange around the central hollow section.
+There is a small circular protrusion on the side.
+The object has a smooth outer surface.
+It contains a large circular hole near one end.
+This part has a hollow cylindrical section.
+There is a circular hole near the center.
+The cylindrical part has a hollow interior.
+This object has a uniform cylindrical form.
+The component includes a circular opening in the middle.
+It contains a single circular hole in the middle.
+The cylindrical part has a protruding flange on one side.
+There is a circular indentation in the center of the component.
+The part includes a flanged section on the left end.
+There is a small protrusion on one side.
+The object has a smooth outer surface.
+It contains a circular hole near the center.
+This part has a flat end cap.
+There is a small protrusion on the side.
+The object has a smooth outer surface.
+It contains a circular hole near the flared end.
+The cylindrical section is uniform in diameter.
+There is a circular hole on the left cylindrical section.
+The right section has a smaller circular hole near its end.
+The connection between the sections has a flanged area.
+This part includes a groove along the connecting flange.
+There is a circular hole situated in the middle section.
+The cylindrical part has a smooth outer surface.
+The component has a protruding section on one end.
+This part includes a circular indentation on the side.
+
+**Protrusions:**
+The cylindrical sections have smooth, continuous surfaces.
+The flanged interface has a slight indentation on the side.
+The cylindrical part extends from the flange.
+The flange has a flat surface with a circular hole.
+The component has a tapered section leading to the smaller hole.
+The flanged end provides a flat surface on one side.
+The part has a raised circular lip around the opening.
+The component has a smooth cylindrical shape with a flange.
+The cylindrical object has a raised edge along its length.
+There is a circular notch on the side of the component.
+The cylindrical body has a uniform diameter throughout its length.
+The end cap is slightly larger in diameter than the main body.
+The component has a raised circular ridge along the length.
+The part features a protruding circular lip near the base.
+The flange extends outward from the main body.
+The component has a slight taper towards one end.
+The part has a raised circular feature on the side.
+There is a circular indentation on the surface.
+The part has a raised circular edge around the hole.
+There are no protrusions on the cylindrical surface.
+The cylindrical body has a raised edge along its length.
+The flange has a circular cutout in the middle.
+The component has a raised edge along the length.
+There is a small notch on the side.
+The part has a raised lip around the central opening.
+There is a small notch on the side.
+The cylindrical sections have raised edges on their outer surfaces.
+The flanged area has a slight protrusion on its top side.
+The cylindrical object has a flanged end.
+There is a raised circular feature on the side.
+
+**Relative Positions:**
+The larger circular hole is positioned on the left cylinder.
+The smaller circular hole is situated near the connection point.
+The smaller circular opening is aligned with the larger one.
+The cylindrical section is perpendicular to the flange.
+The smaller hole is aligned parallel to the central hole.
+The cylindrical shape tapers slightly towards the smaller hole.
+The large circular hole is positioned centrally on the cylindrical body.
+The smaller circular hole is located near the flange.
+The central hole is aligned with the main cylindrical body.
+The smaller hole is positioned parallel to the central opening.
+The smaller circular hole is aligned parallel to the main cylindrical axis.
+The protruding section is positioned at the opposite end of the central opening.
+The large circular opening is positioned centrally on the end.
+The smaller circular hole is located adjacent to the protrusion.
+The circular opening is aligned with the central axis.
+The flange surrounds the central hollow section evenly.
+The central hole is aligned with the cylindrical body.
+The protrusion is positioned adjacent to the central hole.
+The circular hole is centrally aligned with the cylinder.
+The cylindrical part has a consistent diameter throughout.
+The central hole is aligned with the cylindrical axis.
+The flange extends outward from the main cylindrical body.
+The central hole is aligned with the main body.
+The protrusion is positioned on the left side.
+The flared end is positioned at one end of the cylinder.
+The central hole aligns with the cylindrical section.
+The circular hole on the left is aligned with the central cutout.
+The smaller hole on the right is positioned perpendicular to the main axis.
+The central hole is aligned with the cylindrical axis.
+The flanged end is positioned at one end of the cylinder.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical shape with a central circular hole.
+- Component consists of two cylindrical sections connected together.
+- Features a flanged end on one side.
+- Smooth, elongated cylindrical design.
+
+[HOLES_SLOTS]
+- Central circular hole.
+- Large circular opening on one end.
+- Smaller circular hole near the end or center.
+- Circular indentation on the side.
+- Flanged interface with a protruding ring.
+
+[PROTRUSIONS]
+- Raised circular lip around the opening.
+- Protruding section at one end.
+- Raised circular ridge along the length.
+- Flange extends outward from the main body.
+- Slight taper towards one end.
+
+[RELATIVE_POSITIONS]
+- Larger circular hole positioned on the left cylinder.
+- Smaller circular hole situated near the connection point.
+- Protruding section positioned at the opposite end of the central opening.
+- Flange surrounds the central hollow section evenly.
+- Central hole aligned with the cylindrical body.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 7/17 (Images 91-105)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central hollow section.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component consists of two cylindrical sections connected together.
+This part features a central cylindrical shaft.
+The component consists of a cylindrical shape with a flared end.
+This part features a smooth, elongated body.
+The component resembles a cylindrical connector.
+This part features a large circular opening on one end.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component consists of a cylindrical shaft.
+This part features a central cylindrical section.
+The component is cylindrical in shape.
+This part features a smooth, rounded end.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a smooth outer surface.
+
+**Holes & Slots:**
+There is a smaller circular hole near the center.
+The object has a smooth outer surface.
+The part includes a flange on one end.
+There is a protruding section on the side.
+There is a circular hole in the middle section.
+The cylindrical part has a hollow center.
+This object has a uniform cylindrical form.
+The component includes a central circular opening.
+It contains a large circular hole in the middle.
+There is a smaller circular hole near one end.
+The part has a flange extending from one side.
+This section includes a rectangular slot on the side.
+There is a small circular hole near the center.
+The object has a hollow cylindrical body.
+This part includes a larger circular hole at one end.
+There is a smaller circular indentation on the side.
+There is a circular hole near the center.
+The object has a hollow cylindrical form.
+This part includes a large circular opening.
+There is a circular slot positioned centrally.
+There is a circular groove around the middle section.
+The object has a hollow cylindrical shape.
+This part includes a flange connecting the two cylinders.
+There is a protruding ring around the connecting area.
+It contains a central circular opening on one end.
+There is a smaller circular hole near the flared end.
+The part has a tapered section leading to the narrower end.
+This component includes a flat surface on the wider end.
+There is a smaller circular hole near the middle section.
+The object has a smooth cylindrical body.
+This part includes a protruding cylindrical section at one end.
+The cylindrical connector has a hollow interior.
+There is a small circular protrusion on the side.
+The object has a flat rectangular section connecting the two ends.
+The cylindrical part has a smooth outer surface.
+This component includes a small circular indentation near the middle.
+There is a circular hole in the middle of the shaft.
+The component has a smaller cylindrical extension on one end.
+This part includes a flange with a circular opening.
+There is a rectangular slot on the side of the flange.
+It contains a central circular opening.
+There is a smaller circular protrusion near the base.
+The part has a flat circular face on one end.
+This component includes a hollow cylindrical section.
+There is a circular hole in the middle section.
+The cylindrical part has a smooth outer surface.
+The component has a protruding section on one end.
+This part includes a circular indentation on the side.
+There is a smaller circular hole adjacent to the main hole.
+The cylindrical part has a flange on one end.
+The flange has a raised circular edge.
+There is a rectangular slot on the side of the cylinder.
+There is a smaller circular hole near the end.
+The object has a smooth outer surface.
+This part includes a protruding section at one end.
+The cylindrical body has a flat circular face.
+It contains a central circular opening.
+There is a smaller circular hole near the base.
+The part has a protruding lip on one side.
+This section includes a flat end cap.
+
+**Protrusions:**
+The cylindrical part has a flat end cap.
+The component has a hollow interior.
+The part has a protruding circular edge on one side.
+There is a raised circular rim around the central hole.
+The component has raised edges along its length.
+The part features a protruding lip on one end.
+The part has a raised circular ridge along the length.
+The component has a protruding circular lip on one side.
+The part has a raised circular edge.
+The component has a protruding circular rim.
+The component has a smooth cylindrical surface.
+The part features a seamless cylindrical connection.
+The part has a slight bulge along the middle section.
+There is a protruding ridge on the side of the cylinder.
+The component has a flanged end with a circular hole.
+There is a small circular indentation on the side.
+The part has a raised circular feature on one side.
+The cylindrical section is connected by a flat rectangular bridge.
+The part has a raised circular ridge along the shaft.
+The component features a protruding circular lip on the flange.
+The part has a raised circular ridge along the side.
+There is a protruding circular lip on the side.
+The cylindrical object has a flanged end.
+There is a raised circular feature on the side.
+The part has a protruding section near the flange.
+The protruding section has a rounded edge.
+The component has a rounded protrusion on the side.
+There is a circular indentation on the side.
+The cylindrical body extends uniformly from the base.
+The component has a slight taper towards the end.
+
+**Relative Positions:**
+The central hole is aligned with the main axis.
+The flange is positioned at one end of the cylinder.
+The central hole is aligned with the cylindrical axis.
+The circular hole is positioned centrally along the length.
+The central hole is aligned with the cylindrical body.
+The rectangular slot is positioned adjacent to the flange.
+The central hole is aligned with the cylindrical body.
+The smaller hole is positioned adjacent to the central opening.
+The central hole is aligned with the cylindrical body.
+The circular hole is positioned along the length of the cylinder.
+The cylindrical sections are aligned parallel to each other.
+The connecting flange is positioned centrally between the cylinders.
+The central hole is aligned with the elongated axis.
+The smaller hole is positioned adjacent to the flared end.
+The large circular opening is aligned with the cylindrical body.
+The smaller circular hole is positioned adjacent to the flanged end.
+The circular opening is aligned centrally along the length.
+The small protrusion is positioned near the center of the cylindrical section.
+The cylindrical extension is positioned at one end of the shaft.
+The circular hole is aligned with the central axis of the shaft.
+The central opening is aligned with the cylindrical body.
+The smaller protrusion is positioned adjacent to the main cylinder.
+The central hole is aligned with the cylindrical axis.
+The flanged end is positioned at one end of the cylinder.
+The main hole is aligned with the central axis of the cylinder.
+The smaller hole is positioned slightly off-center from the main hole.
+The smaller hole is aligned parallel to the main cylinder.
+The protruding section is positioned at the narrower end.
+The central hole aligns with the main cylindrical axis.
+The protruding lip is positioned on the shorter side.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical shape with a central hollow section.
+- Smooth, elongated body with a flared end.
+- Central cylindrical shaft with a flanged end.
+- Component resembles a cylindrical connector with a hollow interior.
+
+[HOLES_SLOTS]
+- Central circular hole aligned with the main axis.
+- Large circular opening on one end.
+- Smaller circular hole near the center or end.
+- Rectangular slot positioned adjacent to the flange.
+- Circular groove around the middle section.
+
+[PROTRUSIONS]
+- Flange with a raised circular edge on one end.
+- Protruding circular lip on the side or flange.
+- Raised circular ridge along the length or side.
+- Flat end cap on the cylindrical part.
+- Slight bulge along the middle section.
+
+[RELATIVE_POSITIONS]
+- Central hole aligned with the cylindrical body.
+- Flange positioned at one end of the cylinder.
+- Smaller hole positioned adjacent to the central opening or flared end.
+- Rectangular slot adjacent to the flange.
+- Protruding section at the narrower end or near the flange.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 8/17 (Images 106-120)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is cylindrical in shape.
+This part features a smooth outer surface.
+The component resembles a cylindrical connector.
+This part features a large circular opening on one end.
+The component resembles a cylindrical nozzle.
+This part features a wide circular opening at one end.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central rectangular cutout.
+The component is cylindrical in shape.
+This part features a central rectangular section.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central hollow section.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component consists of a cylindrical shaft.
+This part features a central hollow section.
+The component consists of a cylindrical shaft with a flange.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a large circular opening on one end.
+
+**Holes & Slots:**
+It contains a central circular opening.
+There is a smaller circular hole near the top.
+The part has a flat circular end.
+This section includes a protruding cylindrical section.
+There is a smaller circular hole near the middle section.
+The object has a protruding cylindrical section on one side.
+The part includes a rounded protrusion at the end.
+This component has a smooth transition between the cylindrical sections.
+There is a smaller circular section adjacent to the main opening.
+The nozzle has a protruding tip at the opposite end.
+The part includes a cylindrical body with a smooth transition.
+This nozzle has a slight indentation near the tip.
+There is a circular hole in the middle section.
+The cylindrical part has a hollow center.
+This object has a uniform cylindrical form.
+The component includes a central circular opening.
+There is a circular hole on one end.
+The cylindrical part has a protruding section in the middle.
+The component has a flat surface on the top.
+There is a smaller circular hole near the middle section.
+It contains a circular hole on one end.
+There is a protruding section near the middle.
+The part has a flange on the right side.
+A smaller circular hole is present near the left end.
+There is a circular hole in the middle section.
+The cylindrical part has a smooth outer surface.
+The component has a hollow interior.
+This part includes a circular opening on one end.
+There is a circular opening in the middle.
+The object has a uniform cylindrical body.
+This part includes a hollow cylindrical core.
+There is a circular slot near the center.
+There is a smaller circular hole near one end.
+The cylindrical body has a hollow interior.
+The part includes a protruding lip around the central hole.
+There is a circular indentation on the side.
+There is a smaller circular hole near the end cap.
+The object has a hollow cylindrical body.
+This part includes a protruding flange on one side.
+The cylindrical section has a smooth outer surface.
+There is a circular hole in the middle of the shaft.
+The component has a flange on one end.
+The flange has a protruding rim around its perimeter.
+There is a smaller circular hole near the flange.
+There is a smaller circular hole near the flange.
+The cylindrical section is connected to a flanged end.
+The flange has a protruding lip on one side.
+The component includes a circular groove around the flange.
+There is a smaller circular hole near the center.
+The object has a smooth outer surface.
+The part includes a rectangular slot on one side.
+There is a protruding lip along the edge.
+There is a circular hole in the middle section.
+The cylindrical part has a hollow interior.
+This object has a uniform cylindrical form.
+The component includes a circular opening at the center.
+There is a smaller circular hole near the side.
+The object has a flat circular surface on one end.
+This part includes a protruding cylindrical section.
+The cylindrical part has a smooth outer surface.
+
+**Protrusions:**
+The component has a rounded protrusion on one side.
+There is a slight indentation on the side.
+The cylindrical connector has a slight taper towards the end.
+The part features a flat surface on the side opposite the opening.
+The cylindrical section has a uniform diameter throughout.
+The nozzle's tip is slightly rounded.
+The part has a smooth outer surface.
+The cylindrical section has a consistent diameter.
+The part has a raised central ridge.
+The cylindrical section has a slight indentation on the side.
+The component has a raised central ridge.
+There is a cylindrical protrusion on the left side.
+The cylindrical object has a flat end cap.
+The part has a protruding circular feature on one side.
+The part has a smooth outer surface.
+The component has a consistent cylindrical form.
+The component has a flanged edge on one side.
+The cylindrical section extends from the flanged edge.
+The flange has a raised circular edge.
+There is a circular indentation on the side.
+The shaft has a uniform diameter throughout its length.
+The flange extends outward from the main body.
+The cylindrical shaft extends from the flanged end.
+The flange has a raised circular edge.
+The component has a flanged end on one side.
+The cylindrical part has a recessed area near the middle.
+The part has a smooth outer surface.
+There are no protrusions on the cylindrical surface.
+The component has a rounded edge on the side.
+There is a slight indentation on the side surface.
+
+**Relative Positions:**
+The central hole is aligned with the cylindrical body.
+The protruding section is positioned at the top end.
+The large circular opening is aligned with the main cylindrical body.
+The smaller circular hole is positioned adjacent to the larger opening.
+The main circular opening is aligned with the cylindrical body.
+The smaller circular section is positioned parallel to the main opening.
+The central hole is aligned with the cylinder's axis.
+The circular hole is positioned centrally along the length.
+The circular hole is aligned with the central cutout.
+The protruding section is positioned between the two ends.
+The rectangular section is positioned centrally along the length.
+The flange is located adjacent to the cylindrical protrusion.
+The central hole is aligned with the cylindrical axis.
+The circular hole is positioned near the center of the cylinder.
+The central hole is aligned with the cylindrical axis.
+The cylindrical body extends uniformly from both ends.
+The central hole aligns with the flanged edge.
+The smaller hole is positioned adjacent to the flange.
+The central hole is aligned with the cylindrical axis.
+The smaller hole is positioned adjacent to the flange.
+The central hole aligns with the flange.
+The smaller hole is positioned adjacent to the flange.
+The smaller hole is aligned with the central opening.
+The protruding lip is positioned on the side of the flange.
+The central hole is aligned with the main body.
+The rectangular slot is positioned adjacent to the central hole.
+The central hole is aligned with the cylindrical axis.
+The circular hole is positioned centrally along the length.
+The large circular opening is aligned with the cylindrical section.
+The smaller hole is positioned adjacent to the larger opening.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical shaft with a flange.
+- Central circular opening.
+- Smooth outer surface.
+- Uniform cylindrical form.
+
+[HOLES_SLOTS]
+- Central circular hole.
+- Smaller circular holes near the ends and middle.
+- Circular opening on one end.
+- Rectangular slot on one side.
+
+[PROTRUSIONS]
+- Rounded protrusion at the end.
+- Flanged edge with a raised circular edge.
+- Protruding lip around the central hole.
+- Slight indentation on the side.
+
+[RELATIVE_POSITIONS]
+- Central hole aligned with the cylindrical axis.
+- Smaller holes positioned near the ends and middle.
+- Flange located adjacent to the cylindrical protrusion.
+- Rectangular slot positioned adjacent to the central hole.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 9/17 (Images 121-135)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is cylindrical in shape.
+This part features a large circular opening on one end.
+The component resembles a cylindrical connector.
+This part features a tapered end on one side.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a large circular opening on one end.
+The component is cylindrical in shape.
+This part features a large circular opening on one end.
+The component consists of a cylindrical shaft with a flange.
+This part features a central circular hole in the flange.
+The component consists of a cylindrical shaft.
+This part features a central hollow section.
+The component consists of a cylindrical shaft.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central hollow section.
+The component is cylindrical in shape.
+This part features a large circular opening on one end.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component consists of a cylindrical shape with a flange.
+This part features a large circular opening on one end.
+The component is cylindrical in shape.
+This part features a large circular opening on one end.
+
+**Holes & Slots:**
+There is a smaller circular protrusion on the side.
+The object has a smooth, continuous surface.
+It contains a central cylindrical hole.
+There is a flat circular surface on the opposite end.
+It contains a central circular opening.
+There is a flange around the larger diameter section.
+The part has a smooth transition between the tapered and cylindrical sections.
+This component includes a hollow cylindrical body.
+There is a smaller circular hole near the end.
+The object has a smooth outer surface.
+The part includes a flange on one end.
+There is a protruding lip around the central hole.
+There is a smaller circular protrusion on the side.
+The object has a flat circular surface on one end.
+It contains a central cylindrical hole.
+This part has a rounded protrusion extending from the side.
+There is a smaller circular protrusion on the side.
+The object has a smooth, rounded edge.
+This part includes a flat circular surface on the opposite end.
+The cylindrical body tapers slightly towards the smaller protrusion.
+There is a smaller circular hole adjacent to the main hole.
+The cylindrical section extends from one end of the flange.
+The flange has a raised circular edge around the central hole.
+A rectangular slot is present on the side of the flange.
+There is a circular opening at one end of the cylinder.
+The component has a flange on one side.
+The flange has a protruding rim around its perimeter.
+There is a smaller circular hole within the flange.
+There is a smaller circular hole adjacent to the main opening.
+The part includes a rectangular slot on the side.
+The cylindrical shaft has a flange at one end.
+This component has a protruding lip on the side.
+There is a circular opening in the middle.
+The object has a uniform cylindrical body.
+This part includes a hollow cylindrical core.
+The component has a consistent cylindrical form.
+There is a smaller circular hole near the middle section.
+The cylindrical body has a smooth outer surface.
+This part includes a protruding lip on the side.
+The central section has a slightly recessed area.
+There is a smaller circular hole near the center.
+The object has a hollow cylindrical section.
+This part includes a protruding cylindrical extension.
+The component has a smooth outer surface.
+There is a small circular hole near the top.
+The object has a hollow cylindrical section.
+This part includes a larger circular hole at one end.
+There is a smaller circular hole adjacent to the larger one.
+There is a small circular protrusion near the center.
+The object has a smooth outer surface.
+The cylindrical part has a flat end cap.
+This component includes a raised circular feature.
+There is a smaller circular hole near the middle section.
+The cylindrical body has a smooth outer surface.
+The flange extends outward from the main body.
+This part includes a central cylindrical shaft.
+There is a smaller circular hole near the center.
+The object has a protruding cylindrical section on one side.
+The part includes a flat circular surface on the opposite end.
+There is a small circular indentation near the base.
+
+**Protrusions:**
+The part has a slightly raised circular edge.
+The cylindrical body tapers slightly towards one end.
+The part has a raised circular ridge along the length.
+There is a slight protrusion at the junction of the tapered and cylindrical sections.
+The cylindrical body extends uniformly in length.
+The flange has a raised edge.
+The component has a smooth cylindrical body.
+There is a circular indentation on the side.
+The part has a raised circular ridge along the side.
+There is a slight indentation near the smaller protrusion.
+The cylindrical shaft has a smooth outer surface.
+The flange has a flat base with a circular cutout.
+The cylinder has a uniform diameter along its length.
+The flange extends outward from the main body.
+The flange has a raised edge around its perimeter.
+The rectangular slot is aligned parallel to the shaft.
+The part has a smooth outer cylindrical surface.
+The cylindrical part has a hollow interior.
+The component has a flanged end on one side.
+There is a raised ridge along the length of the cylinder.
+The part has a flanged end on one side.
+There is a raised circular lip around the central hole.
+The part has a raised circular lip around the central hole.
+The component has a protruding circular ridge along the side.
+The part has a uniform cylindrical body.
+There is a circular indentation on one side.
+The component has a flat circular end cap.
+There is a protruding lip around the central opening.
+The cylindrical section has a slight protrusion at the tip.
+The component has a smooth transition between the main body and the protrusion.
+
+**Relative Positions:**
+The large circular opening is aligned with the flat surface.
+The smaller protrusion is positioned perpendicular to the main cylinder.
+The cylindrical section is positioned adjacent to the tapered end.
+The flange is located near the wider end of the cylindrical body.
+The central hole is aligned with the main body.
+The smaller hole is positioned parallel to the central hole.
+The large circular opening is positioned on the wider end.
+The smaller protrusion is located adjacent to the main cylindrical body.
+The large circular opening is aligned with the flat circular surface.
+The smaller protrusion is positioned perpendicular to the main cylindrical body.
+The smaller circular hole is positioned near the rectangular slot.
+The rectangular slot is aligned parallel to the cylindrical shaft.
+The central hole aligns with the flange's opening.
+The smaller hole is positioned near the center of the flange.
+The smaller circular hole is positioned near the flange.
+The protruding lip is located on the opposite side of the slot.
+The central hole is aligned with the cylindrical axis.
+The cylindrical body extends uniformly from both ends.
+The large circular opening is aligned with the flanged end.
+The smaller hole is positioned parallel to the main axis.
+The cylindrical extension is aligned parallel to the main body.
+The flanged end is positioned at the opposite end of the central hole.
+The larger hole is positioned centrally on the cylindrical body.
+The smaller hole is located near the top of the cylindrical section.
+The central hole is aligned with the cylindrical axis.
+The protrusion is positioned centrally on the cylinder.
+The smaller hole is aligned parallel to the main axis.
+The flange is positioned perpendicular to the cylindrical shaft.
+The large circular opening is positioned centrally on the main body.
+The smaller circular hole is aligned parallel to the main cylindrical axis.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical shaft with a flange.
+- Central hollow section.
+- Tapered end on one side.
+- Smooth outer surface.
+
+[HOLES_SLOTS]
+- Central circular hole.
+- Large circular opening on one end.
+- Smaller circular hole near the end.
+- Rectangular slot on the side of the flange.
+- Smaller circular hole adjacent to the main opening.
+
+[PROTRUSIONS]
+- Raised circular ridge along the length.
+- Protruding lip around the central hole.
+- Slight protrusion at the junction of the tapered and cylindrical sections.
+- Raised circular lip around the central hole.
+- Circular indentation on the side.
+
+[RELATIVE_POSITIONS]
+- Large circular opening aligned with the flat surface.
+- Smaller protrusion positioned perpendicular to the main cylinder.
+- Flange located near the wider end of the cylindrical body.
+- Smaller hole positioned parallel to the central hole.
+- Rectangular slot aligned parallel to the cylindrical shaft.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 10/17 (Images 136-150)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is cylindrical in shape.
+This part features a large circular opening on one end.
+The component is cylindrical with a hollow center.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component consists of a cylindrical shaft.
+This part features a central circular opening.
+The component consists of a cylindrical shaft with a flange.
+This part features a central hollow cylindrical section.
+The component consists of a cylindrical shaft.
+This part features a central hollow section.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical with a hollow center.
+This part features a large circular opening in the middle.
+The component has a cylindrical shape with a flange on one end.
+This part features a large circular hole in the middle section.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a large circular opening on one end.
+The component is cylindrical in shape.
+This part features a flat circular top surface.
+The component is cylindrical in shape.
+This part features a large circular opening on one end.
+The component is cylindrical in shape.
+This part features a large circular opening on one end.
+The component is cylindrical in shape.
+This part features a central circular hole.
+
+**Holes & Slots:**
+There is a smaller circular hole adjacent to the larger opening.
+The cylindrical body has a smooth outer surface.
+The component has a protruding section at one end.
+This part includes a central cylindrical shaft.
+There is a smaller circular hole near the center.
+The cylindrical section extends from the main body.
+The part has a flanged end on one side.
+There is a protruding lip around the central hole.
+There is a smaller circular hole near the end.
+The cylindrical body has a uniform diameter.
+The part includes a flange at one end.
+There is a protruding lip around the central hole.
+There is a smaller circular hole adjacent to the main opening.
+The part includes a rectangular slot on one side.
+The cylindrical shaft has a flange at one end.
+This component has a protruding lip on the side.
+There is a circular opening at one end of the shaft.
+The flange has a flat circular surface extending outward.
+The cylindrical shaft has a uniform diameter along its length.
+The flange connects to the shaft with a slight inward curve.
+There is a circular opening in the middle of the shaft.
+The component has a flange on one end.
+The flange is perpendicular to the cylindrical shaft.
+There is a smaller circular hole near the flange.
+There is a smaller circular hole adjacent to the main hole.
+The component has a rectangular slot near the side.
+The part includes a protruding flange on one end.
+There is a circular indentation on the side.
+There is a smaller circular hole near the top edge.
+The cylindrical section has a smooth outer surface.
+The part includes a protruding lip around the central hole.
+There is a circular indentation on one side.
+There is a smaller circular hole near the flange.
+The cylindrical body extends from the flange.
+The part has a protruding section on the side.
+This section has a rectangular cutout.
+There is a smaller circular hole near the base.
+The object has a hollow cylindrical section.
+This part includes a protruding circular lip.
+The component has a smooth outer surface.
+There is a smaller circular hole adjacent to the larger opening.
+The cylindrical body has a smooth outer surface.
+The part includes a flat circular cap on the opposite end.
+This section has a slight indentation near the base.
+It contains a central circular opening.
+There is a smaller circular indentation near the base.
+The part has a protruding cylindrical section on one side.
+This section has a smooth outer surface.
+There is a smaller circular hole adjacent to the larger opening.
+The cylindrical body has a smooth outer surface.
+The part includes a flat circular cap on the opposite end.
+This section has a slight indentation near the base.
+There is a smaller circular hole adjacent to the larger opening.
+The cylindrical body has a smooth outer surface.
+The part includes a flat circular cap on the opposite end.
+This section has a slight indentation near the base.
+There is a smaller circular hole near the end cap.
+The cylindrical body has a smooth outer surface.
+The part includes a flange at one end.
+There is a protruding lip around the central hole.
+
+**Protrusions:**
+The cylindrical part has a flanged end.
+There is a raised edge along the side of the cylinder.
+The cylindrical body has a smooth outer surface.
+The flanged end has a raised circular edge.
+The flange has a raised edge.
+The cylindrical section has smooth sides.
+The flange has a raised edge around its perimeter.
+The rectangular slot is aligned parallel to the shaft.
+The part has a protruding circular lip around the flange.
+The cylindrical section is aligned centrally with the flange.
+The part has a raised edge along the length of the shaft.
+The edges are uniformly thick around the circumference.
+The cylindrical part has a raised edge along its length.
+The component has a protruding section at one end.
+The cylindrical body has a flanged end.
+The component has a raised circular ridge along the length.
+The flange has a raised edge along its circumference.
+The protruding section is perpendicular to the main cylinder.
+There is a raised circular ridge along the side.
+The part has a flat circular end cap.
+The cylindrical part has a raised rim along the edge.
+The component has a protruding section near the smaller hole.
+The cylindrical part extends outward from the main body.
+The main body has a slightly tapered design.
+The cylindrical part has a raised circular ridge along its length.
+The component has a protruding circular feature on the side.
+The cylindrical part has a raised rim around the central opening.
+The flat cap has a slightly protruding edge.
+The flange has a raised edge.
+The end cap is slightly wider than the main body.
+
+**Relative Positions:**
+The larger circular opening is positioned centrally on the flanged end.
+The protruding section is aligned parallel to the cylindrical shaft.
+The central hole is aligned with the cylindrical axis.
+The smaller hole is positioned adjacent to the central hole.
+The central hole is aligned with the cylinder's axis.
+The smaller hole is positioned parallel to the central hole.
+The smaller circular hole is positioned near the flange.
+The protruding lip is located on the opposite side of the slot.
+The circular opening is positioned at the end of the shaft.
+The flange extends perpendicularly from the cylindrical shaft.
+The flange is positioned at one end of the shaft.
+The central hole aligns with the hollow section of the shaft.
+The central hole is aligned with the cylindrical body.
+The rectangular slot is positioned parallel to the main axis.
+The central hole is aligned with the cylindrical axis.
+The flanged end is positioned at one end of the cylinder.
+The smaller circular hole is aligned with the main cylinder.
+The rectangular cutout is positioned on the protruding section.
+The central hole is aligned with the cylindrical shaft.
+The smaller hole is positioned adjacent to the main opening.
+The large circular opening is centrally aligned with the smaller hole.
+The flat cap is positioned directly opposite the larger opening.
+The central opening is aligned with the cylindrical extension.
+The protruding section is positioned at a 45-degree angle relative to the main body.
+The large circular opening is positioned centrally on the cylinder.
+The smaller circular hole is aligned parallel to the larger opening.
+The smaller hole is positioned close to the larger circular opening.
+The flat cap is aligned parallel to the cylindrical body.
+The central hole aligns with the flange.
+The smaller hole is positioned adjacent to the flange.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical shaft with a flange on one end.
+- Central hollow cylindrical section.
+- Large circular opening on one end.
+- Flat circular top surface.
+
+[HOLES_SLOTS]
+- Central circular hole aligned with the cylindrical axis.
+- Smaller circular hole adjacent to the larger opening.
+- Rectangular slot near the side.
+- Protruding lip around the central hole.
+
+[PROTRUSIONS]
+- Flanged end with a raised circular edge.
+- Raised edge along the side of the cylinder.
+- Protruding lip around the central hole.
+- Flat circular end cap on the opposite end.
+
+[RELATIVE_POSITIONS]
+- Larger circular opening centrally positioned on the flanged end.
+- Smaller hole positioned adjacent to the central hole.
+- Flange extends perpendicularly from the cylindrical shaft.
+- Rectangular slot positioned parallel to the main axis.
+- Flat cap positioned directly opposite the larger opening.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 11/17 (Images 151-165)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is cylindrical in shape.
+This part features a large circular opening on one end.
+The component is cylindrical with a hollow center.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a large circular opening on one end.
+The component is cylindrical in shape.
+This part features a large circular opening on one end.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a large circular opening on one end.
+The component consists of a cylindrical shaft with a flange.
+This part features a central hollow cylindrical section.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is cylindrical with a hollow center.
+This part features a central circular opening.
+The component consists of a cylindrical shaft.
+This part features a central hollow section.
+The component consists of a cylindrical shaft with a flange.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical with a hollow center.
+This part features a circular hole in the middle section.
+The component is cylindrical with a hollow center.
+This part features a central circular hole.
+The component is a cylindrical metal piece.
+This part features a large circular hole in the center.
+
+**Holes & Slots:**
+There is a smaller circular hole adjacent to the main opening.
+The cylindrical body has a smooth outer surface.
+The part includes a protruding lip on the side.
+The main opening is centrally aligned with the cylindrical body.
+There is a smaller circular hole near the center.
+The cylindrical part has a flanged end.
+The flange has a raised circular edge.
+The component has a smooth outer surface.
+There is a smaller circular hole adjacent to the main opening.
+The cylindrical body has a smooth outer surface.
+The component has a protruding lip on the side.
+This part includes a flat circular face on the opposite end.
+There is a smaller circular hole adjacent to the main opening.
+The cylindrical part has a flat circular face.
+The component has a smooth outer surface.
+This part includes a central circular feature.
+There is a small circular protrusion near the middle.
+The object has a smooth cylindrical body.
+This part includes a larger circular opening at one end.
+There is a smaller circular feature adjacent to the main hole.
+There is a smaller circular hole adjacent to the main opening.
+The cylindrical body has a smooth outer surface.
+The part includes a protruding lip on the side.
+The main opening is centrally aligned with the cylindrical body.
+There is a circular opening on the flange.
+The cylindrical shaft has a smooth outer surface.
+The flange has a flat circular face.
+The component includes a protruding cylindrical section.
+There is a circular hole near the middle section.
+The object has a hollow cylindrical form.
+This part includes a large circular cutout.
+There is a smaller circular slot adjacent to the main hole.
+There is a smaller circular hole adjacent to the main opening.
+The cylindrical section extends horizontally from the base.
+The base has a flat, circular face.
+The component has a protruding cylindrical section on one side.
+There is a circular opening in the middle of the shaft.
+The component has a flange extending from one end.
+The flange has a protruding lip around its perimeter.
+There is a smaller circular hole near the flange.
+There is a smaller circular hole adjacent to the main opening.
+The component has a rectangular slot on the side.
+The part includes a protruding lip around the central hole.
+There is a raised edge along the length of the shaft.
+There is a smaller circular hole adjacent to the main hole.
+The component has a protruding section on one end.
+The part includes a flange around the central hole.
+There is a slot on the side of the cylindrical section.
+The cylindrical body has a smooth outer surface.
+There is a protruding flange at one end of the cylinder.
+The flange has a circular hole in its center.
+The cylindrical part has a flat end cap.
+There is a smaller circular hole near the end of the cylinder.
+The object has a flange extending from one side.
+The part includes a protruding lip along the circumference.
+There is a circular indentation on the side.
+There is a smaller circular hole adjacent to the main hole.
+The part has a flat circular surface on one side.
+The component has a smooth outer edge.
+This part includes a central circular indentation.
+
+**Protrusions:**
+The smaller hole is positioned slightly off-center towards the side.
+The protruding lip is located on the shorter side of the cylinder.
+The central hole is aligned with the cylindrical shaft.
+The flange extends perpendicularly from the main body.
+The cylindrical section has a slight taper towards the protruding lip.
+The main circular opening is centrally aligned with the cylindrical body.
+The cylindrical section has a protruding rim around the edge.
+The component has a slightly raised edge along the circumference.
+The part has a raised circular section on the side.
+The cylindrical component has a flat circular end.
+The side lip extends outward slightly.
+The smaller hole is positioned near the side lip.
+The flange extends perpendicularly from the shaft.
+The cylindrical shaft is aligned with the flange.
+The part has a flanged edge on one side.
+The component has a protruding rim around the circumference.
+The cylindrical part has a smooth outer surface.
+The base is slightly wider than the cylindrical section.
+The shaft has a uniform diameter along its length.
+The flange is perpendicular to the shaft.
+The flange has a circular indentation.
+The cylindrical shaft has a smooth outer surface.
+The cylindrical part has a raised edge along its length.
+The flange has a circular indentation.
+The end cap is perpendicular to the main cylindrical body.
+The component has a uniform diameter along its length.
+The component has a raised edge around the central hole.
+The part features a circular cutout on the flange.
+The part has a raised circular ridge around the perimeter.
+There is a slight protrusion on the side of the component.
+
+**Relative Positions:**
+The main circular opening is aligned parallel to the base.
+The smaller hole is situated near the edge of the main opening.
+The smaller hole is positioned within the flange.
+The cylindrical shaft is connected to the flanged end.
+The smaller circular hole is positioned near the side protrusion.
+The flat circular face is parallel to the main circular opening.
+The main circular opening is positioned centrally on the flat face.
+The smaller circular hole is aligned parallel to the main opening.
+The central hole is aligned with the cylindrical axis.
+The smaller circular feature is positioned near the larger opening.
+The main opening is aligned parallel to the side lip.
+The cylindrical body tapers slightly towards the smaller hole.
+The circular opening is centered on the flange.
+The protruding section connects to the main shaft.
+The central hole is aligned with the cylindrical body.
+The smaller slot is positioned parallel to the main hole.
+The smaller hole is aligned parallel to the main opening.
+The cylindrical section is positioned perpendicular to the base.
+The central hole aligns with the flange.
+The smaller hole is positioned adjacent to the flange.
+The rectangular slot is positioned near the flange.
+The central hole is aligned with the shaft's axis.
+The smaller hole is positioned near the flange.
+The slot is aligned parallel to the cylindrical axis.
+The circular hole in the flange aligns with the central hole of the cylinder.
+The flange extends outward from the cylindrical body.
+The central hole is aligned with the main cylindrical body.
+The flange extends perpendicularly from the cylindrical section.
+The smaller hole is positioned slightly off-center towards the left.
+The main hole is centrally aligned with the component's axis.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical shaft with a flange.
+- Central hollow cylindrical section.
+- Smooth outer surface.
+- Flat circular face on one end.
+
+[HOLES_SLOTS]
+- Large central circular hole.
+- Smaller circular hole adjacent to the main opening.
+- Circular hole in the flange.
+- Rectangular slot on the side.
+
+[PROTRUSIONS]
+- Protruding lip on the side.
+- Raised edge along the length of the shaft.
+- Flange extending perpendicularly from the main body.
+- Slight protrusion on the side of the component.
+
+[RELATIVE_POSITIONS]
+- Main circular opening centrally aligned with the cylindrical body.
+- Smaller hole positioned near the side protrusion.
+- Flat circular face parallel to the main circular opening.
+- Smaller circular hole aligned parallel to the main opening.
+- Flange extends outward from the cylindrical body.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 12/17 (Images 166-180)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component resembles a cylindrical tube with a tapered end.
+This part features a central circular opening.
+The component is a circular disc.
+This part features a central circular opening.
+The component is a circular disc.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central cylindrical section.
+The component resembles a cylindrical nozzle with a flared end.
+This part features a central circular opening.
+The component resembles a cylindrical connector.
+This part features a tapered end on one side.
+The component resembles a cylindrical nozzle with a tapered end.
+This part features a smooth, elongated cylindrical body.
+The component is cylindrical in shape.
+This part features a central rectangular section.
+The component is cylindrical in shape.
+This part features a central cylindrical section.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is cylindrical with a flanged end.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central cylindrical section.
+The component is a cylindrical pipe with a flange.
+This part features a large circular opening on one end.
+The component is cylindrical in shape.
+This part features a central cylindrical section.
+The component is cylindrical in shape.
+This part features a central circular hole.
+
+**Holes & Slots:**
+There is a small circular hole near the tapered end.
+The cylindrical section has a smooth outer surface.
+The tapered end has a slightly wider base.
+This part includes a flange around the central opening.
+There is a smaller circular hole adjacent to the main opening.
+The part has a flat surface with no additional protrusions.
+The main circular opening is aligned with the center of the disc.
+The smaller circular hole is positioned slightly off-center.
+There is a smaller circular hole adjacent to the main opening.
+The object has a flat, round surface.
+This part includes a large circular cutout.
+There is a smaller circular indentation near the edge.
+There is a circular hole near the middle of the component.
+The cylindrical part has a flanged end on one side.
+The component has a protruding section at one end.
+There is a smaller circular hole adjacent to the flanged end.
+There is a small circular hole near the flared end.
+The nozzle has a smooth cylindrical body.
+The part includes a flared section at one end.
+This component has a hollow cylindrical shape.
+It contains a central circular opening.
+There is a flange around the larger diameter section.
+The part has a smooth transition between the tapered and cylindrical sections.
+This component includes a hollow cylindrical body.
+It contains a small circular indentation on the side.
+The nozzle has a slightly flared opening at the front.
+There is a protruding lip around the circumference of the cylinder.
+The part includes a central cylindrical bore running through its length.
+It contains a circular hole on one end.
+There is a protruding section near the middle.
+The cylindrical part has a smooth outer surface.
+This section has a smaller diameter towards one end.
+There is a circular hole near the left end.
+The middle section has a protruding cylindrical part.
+The right end is slightly wider than the central section.
+There is a smaller circular hole adjacent to the left end.
+There is a small circular protrusion on the side.
+The object has a smooth outer surface.
+It contains a large circular hole near one end.
+This part has a flat circular section in the middle.
+There is a small circular hole near the flanged end.
+The cylindrical section has a smooth outer surface.
+The flange includes a protruding lip on one side.
+The component has a uniform diameter along its length.
+There is a circular hole near the middle of the component.
+The cylindrical part has a protruding section at one end.
+The component has a flat end opposite the protruding section.
+There is a smaller circular hole adjacent to the main cylindrical section.
+There is a smaller circular opening near the flange.
+The cylindrical section is smooth and continuous.
+The flange has a raised circular edge.
+The component has a protruding cylindrical section at one end.
+It contains a large circular hole in the middle.
+There is a smaller circular hole near the end cap.
+The part has a protruding cylindrical extension on one side.
+This section includes a rectangular slot near the base.
+There is a rectangular slot near the middle section.
+The cylindrical body has a protruding flange on one side.
+The flange has a small circular indentation.
+The component has a flat base extending from the cylinder.
+
+**Protrusions:**
+The component has a flat protrusion on the side.
+The flange is positioned around the middle section.
+The edges of the disc are smooth and rounded.
+The disc maintains a consistent thickness throughout.
+The part has a raised circular rim around the perimeter.
+The component has a smooth circular outline.
+The part has a raised circular ridge along the length.
+The cylindrical section has a smooth outer surface.
+The nozzle has a slightly raised rim around the opening.
+The part has a protruding section at the front.
+The part has a raised circular ridge along the length.
+There is a slight protrusion at the base of the tapered end.
+The nozzle exhibits a slight taper towards the tip.
+The cylindrical body has a consistent diameter along its length.
+The component has a flange on the side.
+There is a recessed area along the length.
+The component has a raised cylindrical ridge along the central section.
+The left end has a protruding cylindrical feature.
+The component has a raised circular feature on the side.
+There is a circular indentation on the surface.
+The flanged end has a raised circular rim.
+The cylindrical part transitions smoothly into the flange.
+The part has a raised edge along the length of the cylinder.
+The protruding section is slightly wider than the main cylinder.
+The flange extends outward from the main body.
+The cylindrical part connects to the flange seamlessly.
+The cylindrical body has a raised edge along its length.
+The end cap has a slightly protruding rim.
+The base has a slight elevation at the center.
+The cylindrical part is connected to the base via a short perpendicular section.
+
+**Relative Positions:**
+The small circular hole is aligned with the tapered end.
+The flat protrusion is located on the cylindrical side.
+The central opening is larger than the smaller adjacent hole.
+The smaller hole is located on the opposite side of the central opening.
+The smaller hole is positioned slightly off-center from the main opening.
+The main circular opening is centrally aligned with the component.
+The flanged end is positioned on the left side of the component.
+The smaller circular hole is aligned parallel to the central axis.
+The central hole is aligned with the cylindrical body.
+The small circular hole is positioned close to the flared end.
+The flange is positioned around the middle section of the cylinder.
+The tapered end is aligned with the smaller diameter of the cylinder.
+The indentation is positioned approximately midway along the cylinder.
+The flared opening is aligned with the tapered end of the nozzle.
+The circular hole is aligned with the central axis.
+The flange is positioned adjacent to the recessed area.
+The central cylindrical section is aligned with the left and right ends.
+The right end extends outward as a cylindrical protrusion.
+The central hole is aligned with the cylindrical body.
+The small protrusion is positioned adjacent to the central hole.
+The small circular hole is aligned with the central opening.
+The protruding lip is positioned on the outer circumference of the flange.
+The flat end is positioned opposite the protruding section.
+The smaller circular hole is aligned parallel to the main cylindrical section.
+The smaller circular opening is aligned with the flange.
+The main body tapers slightly before connecting to the flange.
+The smaller hole is aligned parallel to the main cylindrical axis.
+The rectangular slot is positioned adjacent to the central hole.
+The circular hole is aligned with the central axis of the cylinder.
+The rectangular slot is positioned parallel to the base.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical body with a tapered end.
+- Central circular opening.
+- Flanged end on one side.
+- Smooth, elongated cylindrical shape.
+- Hollow cylindrical body.
+
+[HOLES_SLOTS]
+- Large central circular opening.
+- Smaller circular hole adjacent to the main opening.
+- Smaller circular hole near the tapered end.
+- Circular hole near the flanged end.
+- Rectangular slot near the base.
+- Circular indentation near the edge.
+
+[PROTRUSIONS]
+- Raised circular rim around the perimeter.
+- Protruding section at the front.
+- Flange with a raised circular rim.
+- Raised cylindrical ridge along the central section.
+- Protruding cylindrical extension on one side.
+
+[RELATIVE_POSITIONS]
+- Central opening aligned with the cylindrical body.
+- Smaller hole positioned slightly off-center from the main opening.
+- Flange positioned around the middle section.
+- Tapered end aligned with the smaller diameter of the cylinder.
+- Rectangular slot positioned adjacent to the central hole.
+- Protruding section positioned opposite the flat end.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 13/17 (Images 181-195)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is cylindrical with a flanged end.
+This part features a central circular hole.
+The component has a cylindrical shape with a hollow center.
+This part features a circular hole in the middle section.
+The component is cylindrical with a protruding end.
+This part features a central cylindrical section.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central rectangular section.
+The component is cylindrical in shape.
+This part features a central rectangular section.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component resembles a cylindrical nozzle with a tapered end.
+This part features a central circular hole near the tapered section.
+The component has a cylindrical main body with a protruding rectangular section.
+This part features a large circular hole in the central cylindrical section.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component resembles a cylindrical connector.
+This part features a smooth, elongated body.
+The component is cylindrical with a flat end.
+This part features a central circular hole.
+
+**Holes & Slots:**
+There is a small circular hole near the flanged end.
+The cylindrical section has a smooth outer surface.
+The flanged end has a flat protrusion.
+The component has a rectangular slot on the side.
+There is a small circular indentation near the front end.
+The cylindrical body has a smooth outer surface.
+The part includes a protruding section at one end.
+This component has a flat circular opening on the side.
+There is a small circular hole near the middle.
+The cylindrical part has a flanged end.
+The component has a smooth transition between the main body and the protrusion.
+There is a small circular indentation on the side.
+There is a small circular hole near the middle.
+The cylindrical section has a smooth outer surface.
+The part has a protruding circular feature on one side.
+The cylindrical body is uniform in diameter.
+There is a small protrusion on the side.
+The object has a smooth elongated body.
+It contains a large circular hole near one end.
+This part includes a small circular indentation.
+There is a small circular hole near the tip.
+The cylindrical body has a flared end.
+The component has a smooth outer surface.
+There is a ring-like feature around the middle section.
+There is a small circular hole near the middle.
+The cylindrical section has a smooth outer surface.
+The component has a protruding circular feature on one side.
+The part includes a flanged end on one side.
+It contains a large circular hole on one end.
+There is a smaller circular hole near the central section.
+The part has a protruding section on the side.
+This section has a rectangular slot.
+It contains a circular hole on one end.
+There is a smaller circular hole near the central section.
+The part has a protruding section on one side.
+This section has a flat surface extending outward.
+There is a small circular protrusion near the middle.
+The object has a flat rectangular section connecting the two ends.
+The cylindrical part has a smooth outer surface.
+There is a circular indentation on one side.
+There is a small circular indentation on the side of the nozzle.
+The cylindrical section has a smooth outer surface.
+The nozzle has a slightly wider base compared to the tapered end.
+This part includes a hollow cylindrical section with a consistent diameter.
+There is a smaller circular hole near the rectangular protrusion.
+The cylindrical section is connected to a rectangular extension.
+The rectangular protrusion has a flat top surface.
+The main body has a smooth cylindrical shape.
+There is a small circular hole near the middle.
+The cylindrical section has a flanged end.
+The part has a protruding circular feature on one side.
+There is a recessed area on the cylindrical body.
+It contains a central circular opening.
+There is a smaller circular protrusion at one end.
+The part has a flanged end with a larger diameter.
+This section includes a slight indentation near the middle.
+There is a small circular hole near the flat end.
+The cylindrical section is connected to a rectangular block.
+The rectangular block has a protruding cylindrical extension.
+The cylindrical extension is aligned parallel to the main body.
+
+**Protrusions:**
+The side protrusion is rectangular in shape.
+The rectangular slot is positioned on the side of the cylinder.
+The cylindrical part has a slightly raised rim around the opening.
+The front end of the component is rounded.
+The part has a raised circular feature on the side.
+The cylindrical section is connected to a shorter protruding section.
+The component has a flat end cap.
+The central hole is aligned with the cylindrical axis.
+The part has a raised circular feature on the side.
+There is a small circular protrusion near the middle.
+The part has a protruding tip at one end.
+The cylindrical section has a slightly wider diameter.
+The cylindrical body has a slightly wider diameter at one end.
+The component has a flat end cap on one side.
+The cylindrical part has raised edges along its length.
+The central section has a flat protrusion.
+The cylindrical part has a flange on one end.
+The flange has a raised edge around its perimeter.
+The component has a raised circular feature on the side.
+The part includes a small circular notch on the side.
+The tapered end of the nozzle is rounded.
+The cylindrical section has a flanged end.
+The rectangular section extends perpendicularly from the cylinder.
+The component has a flat base at the end of the cylinder.
+The flanged end has a raised circular lip.
+The cylindrical body has a smooth outer surface.
+The cylindrical body has a uniform diameter throughout.
+The connector has a tapered end for alignment.
+The main body has a flat surface on one end.
+The flat surface is perpendicular to the cylindrical section.
+
+**Relative Positions:**
+The central hole is aligned with the cylindrical section.
+The small circular hole is adjacent to the flanged end.
+The circular hole is aligned with the central axis of the cylinder.
+The protruding section is positioned at the opposite end of the circular hole.
+The small circular hole is aligned with the central axis.
+The protruding end is positioned at one end of the cylindrical body.
+The small circular hole is positioned adjacent to the main hole.
+The flat end cap is perpendicular to the cylindrical body.
+The circular hole is positioned towards the left end.
+The small protrusion is aligned parallel to the main body.
+The small circular hole is aligned with the tip.
+The flared end is positioned opposite the protruding tip.
+The central hole is aligned with the cylindrical axis.
+The flanged end is positioned opposite the flat end cap.
+The large circular hole is positioned on the left end.
+The smaller circular hole is aligned with the central section.
+The central rectangular section is aligned with the cylindrical body.
+The smaller circular hole is positioned adjacent to the central section.
+The central circular opening is aligned with the cylindrical body.
+The rectangular section is positioned between the two cylindrical ends.
+The circular hole is aligned with the central axis of the cylinder.
+The indentation is positioned approximately halfway along the side.
+The circular hole is aligned with the central axis of the cylinder.
+The smaller hole is positioned adjacent to the rectangular protrusion.
+The central circular opening is aligned with the cylindrical axis.
+The recessed area is positioned adjacent to the flanged end.
+The flanged end is positioned opposite the tapered end.
+The central opening aligns with the flanged end.
+The circular hole is positioned centrally on the rectangular block.
+The small circular hole is located near the junction of the cylindrical section and the rectangular block.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical main body with a flanged end.
+- Central circular hole aligned with the cylindrical axis.
+- Component features a protruding rectangular section.
+- Smooth elongated body with a flat end cap.
+
+[HOLES_SLOTS]
+- Large circular hole near the tapered section.
+- Small circular holes near the middle and flanged end.
+- Rectangular slot on the side of the cylindrical section.
+- Flat circular opening on the side.
+
+[PROTRUSIONS]
+- Rectangular slot positioned on the side of the cylinder.
+- Flat end cap perpendicular to the cylindrical body.
+- Raised circular feature on the side.
+- Flanged end with a raised circular lip.
+
+[RELATIVE_POSITIONS]
+- Central hole aligned with the cylindrical axis.
+- Small circular hole adjacent to the flanged end.
+- Protruding section positioned at the opposite end of the circular hole.
+- Flat end cap positioned opposite the flanged end.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 14/17 (Images 196-210)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is cylindrical in shape.
+This part features a central rectangular section.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component has a cylindrical shape with a tapered end.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central rectangular section.
+The component resembles a cylindrical nozzle.
+This part features a conical protrusion at one end.
+The component has a cylindrical shape with a hollow interior.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component has a cylindrical main body.
+This part features a large circular opening on one end.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is cylindrical in shape.
+This part features a central hollow section.
+
+**Holes & Slots:**
+It contains a circular hole on one end.
+There is a protruding cylindrical section on the opposite end.
+The part has a flat surface connecting the two ends.
+This section includes a smaller circular hole near the center.
+There is a small circular hole near the center.
+The object has a smooth cylindrical body.
+This part includes a protruding cylindrical section on one end.
+The cylindrical component has a flat circular face on one side.
+There is a smaller circular hole near the tapered end.
+The cylindrical section has a smooth outer surface.
+The tapered end has a rounded tip.
+The component has a flange around the wider end.
+There is a small circular hole near the base.
+The object has a protruding cylindrical section at one end.
+The part includes a flat circular surface on one side.
+There is a small circular indentation on the side.
+It contains a large circular hole on one end.
+There is a smaller circular hole near the middle.
+The part has a protruding cylindrical section on one side.
+This section has a flat surface on the opposite end.
+It contains a circular opening near the base.
+There is a small circular indentation on the side.
+The part has a flared end section.
+This component includes a cylindrical body with a tapered tip.
+There is a small circular hole near the top of the cylinder.
+The cylindrical part has a flanged end on one side.
+The component has a protruding lip around the circumference.
+This part includes a larger circular hole at one end.
+There is a small protrusion on the side.
+The object has a smooth cylindrical body.
+It contains a large circular hole near one end.
+There is a small notch on the side.
+There is a small circular protrusion near the center.
+The object has a smooth outer surface.
+The cylindrical part has a flat end cap.
+This component includes a hollow cylindrical section.
+There is a protruding ring near one end.
+The cylindrical body has a smooth outer surface.
+The central hole is surrounded by a raised rim.
+A smaller circular indentation is present near the middle.
+There is a smaller circular hole near the center.
+The cylindrical section extends into a flared end.
+The part includes a protruding section at the opposite end.
+This section has a rectangular cutout on the side.
+There is a small circular hole near the middle.
+The object has a smooth cylindrical body.
+This part includes a protruding cylindrical section.
+The cylindrical component has a flat end cap.
+There is a small circular protrusion on the side.
+The object has a smooth outer surface.
+It contains a large circular hole in the middle section.
+There is a rectangular slot near one end.
+There is a rectangular slot near the edge.
+The object has a cylindrical extension on one side.
+The part includes a central circular opening.
+A small circular hole is present near the base.
+There is a circular opening at one end.
+The middle section has a protruding ridge.
+The component has a flange on one side.
+There is a slot running along the length of the cylinder.
+
+**Protrusions:**
+The cylindrical part has a slightly raised edge.
+The central rectangular section has smooth edges.
+The part has a raised circular feature on the side.
+There is a cylindrical protrusion extending from one end.
+The part has a slight indentation on the side.
+The flange has a consistent diameter around the circumference.
+The component has a raised circular ridge along the length.
+The part features a protruding cylindrical extension.
+The cylindrical part extends outward from the main body.
+The main body has a slightly tapered design.
+The nozzle has a smooth, rounded contour.
+The part features a central cylindrical shaft.
+The cylindrical section has a raised edge along its length.
+The component has a smooth outer surface with no additional features.
+The part has a raised circular section.
+This component has a cylindrical main body with a protruding section.
+The part has a raised circular feature in the middle.
+The cylindrical structure has a consistent diameter throughout.
+The part has a flange at one end.
+The flange has a rounded edge.
+The flared end has a smooth transition from the cylindrical body.
+The protruding section is slightly wider than the main body.
+The part has a raised circular feature on the side.
+There is a circular indentation on the side.
+The part has a raised circular feature on the side.
+The cylindrical part has a flange at one end.
+The part has raised edges along the sides.
+There are protruding sections at both ends.
+The part has a raised edge along the circumference.
+The central hollow section is surrounded by a thick wall.
+
+**Relative Positions:**
+The circular hole is aligned with the cylindrical section.
+The protruding section is positioned parallel to the main body.
+The central hole is aligned with the cylindrical body.
+The cylindrical section is positioned parallel to the main body.
+The smaller hole is aligned with the central hole.
+The indentation is positioned parallel to the tapered end.
+The central hole is aligned with the cylindrical body.
+The small circular hole is positioned adjacent to the central opening.
+The large circular hole is aligned with the cylindrical extension.
+The smaller circular hole is positioned adjacent to the rectangular section.
+The circular opening is aligned with the cylindrical body.
+The conical protrusion is positioned at the front end.
+The central hole is aligned with the cylindrical axis.
+The flanged end is positioned opposite the smaller circular hole.
+The circular hole is positioned near the wider end.
+The protruding section is located adjacent to the circular hole.
+The central hole is aligned with the cylindrical axis.
+The flat end cap is positioned at one end of the cylinder.
+The central hole is aligned with the main body.
+The flange extends outward from the cylindrical section.
+The smaller circular hole is aligned with the central opening.
+The rectangular cutout is positioned adjacent to the protruding section.
+The central hole is aligned with the cylindrical axis.
+The protruding section is positioned at one end.
+The central hole is aligned with the main body.
+The rectangular slot is positioned adjacent to the flange.
+The cylindrical extension is positioned on the right side.
+The rectangular slot is aligned parallel to the L-shape.
+The flange is positioned near the circular opening.
+The slot is aligned parallel to the cylindrical axis.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical main body with a tapered end.
+- Central rectangular section.
+- Conical protrusion at one end.
+- Hollow cylindrical section with a flanged end.
+
+[HOLES_SLOTS]
+- Large circular hole near one end.
+- Central circular hole.
+- Smaller circular hole near the center.
+- Rectangular slot near the edge.
+- Flat circular face on one side.
+
+[PROTRUSIONS]
+- Cylindrical protrusion extending from one end.
+- Raised circular feature on the side.
+- Flange around the wider end.
+- Protruding cylindrical section at one end.
+- Raised circular ridge along the length.
+
+[RELATIVE_POSITIONS]
+- Central hole aligned with the cylindrical axis.
+- Protruding section positioned parallel to the main body.
+- Smaller hole aligned with the central opening.
+- Rectangular slot positioned adjacent to the flange.
+- Flanged end positioned opposite the smaller circular hole.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 15/17 (Images 211-225)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is cylindrical in shape.
+This part features a central rectangular section.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component has a cylindrical main body.
+This part features a circular hole on the side.
+The component is cylindrical in shape.
+This part features a central rectangular section.
+The component is cylindrical in shape.
+This part features a central rectangular cutout.
+The component resembles a cylindrical connector.
+This part features a central cylindrical shaft.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component has a cylindrical main body.
+This part features a circular hole in the middle section.
+The component is cylindrical with a flared end.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component resembles a cylindrical connector with a flange.
+This part features a central circular opening.
+The component resembles a cylindrical nozzle.
+This part features a smooth, elongated body.
+
+**Holes & Slots:**
+It contains a circular hole on one end.
+There is a smaller circular hole near the central section.
+The part has a protruding section in the middle.
+This section has a slight indentation on one side.
+There is a rectangular slot near the middle section.
+The cylindrical body has a smooth outer surface.
+The part includes a protruding section on one end.
+The central hole is surrounded by a raised rim.
+There is a small circular protrusion on the side.
+The object has a smooth cylindrical body.
+This part includes a larger circular hole at one end.
+There is a smaller circular feature near the middle.
+There is a rectangular slot on the side.
+The cylindrical body has a smooth outer surface.
+The component has a protruding section on one end.
+The central hole is aligned with the cylindrical axis.
+There is a small circular indentation near the hole.
+The cylindrical section extends from one end of the component.
+The component has a protruding section at one end.
+The main body is connected to a smaller cylindrical protrusion.
+It contains a circular hole on one end.
+There is a smaller circular hole near the other end.
+The part has a protruding section in the middle.
+This section has a slight indentation on one side.
+There is a circular hole on one end.
+The cylindrical section has a protruding flange.
+The part includes a smaller circular hole near the flange.
+There is a rectangular slot on the side of the cylinder.
+It contains a flange around the circumference.
+There is a protruding end on one side.
+The part has a hollow interior.
+This section includes a wider base.
+There is a smaller circular hole near the center.
+The cylindrical body has a flanged end.
+The flange has a raised circular edge.
+The component has a smooth outer surface.
+There is a smaller circular hole near the end cap.
+The object has a flanged end on one side.
+The part includes a protruding cylindrical section at one end.
+There is a circular indentation on the side.
+There is a small circular hole near the flared end.
+The cylindrical section has a smooth outer surface.
+The flared end has a flat protrusion.
+The component has a hollow interior.
+There is a rectangular slot near the middle section.
+The cylindrical body has a smooth outer surface.
+The part includes a flange on one end.
+There is a protruding ring around the central hole.
+There is a smaller circular hole near the end.
+The cylindrical body has a smooth outer surface.
+The part has a flanged end on one side.
+The flange has a slightly larger diameter than the main body.
+There is a smaller circular hole near the end of the cylindrical section.
+The cylindrical section has a smooth outer surface.
+The flange has a flat, circular profile.
+The connector includes a protruding cylindrical end.
+It contains a central circular opening at one end.
+There is a flared section near the wider end.
+The nozzle has a tapered tip.
+This part includes a hollow cylindrical section.
+
+**Protrusions:**
+The cylindrical ends are smooth and rounded.
+The central rectangular section is slightly raised.
+The cylindrical part has a flange on one side.
+The flange has a circular indentation in the center.
+The part has a raised circular detail on the surface.
+The cylindrical component has a flat circular section.
+The slot is positioned perpendicular to the main cylinder.
+The protruding section has a flat top surface.
+The side of the component has a circular cutout.
+The component has a flat surface on the protruding section.
+The cylindrical part extends uniformly on both sides.
+The central section is slightly thicker than the ends.
+The component has a raised central ridge.
+The flange has a rounded edge.
+The cylindrical body has a uniform diameter.
+The connector has a tapered end.
+The central hole is aligned with the cylindrical axis.
+The smaller hole is positioned slightly off-center.
+The component has a smooth transition between the main body and the flange.
+The part has a flat surface on the opposite end of the flange.
+The central hole is aligned with the cylindrical axis.
+The small circular hole is positioned perpendicular to the main axis.
+The cylindrical section has a slight bulge near the flange.
+The flange has a flat, extended surface.
+The component has a protruding section at one end.
+The protruding section is cylindrical and matches the main body.
+The cylindrical end has a rounded tip.
+The flange extends outward from the main body.
+The component has a slightly protruding rim around the opening.
+The nozzle exhibits a uniform cylindrical shape along its length.
+
+**Relative Positions:**
+The circular hole on one end is aligned with the cylindrical section.
+The smaller circular hole is positioned adjacent to the central section.
+The slot is aligned parallel to the cylindrical axis.
+The protruding section is positioned at the opposite end of the slot.
+The central hole is aligned with the cylindrical body.
+The small protrusion is positioned near the larger hole.
+The central hole is located near the middle of the cylinder.
+The slot is parallel to the cylindrical body.
+The circular hole is positioned near the connection point.
+The protruding section is aligned parallel to the main body.
+The circular hole on one end is aligned with the protruding section.
+The smaller hole near the other end is offset from the central section.
+The rectangular slot is aligned parallel to the cylinder's axis.
+The central cutout is surrounded by a raised border.
+The flange is positioned around the middle section.
+The protruding end is aligned with the shaft.
+The flanged end extends outward from the main body.
+The cylindrical part tapers slightly towards the end.
+The central hole aligns with the flanged end.
+The smaller hole is positioned adjacent to the flange.
+The flat protrusion is located on the side of the flared end.
+The cylindrical section transitions smoothly into the flared end.
+The central hole is aligned with the cylindrical axis.
+The rectangular slot is parallel to the cylindrical length.
+The central hole aligns with the main cylindrical axis.
+The smaller hole is positioned perpendicular to the main axis.
+The smaller circular hole is aligned with the central opening.
+The protruding end is positioned at the opposite end of the flange.
+The central opening is aligned with the tapered tip.
+The flared section is positioned adjacent to the central opening.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical main body with a flared end.
+- Central rectangular section.
+- Smooth elongated body.
+- Cylindrical connector with a flange.
+- Cylindrical nozzle with a tapered tip.
+
+[HOLES_SLOTS]
+- Central circular hole aligned with the cylindrical axis.
+- Smaller circular hole near the central section.
+- Rectangular slot near the middle section.
+- Circular hole on one end.
+- Smaller circular hole near the flange.
+- Rectangular slot on the side.
+- Central hole surrounded by a raised rim.
+- Smaller circular hole near the end cap.
+- Smaller circular hole near the flared end.
+
+[PROTRUSIONS]
+- Protruding section on one end.
+- Flange with a circular indentation in the center.
+- Raised circular detail on the surface.
+- Flat circular section on the cylindrical part.
+- Slot positioned perpendicular to the main cylinder.
+- Protruding section with a flat top surface.
+- Slight bulge near the flange.
+- Flat protrusion on the side of the flared end.
+- Protruding ring around the central hole.
+- Cylindrical end with a rounded tip.
+
+[RELATIVE_POSITIONS]
+- Circular hole on one end aligned with the cylindrical section.
+- Smaller circular hole adjacent to the central section.
+- Slot aligned parallel to the cylindrical axis.
+- Protruding section at the opposite end of the slot.
+- Central hole near the middle of the cylinder.
+- Small protrusion near the larger hole.
+- Slot parallel to the cylinder's axis.
+- Circular hole near the connection point.
+- Protruding section aligned parallel to the main body.
+- Smaller hole near the other end offset from the central section.
+- Rectangular slot aligned parallel to the cylindrical length.
+- Central cutout surrounded by a raised border.
+- Flange positioned around the middle section.
+- Protruding end aligned with the shaft.
+- Flanged end extends outward from the main body.
+- Cylindrical part tapers slightly towards the end.
+- Central hole aligns with the flanged end.
+- Smaller hole adjacent to the flange.
+- Flat protrusion on the side of the flared end.
+- Cylindrical section transitions smoothly into the flared end.
+- Central hole aligns with the main cylindrical axis.
+- Smaller hole positioned perpendicular to the main axis.
+- Smaller circular hole aligned with the central opening.
+- Protruding end positioned at the opposite end of the flange.
+- Central opening aligns with the tapered tip.
+- Flared section positioned adjacent to the central opening.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 16/17 (Images 226-240)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component has a cylindrical shape with a hollow center.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a smooth, elongated body.
+The component resembles a cylindrical connector with a protruding tip.
+This part features a central circular hole on the tip.
+The component resembles a cylindrical nozzle with a tapered end.
+This part features a central circular hole near the front.
+The component is cylindrical with a protruding section.
+This part features a central circular opening.
+The component is cylindrical with a hollow center.
+This part features a smooth outer surface.
+The component resembles a cylindrical rod with a flat end.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component resembles a cylindrical nozzle with a tapered end.
+This part features a central circular opening.
+The component has a cylindrical shape with a flat end.
+This part features a central circular hole.
+The component is cylindrical with a central circular hole.
+This part features a prominent circular opening in the middle.
+
+**Holes & Slots:**
+There is a small circular protrusion on the side.
+The object has a smooth outer surface.
+It contains a large circular hole in the middle section.
+The cylindrical part has a flat end cap.
+There is a small circular hole near the end.
+The object has a smooth outer surface.
+The cylindrical part has a flanged end.
+This component includes a protruding section on one side.
+There is a rectangular slot near the middle section.
+The cylindrical body extends horizontally.
+The component has a protruding circular section on one end.
+This part includes a smaller circular indentation on the side.
+There is a small circular hole near the center.
+The object has a protruding section on one side.
+The part includes a flat base at one end.
+There is a circular indentation on the side.
+There is a smaller circular hole near the end of the cylinder.
+The cylindrical part has a flared end on one side.
+The component has a smooth outer surface with no additional protrusions.
+This part includes a hollow section running through its length.
+It contains a central circular opening.
+There is a smaller circular hole near one end.
+The part has a protruding cylindrical section at one end.
+This section has a slightly wider diameter compared to the main body.
+There is a smaller circular hole near the base of the tip.
+The cylindrical section has a smooth outer surface.
+The connector has a flared end on one side.
+The tip is slightly wider than the main cylindrical body.
+There is a small circular indentation on the side.
+The nozzle has a smooth, elongated cylindrical body.
+This part includes a flanged section at the rear.
+The front end of the component is slightly rounded.
+There is a small circular hole near the protruding section.
+The cylindrical part has a smooth outer surface.
+The protruding section has a rounded end.
+This part includes a flat base at one end.
+It contains a central circular opening.
+There is a rectangular slot on one side.
+The cylindrical section extends from the main body.
+The component has a flanged end on one side.
+There is a small circular indentation near the flat end.
+The cylindrical section has a smooth outer surface.
+The flat end is perpendicular to the cylindrical body.
+The component has a uniform diameter along its length.
+There is a small circular protrusion on the side.
+The object has a hollow cylindrical section.
+This part includes a flat circular end cap.
+The cylindrical body extends horizontally.
+There is a small circular protrusion near the base.
+The nozzle has a smooth cylindrical body.
+The component includes a flanged section at the wider end.
+This part has a uniform cylindrical shape along its length.
+There is a small circular hole near the flat end.
+The cylindrical section has a smooth outer surface.
+The flat end has a slightly raised circular area.
+The component has a uniform diameter along its length.
+There is a smaller circular hole near the center.
+The object has a cylindrical shape with a flat end.
+This part includes a circular hole aligned along the length.
+The component has a circular hole positioned centrally.
+
+**Protrusions:**
+The component has a raised circular feature on one side.
+This part includes a protruding circular element.
+The part has a rounded end cap.
+There is a circular indentation on the side.
+The cylindrical part has a flanged end.
+The component has a raised circular ridge along the length.
+The cylindrical part has a raised edge along its length.
+The component has a protruding lip on the side.
+The cylinder has a slightly raised edge along its circumference.
+The component has a consistent diameter along most of its length.
+The cylindrical part has a flanged end.
+The flange has a raised circular edge.
+The part has a raised circular ridge around the central hole.
+The cylindrical body has a consistent diameter throughout.
+The nozzle has a protruding lip around the circular hole.
+The flanged section has a raised circular edge.
+The component has a slight indentation on the side.
+The cylindrical section is uniform in diameter.
+The part has a protruding section at one end.
+The cylindrical part is connected to a shorter section.
+The flat end has a slightly raised border.
+The cylindrical section is solid without any slots.
+The component has a raised circular feature on one side.
+There is a circular indentation near the middle.
+The nozzle has a slightly raised rim around the opening.
+The component has a protruding lip at the narrower end.
+The central hole is aligned with the cylindrical axis.
+The small circular hole is positioned close to the flat end.
+The part has a cylindrical protrusion on one side.
+There is a raised cylindrical section on the right end.
+
+**Relative Positions:**
+The central hole is aligned with the cylindrical body.
+The protrusion is positioned near the flat end cap.
+The central hole is aligned with the cylindrical axis.
+The flanged end is positioned opposite the rounded end.
+The central hole is aligned with the cylindrical axis.
+The rectangular slot is positioned parallel to the cylindrical axis.
+The central hole is aligned with the cylindrical body.
+The protruding section is positioned on the right side.
+The smaller hole is aligned parallel to the central axis.
+The flared end is positioned at the opposite end of the central hole.
+The smaller hole is aligned parallel to the main cylindrical axis.
+The flanged end is positioned at the opposite end of the smaller hole.
+The central hole is aligned with the tip of the connector.
+The smaller hole is positioned just below the tip's surface.
+The circular hole is aligned with the central axis of the nozzle.
+The protruding lip encircles the central hole uniformly.
+The small circular hole is aligned with the protruding section.
+The flat base is perpendicular to the cylindrical section.
+The rectangular slot is aligned parallel to the cylinder.
+The flanged end is positioned opposite the protruding section.
+The circular hole is aligned with the central axis.
+The indentation is positioned close to the flat end.
+The central opening is aligned with the cylindrical axis.
+The protrusion is positioned on the shorter end of the cylinder.
+The circular opening is centrally aligned with the cylindrical body.
+The flanged section is positioned at the opposite end of the protruding lip.
+The cylindrical section extends from the flat end.
+The component has a consistent circular cross-section.
+The circular hole is located near the center of the cylindrical body.
+The cylindrical part has a circular hole aligned with the main body.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical shape with a hollow center.
+- Smooth elongated body.
+- Cylindrical connector with a protruding tip.
+- Cylindrical nozzle with a tapered end.
+- Cylindrical rod with a flat end.
+
+[HOLES_SLOTS]
+- Central circular hole.
+- Small circular holes near the ends.
+- Rectangular slot near the middle section.
+- Flanged end cap.
+- Circular indentation on the side.
+- Smaller circular hole near the base of the tip.
+- Flat base at one end.
+- Flared end on one side.
+- Flat circular end cap.
+- Small circular protrusion on the side.
+
+[PROTRUSIONS]
+- Raised circular feature on one side.
+- Protruding circular element.
+- Rounded end cap.
+- Raised circular ridge along the length.
+- Protruding lip on the side.
+- Slightly raised edge along the circumference.
+- Consistent diameter along most of its length.
+- Protruding lip around the circular hole.
+- Raised circular edge on the flanged section.
+- Slightly raised border on the flat end.
+
+[RELATIVE_POSITIONS]
+- Central hole aligned with the cylindrical body.
+- Protrusion positioned near the flat end cap.
+- Flanged end positioned opposite the rounded end.
+- Rectangular slot positioned parallel to the cylindrical axis.
+- Protruding section positioned on the right side.
+- Smaller hole aligned parallel to the central axis.
+- Flared end positioned at the opposite end of the central hole.
+- Protruding lip encircles the central hole uniformly.
+- Small circular hole aligned with the protruding section.
+- Flat base perpendicular to the cylindrical section.
+- Circular hole centrally aligned with the cylindrical body.
+- Flanged section positioned at the opposite end of the protruding lip.
+- Circular opening aligned with the central axis.
+- Protrusion positioned on the shorter end of the cylinder.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 17/17 (Images 241-251)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 11 images of the same component:
+
+**Global Shape:**
+The component is cylindrical in shape.
+This part features a central hollow section.
+The component resembles a cylindrical nozzle with a flared end.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central rectangular section.
+The component is cylindrical with a flange on one end.
+This part features a central circular hole on the flange.
+The component resembles a cylindrical metal rod.
+This part features a smooth, elongated cylindrical shape.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component resembles a cylindrical connector.
+This part features a hollow cylindrical body.
+The component is a cylindrical pipe connector.
+This part features a flanged end on one side.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular opening.
+
+**Holes & Slots:**
+There is a circular opening in the middle.
+The object has a uniform cylindrical body.
+This part includes a protruding cylindrical section on one end.
+The cylindrical component has a hollow interior.
+There is a small circular protrusion near the base.
+The nozzle has a smooth, elongated cylindrical body.
+The flared end of the nozzle widens slightly towards the tip.
+The cylindrical body has a consistent diameter along its length.
+There is a small protrusion on the side.
+The object has a smooth cylindrical body.
+This part includes a larger circular hole at one end.
+There is a smaller circular hole near the central opening.
+It contains a circular hole on one end.
+There is a smaller circular hole near the other end.
+The part has a protruding section in the middle.
+This section has a slight indentation.
+There is a small circular indentation near the middle of the flange.
+The cylindrical section is smooth and uniform in diameter.
+The flange extends outward from the cylindrical body.
+The component has a flat surface on the opposite end of the flange.
+It contains a central circular opening.
+There is a smaller circular hole near one end.
+The part has a flanged end on one side.
+This section includes a protruding cylindrical section.
+There is a smaller circular hole near the center.
+The cylindrical part has a hollow interior.
+The component has a flanged end on one side.
+This part includes a protruding section on the opposite end.
+It contains a central circular opening.
+There is a protruding cylindrical section on one end.
+The part has a flange-like extension on the side.
+This section includes a small circular indentation.
+It contains a threaded section for secure attachment.
+There is a protruding male end on the opposite side.
+The part has a smooth cylindrical body.
+This connector includes a tapered section near the male end.
+There is a rectangular slot near the middle section.
+The cylindrical part has a flange on one end.
+The component has a protruding section on the side.
+There is a circular indentation on the flat surface.
+There is a small protrusion on the side.
+The object has a smooth outer surface.
+It contains a rectangular slot near the end.
+The cylindrical part has a flange at one end.
+
+**Protrusions:**
+The part has a smooth outer cylindrical surface.
+There is a cylindrical extension on the left side.
+The nozzle has a slight indentation at the junction of the flared end and the body.
+The part has a flat surface on the wider end.
+The part has a raised circular feature on the side.
+This component has a cylindrical protrusion on one end.
+The cylindrical ends are smooth and rounded.
+The central section is slightly wider than the ends.
+The cylindrical body has a slight taper towards one end.
+The flange has a raised edge around its perimeter.
+The component has a raised circular ridge along its length.
+There is a slight bulge in the middle section.
+The flange has a raised circular edge.
+The protruding section is smooth and cylindrical.
+The cylindrical body has a smooth outer surface.
+The flange-like extension has a rounded edge.
+The flange has a raised circular edge.
+The male end has a rounded tip.
+The part has a raised edge along the length.
+The cylindrical section has a slight taper towards one end.
+The component has a rounded end cap.
+There is a small notch on the side.
+
+**Relative Positions:**
+The central hollow section is aligned with the cylindrical body.
+The cylindrical extension is positioned parallel to the main body.
+The small circular protrusion is positioned centrally on the base.
+The flared end is aligned directly with the cylindrical body.
+The central hole is aligned with the cylindrical body.
+The smaller hole is positioned adjacent to the central opening.
+The circular hole on one end is aligned with the central section.
+The smaller circular hole is positioned parallel to the larger one.
+The circular hole is aligned with the central axis of the cylinder.
+The indentation is positioned symmetrically on the flange.
+The flanged end is positioned at the opposite end of the smaller hole.
+The central opening is aligned with the cylindrical body.
+The central hole aligns with the hollow interior.
+The smaller hole is positioned adjacent to the flange.
+The central opening is aligned with the cylindrical body.
+The protruding section is positioned at the opposite end of the flange.
+The flanged end is positioned on the left side.
+The male end is aligned with the right side of the cylinder.
+The central hole is aligned with the cylindrical axis.
+The rectangular slot is positioned parallel to the central hole.
+The central hole is aligned with the cylindrical body.
+The slot is positioned parallel to the main axis.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical body with a flanged end.
+- Central hollow section.
+- Smooth, elongated cylindrical shape.
+- Flared end on one side.
+
+[HOLES_SLOTS]
+- Central circular opening.
+- Smaller circular hole near the central opening.
+- Circular hole on one end.
+- Smaller circular hole near one end.
+- Rectangular slot near the middle section.
+
+[PROTRUSIONS]
+- Cylindrical extension on one end.
+- Slight indentation at the junction of the flared end and the body.
+- Raised circular feature on the side.
+- Flange with a raised edge around its perimeter.
+- Slight bulge in the middle section.
+
+[RELATIVE_POSITIONS]
+- Central hollow section aligned with the cylindrical body.
+- Smaller hole positioned adjacent to the central opening.
+- Circular hole on one end aligned with the central section.
+- Smaller circular hole positioned parallel to the larger one.
+- Rectangular slot positioned parallel to the central hole.
+----------------------------------------------------------------------
+

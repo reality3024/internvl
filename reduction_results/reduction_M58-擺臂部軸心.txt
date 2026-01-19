@@ -1,0 +1,3302 @@
+Reduction Phase Results for Class: M58-擺臂部軸心
+Total Images: 251
+Batch Size: 15
+======================================================================
+
+
+======================================================================
+BATCH 1/17 (Images 1-15)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a cylindrical rod with a flat end.
+This part features a central circular hole.
+The component is a cylindrical rod with a central connector.
+This part features a uniform cylindrical shape.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a cylindrical rod with a central connector.
+This part features a uniform cylindrical shape.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is a cylindrical rod with a flat end.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a cylindrical rod.
+This part features a central circular hole.
+
+**Holes & Slots:**
+There is a small circular hole near the flat end.
+The cylindrical rod has a uniform diameter along its length.
+The flat end of the component is perpendicular to the cylindrical body.
+The component has a smooth transition between the cylindrical section and the flat end.
+It contains a circular hole at one end.
+There is a smaller cylindrical extension on the opposite end.
+The central connector has a slightly larger diameter.
+The rod has a consistent cylindrical profile along its length.
+There is a circular hole in the middle of the rod.
+The rod has a uniform diameter throughout its length.
+This part includes a small protrusion at one end.
+The other end of the rod has a slight indentation.
+There is a small rectangular slot near the left end.
+The rod has a uniform cylindrical shape.
+This part includes a circular hole in the middle section.
+A rectangular slot is present on the right side.
+There is a small rectangular slot near the middle.
+The rod has a uniform diameter throughout its length.
+The part includes a circular hole at one end.
+The cylindrical rod has a flange at one end.
+The rod has a uniform diameter throughout its length.
+There is a circular hole in the middle of the rod.
+The rod has a flange at one end.
+The other end of the rod is capped with a circular protrusion.
+It contains a circular hole at one end.
+There is a smaller cylindrical extension on the opposite end.
+The central connector has a rounded shape.
+The rod has a consistent diameter throughout its length.
+The rod has a uniform diameter throughout its length.
+There is a circular hole in the middle of the rod.
+The rod has a protruding cylindrical section at one end.
+This part includes a smaller cylindrical protrusion near one end.
+There is a small rectangular slot on the left side.
+The rod has a uniform cylindrical shape.
+This part includes a circular hole in the middle.
+A rectangular slot is present near the left end.
+The rod has a uniform diameter throughout its length.
+There is a slight protrusion at one end of the rod.
+The central hole is perfectly aligned with the rod's axis.
+The rod's surface is smooth without any additional features.
+There is a small rectangular slot near the left end.
+The cylindrical body has a uniform diameter throughout.
+The part includes a protruding section on the left side.
+The right end of the component is slightly wider.
+There is a small rectangular slot near the flat end.
+The cylindrical rod has a uniform diameter along its length.
+The flat end of the component is perpendicular to the cylindrical body.
+The slot is aligned parallel to the cylindrical axis.
+The rod has a uniform diameter throughout its length.
+There is a circular hole in the middle of the rod.
+The rod has a protruding cylindrical section at one end.
+This part includes a smaller cylindrical protrusion near one end.
+There is a small rectangular slot near the middle.
+The rod has a uniform cylindrical shape throughout its length.
+This part includes a circular hole at one end.
+The cylindrical rod has a consistent diameter along its length.
+There is a small rectangular slot near one end.
+The rod has a smooth outer surface.
+The part includes a protruding circular feature on one side.
+The cylindrical shape is uniform in diameter.
+
+**Protrusions:**
+The cylindrical rod has a slight protrusion at one end.
+The flat end of the part is slightly thicker than the cylindrical section.
+The part has a smooth cylindrical surface without any raised edges.
+The connector section is slightly protruding from the main body.
+The central section of the rod is slightly thicker.
+The rod has a smooth outer surface.
+The part has a smooth cylindrical protrusion along the length.
+There are no raised edges or additional protrusions.
+The part has a slight protrusion at the midpoint.
+The rod's surface is smooth with no additional features.
+The flange has a raised circular edge.
+The central hole is aligned with the rod's axis.
+The part has a slight protrusion at the connector section.
+The connector section is slightly thicker than the rod.
+The rod has a smooth, continuous surface along its length.
+The central hole is aligned with the rod's axis.
+The part has a smooth cylindrical protrusion.
+The cylindrical rod has a consistent diameter throughout.
+The protrusion is cylindrical and matches the rod's diameter.
+The rod maintains a consistent thickness along its entire length.
+The central hole is aligned with the main axis of the cylinder.
+The rectangular slot is oriented perpendicular to the cylinder's length.
+The component has a slight protrusion at the connection point.
+The connection point has a rounded feature for attachment.
+The rod has a smooth cylindrical surface.
+The central hole is aligned with the rod's axis.
+The part has a slight protrusion at the midpoint.
+There is a small notch on the side of the rod.
+The component has a rounded end cap.
+There is a slight indentation along the length.
+
+**Relative Positions:**
+The central hole is aligned with the axis of the cylindrical rod.
+The small circular hole is positioned close to the flat end.
+The circular hole is aligned with the main cylindrical axis.
+The smaller extension is positioned directly opposite the circular hole.
+The protrusion is located at the left end of the rod.
+The indentation is positioned at the right end of the rod.
+The central hole is aligned with the rod's axis.
+The rectangular slot is positioned parallel to the rod's length.
+The circular hole is aligned with the central axis.
+The flange extends perpendicularly from the rod.
+The flange is positioned at one end of the rod.
+The capped end is located at the opposite end of the rod.
+The circular hole is aligned with the rod's axis.
+The smaller extension is positioned directly opposite the hole.
+The protruding section is positioned at the midpoint of the rod.
+The smaller protrusion is located at the opposite end of the central hole.
+The circular hole is centrally aligned with the rod.
+The rectangular slot is positioned adjacent to the circular hole.
+The central hole runs parallel to the rod's length.
+The protrusion is positioned at the midpoint of the rod.
+The protruding section is positioned adjacent to the central hole.
+The wider end is located opposite the protruding section.
+The circular hole is positioned centrally along the rod.
+The rectangular slot is located on the side of the flat end.
+The protruding section is positioned at the midpoint of the rod.
+The smaller protrusion is located at the opposite end of the central hole.
+The circular hole is positioned at the opposite end of the slot.
+The protrusion is aligned with the central axis of the rod.
+The central hole aligns with the rod's axis.
+The slot is positioned adjacent to the end cap.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical rod with a flat end.
+- Central cylindrical section.
+- Uniform cylindrical shape throughout its length.
+
+[HOLES_SLOTS]
+- One large circular hole located centrally.
+- Small rectangular slot near the flat end.
+- Circular hole at one end.
+- Rectangular slot positioned parallel to the rod's length.
+
+[PROTRUSIONS]
+- Slight protrusion at one end.
+- Central section slightly thicker.
+- Smooth cylindrical protrusion along the length.
+- Rounded end cap.
+
+[RELATIVE_POSITIONS]
+- Central hole aligned with the rod's axis.
+- Rectangular slot positioned adjacent to the circular hole.
+- Protrusion located at the left end of the rod.
+- Indentation positioned at the right end of the rod.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 2/17 (Images 16-30)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is a cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a cylindrical rod with a central connector.
+This part features a uniform cylindrical shape.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+
+**Holes & Slots:**
+There is a small rectangular slot near the left end.
+The cylindrical body has a uniform diameter throughout.
+The part includes a protruding circular feature on one side.
+The right end of the component is open and hollow.
+There is a smaller circular hole near one end.
+The rod has a uniform diameter throughout its length.
+The part includes a flange at one end.
+This cylindrical object has a hollow interior.
+The rod has a uniform diameter throughout its length.
+There is a circular hole in the middle of the rod.
+The rod has a slight protrusion at one end.
+This part includes a small circular indentation near the center.
+The rod has a uniform diameter throughout its length.
+There is a circular hole in the middle of the rod.
+The rod has a flange at one end.
+The other end of the rod is capped with a rounded protrusion.
+The rod has a rounded connector at one end.
+There is a protruding cylindrical section on one side.
+The connector is cylindrical and matches the rod's diameter.
+The rod has a uniform cylindrical shape throughout its length.
+The rod has a uniform diameter throughout its length.
+There is a circular hole in the middle of the rod.
+The rod has a flange at one end.
+The other end of the rod is capped with a rounded protrusion.
+There is a small circular hole near the middle.
+The rod has a uniform diameter throughout its length.
+This part includes a rectangular slot on one end.
+The cylindrical rod has a flat surface on both ends.
+There is a small protrusion on one end.
+The rod has a uniform diameter throughout its length.
+The part includes a hollow section in the middle.
+There is a slight indentation near the middle.
+There is a small rectangular slot near the middle.
+The rod has a uniform cylindrical shape.
+The part includes a circular hole at one end.
+There is a rectangular slot on the side.
+There is a small rectangular slot near one end.
+The rod has a uniform cylindrical shape.
+The central hole is aligned with the rod's axis.
+The rectangular slot is positioned at the midpoint.
+The rod has a rounded end on one side.
+There is a flange at the midpoint of the rod.
+The flange has a circular hole in the center.
+The rod extends uniformly from both ends.
+The rod has a uniform diameter throughout its length.
+There is a slight protrusion at one end of the rod.
+The other end of the rod is flat and smooth.
+The central hole runs the entire length of the rod.
+It contains a circular hole at one end.
+There is a smaller cylindrical extension on the opposite end.
+The central connector has a rounded protrusion.
+The rod has a consistent diameter throughout its length.
+The rod has a uniform diameter throughout its length.
+There is a circular hole in the middle of the rod.
+The rod has a flange at one end.
+The flange is perpendicular to the rod's main axis.
+The rod has a uniform diameter throughout its length.
+There are no additional holes or slots on the surface.
+The central hole is perfectly aligned with the rod's axis.
+The rod's ends are flat and perpendicular to the main body.
+
+**Protrusions:**
+The cylindrical part has a slight indentation near the center.
+The component has a smooth outer surface without additional features.
+The component has a smooth outer surface.
+The rod is designed with a hollow core.
+The rod has a flat surface along its length.
+The rod has a rounded end on one side.
+The flange has a slight elevation from the main body.
+The rounded protrusion is smooth and flush with the rod's surface.
+The part has a cylindrical protrusion on one end.
+The cylindrical rod has a smooth, continuous surface.
+The flange has a flat surface extending perpendicularly.
+The central hole is aligned with the rod's axis.
+The component has a slight protrusion at one end.
+There is a rounded protrusion on the opposite end.
+The component has a flat surface on one end.
+The rod has a rounded end cap.
+The component has a smooth cylindrical body.
+The part has a circular hole aligned with the rod.
+The rod has a slight protrusion at one end.
+The other end of the rod is flat and smooth.
+The part has a slight bulge near the flange.
+The flange protrudes outward from the rod.
+The rod has a consistent cylindrical shape.
+The part is designed with a single central hole.
+The part has a slight bulge in the middle section.
+The connector section is slightly thicker than the rod.
+The rod has a smooth cylindrical surface.
+The flange has a flat circular face.
+The part has no protrusions or raised edges.
+The central hole runs the entire length of the rod.
+
+**Relative Positions:**
+The central hole aligns with the main cylindrical axis.
+The slot is positioned parallel to the cylindrical axis.
+The flange is positioned at the left end of the rod.
+The central hole runs the full length of the rod.
+The circular hole is aligned centrally along the rod.
+The protrusion is located at the opposite end of the circular hole.
+The circular hole is aligned with the central axis of the rod.
+The flange is positioned at one end, opposite the rounded protrusion.
+The connector is positioned at the midpoint of the rod.
+The cylindrical section extends uniformly from the connector.
+The flange is positioned at one end of the rod.
+The rounded protrusion is located at the opposite end of the flange.
+The slot is positioned close to the central section.
+The protrusions are aligned parallel to the rod's axis.
+The central hole is aligned with the rod's axis.
+The protrusion is positioned at the opposite end of the indentation.
+The rectangular slot is positioned parallel to the rod's length.
+The circular hole is centrally located along the rod.
+The central hole runs through the entire length of the rod.
+The rectangular slot is parallel to the rod's length.
+The circular hole is aligned with the central axis of the rod.
+The flange is positioned approximately halfway along the length of the rod.
+The flat end is positioned opposite the protrusion.
+The protrusion is located at one end, while the flat end is at the opposite end.
+The circular hole is aligned with the rod's axis.
+The smaller extension is positioned directly opposite the hole.
+The circular hole is aligned with the rod's central axis.
+The flange extends outward from the rod's end.
+The rod maintains a consistent shape from one end to the other.
+The central hole is positioned exactly in the middle of the rod.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical rod with a central cylindrical section.
+- Uniform cylindrical shape throughout its length.
+- Central circular hole aligned with the rod's axis.
+
+[HOLES_SLOTS]
+- Central circular hole runs the full length of the rod.
+- Small rectangular slot near one end.
+- Circular hole near one end.
+- Flange with a circular hole in the center.
+
+[PROTRUSIONS]
+- Rounded protrusion on one end.
+- Slight protrusion at one end.
+- Flat surface on one end.
+- Flange protrudes outward from the rod.
+
+[RELATIVE_POSITIONS]
+- Central hole aligns with the main cylindrical axis.
+- Slot positioned parallel to the cylindrical axis.
+- Flange positioned at one end, opposite the rounded protrusion.
+- Protrusion located at the opposite end of the circular hole.
+- Flange positioned approximately halfway along the length of the rod.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 3/17 (Images 31-45)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a cylindrical rod with a central connector.
+This part features a uniform cylindrical shape.
+The component is a cylindrical rod.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a cylindrical rod with a flat end.
+This part features a central circular hole.
+The component is a cylindrical rod with a flat end.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is a cylindrical rod with a rounded end.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is a straight cylindrical rod.
+This part features a central cylindrical shaft.
+
+**Holes & Slots:**
+It contains a circular hole at one end.
+There is a smaller cylindrical extension on the opposite end.
+The central connector has a rounded shape.
+The rod has a consistent diameter throughout its length.
+There is a small rectangular slot near one end.
+The rod has a smooth outer surface.
+The part includes a protruding section at one end.
+The cylindrical shape is uniform along its length.
+There is a small circular indentation near the left end.
+The cylindrical body has a uniform diameter throughout.
+The part has a slightly wider section at one end.
+This section has a protruding circular feature.
+There is a small rectangular slot near the left end.
+The rod has a uniform cylindrical shape.
+This part includes a circular hole in the middle section.
+There is a rectangular slot close to the right end.
+There is a small rectangular slot near the flat end.
+The cylindrical rod has a uniform diameter along its length.
+The flat end of the component is perpendicular to the cylindrical body.
+The component has a smooth transition between the cylindrical and flat sections.
+There is a small protruding section near the middle.
+The object has a uniform cylindrical shape.
+This part includes a circular hole at one end.
+The cylindrical rod has a smooth outer surface.
+There is a small rectangular slot near one end.
+The cylindrical body has a uniform diameter.
+The component has a hollow interior.
+The part includes a protruding section at one end.
+There is a small circular hole near one end.
+The rod has a uniform cylindrical shape.
+This part includes a larger circular hole in the middle.
+There is a rectangular slot on one side.
+It contains a single circular hole in the middle section.
+There is a smaller circular hole near one end of the rod.
+The part has a smooth cylindrical body without any protrusions.
+This cylindrical object has a consistent diameter throughout its length.
+There is a smaller circular hole near the rounded end.
+The cylindrical rod has a uniform diameter along its length.
+The part includes a protruding section at one end.
+This component has a smooth outer surface without additional features.
+There is a small rectangular slot near the middle.
+The rod has a uniform cylindrical shape.
+The part includes a circular hole at one end.
+A rectangular slot is present along the length.
+There is a small rectangular slot near the left end.
+The rod has a uniform cylindrical shape.
+The central hole is aligned with the rod's axis.
+The rectangular slot is positioned perpendicular to the rod.
+The rod has a uniform diameter throughout its length.
+There is a circular hole in the middle of the rod.
+The rod has a flange at one end.
+The flange is perpendicular to the rod's main axis.
+It contains a single central circular hole.
+There is a smaller cylindrical protrusion on one end.
+The part has a smooth cylindrical body.
+This cylindrical object has a hollow core running through its length.
+The rod has a rounded end on one side.
+There is a flange at the midpoint of the rod.
+The flange is perpendicular to the main shaft.
+The rod has a uniform diameter along its length.
+
+**Protrusions:**
+The part has a slight protrusion at the connector section.
+The connector section is slightly thicker than the rod.
+The central hole is aligned with the rod's axis.
+The slot is oriented perpendicular to the rod.
+The component has a smooth outer surface without any additional protrusions.
+The cylindrical part is designed with a hollow interior.
+The part has a smooth cylindrical surface.
+The rod has a consistent diameter throughout its length.
+The cylindrical rod has a slight protrusion at one end.
+The flat end has a small notch on one side.
+The component has a flat end cap on one side.
+There is a slight indentation near the flat end.
+The cylindrical part has a smooth outer surface.
+The component has a flat end cap.
+The part has a slight protrusion at the center.
+The rod has a raised central section.
+The central hole runs the full length of the cylinder.
+The rod has a hollow core along its entire length.
+The cylindrical rod has a slight taper towards the rounded end.
+The central hole is aligned with the axis of the cylinder.
+The component has a smooth cylindrical body.
+The rod has a consistent diameter throughout.
+The rod has a smooth cylindrical surface.
+The central hole is symmetrical along the rod's length.
+The rod has a smooth cylindrical surface.
+The flange has a flat circular face.
+The component has a flat end cap on one side.
+The rod has a consistent diameter along its length.
+The flange has a circular cross-section.
+The rod extends horizontally across the image.
+
+**Relative Positions:**
+The circular hole is aligned with the rod's axis.
+The smaller extension is positioned directly opposite the circular hole.
+The protruding section is positioned at the shorter end.
+The central hole runs through the entire length of the rod.
+The central hole is aligned with the main axis of the cylinder.
+The wider section is positioned at the right end of the cylinder.
+The circular hole is centrally aligned with the rod.
+The rectangular slot is positioned parallel to the rod's axis.
+The circular hole is aligned with the central axis of the cylinder.
+The rectangular slot is positioned adjacent to the flat end.
+The circular hole is aligned with the central axis.
+The flat end is positioned at one end of the cylinder.
+The slot is aligned parallel to the cylinder's axis.
+The protruding section is perpendicular to the main body.
+The circular hole is aligned centrally along the rod.
+The rectangular slot is positioned on the side near the end.
+The smaller hole is positioned close to the shorter end of the cylinder.
+The cylindrical shape is uninterrupted by any additional features.
+The smaller hole is positioned adjacent to the protruding section.
+The overall shape is elongated with a consistent cross-section.
+The circular hole is aligned centrally on the rod.
+The rectangular slot is positioned parallel to the rod's axis.
+The rectangular slot is located on the side of the rod.
+The central hole runs through the entire length of the rod.
+The circular hole is aligned with the rod's central axis.
+The flange extends outward from the rod's side.
+The central hole is aligned with the rod's axis.
+The smaller protrusion is positioned at one end of the cylinder.
+The flange is positioned approximately halfway along the rod.
+The rod's ends are capped with rounded features.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical rod with a central connector.
+- Uniform cylindrical shape with a central hole.
+- Cylindrical rod with a flat end.
+- Cylindrical rod with a rounded end.
+- Cylindrical rod with a central hole and a flange.
+
+[HOLES_SLOTS]
+- Central circular hole aligned with the rod's axis.
+- Small rectangular slot near one end.
+- Small circular indentation near the left end.
+- Rectangular slot close to the right end.
+- Smaller circular hole near one end of the rod.
+
+[PROTRUSIONS]
+- Slight protrusion at the connector section.
+- Slight protrusion at one end.
+- Flat end cap on one side.
+- Slight indentation near the flat end.
+- Slight protrusion at the center.
+
+[RELATIVE_POSITIONS]
+- Circular hole aligned with the rod's axis.
+- Smaller extension positioned directly opposite the circular hole.
+- Protruding section positioned at the shorter end.
+- Rectangular slot positioned parallel to the rod's axis.
+- Rectangular slot positioned adjacent to the flat end.
+- Smaller hole positioned close to the shorter end of the cylinder.
+- Smaller hole positioned adjacent to the protruding section.
+- Flange extends outward from the rod's side.
+- Flange positioned approximately halfway along the rod.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 4/17 (Images 46-60)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a cylindrical rod.
+This part features a central circular hole.
+The component is a cylindrical rod.
+This part features a central circular hole.
+The component is a cylindrical rod.
+This part features a hollow center.
+The component is a cylindrical rod with a flat end.
+This part features a hollow cylindrical body.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a cylindrical rod with a rounded end.
+This part features a central cylindrical shaft.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a cylindrical rod with a central connection.
+This part features a smooth elongated body.
+The component is a cylindrical rod with a central connector.
+This part features a uniform cylindrical shape.
+The component is a cylindrical rod with a flat end.
+This part features a central circular hole on one end.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+
+**Holes & Slots:**
+There is a small rectangular slot near the left end.
+The cylindrical rod has a uniform diameter throughout its length.
+The central hole runs the full length of the rod.
+The rectangular slot is aligned parallel to the rod's axis.
+The rod has a uniform diameter throughout its length.
+There is a slight protrusion at one end of the rod.
+The other end of the rod is flat and smooth.
+The central hole runs the full length of the rod.
+The rod has a uniform diameter throughout its length.
+There is a slight indentation at the midpoint of the rod.
+The part has a flat end on one side.
+The other end of the rod is also flat and parallel to the first.
+The rod has a uniform diameter throughout its length.
+There are no additional holes or slots on the surface.
+The part has a smooth cylindrical protrusion at one end.
+The other end of the rod is flat and unobstructed.
+There is a smaller circular hole near one end.
+The rod has a uniform cylindrical shape.
+This part includes a protruding cylindrical section at one end.
+The cylindrical rod has a smooth outer surface.
+There is a smaller circular hole near one end.
+The rod has a uniform diameter throughout its length.
+The part includes a protruding section at one end.
+This cylindrical object has a hollow interior.
+There is a small protrusion at one end.
+The rod has a uniform diameter throughout its length.
+This part includes a circular opening at one end.
+The cylindrical shape is consistent along the entire length.
+It contains a circular opening at one end.
+There is a protruding flat section at the opposite end of the cylinder.
+The cylindrical part has a uniform diameter along its length.
+This component has a smooth outer surface without any additional features.
+There is a small rectangular slot near the left end.
+The rod has a uniform cylindrical shape.
+This part includes a circular hole in the middle section.
+A rectangular slot is present on the right side.
+The rod has a uniform diameter along its length.
+There is a slight protrusion at one end of the rod.
+The component has a smooth, elongated cylindrical shape.
+This part includes a hollow section running through its center.
+There is a small rectangular slot near the middle.
+The cylindrical rod has a uniform diameter throughout.
+The central hole is aligned with the rod's axis.
+The rectangular slot is positioned symmetrically on the rod.
+It contains a circular hole at one end.
+There is a smaller circular hole near the connection point.
+The rod has a uniform diameter along its length.
+The connection point is a cylindrical joint.
+It contains a circular hole at one end.
+There is a smaller circular hole near the connector.
+The part has a protruding connector in the middle.
+The connector has a cylindrical extension on one side.
+There is a small rectangular slot near the flat end.
+The cylindrical rod has a uniform diameter along its length.
+The flat end of the component is perpendicular to the cylindrical body.
+The slot is aligned parallel to the cylindrical axis.
+The rod has a uniform diameter throughout its length.
+There is a slight protrusion at one end of the rod.
+The other end of the rod is flat and smooth.
+The central section connects two cylindrical parts seamlessly.
+
+**Protrusions:**
+The rod has a slightly thicker section in the middle.
+The middle section has a protruding circular feature.
+The rod has a consistent cylindrical shape.
+The part is designed with a single central hole.
+The central hole runs the full length of the rod.
+The indentation creates a slight protrusion on the rod.
+The central hole runs the full length of the rod.
+The rod's geometry is symmetrical along its axis.
+The part has a flat end cap on one side.
+There is a slight indentation near the central hole.
+The component has a smooth outer surface.
+The rod is designed with a hollow core.
+The part has a slight taper towards one end.
+There is a flat surface on the opposite end of the protrusion.
+The flat end protrudes slightly beyond the main cylindrical body.
+The cylindrical rod has a consistent circular cross-section.
+The part has a smooth cylindrical protrusion.
+The cylindrical rod has a consistent diameter throughout.
+The rod has a flat surface on one end.
+The cylindrical part has a consistent circular cross-section.
+The rod has a slight protrusion at one end.
+The other end of the rod is flat and smooth.
+The part has a flat surface on the opposite end of the hole.
+The central connection is a seamless attachment.
+The cylindrical rod has a consistent diameter throughout.
+The connector section is slightly wider than the rod.
+The component has a slight protrusion at the connection point.
+The connection point has a rounded feature for attachment.
+The rod has a consistent circular cross-section.
+The part has a symmetrical design along its axis.
+
+**Relative Positions:**
+The rectangular slot is positioned close to the thicker section.
+The circular hole is centered within the thicker section.
+The flat end is positioned opposite the protrusion.
+The protrusion is located at one end, while the flat end is at the opposite side.
+The flat ends are positioned at opposite ends of the rod.
+The central hole is aligned perfectly with the rod's axis.
+The circular hole is positioned exactly in the middle.
+The flat ends are parallel to each other.
+The central hole is aligned with the rod's axis.
+The smaller hole is positioned parallel to the central hole.
+The central hole is aligned with the rod's axis.
+The smaller hole is positioned close to the protruding section.
+The circular opening is aligned with the central axis of the cylinder.
+The protrusion is positioned at the shorter end of the cylinder.
+The circular opening is aligned with the central axis of the cylinder.
+The flat end is positioned at one end, opposite the circular opening.
+The circular hole is centrally aligned with the rod.
+The rectangular slot is positioned adjacent to the circular hole.
+The rounded end is positioned at one end of the rod.
+The central shaft is aligned with the elongated body of the rod.
+The central hole runs parallel to the rod's length.
+The rectangular slot is equidistant from both ends of the rod.
+The circular hole is aligned with the rod's axis.
+The smaller hole is positioned adjacent to the connection.
+The circular hole at one end is aligned with the rod's axis.
+The smaller hole near the connector is offset from the central axis.
+The circular hole is positioned at the opposite end of the slot.
+The cylindrical rod extends straight from the flat end.
+The flat end is positioned opposite the protrusion.
+The cylindrical rod maintains a straight alignment throughout.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical rod with a central hole.
+- Uniform cylindrical shape with a hollow center.
+- Smooth elongated body with a central connector.
+- Flat end on one side, rounded end on the other.
+
+[HOLES_SLOTS]
+- Central circular hole runs the full length.
+- Small rectangular slot near one end.
+- Smaller circular hole near one end or connection point.
+- Rectangular slot aligned parallel to the rod's axis.
+
+[PROTRUSIONS]
+- Slight protrusion at one end.
+- Flat surface on the opposite end of the protrusion.
+- Slight indentation near the central hole creating a protrusion.
+- Smooth cylindrical protrusion at one end.
+
+[RELATIVE_POSITIONS]
+- Flat end positioned opposite the protrusion.
+- Central hole aligned with the rod's axis.
+- Rectangular slot positioned close to the thicker section or adjacent to the circular hole.
+- Smaller hole positioned parallel to the central hole or near the protruding section.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 5/17 (Images 61-75)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a cylindrical rod with a rounded end.
+This part features a central circular hole.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a cylindrical rod with a rounded end.
+This part features a central cylindrical shaft.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a cylindrical rod with a central connector.
+This part features a uniform cylindrical shape.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a cylindrical rod with a flat end.
+This part features a central circular hole on one end.
+The component is a cylindrical rod.
+This part features a central circular hole.
+The component is a cylindrical rod with a central hole.
+This part features a hollow cylindrical shape.
+
+**Holes & Slots:**
+There is a small rectangular slot near the middle.
+The cylindrical rod has a uniform diameter throughout its length.
+The rounded end of the rod is smooth and flat.
+The central hole runs through the entire length of the rod.
+It contains a single circular hole near one end.
+There is a smaller circular protrusion at the opposite end of the hole.
+The part has a smooth cylindrical body without any additional features.
+This cylindrical object has a consistent diameter throughout its length.
+The rod has a uniform diameter throughout its length.
+There is a slight protrusion at one end of the rod.
+The other end of the rod is flat and smooth.
+The central hole runs the entire length of the rod.
+The rod has a uniform diameter throughout its length.
+There is a slight protrusion at one end of the rod.
+The other end of the rod is flat and smooth.
+The central hole runs the entire length of the rod.
+The rod has a uniform diameter throughout its length.
+There is a circular hole in the middle of the rod.
+The rod has a slight protrusion at one end.
+This part includes a smaller circular hole near the protrusion.
+The rod has a smooth, elongated body.
+There is a slight protrusion at one end of the rod.
+The cylindrical shaft is uniform in diameter along its length.
+The rounded end is seamlessly integrated into the shaft.
+The rod has a uniform diameter throughout its length.
+There is a slight protrusion at one end of the rod.
+The other end of the rod is flat and smooth.
+The central hole runs the entire length of the rod.
+There is a small rectangular slot near the middle section.
+The cylindrical rod has a uniform diameter throughout its length.
+The central hole is aligned with the rod's axis.
+The rectangular slot is positioned symmetrically on the rod.
+The rod has a uniform diameter throughout its length.
+There is a circular hole in the middle of the rod.
+The rod has a flange at one end.
+The other end of the rod is open and unobstructed.
+It contains a circular hole in the middle section.
+There is a rectangular slot on the side of the connector.
+The rod has a smooth cylindrical body.
+The connector has a slightly wider diameter than the rod.
+The rod has a uniform diameter throughout its length.
+There is a slight protrusion at one end of the rod.
+The other end of the rod is flat and smooth.
+The central hole runs the full length of the rod.
+The rod has a uniform diameter throughout its length.
+There is a circular hole in the middle of the rod.
+The rod has a flange at one end.
+The other end of the rod is capped with a rounded protrusion.
+There is a small circular hole near the flat end.
+The cylindrical rod has a smooth outer surface.
+The part includes a protruding section near the middle.
+This component has a uniform diameter along its length.
+There is a smaller circular hole near one end.
+The rod has a uniform cylindrical shape.
+This part includes a protruding section in the middle.
+The central protrusion connects two cylindrical sections.
+It contains a circular hole at one end.
+There is a smaller circular hole near the middle section.
+The part has a smooth cylindrical body.
+This component includes a central cylindrical void.
+
+**Protrusions:**
+The rod has a slight protrusion at one end.
+The slot is aligned parallel to the rod's axis.
+The component has a slight indentation where the hole is located.
+The cylindrical part has a flat end opposite the hole.
+The rod has a consistent cylindrical shape.
+The part is designed with a single central hole.
+The rod has a consistent cylindrical shape.
+The part is designed with a single central hole.
+The rod has a flat surface on the opposite end of the protrusion.
+The central hole is aligned with the rod's axis.
+The rod has a consistent circular cross-section.
+The part is designed with a single continuous cylindrical form.
+The rod has a consistent cylindrical shape.
+The flat end is perpendicular to the cylindrical body.
+The rod has a slightly thicker section at one end.
+The thicker section has a rounded protrusion.
+The flange has a raised circular edge.
+The rod's surface is smooth and uninterrupted.
+The part has a flat surface on the connector end.
+The rod's body is straight and elongated.
+The rod has a consistent cylindrical shape.
+The part is designed with a single central axis.
+The flange has a flat surface extending outward.
+The rod's central section is smooth without any additional features.
+The flat end of the rod is perpendicular to the cylindrical body.
+The protruding section connects the two main parts of the rod.
+The component has a smooth cylindrical body.
+The rod is designed with a hollow center.
+The part has a protruding circular feature on one side.
+There is a raised circular section along the length.
+
+**Relative Positions:**
+The protrusion is located at the opposite end of the central hole.
+The slot is positioned symmetrically relative to the central hole.
+The hole is positioned towards one end of the cylindrical body.
+The flat end is aligned parallel to the hole on the opposite side.
+The flat end is positioned opposite the protrusion.
+The protrusion is located at one end, while the flat end is at the opposite side.
+The flat end is positioned opposite the protrusion.
+The protrusion is located at one end, while the flat end is at the opposite side.
+The protrusion is positioned at one end of the rod.
+The smaller hole is located close to the central hole.
+The elongated body extends from the rounded end uniformly.
+The cylindrical shape is uninterrupted along the entire length.
+The protrusion is located at the opposite end of the flat surface.
+The central hole aligns perfectly with the rod's axis.
+The central hole runs parallel to the rod's length.
+The rectangular slot is equidistant from both ends of the rod.
+The flange is positioned at one end of the rod.
+The circular hole is centrally aligned with the rod.
+The circular hole is aligned with the rod's central axis.
+The rectangular slot is positioned adjacent to the connector.
+The flat end is positioned opposite the protrusion.
+The protrusion is located at one end, while the flat end is at the opposite end.
+The flange is positioned at one end of the rod.
+The rounded protrusion is located at the opposite end of the flange.
+The central hole aligns with the protruding section.
+The small circular hole is positioned adjacent to the flat end.
+The smaller hole is aligned parallel to the central hole.
+The protruding section is positioned centrally along the rod.
+The central hole is aligned with the cylindrical axis.
+The smaller hole is positioned parallel to the main cylindrical body.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical rod with a rounded end.
+- Central circular hole runs the entire length.
+- Uniform cylindrical shape with a central void.
+
+[HOLES_SLOTS]
+- Central circular hole aligned with the rod's axis.
+- Small rectangular slot near the middle section.
+- Smaller circular hole near one end or the protrusion.
+
+[PROTRUSIONS]
+- Slight protrusion at one end of the rod.
+- Flat end opposite the protrusion.
+- Thicker section with a rounded protrusion at one end.
+
+[RELATIVE_POSITIONS]
+- Protrusion located at one end, flat end at the opposite side.
+- Rectangular slot positioned symmetrically relative to the central hole.
+- Smaller hole located close to the central hole or the flat end.
+- Central hole aligns perfectly with the rod's axis.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 6/17 (Images 76-90)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a cylindrical rod with a rounded end.
+This part features a central cylindrical shaft.
+The component is a cylindrical rod with a rounded end.
+This part features a central cylindrical shaft.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a cylindrical rod.
+This part features a central circular hole.
+The component is a cylindrical rod with a central hole.
+This part features a hollow cylindrical shape.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a cylindrical rod.
+This part features a hollow cylindrical body.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is a cylindrical rod with a flat end.
+This part features a hollow cylindrical body.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central cylindrical shaft.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a cylindrical rod with a rounded end.
+This part features a central cylindrical shaft.
+
+**Holes & Slots:**
+The rod has a flat circular end on one side.
+There is a small rectangular slot near the middle of the shaft.
+The part has a smooth cylindrical body.
+The cylindrical rod has a uniform diameter throughout its length.
+The rod has a smooth, elongated body.
+There is a slight protrusion at one end of the rod.
+The cylindrical shaft is uniform in diameter.
+The rounded end is seamlessly integrated into the shaft.
+The rod has a uniform diameter throughout its length.
+There is a slight protrusion at one end of the rod.
+The other end of the rod is flat and smooth.
+The central hole runs the entire length of the rod.
+There is a smaller circular hole near one end.
+The rod has a uniform cylindrical shape.
+This part includes a hollow section along its length.
+The cylindrical rod has a consistent diameter throughout.
+It contains a circular hole running through its length.
+The cylindrical rod has a smooth outer surface.
+There is a small protrusion at one end of the cylinder.
+The part includes a central cylindrical hole.
+The rod has a uniform diameter throughout its length.
+There is a slight protrusion at one end of the rod.
+The other end of the rod is flat and smooth.
+The central hole runs the entire length of the rod.
+It contains a small circular hole at one end.
+The cylindrical part has a smooth outer surface.
+There is a protruding section at the opposite end of the hole.
+The component has a uniform diameter along its length.
+There is a smaller circular hole near one end.
+The cylindrical body has a uniform diameter.
+The part has a protruding section at one end.
+This section is slightly wider than the main body.
+It contains a circular opening at one end.
+There is a small protrusion on the flat end.
+The part has a smooth cylindrical surface.
+This cylindrical object has a uniform diameter along its length.
+The rod has a uniform diameter throughout its length.
+There are no additional holes or slots on the surface.
+The part has a smooth cylindrical protrusion on one end.
+The other end of the rod is flat and unobstructed.
+There is a small rectangular slot near the middle section.
+The cylindrical rod has a uniform diameter throughout its length.
+The central hole is aligned with the rod's axis.
+The slot is positioned symmetrically along the rod.
+The rod has a uniform diameter throughout its length.
+There is a slight protrusion at one end of the rod.
+The other end of the rod is flat and smooth.
+The central hole runs the full length of the rod.
+There is a small circular hole near the middle.
+The rod has a uniform diameter throughout its length.
+This part includes a rectangular slot on one end.
+The cylindrical rod has a flat surface on both ends.
+There is a small rectangular slot near the middle.
+The cylindrical rod has a uniform diameter throughout its length.
+The central hole runs the full length of the rod.
+The rectangular slot is aligned parallel to the rod's axis.
+The rod has a circular hole near the rounded end.
+There is a small rectangular slot on the side of the rod.
+The cylindrical shaft is uniform in diameter.
+The rounded end is smooth and flat.
+
+**Protrusions:**
+The rod has a slight protrusion at the end opposite the flat circular end.
+The part has a consistent cylindrical shape along its length.
+The rod has a consistent circular cross-section.
+The part is designed with a simple, straight geometry.
+The rod has a consistent cylindrical shape.
+The protrusion is located at the left end of the rod.
+The component has a protruding circular feature at one end.
+There is a slight indentation near the middle section.
+The rod has a uniform diameter along its length.
+The component has a flat end cap on one side.
+The rod has a consistent cylindrical shape.
+The part is designed with a hollow core.
+The part has a flat circular face at one end.
+The cylindrical rod has a central axis running through it.
+The main body has a smooth outer surface.
+The protruding section has a hollow center.
+The flat end has a slight indentation.
+The component has a central circular hole.
+The central hole runs the full length of the rod.
+The rod's geometry is simple and symmetrical.
+The rod has a slightly thicker section at one end.
+The thicker section has a rounded contour.
+The rod has a consistent cylindrical shape.
+The flat end is perpendicular to the cylindrical body.
+The component has a slight protrusion at the center.
+There is a small notch on the side of the rod.
+The rod has a slightly thicker section at one end.
+The thicker section has a rounded contour.
+The rod has a slight protrusion on one side.
+The protrusion is located near the rectangular slot.
+
+**Relative Positions:**
+The flat circular end is positioned at one end of the rod.
+The rectangular slot is aligned parallel to the cylindrical shaft.
+The central shaft extends the full length of the rod.
+The rounded end is positioned at one end of the cylindrical shaft.
+The flat end is positioned at the right side of the rod.
+The central hole is aligned with the rod's axis.
+The central hole is aligned with the rod's axis.
+The smaller hole is positioned parallel to the central hole.
+The central hole is aligned with the rod's axis.
+The protrusion is positioned at the shorter end of the cylinder.
+The flat end is positioned opposite the protrusion.
+The protrusion is located at one end, while the flat end is at the opposite side.
+The small hole is aligned with the central axis.
+The protruding section is perpendicular to the cylindrical body.
+The central hole is aligned with the main axis.
+The smaller hole is positioned perpendicular to the main axis.
+The circular hole is positioned at one end of the cylinder.
+The protrusion is located on the flat end of the cylinder.
+The circular hole is positioned exactly in the middle.
+The flat ends are parallel to each other.
+The central hole runs parallel to the rod's length.
+The slot is located equidistant from both ends of the rod.
+The protrusion is located at the opposite end of the flat surface.
+The central hole is aligned with the rod's axis.
+The slot is positioned close to the central axis.
+The protrusion is aligned with the central hole.
+The central hole is positioned symmetrically along the rod.
+The rectangular slot is located equidistant from both ends of the rod.
+The circular hole is positioned close to the protrusion.
+The rectangular slot is aligned parallel to the cylindrical shaft.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical rod with a rounded end.
+- Central cylindrical shaft.
+- Hollow cylindrical body.
+- Uniform diameter throughout the length.
+
+[HOLES_SLOTS]
+- Central circular hole running the full length.
+- Small rectangular slot near the middle.
+- Small circular hole near one end.
+- Flat circular end on one side.
+
+[PROTRUSIONS]
+- Slight protrusion at one end.
+- Small protrusion on the flat end.
+- Slightly thicker section at one end with a rounded contour.
+
+[RELATIVE_POSITIONS]
+- Flat circular end positioned at one end.
+- Rectangular slot aligned parallel to the cylindrical shaft.
+- Central hole aligned with the rod's axis.
+- Protrusion positioned at the shorter end opposite the flat end.
+- Slot located equidistant from both ends of the rod.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 7/17 (Images 91-105)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a cylindrical rod with a central hole.
+This part features a hollow cylindrical shape.
+The component is a cylindrical rod with a flat end.
+This part features a central circular hole on one end.
+The component is a cylindrical rod with a central hole.
+This part features a hollow cylindrical shape.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is a cylindrical rod.
+This part features a central circular hole.
+The component is a cylindrical rod with a circular end.
+This part features a central cylindrical shaft.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+
+**Holes & Slots:**
+The rod has a uniform diameter throughout its length.
+There is a slight indentation at the midpoint of the rod.
+The part has a flat end on one side.
+The other end of the rod is open and unobstructed.
+The rod has a uniform diameter throughout its length.
+There are no additional holes or slots on the surface.
+The part has a smooth cylindrical protrusion on one end.
+The other end of the rod is flat and unobstructed.
+The rod has a uniform diameter throughout its length.
+There is a slight protrusion at one end of the rod.
+The other end of the rod is flat and smooth.
+The central hole runs the full length of the rod.
+The rod has a uniform diameter throughout its length.
+There are no additional holes or slots on the surface.
+The part has a smooth cylindrical protrusion on one end.
+The other end of the rod is flat and unobstructed.
+It contains a circular hole at one end.
+There is a smaller circular protrusion near the middle.
+The part has a smooth cylindrical body.
+This component includes a central cylindrical void.
+There is a small protruding tab on the side.
+The cylindrical rod has a uniform diameter along its length.
+This part includes a circular hole that extends through the rod.
+The flat end of the component is perpendicular to the rod's axis.
+It contains a circular hole at one end.
+There is a smaller circular hole near the middle section.
+The part has a smooth cylindrical body.
+This component includes a central cylindrical void.
+It contains a single central circular hole.
+There is a small rectangular slot on the side of the cylinder.
+The part has a smooth cylindrical surface.
+The cylindrical rod has a consistent diameter throughout its length.
+There is a small circular hole near the left end.
+The rod has a uniform cylindrical shape.
+This part includes a larger circular hole in the middle.
+There is a small circular protrusion on the right side.
+It contains a single central circular hole.
+There is a small rectangular slot near one end.
+The rod has a smooth cylindrical surface.
+The central hole runs along the length of the cylinder.
+There is a smaller circular hole near one end.
+The cylindrical body has a uniform diameter.
+The part has a protruding section at one end.
+This section is perpendicular to the main cylinder.
+There is a smaller circular hole near one end.
+The rod has a uniform cylindrical shape.
+This part includes a protruding section in the middle.
+The central protrusion connects two cylindrical sections.
+The rod has a flat circular head at one end.
+There is a small notch on the side of the circular head.
+The cylindrical shaft is uniform in diameter along its length.
+The circular head is perpendicular to the shaft.
+The rod has a uniform diameter throughout its length.
+There are no additional holes or slots on the surface.
+The part has a smooth cylindrical protrusion on one end.
+The other end of the rod is flat and unobstructed.
+There is a smaller circular hole near one end.
+The cylindrical body has a uniform diameter.
+The part includes a protruding section at one end.
+This section has a hollow interior.
+
+**Protrusions:**
+The central hole runs the full length of the rod.
+The indentation creates a slight protrusion on the rod.
+The central hole runs the full length of the rod.
+The rod's geometry is simple and symmetrical.
+The rod has a consistent cylindrical shape.
+The part is designed with a single central hole.
+The central hole runs the full length of the rod.
+The rod's geometry is simple and symmetrical.
+The cylindrical rod has a slight protrusion on one side.
+The part features a raised circular section near the middle.
+The component has a slight indentation near the flat end.
+The protruding tab is positioned approximately halfway along the rod.
+The part has a protruding circular feature on one side.
+There is a raised circular section along the length.
+The component has a protruding section at one end.
+The part features a slight indentation near the central hole.
+The part has a slight bulge along the central axis.
+The rod has a smooth cylindrical form.
+The part has a slight protrusion at one end.
+The other end of the rod is flat and smooth.
+The main cylinder has a hollow interior.
+The protruding section is flat and extends outward.
+The component has a smooth cylindrical body.
+The rod is designed with a slight taper towards one end.
+The part has a smooth transition between the shaft and the head.
+The circular head has a slight indentation on one side.
+The central hole runs the full length of the rod.
+The rod's geometry is symmetrical along its axis.
+The cylindrical part has a smooth outer surface.
+The protruding section is slightly wider than the main body.
+
+**Relative Positions:**
+The flat end is positioned at one end of the rod.
+The open end is located at the opposite side of the flat end.
+The flat end is positioned opposite the protrusion.
+The cylindrical shape is consistent along the entire length.
+The flat end is positioned opposite the protrusion.
+The protrusion is located at one end, while the flat end is at the opposite side.
+The circular hole is positioned exactly in the middle.
+The flat ends are parallel to each other.
+The central hole is aligned with the cylindrical body.
+The protrusion is positioned parallel to the central hole.
+The circular hole is aligned with the flat end of the rod.
+The rod's length is significantly greater than its diameter.
+The central hole is aligned with the cylindrical axis.
+The smaller hole is positioned parallel to the main cylindrical body.
+The central hole is aligned with the axis of the cylinder.
+The protruding section is positioned at the opposite end of the central hole.
+The central hole is aligned with the rod's length.
+The small hole on the left end is parallel to the rod's axis.
+The rectangular slot is positioned close to the flat end.
+The central hole is aligned with the cylindrical axis.
+The central hole aligns with the hollow interior.
+The smaller hole is positioned adjacent to the protruding section.
+The central hole aligns with the protruding section.
+The smaller hole is positioned adjacent to the larger central hole.
+The shaft extends directly from the center of the circular head.
+The notch is positioned at a 90-degree angle to the shaft.
+The circular hole is positioned exactly in the middle of the rod.
+The flat end is parallel to the cylindrical protrusion.
+The central hole aligns with the main cylindrical axis.
+The smaller hole is positioned perpendicular to the main axis.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical rod with a central hole.
+- Hollow cylindrical shape.
+- Uniform cylindrical shape.
+- Cylindrical rod with a flat end.
+- Cylindrical rod with a circular end.
+
+[HOLES_SLOTS]
+- Central circular hole runs the full length.
+- Small circular hole near one end.
+- Small rectangular slot on the side.
+- Small circular protrusion near the middle.
+- Small circular protrusion on the right side.
+
+[PROTRUSIONS]
+- Smooth cylindrical protrusion on one end.
+- Small protruding tab on the side.
+- Protruding section at one end.
+- Raised circular section near the middle.
+- Protruding section in the middle.
+
+[RELATIVE_POSITIONS]
+- Flat end positioned at one end.
+- Open end located at the opposite side.
+- Flat end positioned opposite the protrusion.
+- Circular hole positioned exactly in the middle.
+- Protrusion positioned parallel to the central hole.
+- Rectangular slot positioned close to the flat end.
+- Smaller hole positioned adjacent to the protruding section.
+- Circular hole positioned exactly in the middle of the rod.
+- Flat end parallel to the cylindrical protrusion.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 8/17 (Images 106-120)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is a straight cylindrical rod.
+This part features a central cylindrical shaft.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+
+**Holes & Slots:**
+There is a small protrusion on one end.
+The cylindrical body has a uniform diameter.
+The part includes a hollow section through its length.
+There is a circular opening at one end.
+There is a small circular hole near the left end.
+The cylindrical body has a uniform diameter throughout.
+The part has a hollow interior.
+The left end of the component is slightly protruding.
+It contains a single central circular hole.
+The cylindrical rod has a smooth outer surface.
+There is a circular hole running through the middle of the rod.
+The rod's diameter is consistent along its length.
+It contains a single circular hole in the middle.
+The cylindrical rod has a smooth outer surface.
+There is a protruding section at one end of the rod.
+The central hole runs through the entire length of the rod.
+There is a small rectangular slot near the left end.
+The cylindrical body has a uniform diameter throughout.
+The part includes a protruding section on the left side.
+The right end of the component is slightly wider.
+The rod has a uniform diameter throughout its length.
+There is a small circular hole near the center.
+The part includes a rectangular slot on one end.
+The slot is aligned parallel to the rod's axis.
+It contains a single circular hole running through its center.
+The cylindrical rod has a consistent diameter along its length.
+There is a hollow section in the middle of the rod.
+The rod's surface is smooth without any additional features.
+It contains a single circular hole running through its center.
+The rod has a smooth, elongated form.
+There is a hollow section along the length of the component.
+The cylindrical part has a consistent diameter throughout.
+It contains a single central circular hole.
+There is a rectangular slot on the side of the cylinder.
+The cylindrical rod has a smooth outer surface.
+The central hole runs along the length of the cylinder.
+There is a small protrusion on one end.
+The cylindrical body has a uniform diameter.
+The part includes a hollow section through its length.
+There is a circular opening at one end of the cylinder.
+It contains a single circular hole running through its center.
+The rod has a smooth, continuous cylindrical form.
+This part includes a central circular hole along its length.
+The cylindrical rod has a consistent diameter throughout.
+It contains a single central circular hole.
+There is a small rectangular slot near one end.
+The part has a smooth cylindrical surface.
+The cylindrical rod has a consistent diameter throughout.
+It contains a single central circular hole.
+The rod has a smooth outer surface without any additional features.
+There are no slots or indentations on the cylindrical body.
+The central hole runs the entire length of the rod.
+There is a smaller circular hole near one end.
+The cylindrical body has a uniform diameter.
+The part has a protruding circular feature at one end.
+This component includes a hollow cylindrical section.
+The rod has a uniform diameter throughout its length.
+There are no additional holes or slots on the surface.
+The part has a smooth cylindrical protrusion on one end.
+The other end of the rod is flat and unobstructed.
+
+**Protrusions:**
+The component has a smooth outer surface.
+The part has a flat end cap.
+The right end of the component is open.
+The cylindrical part has a smooth outer surface.
+The part has a flat end on one side.
+The other end of the rod is open and unobstructed.
+The rod has a consistent diameter along its length.
+The protruding section is perpendicular to the main body.
+The central opening is surrounded by a raised rim.
+The left protrusion has a flat surface.
+The rod has a slight protrusion at one end.
+The protrusion is perpendicular to the rod's main axis.
+The part has no raised edges or protrusions.
+The central hole is perfectly aligned with the rod's axis.
+The component has a flat end on one side.
+The rod is designed with a central void.
+The part has a slight protrusion at one end.
+The other end of the cylinder is flat and smooth.
+The component has a smooth outer surface.
+The part has a flat end cap on one side.
+The component has a protruding circular section in the middle.
+There is a raised circular feature in the center of the rod.
+The component has a slight protrusion at one end.
+The part includes a rounded end on one side.
+The rod has a consistent diameter throughout its length.
+The ends of the rod are flat and perpendicular to the cylindrical body.
+The cylindrical part has a smooth outer surface.
+There is a slight indentation along the length of the cylinder.
+The central hole runs the full length of the rod.
+The rod's geometry is symmetrical along its axis.
+
+**Relative Positions:**
+The small protrusion is located at the shorter end.
+The circular hole runs parallel to the cylinder's axis.
+The small circular hole is aligned with the left protrusion.
+The central hole runs through the entire length of the cylinder.
+The central hole aligns perfectly with the rod's axis.
+The rod's length is significantly greater than its diameter.
+The central hole is aligned with the rod's axis.
+The protruding section is located at the midpoint of the rod.
+The rectangular slot is aligned parallel to the cylinder's axis.
+The wider right end extends beyond the main cylindrical body.
+The circular hole is positioned centrally along the rod.
+The rectangular slot is located near the opposite end of the hole.
+The hole is positioned exactly in the middle of the rod.
+The rod maintains a straight form from end to end.
+The flat end is positioned at one end of the cylinder.
+The central hole aligns perfectly with the rod's length.
+The rectangular slot is positioned near the middle of the cylinder.
+The central hole is aligned with the axis of the cylinder.
+The protrusion is located at the shorter end.
+The circular hole aligns with the central axis of the cylinder.
+The central hole is aligned with the rod's axis.
+The circular hole is positioned centrally along the rod's length.
+The central hole is aligned along the length of the cylinder.
+The rectangular slot is positioned adjacent to the protrusion.
+The central hole is aligned perfectly with the rod's axis.
+The rod's geometry is symmetrical along its length.
+The central hole is aligned with the cylindrical axis.
+The smaller hole is positioned perpendicular to the main cylindrical body.
+The circular hole is positioned exactly in the middle of the rod.
+The flat ends are parallel to each other.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical rod with a central hole.
+- Uniform cylindrical shape with a hollow interior.
+- Smooth outer surface with consistent diameter.
+
+[HOLES_SLOTS]
+- Single central circular hole running through the length.
+- Small circular hole near one end.
+- Small rectangular slot near one end.
+- Rectangular slot aligned parallel to the rod's axis.
+
+[PROTRUSIONS]
+- Small protrusion at one end.
+- Flat end cap on one side.
+- Slight protrusion at one end.
+- Raised circular feature in the center.
+
+[RELATIVE_POSITIONS]
+- Central hole aligns perfectly with the rod's axis.
+- Small circular hole aligned with the left protrusion.
+- Rectangular slot positioned near the opposite end of the hole.
+- Protrusion located at the shorter end.
+- Flat end positioned at one end of the cylinder.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 9/17 (Images 121-135)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is a cylindrical rod with a circular end.
+This part features a central circular hole.
+The component is a cylindrical rod with a circular end.
+This part features a central circular hole.
+The component is a cylindrical rod with a hollow center.
+This part features a circular hole at one end.
+The component is a cylindrical rod with a circular end.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is a cylindrical rod.
+This part features a central circular hole.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+
+**Holes & Slots:**
+There is a small circular hole near the left end.
+The cylindrical body has a uniform diameter throughout.
+The part has a hollow interior.
+The left end of the cylinder has a protruding section.
+There is a small circular hole near the left end.
+The rod has a uniform cylindrical shape.
+This part includes a larger circular hole in the middle.
+There is a small circular hole near the right end.
+It contains a single circular hole in the middle.
+There is a small rectangular slot near one end.
+The rod has a smooth cylindrical body.
+The central hole runs through the length of the cylinder.
+There is a smaller circular hole near one end.
+The cylindrical body has a uniform diameter.
+The part has a protruding cylindrical section at one end.
+The central hole is aligned with the cylindrical axis.
+It contains a single circular hole running through its center.
+The cylindrical rod has a smooth outer surface.
+There is a hollow section in the middle of the rod.
+The rod's diameter is consistent along its length.
+There is a small circular protrusion on one end.
+The cylindrical body has a uniform diameter throughout.
+The component has a flat surface on the opposite end of the circular protrusion.
+This part includes a small circular feature near the flat surface.
+There is a small protruding section near the end of the cylinder.
+The cylindrical rod has a uniform diameter along its length.
+This part includes a circular opening at one end.
+The component has a smooth cylindrical body.
+There is a smaller circular hole near the middle section.
+The cylindrical rod has a flat protrusion on one side.
+The part includes a cylindrical protrusion extending from the center.
+This component has a smooth cylindrical shape with a central hole.
+There is a smaller circular hole near the end of the rod.
+The rod has a smooth cylindrical body.
+The part includes a protruding section at one end.
+This component has a uniform cylindrical shape.
+There is a small rectangular slot near one end.
+The cylindrical body has a uniform diameter.
+The component has a flat circular end cap.
+The slot is aligned parallel to the cylinder's axis.
+It contains a single circular hole running through its center.
+The rod has a consistent diameter along its length.
+This part includes a hollow section in the middle.
+The cylindrical rod has a smooth outer surface.
+It contains a single circular hole running through its center.
+The rod has a smooth, continuous cylindrical form.
+This part includes a central circular hole along its length.
+The cylindrical rod has a consistent diameter throughout.
+There is a small rectangular slot near one end.
+The rod has a uniform diameter throughout its length.
+The part includes a protruding section at one end.
+The cylindrical rod has a smooth outer surface.
+It contains a single circular hole running through its center.
+The rod has a smooth, elongated form.
+There is a hollow section along the length of the component.
+The cylindrical part has a consistent diameter throughout.
+It contains a single circular hole running through its center.
+The cylindrical rod has a consistent diameter along its length.
+There is a hollow section in the middle of the rod.
+The rod's surface is smooth and uninterrupted.
+
+**Protrusions:**
+The right end of the cylinder is open.
+The component has a smooth outer surface.
+The part has a smooth cylindrical surface.
+The rod has a consistent diameter throughout its length.
+The part has a slight protrusion at one end.
+The other end of the rod is flat and smooth.
+The smaller hole is positioned perpendicular to the main axis.
+The cylindrical section has a smooth outer surface.
+The part has a flat end on one side.
+The other end of the rod is open and unobstructed.
+The cylindrical rod has a smooth outer surface.
+The circular end is flush with the main body of the component.
+The part has a slight protrusion on one side.
+There is a small circular feature near the end of the rod.
+The cylindrical rod has a flat surface on the opposite end of the hole.
+There is a small circular indentation near the flat surface.
+The cylindrical rod has a flat circular face.
+The part has a rounded end opposite the central hole.
+The part has a slight protrusion at one end.
+The other end of the cylinder is open.
+The component has a protruding section at one end.
+There is a slight bulge on the side of the rod.
+The component has a protruding circular section in the middle.
+There is a raised circular feature in the center of the rod.
+The central hole runs the full length of the rod.
+The slot is aligned parallel to the rod's axis.
+The component has a flat end on one side.
+The rod's central hole is perfectly aligned with its axis.
+The part has a seamless cylindrical form without any protrusions.
+The central hole is perfectly aligned with the rod's axis.
+
+**Relative Positions:**
+The small circular hole is aligned with the central axis.
+The protruding section is positioned at the left end of the cylinder.
+The central hole is aligned with the rod's axis.
+The small holes are positioned symmetrically on either end.
+The rectangular slot is aligned parallel to the cylinder's axis.
+The central hole is positioned exactly in the middle of the rod.
+The central hole runs through the entire length of the cylinder.
+The smaller hole is located at a right angle to the main body.
+The central hole aligns perfectly with the rod's axis.
+The hollow section is symmetrical along the rod's length.
+The small circular protrusion is aligned with the central axis.
+The flat surface is perpendicular to the cylindrical body.
+The circular hole is positioned at the opposite end of the protrusion.
+The cylindrical body extends from the circular hole to the protruding section.
+The central hole is aligned with the cylindrical protrusion.
+The flat surface is positioned opposite the circular hole.
+The central hole is aligned with the rod's axis.
+The smaller hole is positioned close to the protruding section.
+The circular hole is positioned centrally along the cylinder.
+The rectangular slot is located near the flat end cap.
+The central hole aligns perfectly with the rod's axis.
+The protruding section is positioned at the opposite end of the hole.
+The central hole is aligned with the rod's axis.
+The circular hole is positioned centrally along the rod's length.
+The protruding section is located at the narrower end.
+The central hole is positioned symmetrically along the rod.
+The flat end is positioned at one end of the cylindrical shape.
+The other end of the rod is open and unobstructed.
+The cylindrical shape extends evenly from one end to the other.
+The rod maintains a straight profile throughout its length.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical rod with a central hole.
+- Uniform cylindrical shape with a hollow center.
+- Smooth cylindrical body with a flat end cap.
+
+[HOLES_SLOTS]
+- Central circular hole running through the length of the cylinder.
+- Small circular hole near one end.
+- Small rectangular slot near one end.
+- Hollow section in the middle of the rod.
+
+[PROTRUSIONS]
+- Slight protrusion at one end.
+- Flat surface on the opposite end of the circular protrusion.
+- Small circular feature near the flat surface.
+- Protruding section at one end.
+
+[RELATIVE_POSITIONS]
+- Central hole aligned with the rod's axis.
+- Small circular hole near the left end.
+- Rectangular slot aligned parallel to the cylinder's axis.
+- Flat surface positioned opposite the circular hole.
+- Protruding section positioned at the left end of the cylinder.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 10/17 (Images 136-150)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is cylindrical in shape.
+This part features a hollow cylindrical body.
+The component is cylindrical in shape.
+This part features a hollow cylindrical body.
+The component is cylindrical in shape.
+This part features a hollow cylindrical body.
+The component is a cylindrical rod with a flat end.
+This part features a central circular hole on one end.
+The component is cylindrical in shape.
+This part features a hollow cylindrical body.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is a cylindrical rod with a flat end.
+This part features a central circular hole on one end.
+The component is a cylindrical rod with a hollow center.
+This part features a central circular hole.
+The component is a cylindrical rod with a flat end.
+This part features a central circular hole on one end.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is a cylindrical rod with a rounded end.
+This part features a central cylindrical shaft.
+
+**Holes & Slots:**
+It contains a single central circular hole.
+There is a rectangular slot near the middle section.
+The cylindrical rod has a smooth outer surface.
+The central hole runs along the length of the cylinder.
+It contains a single circular hole running through its center.
+The cylindrical rod has a smooth outer surface.
+There is a small notch on one side of the rod.
+The part has a consistent diameter along its length.
+It contains a single circular hole running through its center.
+The cylindrical rod has a smooth outer surface.
+There is a hollow section in the middle of the rod.
+The rod's diameter is consistent along its length.
+It contains a circular hole at one end.
+There is a smaller circular protrusion on the opposite end.
+The part has a smooth outer surface.
+This cylindrical object has a uniform diameter along its length.
+It contains a circular hole at one end.
+There is a smaller circular protrusion on the opposite end.
+The part has a smooth outer surface.
+This cylindrical object has a uniform diameter along its length.
+It contains a small circular hole at one end.
+There is a larger circular opening at the opposite end.
+The cylindrical part has a smooth outer surface.
+The component has a uniform diameter along its length.
+There is a small protruding tab on the side.
+The object has a smooth cylindrical body.
+This part includes a circular opening at one end.
+The cylindrical rod has a uniform diameter along its length.
+It contains a circular hole at one end.
+There is a smaller circular protrusion on the opposite end.
+The part has a smooth outer surface.
+This cylindrical object has a uniform diameter along its length.
+There is a small rectangular slot near the end.
+The cylindrical body has a uniform diameter.
+The part includes a protruding section at one end.
+The central opening is surrounded by a raised rim.
+There is a small protruding pin on the opposite side of the hole.
+The cylindrical body has a uniform diameter throughout its length.
+The flat end of the component is perpendicular to the cylindrical axis.
+The pin extends outward from the cylindrical surface.
+There is a small circular protrusion on one end.
+The cylindrical body has a uniform diameter throughout.
+The part includes a flat end cap on one side.
+There is a slight indentation near the middle section.
+There is a small protruding pin on the opposite end of the cylinder.
+The cylindrical body has a uniform diameter throughout its length.
+The flat end of the component is perpendicular to the cylindrical axis.
+The pin protrusion is aligned with the central axis of the cylinder.
+It contains a single circular hole running through its center.
+The cylindrical rod has a smooth outer surface.
+There is a protruding section on one end of the rod.
+The central hole is aligned perfectly with the rod's axis.
+It contains a single circular hole running through its center.
+The cylindrical rod has a smooth outer surface.
+This part includes a hollow section along its length.
+The central hole is perfectly aligned with the rod's axis.
+The rod has a smooth, elongated body.
+There is a circular protrusion at one end of the rod.
+The cylindrical shaft is uniform in diameter along its length.
+The rod's body is straight and unbroken.
+
+**Protrusions:**
+The part has a slight protrusion at one end.
+The other end of the cylinder is flat and smooth.
+The rod has a flat end on one side.
+The central hole is aligned perfectly with the rod's axis.
+The part has a flat end on one side.
+The central hole is perfectly aligned with the rod's axis.
+The component has a central cylindrical void.
+There is a small circular feature near the middle.
+The component has a flat circular face on one side.
+There is a slight indentation near the smaller circular protrusion.
+The part has a slight protrusion at the smaller end.
+The larger end is open and hollow.
+The component has a slight indentation near the flat end.
+There is a small circular feature on the side.
+The component has a flat circular face on one side.
+There is a slight indentation near the smaller circular protrusion.
+The cylindrical part has a slight taper towards one end.
+The protruding section is perpendicular to the main body.
+The component has a smooth transition between the cylindrical body and the flat end.
+The pin is positioned at the center of the flat end.
+The component has a smooth outer surface.
+The rod is designed with a hollow interior.
+The component has a smooth cylindrical surface without any additional features.
+The central hole is perfectly round and centrally located.
+The rod has a flat end cap on one side.
+The other end of the rod is open and unobstructed.
+The rod has a consistent diameter throughout its length.
+The component has a symmetrical cylindrical form.
+The rounded end is slightly larger in diameter than the shaft.
+The component has a consistent cylindrical shape throughout.
+
+**Relative Positions:**
+The rectangular slot is aligned with the central hole.
+The protrusion is positioned on the opposite side of the slot.
+The notch is positioned near the middle of the rod.
+The flat end is opposite the side with the notch.
+The flat end is positioned on the left side of the rod.
+The hollow section connects the two flat ends of the rod.
+The circular hole is positioned at the right end.
+The smaller protrusion is located at the left end.
+The larger circular hole is aligned centrally along the cylinder.
+The smaller protrusion is positioned directly opposite the larger hole.
+The small circular hole is aligned with the central axis.
+The larger opening is positioned at the far end of the cylinder.
+The circular hole is aligned with the flat end.
+The protruding tab is positioned near the middle of the rod.
+The larger circular hole is aligned centrally along the cylinder.
+The smaller protrusion is positioned directly opposite the larger hole.
+The rectangular slot is aligned parallel to the cylinder's axis.
+The raised rim encircles the central opening uniformly.
+The circular hole is aligned with the central axis of the cylinder.
+The pin is parallel to the cylindrical axis of the component.
+The flat end cap is positioned on the left side.
+The circular hole runs through the entire length of the cylinder.
+The pin protrusion is positioned at the end opposite the central hole.
+The cylindrical rod maintains a consistent shape along its entire length.
+The central hole is positioned exactly in the middle of the rod.
+The flat end cap contrasts with the open end of the rod.
+The hole is positioned centrally along the rod.
+The cylindrical shape is uninterrupted along the entire length.
+The central shaft is aligned with the elongated body.
+The rounded end is positioned at one end of the cylindrical shaft.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical rod with a central hole.
+- Uniform cylindrical shape with a hollow center.
+- Flat end cap on one side.
+- Smooth outer surface throughout the length.
+
+[HOLES_SLOTS]
+- Single central circular hole running through the length.
+- Small circular protrusion on one end.
+- Rectangular slot near the middle section.
+- Circular hole at one end with a smaller protrusion on the opposite end.
+
+[PROTRUSIONS]
+- Small protruding tab on the side.
+- Slight protrusion at one end.
+- Small circular feature near the middle.
+- Pin protrusion at the end opposite the central hole.
+
+[RELATIVE_POSITIONS]
+- Flat end cap positioned on the left side.
+- Rectangular slot aligned with the central hole.
+- Smaller protrusion positioned directly opposite the larger hole.
+- Pin protrusion aligned with the central axis of the cylinder.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 11/17 (Images 151-165)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is a cylindrical rod with a central connector.
+This part features a uniform cylindrical shape.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a cylindrical rod with a central connector.
+This part features a uniform cylindrical shape.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is a cylindrical rod with a central hole.
+This part features a uniform cylindrical shape.
+
+**Holes & Slots:**
+It contains a single circular hole running through its center.
+The cylindrical rod has a smooth outer surface.
+There is a hollow section along the length of the rod.
+The central hole is perfectly aligned with the rod's axis.
+It contains a circular connector in the middle.
+The rod has a smooth, elongated form.
+There is a central circular feature connecting the two ends.
+The part has a consistent diameter along its length.
+It contains a single central circular hole.
+There is a rectangular slot near the middle section.
+The cylindrical rod has a smooth outer surface.
+The central hole runs along the length of the rod.
+There is a small rectangular slot near one end.
+The cylindrical body has a uniform diameter.
+The component has a flat circular end cap.
+The central hole is aligned with the cylinder's axis.
+There is a small circular hole near the end.
+The rod has a uniform cylindrical shape.
+This part includes a protruding section in the middle.
+The cylindrical rod has a smooth outer surface.
+It contains a circular connector in the middle.
+The rod has a smooth, elongated form.
+There is a central circular feature connecting the two ends.
+The part has a consistent diameter along its length.
+There is a rectangular slot near one end.
+The cylindrical body has a uniform diameter.
+The component has a smooth outer surface.
+The central hole is aligned with the axis of the cylinder.
+It contains a single central circular hole.
+The cylindrical rod has a hollow core running through its length.
+There is a circular hole positioned in the middle of the rod.
+The rod's geometry includes a consistent diameter along its length.
+It contains a single circular hole running through its center.
+There is a small rectangular slot on the side of the cylinder.
+The cylindrical rod has a smooth outer surface.
+The central hole is aligned perfectly with the rod's axis.
+It contains a single central circular hole.
+The cylindrical rod has a hollow core running through its length.
+There is a circular hole positioned in the middle of the rod.
+The rod's geometry includes a consistent diameter along its length.
+There is a small circular hole near the end of the cylinder.
+The cylindrical object has a smooth outer surface.
+This part includes a protruding section at one end.
+The protruding section is connected to the main cylinder.
+There is a small circular hole near the end of the cylinder.
+The cylindrical object has a smooth outer surface.
+This part includes a protruding section on one side.
+The protruding section is connected to the main cylindrical body.
+There is a small circular hole near the end of the cylinder.
+The cylindrical object has a smooth outer surface.
+This part includes a protruding section at one end.
+The protruding section is connected to the main cylinder.
+There is a small circular hole near the end of the cylinder.
+The cylindrical object has a smooth outer surface.
+This part includes a protruding section on one side.
+The protruding section is connected to the main cylinder.
+It contains a single circular hole running through its center.
+The rod has a smooth, elongated form.
+There is a hollow section along the length of the component.
+The cylindrical part has a consistent diameter throughout.
+
+**Protrusions:**
+The rod has a consistent diameter throughout its length.
+The component has a symmetrical cylindrical form.
+The connector section is slightly thicker than the rod.
+The rod's ends are flat and perpendicular to the main body.
+The part has a flat end on one side.
+The other end of the rod is open and unobstructed.
+The part has a slight protrusion at one end.
+The other end of the cylinder is open.
+The central protrusion is slightly wider than the rest.
+The part has a flat end cap on one side.
+The connector section is slightly thicker than the rod.
+The rod's ends are flat and perpendicular to the main body.
+The part has a slight protrusion at one end.
+The slot is positioned parallel to the cylinder's length.
+The part has a smooth cylindrical protrusion on one end.
+The rod's central hole is aligned with its axis.
+The part has a slight protrusion at one end.
+The other end of the cylinder is flat and smooth.
+The part has a smooth cylindrical protrusion on one end.
+The rod's central hole is aligned with its axis.
+The main cylinder has a uniform diameter throughout its length.
+The component has a hollow interior.
+The main body of the component is elongated.
+The component has a uniform diameter along its length.
+The main cylinder has a uniform diameter throughout its length.
+The component has a hollow interior.
+The main cylinder has a uniform diameter throughout its length.
+The component has a flat end cap on one side.
+The component has a flat end on one side.
+The rod's central hole is perfectly aligned with its axis.
+
+**Relative Positions:**
+The hole is positioned centrally along the rod.
+The rod's geometry is simple and straightforward.
+The central connector is positioned exactly halfway along the rod.
+The rod's length is significantly greater than its diameter.
+The rectangular slot is aligned with the central hole.
+The flat end is positioned opposite the open end.
+The slot is positioned parallel to the cylinder's length.
+The protrusion is located near the open end of the cylinder.
+The circular hole is aligned with the central axis.
+The small hole is positioned at a right angle to the main cylinder.
+The circular connector is positioned centrally along the rod.
+The rod's length is significantly greater than its diameter.
+The protrusion is located at the shorter end of the cylinder.
+The central hole runs through the entire length of the cylinder.
+The cylindrical hole is centrally located within the rod.
+The rod's ends are flat and perpendicular to the central axis.
+The rectangular slot is positioned near the flat end.
+The central hole extends the entire length of the cylindrical rod.
+The circular hole is centrally located within the cylindrical structure.
+The cylindrical rod maintains a consistent diameter throughout its length.
+The small circular hole is aligned with the central axis.
+The protruding section extends outward from the cylinder.
+The small circular hole is aligned with the central axis.
+The protruding section extends outward from the cylinder.
+The small circular hole is aligned with the central axis.
+The protruding section extends outward from the cylinder.
+The small circular hole is aligned with the central hole.
+The protruding section extends outward from the cylinder.
+The flat end is positioned at one end of the cylindrical shape.
+The other end of the rod is rounded and smooth.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical rod with a central hole.
+- Uniform cylindrical shape with a consistent diameter.
+- Central connector section slightly thicker than the rod.
+
+[HOLES_SLOTS]
+- Single central circular hole running through the rod.
+- Small rectangular slot near one end.
+- Small circular hole near the end of the cylinder.
+
+[PROTRUSIONS]
+- Flat end cap on one side.
+- Slight protrusion at one end.
+- Smooth cylindrical protrusion on one end.
+
+[RELATIVE_POSITIONS]
+- Central hole aligned with the rod's axis.
+- Rectangular slot aligned with the central hole.
+- Protrusion located near the open end of the cylinder.
+- Flat end positioned opposite the open end.
+- Small circular hole positioned at a right angle to the main cylinder.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 12/17 (Images 166-180)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central cylindrical shaft.
+The component is a cylindrical rod with a smooth surface.
+This part features a central cylindrical shaft.
+The component is a straight cylindrical rod.
+This part features a central cylindrical shaft.
+The component is a straight cylindrical rod.
+This part features a central cylindrical shaft.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is a cylindrical rod.
+This part features a central cylindrical shaft.
+The component is a straight cylindrical rod.
+This part features a central cylindrical shaft.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a cylindrical rod.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a smooth elongated body.
+The component is a cylindrical rod.
+This part features a central cylindrical body.
+The component is cylindrical in shape.
+This part features a central cylindrical shaft.
+
+**Holes & Slots:**
+There is a small circular hole near the left end.
+The rod has a uniform cylindrical shape.
+This part includes a rectangular slot on the right side.
+The cylindrical rod has a consistent diameter throughout.
+There is a smaller circular hole near one end.
+The cylindrical body has a uniform diameter.
+The part has a flat end cap on one side.
+The other end of the cylinder is open.
+There is a smaller circular hole near the left end.
+The cylindrical body has a uniform diameter throughout.
+The part has a flat end cap on the left side.
+The right end of the cylinder is open.
+The rod has a uniform diameter throughout its length.
+There is a slight protrusion at one end of the rod.
+The other end of the rod is flat and smooth.
+The rod has a rounded connector in the middle section.
+The rod has a rounded end on one side.
+There is a slight protrusion at the connection point.
+The part has a uniform diameter along its length.
+The cylindrical rod is designed with a hollow core.
+The rod has a uniform diameter throughout its length.
+There is a circular hole near one end of the rod.
+The other end of the rod has a protruding cylindrical section.
+This part includes a smaller cylindrical extension on one side.
+The rod has a rounded end on one side.
+There is a flange connecting the two sections of the rod.
+The part has a uniform diameter along its length.
+The flange is positioned near the middle of the rod.
+There is a small rectangular slot near the left end.
+The cylindrical body has a smooth outer surface.
+The part includes a protruding circular cap on one end.
+This section has a slightly indented area near the slot.
+There is a small rectangular slot near the middle.
+The rod has a uniform diameter throughout its length.
+The part includes a protruding section at one end.
+The cylindrical rod has a flat surface on one side.
+The rod has a uniform diameter throughout its length.
+There is a small circular hole near the middle section.
+The part includes a rectangular slot on one end.
+The other end of the rod has a protruding cylindrical section.
+There is a small rectangular slot near the middle.
+The rod has a uniform cylindrical shape.
+This part includes a single circular hole in the center.
+A narrow rectangular slot is present along the length.
+There is a small rectangular slot near one end.
+The cylindrical rod has a smooth outer surface.
+The part includes a rounded protrusion at one end.
+The central circular opening is surrounded by a raised rim.
+It contains a central circular hole.
+There is a smaller circular hole near one end.
+The part has a protruding cylindrical section at one end.
+This section is slightly wider than the main body.
+There is a small rectangular slot on the side.
+The rod has a uniform cylindrical shape.
+This part includes a circular hole near one end.
+The cylindrical rod has a flat end cap.
+There is a small rectangular slot near the end of the shaft.
+The cylindrical body has a uniform diameter throughout its length.
+The component has a flange at one end of the shaft.
+The flange has a circular opening in the middle.
+
+**Protrusions:**
+The part has a slight protrusion at the center.
+There is a small notch on the left side.
+The component has a slight protrusion at the base.
+The protrusion is perpendicular to the cylindrical axis.
+The component has a smooth outer surface.
+There are no raised edges or protrusions on the sides.
+The connector has a slight bulge for attachment purposes.
+The cylindrical shaft is uninterrupted along its length.
+The connection point has a slight bulge.
+The rod's surface is uninterrupted along its length.
+The rod has a smooth, continuous surface along its length.
+The cylindrical extension is aligned parallel to the main shaft.
+The rod has a slight taper towards one end.
+The connection between the sections is reinforced with a thicker segment.
+The cylindrical part has a raised circular ridge along its length.
+The component has a flat circular protrusion on the right side.
+The component has a slight indentation along the length.
+The rod's ends are capped with flat surfaces.
+The rod has a slight bulge in the middle section.
+The cylindrical shaft is connected to a smaller diameter section.
+The part has a smooth cylindrical form.
+This component has a consistent cylindrical geometry.
+The cylindrical rod has a uniform diameter throughout its length.
+The rounded protrusion is positioned at the opposite end of the slot.
+The main body has a uniform diameter throughout.
+The cylindrical part has a flat circular end.
+The part has a slight protrusion at one end.
+There is a small notch on the side of the cylinder.
+The part has a slight protrusion along the length of the shaft.
+The protrusion is located near the flange.
+
+**Relative Positions:**
+The central hole is aligned with the rod's axis.
+The slot is positioned parallel to the rod's length.
+The central hole aligns with the cylindrical axis.
+The smaller hole is offset from the central hole.
+The central hole aligns with the cylindrical axis.
+The smaller hole is positioned perpendicular to the main axis.
+The flat end is positioned opposite the rounded connector.
+The protrusion is aligned parallel to the central shaft.
+The rounded end is positioned at one end of the rod.
+The connection point is centrally located on the rod.
+The central hole is positioned close to the larger cylindrical section.
+The protruding section is located at the opposite end of the central hole.
+The cylindrical shaft extends from the flange to the tapered end.
+The flange is aligned perpendicularly to the rod's main axis.
+The slot is positioned adjacent to the circular opening.
+The circular cap is aligned parallel to the cylindrical body.
+The rectangular slot is aligned parallel to the rod's axis.
+The protruding section is positioned at the opposite end of the slot.
+The rectangular slot is aligned parallel to the rod's length.
+The protruding section is positioned at the opposite end of the slot.
+The circular hole is centrally aligned on the rod.
+The rectangular slot is positioned near the central hole.
+The slot is aligned parallel to the central axis of the cylinder.
+The raised rim around the central opening enhances structural integrity.
+The central hole is aligned with the main axis.
+The smaller hole is positioned parallel to the central hole.
+The rectangular slot is positioned near the middle section.
+The end cap is aligned parallel to the cylindrical body.
+The rectangular slot is aligned parallel to the shaft.
+The circular opening in the flange is centered on the flange.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical rod with a smooth surface.
+- Central cylindrical shaft.
+- Uniform diameter along the length.
+- Flat end cap on one side.
+- Open end on the other side.
+
+[HOLES_SLOTS]
+- Central circular hole aligned with the rod's axis.
+- Small circular hole near one end.
+- Small rectangular slot near the left end.
+- Small rectangular slot near the middle.
+- Rectangular slot on the right side.
+- Slot positioned parallel to the rod's length.
+
+[PROTRUSIONS]
+- Slight protrusion at the center.
+- Rounded end on one side.
+- Flat circular protrusion on the right side.
+- Slight bulge in the middle section.
+- Protruding cylindrical section at one end.
+- Flange connecting two sections near the middle.
+
+[RELATIVE_POSITIONS]
+- Central hole aligns with the cylindrical axis.
+- Slot positioned parallel to the rod's length.
+- Smaller hole offset from the central hole.
+- Flat end cap positioned opposite the rounded connector.
+- Protrusion aligned parallel to the central shaft.
+- Protruding section located at the opposite end of the central hole.
+- Flange aligned perpendicularly to the rod's main axis.
+- Rectangular slot positioned near the central hole.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 13/17 (Images 181-195)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a cylindrical rod with a central connector.
+This part features a uniform cylindrical shape.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is a straight cylindrical rod.
+This part features a central cylindrical shaft.
+The component is a straight cylindrical rod.
+This part features a central cylindrical shaft.
+The component is a straight cylindrical rod.
+This part features a central cylindrical shaft.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a straight cylindrical rod.
+This part features a central cylindrical shaft.
+The component is a cylindrical rod.
+This part features a central circular opening.
+The component is a cylindrical rod with a flat end.
+This part features a central circular hole.
+The component is a cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+
+**Holes & Slots:**
+There is a small circular hole near the end.
+The rod has a uniform cylindrical shape.
+This part includes a cylindrical protrusion on one side.
+The cylindrical rod has a smooth outer surface.
+There is a small circular protrusion near one end.
+The rod has a uniform diameter throughout its length.
+This part includes a cylindrical extension on one side.
+The central hole runs the entire length of the rod.
+There is a small rectangular slot near the middle.
+The cylindrical rod has a uniform diameter throughout its length.
+This part includes a protruding connector at one end.
+The connector is perpendicular to the rod's main axis.
+The rod has a circular hole in the middle section.
+There is a protruding connector at one end of the rod.
+The connector is cylindrical and aligned with the rod.
+The rod has a smooth cylindrical surface without additional features.
+There is a small rectangular slot near the left end.
+The cylindrical body has a smooth outer surface.
+The part includes a protruding section on the left side.
+This section has a slightly wider diameter compared to the main body.
+The rod has a uniform diameter throughout its length.
+There is a small circular hole near the center.
+The part includes a rectangular slot on one end.
+The slot is aligned parallel to the rod's axis.
+The rod has a uniform diameter throughout its length.
+There is a slight protrusion at one end of the rod.
+The other end of the rod is flat and smooth.
+The rod has a rounded connector in the middle.
+The rod has a uniform diameter throughout its length.
+There is a slight protrusion at one end of the rod.
+The other end of the rod is flat and smooth.
+The rod has a rounded connector in the middle section.
+The rod has a uniform diameter throughout its length.
+There is a small circular hole near the middle.
+The part includes a rectangular slot on one end.
+The other end of the rod has a protruding section.
+The rod has a uniform diameter throughout its length.
+There is a small circular hole near the middle section.
+The part includes a rectangular slot on one end.
+The cylindrical rod has a flange at one end.
+There is a small protrusion at one end.
+The cylindrical body has a uniform diameter.
+This part includes a hollow section along its length.
+The rod has a smooth outer surface.
+There is a small rectangular slot near the flat end.
+The cylindrical rod has a uniform diameter along its length.
+The flat end of the component is perpendicular to the cylindrical body.
+The component has a smooth transition between the cylindrical and flat sections.
+There is a small rectangular slot near the end.
+The rod has a smooth outer surface.
+The part includes a protruding section at one end.
+The cylindrical shape is uniform in diameter.
+The rod has a uniform diameter throughout its length.
+There is a small circular hole near the middle.
+The part includes a rectangular slot on one end.
+The other end of the rod has a protruding section.
+There is a small rectangular slot near the left end.
+The cylindrical rod has a uniform diameter throughout its length.
+The central hole runs the full length of the rod.
+The rectangular slot is aligned parallel to the rod's axis.
+
+**Protrusions:**
+The component has a flat end cap on one side.
+There is a slight indentation near the middle.
+The rod has a slight bulge in the middle section.
+There is a flat surface on the opposite end of the protrusion.
+The rod has a flat surface on the opposite end of the connector.
+The connector is slightly wider than the rod's diameter.
+The connector has a slightly larger diameter than the rod.
+The rod is straight with no bends or curves.
+The right end of the component is flat and smooth.
+The central opening is aligned with the main axis of the cylinder.
+The rod has a slight protrusion at one end.
+The protrusion is perpendicular to the rod's main axis.
+The connector has a slight bulge for attachment purposes.
+The rod is designed for linear alignment.
+The connector has a slight bulge for attachment purposes.
+The cylindrical rod is designed for alignment and support.
+The cylindrical rod has a slight bulge in the middle.
+The protruding section is perpendicular to the main rod.
+The rod has a protruding section at the midpoint.
+The part has a rounded end cap on one side.
+The part has a slight taper towards one end.
+There is a rounded cap at the narrower end.
+The cylindrical rod has a slight protrusion at one end.
+The flat end has a small notch on one side.
+The component has a flat end cap.
+The rod is elongated with a consistent width.
+The cylindrical rod has a slight taper towards one end.
+The part has a flat surface on the shorter end.
+The rod has a slight protrusion at the center.
+The protrusion is perpendicular to the rod's main axis.
+
+**Relative Positions:**
+The circular hole is aligned centrally along the rod.
+The end cap is positioned at one end of the rod.
+The cylindrical extension is aligned parallel to the main rod.
+The central hole is positioned symmetrically along the rod.
+The rectangular slot is aligned parallel to the rod's length.
+The connector is positioned centrally on the rod.
+The connector is positioned at the midpoint of the rod.
+The rod extends symmetrically from both ends of the connector.
+The rectangular slot is positioned perpendicular to the cylinder's length.
+The protruding section is located adjacent to the rectangular slot.
+The circular hole is positioned centrally along the rod.
+The rectangular slot is located near the opposite end of the hole.
+The flat end is positioned opposite the protrusion.
+The connector is centrally located along the rod's length.
+The flat end is positioned opposite the rounded connector.
+The protrusion is located near the flat end of the rod.
+The circular hole is aligned with the central axis.
+The rectangular slot is positioned at the end opposite the protrusion.
+The rectangular slot is aligned parallel to the rod's axis.
+The flange is positioned centrally along the rod's length.
+The central opening runs parallel to the rod's axis.
+The protrusion is positioned at the opposite end of the cap.
+The circular hole is aligned with the central axis of the cylinder.
+The notch on the flat end is positioned at a 45-degree angle.
+The slot is aligned parallel to the rod's axis.
+The protruding section is positioned at the opposite end of the slot.
+The circular hole is aligned with the central axis.
+The rectangular slot is positioned parallel to the rod's length.
+The central hole is positioned directly through the protrusion.
+The rectangular slot is located adjacent to the protrusion.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Straight cylindrical rod with a central connector.
+- Uniform cylindrical shape with a central cylindrical shaft.
+- Cylindrical rod with a flat end.
+
+[HOLES_SLOTS]
+- Central circular hole running the full length of the rod.
+- Small rectangular slot near the middle.
+- Small rectangular slot near the left end.
+- Small rectangular slot near the flat end.
+- Small circular hole near the center.
+
+[PROTRUSIONS]
+- Flat end cap on one side.
+- Slight protrusion at one end.
+- Rounded connector in the middle section.
+- Protruding connector at one end, perpendicular to the rod's main axis.
+- Slight bulge in the middle section.
+
+[RELATIVE_POSITIONS]
+- Circular hole aligned centrally along the rod.
+- Rectangular slot aligned parallel to the rod's length.
+- Connector positioned centrally on the rod.
+- Flat end positioned opposite the protrusion.
+- Rectangular slot positioned near the opposite end of the hole.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 14/17 (Images 196-210)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is a cylindrical rod with a smooth surface.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central cylindrical shaft.
+The component is a straight cylindrical rod.
+This part features a central cylindrical shaft.
+The component is a cylindrical rod.
+This part features a central cylindrical shaft.
+The component is a cylindrical rod.
+This part features a central rectangular cutout.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a cylindrical rod.
+This part features a central circular hole.
+The component is a cylindrical rod.
+This part features a central cylindrical shaft.
+The component is a cylindrical rod with a rounded end.
+This part features a central cylindrical shaft.
+The component is a cylindrical rod.
+This part features a central circular hole.
+The component is a cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+
+**Holes & Slots:**
+There is a small rectangular slot near one end.
+The cylindrical body has a uniform diameter throughout.
+The part includes a protruding section at one end.
+There is a circular hole near the protruding section.
+There is a small protrusion on one end of the rod.
+The cylindrical rod has a uniform diameter throughout its length.
+This part includes a rounded end cap on one side.
+The rod has a slight taper towards one end.
+There is a small circular hole near the middle.
+The rod has a uniform diameter throughout its length.
+This part includes a single circular hole aligned centrally.
+The cylindrical rod has a consistent cross-sectional shape.
+The rod has a uniform diameter throughout its length.
+There is a small circular hole near the middle section.
+The part includes a rectangular slot on one end.
+The other end of the rod has a protruding flange.
+The rod has a rounded end on one side.
+There is a flange at the midpoint of the rod.
+The flange has a circular opening.
+The rod extends uniformly in a straight line.
+There is a small circular hole near the middle.
+The object has a uniform cylindrical shape.
+This part includes a narrow slot on one side.
+The cylindrical rod has a slight indentation on one end.
+The rod has a uniform diameter throughout its length.
+There is a circular hole in the middle of the rod.
+The rod has a flange at one end.
+The other end of the rod is capped with a rounded protrusion.
+The rod has a uniform diameter throughout its length.
+There is a small circular hole near the middle.
+The part includes a rectangular slot on one end.
+The other end of the rod has a protruding section.
+The rod has a uniform diameter throughout its length.
+There is a slight protrusion at one end of the rod.
+The other end of the rod is flat and smooth.
+The rod has a rounded connector in the middle.
+There is a small rectangular slot near one end.
+The rod has a uniform cylindrical shape.
+The central hole runs through the length of the rod.
+The slot is positioned perpendicular to the rod's axis.
+The rod has a uniform diameter throughout its length.
+There is a slight protrusion at one end of the rod.
+The other end of the rod is flat and smooth.
+The rod has a rounded connector in the middle.
+The rod has a smooth, elongated body.
+There is a slight protrusion at one end of the rod.
+The cylindrical shaft is uniform in diameter.
+The rounded end is seamlessly integrated into the shaft.
+There is a small rectangular slot near the left end.
+The cylindrical rod has a uniform diameter throughout its length.
+The central hole runs the full length of the rod.
+The slot is positioned perpendicular to the rod's axis.
+There is a small rectangular slot near the end.
+The rod has a uniform cylindrical shape.
+The part includes a protruding section at one end.
+The cylindrical rod has a smooth outer surface.
+The rod has a uniform diameter throughout its length.
+There is a small circular hole near the middle.
+The part includes a rectangular slot on one end.
+The other end of the rod has a protruding section.
+
+**Protrusions:**
+The cylindrical part has a slight taper towards one end.
+The component has a flat surface on the opposite end of the protrusion.
+The component has a flat surface on the opposite end of the protrusion.
+There is a small notch near the rounded end cap.
+The component has a slight protrusion at one end.
+There is a small notch on the side of the rod.
+The flange extends outward from the main shaft.
+The rod has a slight taper towards one end.
+The part has a slight protrusion at the flange.
+The protrusion is perpendicular to the rod's axis.
+The part has a protruding section at one end.
+There is a raised edge along the length of the rod.
+The central hole is aligned with the rod's axis.
+The flange extends perpendicularly from the rod.
+The cylindrical rod has a slight taper towards one end.
+The part has a flat surface on the wider end.
+The connector is slightly wider than the rod's diameter.
+The connector has a hollow cylindrical shape.
+The rod has a smooth outer surface.
+The central hole is aligned with the rod's centerline.
+The connector is slightly wider than the shaft.
+The connector has a hollow section for attachment.
+The rod has a consistent circular cross-section.
+The part is designed with a single continuous cylindrical form.
+The rod has a slight protrusion at the left end.
+The protrusion is flat and extends outward.
+The component has a flat end cap.
+The rod is elongated with a consistent diameter.
+The cylindrical rod has a slight bulge in the middle.
+The protruding section is perpendicular to the main rod.
+
+**Relative Positions:**
+The rectangular slot is aligned parallel to the cylindrical axis.
+The central circular opening is positioned near the middle of the cylinder.
+The central hole runs the full length of the rod.
+The protrusion is positioned at one end, opposite the flat surface.
+The circular hole is positioned exactly in the center of the rod.
+The protrusion is located at the opposite end of the circular hole.
+The circular hole is aligned with the central axis.
+The rectangular slot is positioned adjacent to the flange.
+The flange is positioned approximately halfway along the rod.
+The rod's ends are flat and parallel to the main body.
+The rectangular cutout is aligned centrally on the rod.
+The small circular hole is positioned adjacent to the slot.
+The rounded protrusion is positioned at the opposite end of the flange.
+The rod's length is significantly greater than its diameter.
+The rectangular slot is aligned parallel to the rod's axis.
+The protruding section is positioned at the narrower end.
+The flat end is positioned opposite the rounded connector.
+The protrusion is located near the flat end of the rod.
+The slot is located on the side of the rod.
+The rod maintains a consistent diameter throughout its length.
+The flat end is positioned opposite the rounded connector.
+The cylindrical shaft extends from both sides of the connector.
+The elongated body extends from the rounded end.
+The cylindrical shaft is aligned centrally along the rod.
+The central hole is aligned with the rod's central axis.
+The slot is located on the side opposite the protrusion.
+The central hole runs through the length of the rod.
+The slot is aligned parallel to the rod's axis.
+The circular hole is aligned with the central axis.
+The rectangular slot is positioned at the end opposite the protrusion.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical rod with a smooth surface.
+- Central cylindrical shaft.
+- Uniform diameter throughout the length.
+- Rounded end cap on one side.
+
+[HOLES_SLOTS]
+- Central circular hole aligned with the rod's axis.
+- Small circular hole near the middle.
+- Small rectangular slot near one end.
+- Slot positioned perpendicular to the rod's axis.
+
+[PROTRUSIONS]
+- Slight protrusion at one end.
+- Flange at the midpoint of the rod.
+- Rounded connector in the middle.
+- Small notch near the rounded end cap.
+
+[RELATIVE_POSITIONS]
+- Central hole runs the full length of the rod.
+- Protrusion located at one end, opposite the flat surface.
+- Rectangular slot positioned adjacent to the flange.
+- Flat end positioned opposite the rounded connector.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 15/17 (Images 211-225)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a cylindrical rod with a rounded end.
+This part features a smooth elongated body.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central cylindrical shaft.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a cylindrical rod.
+This part features a central rectangular cutout.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is a straight cylindrical rod.
+This part features a central cylindrical shaft.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a cylindrical rod.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a hollow central section.
+
+**Holes & Slots:**
+It contains a central circular hole along its length.
+There is a small protrusion at one end of the cylinder.
+The part has a uniform diameter throughout its main body.
+This cylindrical object has a flat surface on one end.
+There is a small protrusion on one end.
+The cylindrical body has a uniform diameter.
+This part includes a flat surface on one side.
+The central opening is surrounded by a raised rim.
+There is a small protrusion on one end.
+The cylindrical body has a uniform diameter.
+This part includes a flat surface on one side.
+The central opening is surrounded by a raised rim.
+There is a small circular hole near the middle.
+The rod has a uniform diameter throughout its length.
+This part includes a rectangular slot on one end.
+The cylindrical rod has a flat surface on both ends.
+There is a small rectangular slot near the middle.
+The cylindrical rod has a uniform diameter throughout its length.
+The part includes a protruding section at one end.
+The cylindrical rod has a flat surface on one side.
+The rod has a uniform diameter throughout its length.
+There is a small circular hole near the middle section.
+The part includes a rectangular slot on one end.
+The other end of the rod has a protruding cylindrical section.
+There is a small rectangular slot near one end.
+The cylindrical body has a smooth outer surface.
+The component has a protruding section at one end.
+This part includes a circular hole in the middle.
+There is a small rectangular slot near the left end.
+The rod has a uniform cylindrical shape.
+This part includes a protruding connector at one end.
+The connector is positioned centrally on the rod.
+There is a small circular hole near the left end.
+The cylindrical rod has a uniform diameter throughout its length.
+This part includes a protruding section on the left side.
+The central cutout is aligned with the rod's axis.
+There is a small rectangular slot near one end.
+The cylindrical body has a uniform diameter throughout.
+The part includes a protruding section at one end.
+There is a circular hole near the protruding section.
+The rod has a uniform diameter throughout its length.
+There is a small circular hole near the middle section.
+The part includes a rectangular slot on one end.
+The other end of the rod has a protruding cylindrical section.
+There is a small rectangular slot near one end.
+The cylindrical body has a uniform diameter throughout.
+The part includes a protruding section at one end.
+There is a circular hole near the protruding section.
+The rod has a uniform diameter throughout its length.
+There is a small circular hole near the middle.
+The part includes a rectangular slot on one end.
+The other end of the rod has a protruding section.
+There is a small rectangular slot near the left end.
+The cylindrical rod has a uniform diameter throughout its length.
+The central hole runs the full length of the rod.
+The slot is positioned perpendicular to the rod's axis.
+It contains a circular opening at one end.
+There is a protruding cap on the left side.
+The part has a smooth outer surface.
+This section includes a small circular indentation near the middle.
+
+**Protrusions:**
+The component has a slight taper towards one end.
+There is a small notch near the rounded end.
+The part has a slight taper towards one end.
+There is a rounded protrusion at the junction.
+The part has a slight taper towards one end.
+There is a rounded end cap on the opposite side.
+The component has a slight protrusion at the midpoint.
+There is a small notch on the side of the rod.
+The part has a slight indentation along the length.
+The cylindrical rod has a rounded end cap.
+The rod has a slight bulge in the middle section.
+The cylindrical shaft is connected to a smaller diameter section.
+The cylindrical part has a slight indentation on one side.
+There is a protruding tab on the side of the cylinder.
+The rod has a smooth cylindrical surface.
+The connector has a flat rectangular base.
+The left protruding section is slightly wider than the main body.
+The small circular hole is positioned close to the central cutout.
+The cylindrical part has a smooth outer surface.
+The component has a flat end cap on one side.
+The rod has a slight bulge in the middle section.
+The cylindrical shaft is connected to a smaller diameter section.
+The cylindrical part has a smooth outer surface.
+The component has a rounded end opposite the slot.
+The cylindrical rod has a slight taper towards one end.
+The part has a flat surface on the shorter end.
+The rod has a slight protrusion at the left end.
+The protrusion is a small, rectangular extension.
+The cylindrical body has a uniform diameter.
+The cap protrudes slightly from the main body.
+
+**Relative Positions:**
+The central hole runs parallel to the length of the cylinder.
+The protrusion is positioned at the opposite end of the central hole.
+The flat surface is positioned on the shorter end.
+The raised rim encircles the central opening evenly.
+The protrusion is aligned parallel to the main axis.
+The flat surface is perpendicular to the cylindrical body.
+The slot is positioned closer to the left end.
+The protrusion is centrally aligned with the rod.
+The rectangular slot is aligned parallel to the rod's axis.
+The protruding section is positioned at the opposite end of the central hole.
+The rectangular slot is aligned parallel to the rod's length.
+The protruding section is positioned at the opposite end of the slot.
+The slot is positioned parallel to the cylinder's axis.
+The circular opening is aligned with the central axis of the cylinder.
+The rectangular slot is aligned parallel to the rod's length.
+The connector is located at the midpoint of the rod.
+The central rectangular cutout runs parallel to the rod's length.
+The protruding section is located on the left end of the rod.
+The slot is aligned parallel to the cylindrical axis.
+The central hole is positioned symmetrically along the length.
+The rectangular slot is aligned parallel to the rod's length.
+The protruding section is positioned at the opposite end of the slot.
+The slot is aligned parallel to the cylindrical axis.
+The circular hole is positioned centrally along the length.
+The rectangular slot is aligned parallel to the rod's axis.
+The protruding section is positioned at the opposite end of the slot.
+The central hole is aligned with the rod's central axis.
+The slot is located on the side opposite the protrusion.
+The circular opening is aligned with the cylindrical axis.
+The protruding cap is positioned at the opposite end of the circular opening.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical rod with a rounded end.
+- Smooth elongated body.
+- Central cylindrical section.
+- Hollow central section.
+
+[HOLES_SLOTS]
+- Central circular hole along the length.
+- Small circular hole near the middle.
+- Small rectangular slot near one end.
+- Rectangular slot on one end.
+- Central rectangular cutout.
+
+[PROTRUSIONS]
+- Small protrusion on one end.
+- Rounded end cap on the opposite side.
+- Slight bulge in the middle section.
+- Flat end cap on one side.
+- Protruding tab on the side of the cylinder.
+
+[RELATIVE_POSITIONS]
+- Central hole runs parallel to the length.
+- Protrusion positioned at the opposite end of the central hole.
+- Flat surface positioned on the shorter end.
+- Raised rim encircles the central opening evenly.
+- Slot positioned closer to the left end.
+- Protruding section positioned at the opposite end of the slot.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 16/17 (Images 226-240)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is a cylindrical rod.
+This part features a central circular opening.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a straight cylindrical rod.
+This part features a central cylindrical shaft.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is cylindrical in shape.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a central circular hole.
+
+**Holes & Slots:**
+There is a small protrusion on one end.
+The cylindrical body has a uniform diameter.
+This part includes a flat end cap on one side.
+The central opening is surrounded by a raised rim.
+There is a smaller cylindrical protrusion on one end.
+The rod has a uniform diameter along its length.
+This part includes a hollow section in the middle.
+The cylindrical rod has a smooth outer surface.
+The rod has a uniform diameter throughout its length.
+There is a small circular hole near the middle.
+The part includes a rectangular slot on one end.
+The other end of the rod has a protruding section.
+There is a small circular protrusion near one end.
+The rod has a uniform diameter throughout its length.
+This part includes a cylindrical extension on one side.
+The central hole runs the full length of the rod.
+There is a small rectangular slot near the right end.
+The cylindrical body has a uniform diameter throughout.
+The left end of the component is capped with a flat surface.
+The right end includes a protruding section with a cutout.
+There is a small protrusion on one end.
+The cylindrical body has a uniform diameter.
+This part includes a flat end cap on one side.
+The central hole is aligned with the cylinder's axis.
+There is a small circular hole near the middle.
+The rod has a uniform diameter throughout its length.
+This part includes a slight protrusion at one end.
+The cylindrical rod has a flat surface on one side.
+The rod has a uniform diameter throughout its length.
+There is a circular hole in the middle of the rod.
+The rod has a protruding section at one end.
+This part includes a smaller circular hole near the protruding section.
+The rod has a uniform diameter throughout its length.
+There is a small circular hole near one end of the rod.
+The other end of the rod is capped with a flat surface.
+The rod has a slight taper towards one end.
+There is a small rectangular slot near the left end.
+The rod has a uniform cylindrical shape.
+This part includes a circular hole in the middle section.
+The cylindrical rod has a consistent diameter throughout.
+There is a small rectangular slot near the middle.
+The rod has a uniform cylindrical shape.
+This part includes a protruding circular feature at one end.
+The cylindrical rod has a smooth outer surface.
+The rod has a uniform diameter throughout its length.
+There is a circular hole in the middle of the rod.
+The rod has a protruding section at one end.
+This part includes a smaller cylindrical extension on one side.
+There is a small protrusion on one end.
+The cylindrical body has a uniform diameter.
+This part includes a flat end cap on one side.
+The central hole is aligned with the cylinder's axis.
+There is a small rectangular slot near the left end.
+The rod has a uniform cylindrical shape.
+This part includes a circular hole in the middle section.
+A rectangular slot is present close to the right end.
+There is a small rectangular slot near the left end.
+The cylindrical body has a uniform diameter throughout.
+The component has a protruding circular feature on one side.
+This part includes a small circular indentation on the surface.
+
+**Protrusions:**
+The part has a slight taper towards one end.
+There is a small notch near the flat end.
+The part has a slight taper towards one end.
+There is a flange at the end of the rod.
+The central section is slightly thicker than the ends.
+The protruding section is perpendicular to the main rod.
+The rod has a slight taper towards one end.
+There is a flat surface on the opposite end of the protrusion.
+The component has a slight bulge in the middle section.
+The central opening is surrounded by a raised rim.
+The part has a slight indentation near the middle.
+There is a small cylindrical extension on the opposite end.
+The component has a rounded end cap on one side.
+There is a small notch near the opposite end.
+The rod has a flat surface along its length.
+The central hole is aligned with the rod's axis.
+The rod has a protruding section in the middle.
+The protruding section is perpendicular to the rod's main axis.
+The part has a slight protrusion at the center.
+There is a small raised section in the middle.
+The component has a slight indentation along its length.
+There is a raised circular section on one side.
+The rod has a flat surface along its length.
+The component has a rounded end on one side.
+The part has a slight indentation near the middle.
+There is a small cylindrical extension on the opposite end.
+The part has a smooth cylindrical body.
+There are no raised edges along the sides.
+The cylindrical part has a slight bulge near the middle.
+There is a raised circular ridge along the length of the cylinder.
+
+**Relative Positions:**
+The protrusion is aligned parallel to the cylinder's axis.
+The flat end cap is perpendicular to the cylindrical body.
+The central opening is aligned with the rod's axis.
+The flange is positioned at the opposite end of the smaller protrusion.
+The circular hole is aligned with the central axis.
+The rectangular slot is positioned at a right angle to the rod.
+The cylindrical extension is aligned parallel to the main rod.
+The central hole is positioned symmetrically along the rod.
+The rectangular slot is aligned parallel to the cylindrical axis.
+The protruding section on the right end is positioned adjacent to the central opening.
+The flat end cap is positioned at one end of the cylinder.
+The small protrusion is located near the flat end cap.
+The central hole is aligned with the rod's axis.
+The protrusion is positioned at the shorter end of the rod.
+The protruding section is positioned at the end of the rod.
+The smaller hole is located adjacent to the protruding section.
+The flat cap is positioned at the opposite end of the small circular hole.
+The small circular hole is aligned with the central axis of the rod.
+The rectangular slot is aligned parallel to the rod's length.
+The central hole is positioned symmetrically along the rod.
+The central hole is aligned with the rod's axis.
+The rectangular slot is positioned symmetrically along the rod.
+The central hole is aligned with the rod's axis.
+The protruding section is positioned at the opposite end of the central hole.
+The flat end cap is positioned at one end of the cylinder.
+The small protrusion is located near the flat end cap.
+The circular hole is centrally aligned with the rod.
+The rectangular slot is positioned symmetrically near the ends.
+The rectangular slot is positioned adjacent to the central hole.
+The protruding feature is located towards the right end of the cylinder.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical rod with a central circular hole.
+- Uniform diameter throughout the length.
+- Flat end cap on one side.
+
+[HOLES_SLOTS]
+- Central circular hole aligned with the rod's axis.
+- Small circular hole near the middle.
+- Small rectangular slot near one end.
+
+[PROTRUSIONS]
+- Slight taper towards one end.
+- Small protrusion on one end.
+- Flat surface on the opposite end of the protrusion.
+
+[RELATIVE_POSITIONS]
+- Central hole is positioned symmetrically along the rod.
+- Flat end cap is perpendicular to the cylindrical body.
+- Rectangular slot is positioned at a right angle to the rod.
+- Protruding section is positioned at the end of the rod.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 17/17 (Images 241-251)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 11 images of the same component:
+
+**Global Shape:**
+The component is a cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a straight cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is a cylindrical rod.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a central cylindrical shaft.
+The component is a straight cylindrical rod.
+This part features a central cylindrical section.
+The component is cylindrical in shape.
+This part features a central circular opening.
+
+**Holes & Slots:**
+There is a small rectangular slot near the left end.
+The cylindrical rod has a uniform diameter throughout its length.
+The central hole runs the full length of the rod.
+The slot is positioned perpendicular to the rod's axis.
+The rod has a uniform diameter throughout its length.
+There is a small circular hole near one end.
+The other end of the rod is capped with a flat surface.
+This part includes a protruding section in the middle.
+The rod has a uniform diameter throughout its length.
+There is a small circular hole near the middle.
+The part includes a rectangular slot on one end.
+The slot is aligned parallel to the rod's axis.
+There is a small rectangular slot near the middle.
+The rod has a uniform cylindrical shape.
+This part includes a protruding section at one end.
+The cylindrical rod has a smooth outer surface.
+The rod has a uniform diameter throughout its length.
+There is a circular hole in the middle of the rod.
+The rod has a flange at one end.
+The other end of the rod is capped with a rounded protrusion.
+There is a small rectangular slot near the middle.
+The rod has a uniform cylindrical shape.
+This part includes a circular hole at one end.
+The cylindrical rod has a consistent diameter throughout.
+There is a circular hole in the middle of the rod.
+The rod has a uniform diameter throughout its length.
+This part includes a small protrusion at one end.
+The cylindrical rod has a flat surface on both ends.
+There is a small rectangular slot near the left end.
+The rod has a uniform cylindrical shape.
+This part includes a protruding section in the middle.
+The cylindrical rod has a smooth outer surface.
+The rod has a uniform diameter throughout its length.
+There is a small circular hole near the middle section.
+The part includes a rectangular slot on one end.
+The other end of the rod has a protruding cylindrical section.
+The rod has a uniform diameter throughout its length.
+There is a small circular hole near the middle.
+The part includes a rectangular slot on one end.
+The slot is aligned parallel to the rod's axis.
+There is a small rectangular slot near one end.
+The cylindrical body has a uniform diameter throughout.
+The part includes a protruding section at one end.
+The central opening is surrounded by a raised rim.
+
+**Protrusions:**
+The rod has a slight protrusion at the left end.
+The right end of the rod is slightly wider than the central section.
+The central protrusion is slightly wider than the rest of the rod.
+The rod has a symmetrical design with equal lengths on both sides.
+The rod has a slight protrusion at one end.
+The protrusion is perpendicular to the rod's main body.
+The part has a slight indentation along the length.
+There is a rounded protrusion at the end of the rod.
+The flange has a slight elevation from the main body.
+The rounded protrusion is smooth and flush with the rod's surface.
+The part has a protruding section at one end.
+There is a raised circular feature on one side.
+The component has a slight taper towards one end.
+There is a rounded end cap on the shorter side.
+The central protrusion is slightly raised.
+There is a small notch on the left side.
+The rod has a slight bulge in the middle section.
+The cylindrical shaft is connected to a smaller diameter section.
+The rod has a slight protrusion at one end.
+The protrusion is perpendicular to the rod's main body.
+The cylindrical part has a flanged end.
+The flanged end has a circular indentation.
+
+**Relative Positions:**
+The central hole is aligned with the rod's central axis.
+The protrusion at the left end is adjacent to the slot.
+The small circular hole is aligned with the central protrusion.
+The flat cap is positioned at the opposite end of the small circular hole.
+The circular hole is positioned centrally along the rod.
+The rectangular slot is located at the opposite end of the hole.
+The central hole is aligned with the rod's axis.
+The rectangular slot is positioned symmetrically along the rod.
+The circular hole is aligned with the central axis of the rod.
+The flange is positioned at one end, opposite the rounded protrusion.
+The rectangular slot is aligned centrally on the rod.
+The protruding section is positioned at the opposite end of the slot.
+The central hole aligns perfectly with the rod's axis.
+The protrusion is positioned at the opposite end of the central hole.
+The slot is aligned parallel to the rod's length.
+The protrusion divides the rod into two equal sections.
+The rectangular slot is aligned parallel to the rod's length.
+The protruding section is positioned centrally on the rod.
+The circular hole is positioned centrally along the rod.
+The rectangular slot is located at the opposite end of the hole.
+The rectangular slot is aligned parallel to the cylinder's axis.
+The protruding section is perpendicular to the main body.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Straight cylindrical rod configuration.
+- Central cylindrical section throughout the length.
+- Uniform diameter along the entire rod.
+
+[HOLES_SLOTS]
+- One central circular hole running the full length of the rod.
+- Small rectangular slot near one end, aligned parallel to the rod's axis.
+- Small circular hole near one end.
+- Small rectangular slot near the middle, aligned parallel to the rod's axis.
+
+[PROTRUSIONS]
+- Slight protrusion at one end, perpendicular to the rod's main body.
+- Central protrusion slightly wider than the rest of the rod.
+- Rounded protrusion at the end of the rod.
+- Flanged end with a slight elevation from the main body.
+
+[RELATIVE_POSITIONS]
+- Central hole aligned with the rod's central axis.
+- Rectangular slot positioned at the opposite end of the central hole.
+- Small circular hole aligned with the central protrusion.
+- Flat cap positioned at the opposite end of the small circular hole.
+- Protruding section positioned centrally on the rod.
+----------------------------------------------------------------------
+

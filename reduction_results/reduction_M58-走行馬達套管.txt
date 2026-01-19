@@ -1,0 +1,2888 @@
+Reduction Phase Results for Class: M58-走行馬達套管
+Total Images: 211
+Batch Size: 15
+======================================================================
+
+
+======================================================================
+BATCH 1/15 (Images 1-15)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component has a cylindrical shape with a hollow interior.
+This part features a large circular opening on one side.
+The component is cylindrical in shape.
+This part features a flat top surface.
+The component is a cylindrical metal piece.
+This part features a flat top surface.
+The component is a cylindrical metal piece.
+This part features a smooth outer surface.
+The component has a cylindrical shape.
+This part features a smooth, rounded edge.
+The component is a cylindrical shape.
+This part features a smooth outer surface.
+The component is a cylindrical shape with rounded edges.
+This part features a smooth, continuous outer surface.
+The component is cylindrical in shape.
+This part features a large central hole.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is cylindrical in shape.
+This part features a large central hole.
+The component is a cylindrical tube.
+This part features a hollow interior.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is a cylindrical metal piece.
+This part features a smooth outer surface.
+The component is a cylindrical metal piece.
+This part features a smooth outer surface.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+
+**Holes & Slots:**
+There is a rectangular slot cut into the side of the cylinder.
+The object is designed with a smooth outer surface.
+The cylindrical part includes a smaller circular hole near the base.
+This component has a central void running through its length.
+It contains a central circular hole.
+There is a rectangular slot near the top edge.
+The part has a protruding section at the top.
+A small circular indentation is present on the side.
+It contains a central circular hole.
+There is a rectangular slot near the bottom edge.
+The part has a raised rim around the circumference.
+Several smaller holes are arranged symmetrically around the central hole.
+It contains a central circular hole.
+There is a small slot near the top edge.
+The part has a flat base at the bottom.
+A larger circular hole is positioned near the top.
+It contains a central circular hole.
+There is a small slot near the bottom edge.
+The part has a flat top surface.
+A larger circular hole is positioned near the side.
+It contains a central circular hole.
+There is a small slot near the top edge.
+The part has a flat base.
+A rectangular cutout is present on one side.
+It contains a central circular hole running through its length.
+There is a small slot on the side near the top edge.
+The part has a flat base at the bottom.
+A larger circular indentation is present on one side.
+There is a smaller rectangular slot near the top edge.
+The object has a smooth outer surface.
+The cylindrical part has a hollow interior.
+This component includes a curved indentation on one side.
+There is a rectangular slot near the bottom edge.
+The object has a curved outer edge.
+The part includes a semi-circular cutout on one side.
+There is a small notch on the top side.
+There is a smaller circular hole near the top edge.
+The object has a rectangular slot on one side.
+The part includes a curved protrusion on the top.
+This component has a flat base.
+It contains a large circular hole in the center.
+There is a smaller circular hole near the top edge.
+The part has a flat protrusion on one side.
+This section includes a rectangular slot on the side.
+There is a rectangular slot near the bottom edge.
+The object has a curved outer edge.
+The part includes a semi-circular cutout on one side.
+There is a small notch on the top side.
+It contains a central circular hole.
+There is a small slot near the bottom edge.
+The part has a flat top surface.
+A larger circular hole is positioned near the side.
+It contains a central circular hole.
+There is a small slot near the top edge.
+The part has a flat base.
+A larger circular hole is positioned near the bottom.
+There is a rectangular slot near the top edge.
+The object has a central circular opening.
+This part includes a small slot on the side.
+The component has a large circular cutout.
+
+**Protrusions:**
+The part has a flat protrusion on the top edge.
+There is a slight indentation along the side of the cylinder.
+The component has a raised rim along the circumference.
+There are two parallel slots on the side.
+The component has a protruding section at the top.
+The cylindrical body has a consistent diameter throughout.
+The component has a slight indentation along the sides.
+There are raised edges around the central hole.
+The component has a slight protrusion along the bottom.
+There are raised edges on the sides.
+The component has rounded edges.
+There are raised sections along the circumference.
+The component has a slight protrusion along the top edge.
+There are raised ridges along the vertical sides.
+The part has a raised rim along the circular opening.
+There is a protruding edge on the side of the cylinder.
+The part has raised edges along the sides.
+The component has a flat protrusion on the left side.
+The cylindrical part has a raised rim along the top edge.
+There is a small notch on the side of the component.
+The component has raised edges along the circumference.
+There is a slight indentation on the outer surface.
+The part has raised edges along the sides.
+The component has a flat protrusion on the left side.
+The component has a slight indentation along the circumference.
+There are raised edges around the perimeter.
+The component has rounded edges.
+There are raised ridges along the sides.
+The part has raised edges along the sides.
+There are protruding sections on the outer edges.
+
+**Relative Positions:**
+The rectangular slot is positioned adjacent to the main circular opening.
+The smaller circular hole is aligned parallel to the larger opening.
+The central hole is aligned with the cylindrical body.
+The protruding section is positioned directly above the central hole.
+The rectangular slot is aligned parallel to the central axis.
+The protruding section is positioned directly above the central hole.
+The slot is aligned parallel to the base.
+The central hole is surrounded by a ring of smaller holes.
+The central hole is aligned with the main body.
+The slot is positioned adjacent to the central hole.
+The central hole is aligned with the base.
+The slot is positioned parallel to the base.
+The central hole aligns with the flat base at the bottom.
+The slot on the side is positioned parallel to the protrusion.
+The central hole is aligned with the cylindrical axis.
+The rectangular slot is positioned adjacent to the central hole.
+The circular hole is positioned adjacent to the rectangular slot.
+The semi-circular cutout is aligned with the flat protrusion.
+The central hole is aligned with the rectangular slot.
+The curved protrusion is positioned adjacent to the rectangular slot.
+The central hole is aligned with the main axis.
+The rectangular slot is positioned adjacent to the flat protrusion.
+The circular hole is positioned adjacent to the rectangular slot.
+The semi-circular cutout is aligned with the flat protrusion.
+The central hole is aligned with the main axis.
+The slot is parallel to the central hole.
+The central hole is aligned with the flat base.
+The slot is parallel to the central hole.
+The rectangular slot is positioned adjacent to the circular hole.
+Several smaller openings are arranged around the central hole.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical shape with a hollow interior.
+- Flat top surface.
+- Smooth outer surface.
+- L-shaped metal piece in some instances.
+
+[HOLES_SLOTS]
+- Large central circular hole.
+- Rectangular slots near the top and bottom edges.
+- Smaller circular holes near the base and top edges.
+- Central void running through the length.
+- Semi-circular cutout on one side.
+- Small slot near the top and bottom edges.
+
+[PROTRUSIONS]
+- Flat protrusion on the top edge.
+- Raised rim around the circumference.
+- Raised edges around the central hole.
+- Slight indentation along the sides.
+- Raised sections along the circumference.
+- Flat protrusion on the left side.
+
+[RELATIVE_POSITIONS]
+- Rectangular slot adjacent to the main circular opening.
+- Protruding section positioned directly above the central hole.
+- Slot aligned parallel to the base.
+- Central hole surrounded by a ring of smaller holes.
+- Slot positioned adjacent to the central hole.
+- Central hole aligned with the flat base at the bottom.
+- Slot positioned parallel to the central hole.
+- Rectangular slot positioned adjacent to the circular hole.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 2/15 (Images 16-30)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component has a cylindrical shape with rounded edges.
+This part features a smooth, continuous outer surface.
+The component has a cylindrical shape with a hollow interior.
+This part features a large circular opening on one end.
+The component is a cylindrical tube.
+This part features a hollow interior.
+The component is a cylindrical metal piece.
+This part features a smooth outer surface.
+The component is a rectangular block with rounded edges.
+This part features a central circular indentation.
+The component is cylindrical in shape.
+This part features a large central circular opening.
+The component is a cylindrical roll.
+This part features a flat top surface.
+The component is a cylindrical roll.
+This part features a flat top surface.
+The component is a rectangular block with rounded edges.
+This part features a central circular indentation.
+The component is a cylindrical metal piece.
+This part features a flat top surface.
+The component has a cylindrical shape with a flat top.
+This part features a large central hole.
+The component is a cylindrical roll.
+This part features a smooth outer surface.
+The component is a cylindrical roll.
+This part features a smooth outer surface.
+The component has a cylindrical shape with rounded edges.
+This part features a smooth, continuous surface without interruptions.
+
+**Holes & Slots:**
+There is a rectangular slot near the top edge.
+The object has a central circular opening.
+A small slot is positioned on the side.
+The part includes a large circular cutout.
+It contains a central circular hole running through its length.
+There is a small slot on one side of the cylinder.
+The part has a flat base at the bottom.
+This component includes a series of evenly spaced notches along its circumference.
+There is a smaller circular hole near the base.
+The object has a smooth outer surface.
+The part includes a rectangular slot on the side.
+This component has a flat base extending from the cylinder.
+It contains a single circular opening at one end.
+There is a smaller circular hole near the base.
+The part has a flat protrusion on one side.
+The cylindrical shape is consistent throughout.
+It contains a central circular hole.
+There is a small slot near the top edge.
+The part has a flat base at the bottom.
+A larger circular hole is positioned near the top.
+There is a small slot on the left side.
+The object has a large rectangular cutout on the top surface.
+The part includes a series of evenly spaced holes along the bottom edge.
+This component has a single elongated slot near the right side.
+There is a smaller circular hole near the top edge.
+The object has a hollow interior.
+This part includes a rectangular slot on one side.
+The cylindrical part has a flat top surface.
+The roll has a rectangular protrusion at the top.
+There is a central cylindrical body.
+The top protrusion is slightly angled.
+The cylindrical body is uniform in shape.
+The roll has a rectangular protrusion at the top.
+There is a central cylindrical body.
+The top protrusion is slightly angled.
+The cylindrical body is uniform in shape.
+There is a small slot near the bottom edge.
+The object has a flat top surface.
+The part includes a large rectangular cutout on one side.
+There is a smaller circular hole adjacent to the rectangular cutout.
+It contains a single large circular hole in the center.
+There is a smaller circular hole near the bottom edge.
+The part has a rectangular slot on the side.
+A small notch is present on the top surface.
+There is a rectangular slot near the top edge.
+The cylindrical body has a smooth outer surface.
+The top section is slightly wider than the main body.
+The component includes a protruding section at the top.
+The roll has a consistent diameter throughout its length.
+There is a slight taper towards one end of the roll.
+The component has a flat base supporting the roll.
+The roll is designed to hold material tightly wound around it.
+The roll has a consistent diameter throughout its length.
+There is a slight indentation at one end of the roll.
+The roll is designed with a hollow core.
+The edges of the roll are well-defined and straight.
+The object contains a central circular opening.
+There is a small rectangular slot near the bottom edge.
+The cylindrical part has a uniform diameter throughout its length.
+This component includes a large circular hole in the middle.
+
+**Protrusions:**
+The component has raised edges along the sides.
+There are protruding sections on the outer edges.
+The cylinder has a slight protrusion on the top edge.
+There are two small indentations on the side surfaces.
+The part has a slight indentation along the top edge.
+The cylindrical section tapers slightly towards the end.
+The edges are smoothly rounded.
+The flat protrusion extends outward slightly.
+The component has raised edges along the sides.
+There are two smaller holes on the side.
+The part has raised edges along the top and bottom.
+There are two small protrusions on the left side.
+The component has a raised rim around the opening.
+There are two small protrusions on the side.
+The part has a consistent diameter throughout.
+The top section is wider than the body.
+The part has a flat base.
+The top protrusion is wider than the body.
+The component has a slight protrusion along the bottom edge.
+The part has a raised border around the perimeter.
+The component has a raised rim around the circumference.
+The sides of the part are slightly protruding.
+The main body is elongated vertically.
+The top protrusion is flat and extends outward.
+The edges of the roll are slightly raised.
+The roll has a hollow core at the center.
+The roll has a uniform thickness from top to bottom.
+The roll is positioned upright with the hollow core facing forward.
+The part has a slight protrusion along the top edge.
+There are raised edges on the sides of the cylinder.
+
+**Relative Positions:**
+The rectangular slot is adjacent to the circular hole.
+Several smaller openings are arranged around the central hole.
+The central hole is aligned with the main axis of the cylinder.
+The notches are positioned at regular intervals around the cylinder.
+The rectangular slot is positioned parallel to the base.
+The circular opening is aligned with the central axis of the cylinder.
+The circular opening is aligned with the flat protrusion.
+The smaller hole is positioned parallel to the main opening.
+The central hole is aligned with the flat base.
+The slot is parallel to the cylindrical axis.
+The central hole is surrounded by four smaller holes arranged symmetrically.
+The rectangular slot is positioned parallel to the bottom edge.
+The central hole is aligned with the main axis.
+The rectangular slot is positioned parallel to the base.
+The rectangular protrusion is centered on the top.
+The cylindrical body extends vertically from the base.
+The flat base supports the cylindrical body.
+The top protrusion is positioned centrally on the roll.
+The rectangular cutout is positioned on the left side.
+The smaller circular hole is located near the right edge.
+The central hole is aligned with the rectangular slot.
+The notch is positioned adjacent to the rectangular slot.
+The central hole runs through the length of the cylinder.
+The rectangular slot is aligned parallel to the cylinder's axis.
+The flat base is positioned perpendicular to the roll's axis.
+The roll's length is significantly greater than its diameter.
+The roll's surface is free of any protrusions or irregularities.
+The roll maintains a consistent shape along its entire length.
+The central hole is aligned with the main axis of the cylinder.
+Several smaller holes are evenly distributed around the central opening.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- L-shaped metal piece with a cylindrical form.
+- Smooth, continuous outer surface with rounded edges.
+- Cylindrical tube with a hollow interior and a flat top surface.
+- Rectangular block with rounded edges and a central circular indentation.
+
+[HOLES_SLOTS]
+- Large central circular hole.
+- Series of evenly spaced notches along the circumference.
+- Small rectangular slot near the top edge.
+- Smaller circular hole near the base.
+- Single elongated slot near the right side.
+- Rectangular slot on the side.
+- Smaller circular hole near the top edge.
+- Large rectangular cutout on the top surface.
+- Smaller circular hole adjacent to the rectangular cutout.
+- Small slot near the bottom edge.
+
+[PROTRUSIONS]
+- Flat protrusion on one side.
+- Raised edges along the sides.
+- Slight protrusion on the top edge.
+- Two small protrusions on the left side.
+- Raised rim around the opening.
+- Top protrusion is wider than the body.
+- Flat base supporting the roll.
+- Raised border around the perimeter.
+- Slightly raised edges on the sides of the cylinder.
+- Top protrusion is flat and extends outward.
+
+[RELATIVE_POSITIONS]
+- Rectangular slot adjacent to the circular hole.
+- Smaller holes arranged symmetrically around the central hole.
+- Central hole aligned with the main axis of the cylinder.
+- Notches positioned at regular intervals around the cylinder.
+- Rectangular slot parallel to the base.
+- Circular opening aligned with the flat protrusion.
+- Smaller hole positioned parallel to the main opening.
+- Central hole aligned with the flat base.
+- Slot parallel to the cylindrical axis.
+- Rectangular slot positioned parallel to the bottom edge.
+- Rectangular cutout on the left side.
+- Smaller circular hole located near the right edge.
+- Central hole aligned with the rectangular slot.
+- Notch positioned adjacent to the rectangular slot.
+- Central hole runs through the length of the cylinder.
+- Rectangular slot aligned parallel to the cylinder's axis.
+- Flat base positioned perpendicular to the roll's axis.
+- Roll's length significantly greater than its diameter.
+- Central hole aligned with the main axis of the cylinder.
+- Smaller holes evenly distributed around the central opening.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 3/15 (Images 31-45)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is cylindrical in shape.
+This part features a smooth outer surface.
+The component is cylindrical in shape.
+This part features a hollow interior.
+The component is cylindrical in shape.
+This part features a large central circular opening.
+The component is cylindrical in shape.
+This part features a hollow center.
+The component has a cylindrical shape with rounded edges.
+This part features a smooth, continuous surface without interruptions.
+The component has a rectangular shape with rounded corners.
+This part features a smooth, flat surface.
+The component has a cylindrical shape with a hollow center.
+This part features a large circular opening in the middle.
+The component has a cylindrical shape with a hollow center.
+This part features a large circular opening in the middle.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is cylindrical in shape.
+This part features a smooth outer surface.
+The component is a cylindrical metal piece.
+This part features a large central circular opening.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+
+**Holes & Slots:**
+It contains a central circular hole.
+There is a small slot near the top edge.
+The part has a flat base.
+A rectangular cutout is present on one side.
+It contains a central circular opening.
+There is a small rectangular slot near the top edge.
+The part has a flat base at the bottom.
+A large circular hole is present in the middle section.
+There is a small rectangular slot near the top edge.
+The object has a smooth outer surface.
+The cylindrical part includes a hollow interior.
+There is a circular indentation on one side.
+There is a small circular indentation on the side.
+The object has a flat circular face on one end.
+The part includes a protruding rim around the circumference.
+There is a narrow rectangular groove near the base.
+The object contains a central circular hole.
+There is a small slot near the bottom edge.
+The part has a flat top surface.
+The cylindrical body is uniform in width.
+It contains a single large circular hole in the center.
+There is a small rectangular slot near the bottom edge.
+The part has a slight indentation on one side.
+The component includes a narrow elongated slot on the top side.
+There is a rectangular slot cut into the side.
+The object has a smooth outer surface.
+The part includes a semi-circular cutout on one end.
+This component has a uniform hollow section throughout.
+There is a smaller circular cutout near the top edge.
+The object has a smooth outer surface with no additional features.
+The part includes a rectangular slot on one side.
+This component has a consistent diameter throughout its length.
+There is a rectangular slot near the edge.
+The object has a flat, wide base.
+The top section extends outward in a perpendicular direction.
+A small circular indentation is present on the side.
+There is a rectangular slot near the top edge.
+The object has a flat base with a protruding tab.
+The part includes a central circular opening.
+A small slot is located on the side of the component.
+There is a rectangular slot near the top edge.
+The object has a cylindrical protrusion on one side.
+The part includes a flat surface on the L-shaped corner.
+There is a small circular hole near the rectangular slot.
+There is a rectangular slot near the top edge.
+The object has a cylindrical protrusion on one side.
+The part includes a flat surface on the L-shaped corner.
+There is a small circular hole near the rectangular slot.
+It contains a central circular hole.
+There is a small slot near the top edge.
+The part has a flat base.
+A rectangular cutout is present on one side.
+There is a rectangular slot on the top side.
+The cylindrical object has a hollow interior.
+This part includes a circular hole near the center.
+The component has a smooth outer surface.
+There is a rectangular slot near the bottom edge.
+The object has a curved outer contour.
+The part includes a semi-circular cutout on one side.
+There is a smaller circular hole adjacent to the main slot.
+
+**Protrusions:**
+The component has rounded edges.
+There are raised sections along the circumference.
+The component has a raised rim along the top edge.
+There are two small protrusions on the side.
+The part has a slight protrusion along the top rim.
+The cylindrical structure has a consistent diameter throughout.
+The component has a slightly tapered outer edge.
+This part features a central cylindrical void.
+The component has a slight indentation along the sides.
+The edges are gently curved, forming a smooth transition.
+The part has raised edges along the left and right sides.
+There are two small circular holes near the bottom right corner.
+The part has a flat protrusion on the top edge.
+There is a small notch on the side of the component.
+The part has a slight indentation along the side.
+The cylindrical part has a uniform hollow interior.
+The part has raised edges along the sides.
+The component includes a protruding tab at the top.
+The part has raised edges along the sides.
+There are rounded protrusions on the top surface.
+The part has a raised edge along the vertical side.
+The component has a protruding tab on the top right.
+The component has a raised edge along the vertical side.
+The part includes a protruding tab on the horizontal side.
+The component has rounded edges.
+There are raised sections along the circumference.
+The part has a raised rim along the circular opening.
+There is a protruding edge on the side of the cylinder.
+The part has raised edges along the inner perimeter.
+The component has a smooth outer surface with no additional protrusions.
+
+**Relative Positions:**
+The central hole is aligned with the base.
+The slot is positioned parallel to the base.
+The central hole is aligned with the main body.
+The rectangular slot is positioned adjacent to the central hole.
+The central hole is aligned with the main axis of the cylinder.
+The slot is positioned parallel to the circular opening.
+The circular hole is aligned with the main axis.
+The protruding rim encircles the entire outer edge.
+The central hole is aligned with the main axis of the cylinder.
+The slot is positioned parallel to the central hole.
+The rectangular slot is positioned parallel to the top edge.
+The indentation is located on the left side, near the top edge.
+The rectangular slot is positioned near the bottom edge.
+The semi-circular cutout is aligned with the rectangular slot.
+The smaller circular cutout is aligned parallel to the main opening.
+The rectangular slot is positioned adjacent to the central hole.
+The rectangular slot is aligned parallel to the base.
+The circular hole is centrally positioned relative to the L-shape.
+The rectangular slot is positioned above the circular hole.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned above the central hole.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned above the circular hole.
+The cylindrical protrusion is aligned with the flat surface.
+The central hole is aligned with the base.
+The slot is positioned parallel to the base.
+The rectangular slot is aligned parallel to the cylinder's axis.
+The circular hole is positioned centrally within the cylinder.
+The rectangular slot is positioned parallel to the L-shape's corner.
+The semi-circular cutout is aligned with the curved side of the L-shape.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical shape with a hollow center.
+- Smooth outer surface.
+- L-shaped metal piece with a flat base.
+
+[HOLES_SLOTS]
+- Central circular hole.
+- Small rectangular slot near the top edge.
+- Rectangular cutout on one side.
+- Small circular indentation on the side.
+- Narrow rectangular groove near the base.
+- Semi-circular cutout on one end.
+- Smaller circular cutout near the top edge.
+- Rectangular slot near the top edge.
+- Rectangular slot near the bottom edge.
+- Small slot near the side.
+
+[PROTRUSIONS]
+- Raised rim along the top edge.
+- Two small protrusions on the side.
+- Flat protrusion on the top edge.
+- Slight indentation along the sides.
+- Raised edges along the left and right sides.
+- Protruding tab at the top.
+- Rounded protrusions on the top surface.
+- Protruding tab on the top right.
+- Protruding tab on the horizontal side.
+- Raised edge along the vertical side.
+
+[RELATIVE_POSITIONS]
+- Central hole aligned with the main body.
+- Slot positioned parallel to the base.
+- Rectangular slot adjacent to the central hole.
+- Slot positioned parallel to the circular opening.
+- Rectangular slot positioned near the bottom edge.
+- Semi-circular cutout aligned with the rectangular slot.
+- Smaller circular cutout aligned parallel to the main opening.
+- Rectangular slot positioned above the circular hole.
+- Cylindrical protrusion aligned with the flat surface.
+- Central hole aligned with the base.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 4/15 (Images 46-60)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component has a cylindrical shape with rounded edges.
+This part features a smooth, continuous surface without interruptions.
+The component is a cylindrical ring.
+This part features a central circular hole.
+The component is a cylindrical ring.
+This part features a central circular hole.
+The component is a cylindrical tube with a hollow interior.
+This part features a large circular opening in the center.
+The component has a circular central opening.
+This part features a large circular hole in the middle.
+The component is a circular ring with a central void.
+This part features a large circular hole in the middle.
+The component has a rectangular base with rounded edges.
+This part features a smooth, flat surface.
+The component has a rectangular base with rounded edges.
+This part features a smooth, flat surface.
+The component has a rectangular shape with rounded corners.
+This part features a smooth, flat surface.
+The component is a cylindrical metal piece.
+This part features a large central circular opening.
+The component has a rectangular shape with rounded corners.
+This part features a smooth, flat surface.
+The component is a cylindrical roll.
+This part features a hollow cylindrical shape.
+The component is a cylindrical roll.
+This part features a hollow cylindrical shape.
+The component is cylindrical in shape.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a central circular opening.
+
+**Holes & Slots:**
+It contains a central circular hole that runs through the middle.
+There is a small slot located near the bottom edge.
+The part has a flat base that supports its structure.
+A narrow rectangular cutout is present on one side.
+There is a small notch on the top edge.
+The object has a uniform circular outline.
+This part includes a large circular opening in the middle.
+There is a slight indentation on the side.
+There is a small notch on the top edge.
+The object has a uniform circular outline.
+This part includes a large circular opening in the middle.
+There is a slight indentation on the side.
+There is a smaller circular cutout near the bottom edge.
+The object has a smooth outer surface with no additional features.
+The part includes a rectangular slot on one side.
+This component has a consistent diameter throughout its length.
+There is a smaller circular cutout near the top edge.
+The object has a flat, circular profile.
+This part includes a central circular void.
+There is a circular indentation on one side.
+There is a smaller circular cutout near the top edge.
+The object has a uniform circular shape.
+This part includes a central circular opening.
+There is a circular indentation on the side.
+It contains a single large circular hole in the center.
+There is a smaller rectangular slot near the bottom edge.
+The part has a slight indentation on one side.
+The component includes a protruding tab on the right side.
+It contains a single large circular hole in the center.
+There is a small rectangular slot near the bottom edge.
+The part has a slight indentation on one side.
+A narrow elongated slot is present on the right side.
+It contains a single large circular hole in the center.
+There is a narrow rectangular slot near the bottom edge.
+The part has a slight indentation on one side.
+A small circular hole is positioned near the top right corner.
+There is a small rectangular slot near the top edge.
+The object has a smooth outer surface.
+The part includes a protruding flange on one side.
+This component has a hollow cylindrical shape.
+It contains a single large circular hole in the center.
+There is a narrow rectangular slot near the bottom edge.
+The part has a slight indentation on one side.
+A small circular hole is positioned near the top right corner.
+It contains a central circular opening.
+There is a small rectangular protrusion on the side.
+The part has a flat base at the bottom.
+This object has a smooth outer surface.
+It contains a central circular opening.
+There is a small protruding tab on one side.
+The part has a flat base at the bottom.
+This object has a uniform cylindrical form.
+There is a small rectangular slot near the top edge.
+The object has a hollow core running through its length.
+The cylindrical part includes a protruding section on one side.
+This component has a flat base at the bottom.
+There is a small rectangular slot near the top edge.
+The cylindrical body has a smooth outer surface.
+The part includes a protruding section on one side.
+There is a circular hole near the bottom edge.
+
+**Protrusions:**
+The component has a slight protrusion along the top perimeter.
+Raised edges are visible along the sides of the cylinder.
+The part has a raised rim along the circumference.
+The component has a consistent circular shape.
+The part has a raised rim along the circumference.
+The component has a consistent circular shape.
+The cylindrical part has a slight indentation along the side.
+The edges of the component are rounded and smooth.
+The part has a raised rim around the perimeter.
+The component has a smooth outer edge.
+The part has a raised edge along the outer perimeter.
+The component has a smooth outer rim.
+The left side of the part has a raised edge.
+The top edge is slightly elevated compared to the rest.
+The component has a raised edge along the top perimeter.
+There are two small protrusions on the left side.
+The component has a raised edge along the left side.
+There is a protruding tab on the right side.
+The part has a raised rim along the circumference.
+There is a circular indentation on the side.
+The component has a raised edge along the left side.
+There is a protruding tab on the right side.
+The cylindrical roll has a slight taper towards the top.
+The component has a consistent diameter along its length.
+The component has a slight inward curve on the top edge.
+There is a small notch on the side.
+The part has a raised rim along the circular opening.
+There is a slight indentation on the side surface.
+The component has a raised rim along the top edge.
+The cylindrical part has a flat base.
+
+**Relative Positions:**
+The central hole is aligned with the main axis of the cylinder.
+The slot is positioned parallel to the circular hole.
+The central hole is perfectly round.
+The notch is positioned at the top right side.
+The central hole is perfectly round.
+The notch is positioned at the top right side.
+The central hole is aligned with the main axis of the cylinder.
+The rectangular slot is positioned parallel to the circular opening.
+The central hole is surrounded by a thick circular section.
+Several circular features are aligned around the main opening.
+The central hole is aligned with the circular edge.
+The circular cutouts are evenly spaced around the perimeter.
+The circular hole is centrally aligned with the rectangular slot.
+The protruding tab is positioned adjacent to the indentation.
+The circular hole is centrally aligned with the rectangular slot.
+The protrusions are positioned symmetrically on the left side.
+The rectangular slot is aligned parallel to the longer side.
+The circular hole is centrally located relative to the rectangular slot.
+The rectangular slot is aligned parallel to the cylinder's axis.
+The flange extends outward from the cylindrical body.
+The rectangular slot is aligned parallel to the top edge.
+The circular hole is centrally located relative to the rectangular slot.
+The central opening is aligned with the axis of the cylinder.
+The rectangular protrusion is positioned on the left side.
+The central opening is aligned with the cylindrical body.
+The protruding tab is positioned on the left side.
+The rectangular slot is aligned parallel to the cylindrical axis.
+The protruding section is positioned at a 90-degree angle from the main body.
+The rectangular slot is aligned parallel to the central axis.
+The protruding section is positioned on the right side.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical ring with a central void.
+- Smooth, continuous surface.
+- Hollow cylindrical shape.
+- Central circular opening.
+
+[HOLES_SLOTS]
+- Large central circular hole.
+- Small rectangular slots near the edges.
+- Small circular cutouts near the top and bottom edges.
+- Narrow rectangular slot on one side.
+
+[PROTRUSIONS]
+- Raised rim along the circumference.
+- Slight protrusion along the top perimeter.
+- Protruding tab on the right side.
+- Small protruding tab on one side.
+
+[RELATIVE_POSITIONS]
+- Central hole aligned with the main axis.
+- Rectangular slot parallel to the circular hole.
+- Circular cutouts evenly spaced around the perimeter.
+- Protruding tab adjacent to the indentation.
+- Rectangular slot aligned parallel to the cylinder's axis.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 5/15 (Images 61-75)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component has a rectangular base with a protruding tab at the top.
+This part features a flat, elongated body.
+The component has a rectangular base with a protruding tab at the top.
+This part features a flat, elongated body.
+The component has a rectangular base with rounded edges.
+This part features a smooth, flat surface.
+The component has a cylindrical shape with a flat top.
+This part features a large circular opening on one side.
+The component has a cylindrical shape with a flat top.
+This part features a large circular opening on one side.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component has a rectangular base with rounded edges.
+This part features a smooth, flat surface.
+The component has a rectangular shape with rounded corners.
+This part features a smooth, flat surface.
+The component has a rectangular shape with rounded corners.
+This part features a smooth, flat surface.
+The component has a cylindrical shape with a flat end.
+This part features a large central hole.
+The component has a rectangular base with rounded corners.
+This part features a smooth, flat surface.
+The component has a cylindrical shape with a hollow center.
+This part features a large circular hole in the middle.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+
+**Holes & Slots:**
+It contains a single large circular hole in the center.
+There is a smaller rectangular slot near the bottom edge.
+The part has a raised edge along the top side.
+The component includes a semi-circular cutout on one side.
+It contains a single large circular hole in the center.
+There is a smaller rectangular slot near the bottom edge.
+The part has a raised edge along the top side.
+The component includes a curved indentation on one side.
+It contains a single large circular hole in the center.
+There is a small rectangular slot near the bottom edge.
+The part has a slight indentation on one side.
+A narrow elongated slot is present on the right side.
+There is a small rectangular protrusion on the top edge.
+The object has a smooth, curved surface.
+It contains a central circular hole with a diameter spanning most of the width.
+A narrow slot is present near the bottom edge.
+There is a small rectangular protrusion on the top edge.
+The object has a smooth, curved surface.
+It contains a central circular hole with a diameter of approximately half the component's width.
+A narrow slot is present near the bottom edge of the component.
+There is a rectangular slot near the top edge.
+The object has a cylindrical protrusion on one side.
+The part includes a smaller circular hole adjacent to the main hole.
+There is a semi-circular notch on the side.
+It contains a single large circular hole in the center.
+There is a small rectangular slot near the bottom edge.
+The part has a slight indentation on one side.
+A narrow elongated slot is present on the right side.
+It contains a single large circular hole in the center.
+There is a small rectangular slot near the bottom edge.
+The part has a slight indentation on one side.
+A narrow elongated slot is present along the top edge.
+It contains a single large circular hole in the center.
+There is a small rectangular slot near the bottom edge.
+The part has a slight indentation on one side.
+A narrow elongated slot is present along the top edge.
+There is a smaller circular hole near the flat end.
+The object has a smooth outer surface.
+The part includes a rectangular slot on one side.
+This component has a hollow interior.
+It contains a single large circular hole near the center.
+There is a small rectangular slot on the left side.
+The right side of the component has a slight indentation.
+The top edge features a subtle curve.
+There is a smaller circular hole near the side.
+The object has a smooth outer surface.
+The part includes a rectangular slot on one end.
+This component has a flat base at the bottom.
+There is a rectangular slot near the top edge.
+The object has a central circular opening.
+The part includes a small slot on the side.
+It contains a large circular hole centrally located.
+There is a rectangular slot near the top edge.
+The object has a central circular opening.
+The part includes a small rectangular cutout on the side.
+This component has a large circular void in the middle.
+There is a rectangular slot near the bottom edge.
+The object has a curved outer edge.
+The part includes a semi-circular cutout on one side.
+There is a small notch on the top side.
+
+**Protrusions:**
+The part has a flat protrusion on the upper section.
+There is a small notch on the right side of the component.
+The protruding tab is positioned at the upper left corner.
+The rectangular slot is aligned parallel to the longer side.
+The component has a raised edge along the top perimeter.
+There are two small protrusions on the left side.
+The part has a raised rectangular section on the top.
+There are two small circular holes near the base.
+The part has a raised rectangular section on the top.
+There are two small circular holes near the base.
+The component has raised edges along the bottom.
+The part includes a flat protrusion on the top.
+The component has a raised edge along the top perimeter.
+There are two small protrusions on the left side.
+The component has a raised edge along the left side.
+There is a protruding tab on the right side.
+The component has a raised edge along the left side.
+There is a protruding tab on the right side.
+The part has a protruding edge along the curved side.
+The cylindrical shape is consistent throughout.
+The bottom edge is slightly elevated.
+The component has a protruding section on the right side.
+The part has a raised rim along the top edge.
+There are two parallel slots on the side.
+The part has raised edges along the sides.
+There are protruding sections on the top and bottom.
+The part has raised edges along the sides.
+There is a protruding tab on the top right.
+The part has raised edges along the sides.
+The component has a flat protrusion on the left side.
+
+**Relative Positions:**
+The circular hole is centrally aligned with the rectangular slot.
+The protruding tab is positioned directly above the central hole.
+The circular hole is centrally located on the flat surface.
+The raised edge runs along the top and bottom of the component.
+The circular hole is centrally aligned with the rectangular slot.
+The protrusions are positioned symmetrically on the left side.
+The rectangular protrusion is aligned parallel to the main body.
+The central hole is positioned centrally on the cylindrical surface.
+The rectangular protrusion is positioned centrally on the top edge.
+The circular hole is aligned with the central axis of the cylindrical shape.
+The rectangular slot is positioned parallel to the L-shape.
+Several smaller holes are arranged around the central opening.
+The circular hole is centrally aligned with the rectangular slot.
+The protrusions are positioned symmetrically on the left side.
+The circular hole is centrally aligned with the rectangular slot.
+The indentation is positioned adjacent to the protruding tab.
+The circular hole is centrally aligned with the rectangular slot.
+The indentation is positioned adjacent to the protruding tab.
+The central hole is aligned with the flat end.
+The rectangular slot is positioned adjacent to the central hole.
+The circular hole is aligned centrally with the rectangular slot.
+The indentation is positioned parallel to the rectangular slot.
+The central hole is aligned with the rectangular slot.
+The smaller hole is positioned adjacent to the rectangular slot.
+The rectangular slot is positioned adjacent to the circular hole.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned adjacent to the circular hole.
+Several smaller holes are arranged around the central opening.
+The circular hole is positioned centrally with respect to the L-shape.
+The rectangular slot is located adjacent to the semi-circular cutout.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular base with rounded edges.
+- Cylindrical shape with a flat top.
+- L-shaped metal piece.
+- Rectangular shape with rounded corners.
+- Smooth, flat surface.
+
+[HOLES_SLOTS]
+- One large circular hole in the center.
+- Small rectangular slot near the bottom edge.
+- Semi-circular cutout on one side.
+- Narrow elongated slot on the right side.
+- Small rectangular protrusion on the top edge.
+- Central circular hole with a diameter spanning most of the width.
+- Rectangular slot near the top edge.
+- Smaller circular hole adjacent to the main hole.
+- Semi-circular notch on the side.
+- Small notch on the top side.
+
+[PROTRUSIONS]
+- Flat protrusion on the upper section.
+- Small notch on the right side.
+- Protruding tab at the upper left corner.
+- Raised rectangular section on the top.
+- Two small protrusions on the left side.
+- Raised edge along the top perimeter.
+- Raised edges along the bottom.
+- Raised edge along the left side.
+- Protruding tab on the right side.
+- Raised rim along the top edge.
+
+[RELATIVE_POSITIONS]
+- Circular hole centrally aligned with the rectangular slot.
+- Protruding tab positioned directly above the central hole.
+- Raised edge runs along the top and bottom.
+- Protrusions positioned symmetrically on the left side.
+- Rectangular protrusion aligned parallel to the main body.
+- Central hole positioned centrally on the cylindrical surface.
+- Rectangular protrusion positioned centrally on the top edge.
+- Circular hole aligned with the central axis of the cylindrical shape.
+- Rectangular slot positioned parallel to the L-shape.
+- Indentation positioned adjacent to the protruding tab.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 6/15 (Images 76-90)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is a circular ring with a flat edge.
+This part features a large central circular opening.
+The component is a circular ring with a hollow center.
+This part features a large circular hole in the middle.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component has a rectangular base with rounded corners.
+This part features a large central circular opening.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is a cylindrical ring.
+This part features a central circular hole.
+The component is a cylindrical ring.
+This part features a central circular hole.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component has a circular central opening.
+This part features a large circular hole in the middle.
+The component is a cylindrical metal tube.
+This part features a hollow circular center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is a circular disc with a central void.
+This part features a large circular hole in the middle.
+
+**Holes & Slots:**
+There is a rectangular slot near the bottom edge.
+The object has a curved outer edge.
+The part includes a semi-circular cutout on one side.
+There is a small circular hole near the rectangular slot.
+There is a rectangular slot near the top edge.
+The object has a cylindrical protrusion on one side.
+The part includes a smaller circular hole adjacent to the main hole.
+There is a slot extending from the side of the L-shape.
+There is a rectangular slot on the top side.
+The object has a smooth outer perimeter.
+The part includes a protruding flat section on the side.
+This component has a consistent circular shape.
+There is a rectangular slot on the top edge.
+The object has a smooth outer perimeter.
+The part includes a protruding section on the side.
+This component has a consistent circular shape throughout.
+There is a rectangular slot near the top edge.
+The object has a central circular opening.
+A small slot is positioned on the right side.
+The part includes a large circular cutout.
+There is a rectangular slot near the top edge.
+The object has a central circular opening.
+A smaller circular hole is positioned near the bottom.
+The part includes a semi-circular cutout on one side.
+There is a small slot near the bottom edge.
+The object includes a semi-circular indentation on one side.
+This part has a flat top surface.
+The component has a smooth outer perimeter.
+There is a smaller circular cutout near the bottom edge.
+The object has a rectangular slot on the right side.
+The part includes a semi-circular notch on the left side.
+This component has a central circular opening.
+There is a small notch on the top edge.
+The object has a uniform circular outline.
+This part includes a large circular opening in the middle.
+There is a slight indentation on the side.
+There is a small notch on the top edge.
+The object has a uniform circular outline.
+This part includes a large circular opening in the middle.
+There is a slight indentation on the side.
+There is a rectangular slot near the top edge.
+The object has a central circular opening.
+This part includes a small circular hole on the side.
+The component has a slot positioned near the bottom edge.
+There is a smaller circular cutout near the top edge.
+The object has a flat, circular outer profile.
+This part includes a central circular void.
+There is a circular indentation on the side.
+There is a flat rectangular protrusion on one side.
+The object has a smooth outer surface.
+The cylindrical part has a consistent diameter throughout.
+This component includes a circular opening at one end.
+There is a smaller circular slot near the bottom edge.
+The object has a flat surface on one side.
+The part includes a curved protrusion on the right side.
+There is a rectangular cutout on the left side.
+There is a small notch on the upper left side.
+The object has a symmetrical circular shape.
+This part includes a central circular opening.
+There is a small notch on the upper right side.
+
+**Protrusions:**
+The part has raised edges along the sides.
+The component has a flat protrusion on the left side.
+The component has raised edges along the sides.
+The part includes a notch on the shorter arm of the L-shape.
+The part has a raised edge along the inner circumference.
+The component has a flat protrusion on the upper side.
+The ring has a raised edge along its circumference.
+The part includes a small notch on the side.
+The component has raised edges along the sides.
+There are protruding sections on the left side.
+The component has raised edges along the sides.
+There are two protruding sections on the left side.
+The part has a slight protrusion along the left side.
+There is a raised edge on the right side of the component.
+The part has raised edges along the top and bottom.
+There are two protruding sections on the left side.
+The part has a raised rim along the circumference.
+The component has a smooth outer edge.
+The part has a raised rim along the circumference.
+The component has a smooth outer edge.
+The part has raised edges along the sides.
+There are protruding sections on the left and right sides.
+The part has a raised rim around the perimeter.
+The component has a smooth outer edge.
+The part has a slight indentation along the circumference.
+There is a protruding edge on the top side.
+The component has a raised edge along the top.
+The part includes a notch on the bottom left corner.
+The part has a smooth outer rim.
+The component has a uniform circular outline.
+
+**Relative Positions:**
+The rectangular slot is positioned adjacent to the circular hole.
+The semi-circular cutout is located on the opposite side of the rectangular slot.
+The rectangular slot is positioned parallel to the longer side.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned near the top edge.
+The central circular hole is surrounded by a uniform ring.
+The rectangular slot is positioned above the central hole.
+The protruding section is aligned parallel to the circular edge.
+The rectangular slot is adjacent to the circular hole.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is adjacent to the central hole.
+Several smaller holes are arranged around the central opening.
+The central circular opening is surrounded by a flat area.
+A small notch is located near the bottom right corner.
+The circular hole is positioned centrally with a slot on the right.
+The semi-circular notch is adjacent to the rectangular slot.
+The central hole is perfectly round.
+The notch is positioned at a 45-degree angle from the main opening.
+The central hole is perfectly round.
+The notch is positioned at a 45-degree angle from the edge.
+The rectangular slot is positioned adjacent to the circular hole.
+Several smaller holes are arranged around the central opening.
+The central hole is surrounded by a raised circular border.
+Several smaller circular features are positioned around the central hole.
+The rectangular protrusion is aligned parallel to the cylinder's axis.
+The circular opening is centrally positioned within the cylinder.
+The large circular hole is positioned centrally.
+The smaller slot is located adjacent to the central hole.
+The small notches are positioned opposite each other.
+The central hole is surrounded by a continuous circular edge.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- L-shaped metal piece with a large central circular hole.
+- Cylindrical ring with a hollow center.
+- Rectangular base with rounded corners and a central circular opening.
+
+[HOLES_SLOTS]
+- Large central circular hole.
+- Rectangular slots near the top and bottom edges.
+- Semi-circular cutouts on one side.
+- Smaller circular holes adjacent to the main hole.
+- Small slot positioned on the right side.
+
+[PROTRUSIONS]
+- Raised edges along the sides.
+- Flat protrusion on the left side.
+- Notch on the shorter arm of the L-shape.
+- Raised edge along the inner circumference.
+- Slight protrusion along the left side.
+
+[RELATIVE_POSITIONS]
+- Rectangular slot adjacent to the circular hole.
+- Semi-circular cutout on the opposite side of the rectangular slot.
+- Smaller holes arranged around the central opening.
+- Rectangular slot positioned near the top edge.
+- Protruding section aligned parallel to the circular edge.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 7/15 (Images 91-105)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a circular ring with a central void.
+This part features a large circular hole in the middle.
+The component is a circular ring with a hollow center.
+This part features a large central circular opening.
+The component is a circular ring with a central void.
+This part features a large circular hole in the middle.
+The component is a circular ring with a hollow center.
+This part features a large central circular opening.
+The component is a circular ring with a hollow center.
+This part features a large central circular opening.
+The component is a circular ring with a hollow center.
+This part features a large central circular opening.
+The component is shaped like a ring with a hollow center.
+This part features a large circular opening in the middle.
+The component is shaped like a ring with a hollow center.
+This part features a large circular opening in the middle.
+The component is a cylindrical metal tube.
+This part features a central circular hole.
+The component is a circular ring with a central void.
+This part features a large circular hole in the middle.
+The component is a circular disc with a central void.
+This part features a large circular hole in the middle.
+The component has a circular outer shape.
+This part features a central circular hole.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is a circular ring with a hollow center.
+This part features a large central circular opening.
+The component is a circular disc with a central void.
+This part features a large circular hole in the middle.
+
+**Holes & Slots:**
+There is a small notch on the top edge of the ring.
+The ring has a uniform circular shape.
+This part includes a central circular opening.
+There is a slight indentation on the right side of the ring.
+There is a smaller circular cutout near the top edge.
+The object has a uniform circular shape.
+This part includes a central circular hole.
+There is a circular notch on the side.
+There is a small notch on the right side of the ring.
+The object has a uniform circular shape.
+This part includes a central circular opening.
+There is a slight indentation on the left side of the ring.
+There is a small notch on the right side of the ring.
+The object has a uniform circular shape.
+This part includes a central circular hole.
+There is a slight indentation on the left side of the ring.
+There is a smaller circular cutout near the top edge.
+The object has a uniform circular shape.
+This part includes a central circular hole.
+There is a circular notch on the side.
+There is a small notch cut out on the right side.
+The object has a uniform circular outline.
+This part includes a prominent circular void in the middle.
+There is a curved indentation on the lower right quadrant.
+There is a smaller circular cutout near the bottom edge.
+The object has a uniform circular profile.
+This part includes a central circular void.
+The design includes a circular hole with a slight indentation.
+There is a smaller circular cutout near the bottom edge.
+The object has a uniform circular outline.
+This part includes a central circular void.
+The design includes a prominent circular hole.
+There is a rectangular slot on the side.
+The object has a hollow circular center.
+This part includes a large circular opening.
+There is a small circular indentation near the edge.
+There is a small notch on the top edge of the ring.
+The ring has a uniform circular shape.
+This part includes a central circular opening.
+There is a small cutout near the bottom edge.
+There is a small notch on the upper left side.
+The object has a symmetrical circular shape.
+This part includes a central circular opening.
+There is a small notch on the upper right side.
+There is a small notch on the top edge.
+The object has a symmetrical circular form.
+It contains a large central circular opening.
+There is a small triangular cutout near the top.
+There is a rectangular slot near the bottom edge.
+The object has a curved outer profile.
+The part includes a central circular opening.
+A small slot is present on the side.
+There is a small notch cut out on the right side.
+The object has a symmetrical circular shape.
+This part includes a central circular hole.
+There is a curved indentation on the left side.
+There is a small notch on the upper left side.
+The object has a symmetrical circular shape.
+This part includes a central circular opening.
+There is a small notch on the upper right side.
+
+**Protrusions:**
+The part has a continuous circular outline.
+The ring has a consistent circular perimeter.
+The part has a continuous circular outline.
+The component has a circular profile with a central void.
+The part has a continuous circular outline.
+This component has a circular form with a hollow center.
+The part has a continuous circular outline.
+The component has a smooth circular perimeter.
+The part has a continuous circular outline.
+The component has a circular profile with a central void.
+The part has a continuous circular perimeter.
+The component has a smooth circular edge.
+The part has a raised circular rim around the perimeter.
+The component has a consistent circular outline.
+The part has a raised circular rim.
+The component has a continuous circular profile.
+The part has a raised edge along the circumference.
+The component has a protruding rim around the outer edge.
+The part has a smooth outer perimeter.
+The ring has a consistent circular outline.
+The part has a smooth outer edge.
+The component has a uniform circular outline.
+The part has smooth, continuous edges.
+The component has a uniform circular perimeter.
+The part has raised edges along the sides.
+The edges are slightly protruding.
+The part has a continuous circular outline.
+The component has a uniform circular perimeter.
+The part has a raised rim around the perimeter.
+The component has a smooth outer edge.
+
+**Relative Positions:**
+The notch on the top edge aligns with the circular shape.
+The central hole is perfectly circular within the ring.
+Several smaller circular indentations are around the central hole.
+The circular shape is consistent throughout the component.
+The circular ring has a notch on the upper right side.
+The central hole is surrounded by a smooth circular edge.
+The circular hole is positioned centrally within the ring.
+The notch on the right side aligns with the circular opening.
+Several smaller circular indentations are around the central hole.
+The circular shape has a consistent diameter throughout.
+The circular hole is centrally aligned with the ring.
+The notch on the right side is adjacent to the central hole.
+The circular hole is centrally aligned with the component.
+The smaller circular cutout is positioned adjacent to the main hole.
+The circular hole is centrally aligned with the component.
+The smaller circular cutout is positioned adjacent to the main hole.
+The central hole is aligned with the main body.
+The rectangular slot is positioned adjacent to the circular hole.
+The small notch is positioned symmetrically on the top.
+The central hole is perfectly aligned with the ring's center.
+The small notch is positioned opposite the other notch.
+The central hole is perfectly aligned with the circular outline.
+The small notch is positioned symmetrically on the top.
+The central hole is perfectly aligned with the circular shape.
+The circular hole is centrally located.
+The rectangular slot is positioned adjacent to the circular hole.
+The circular hole is centrally aligned with the ring.
+The notch on the right side is adjacent to the central hole.
+The small notches are positioned opposite each other.
+The central hole is surrounded by a raised rim.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Circular ring with a central void.
+- Cylindrical metal tube.
+- Circular disc with a central void.
+
+[HOLES_SLOTS]
+- Large central circular opening.
+- Small notch on the top edge.
+- Small notch on the right side.
+- Small notch on the left side.
+- Smaller circular cutout near the top edge.
+- Smaller circular cutout near the bottom edge.
+- Rectangular slot on the side.
+- Rectangular slot near the bottom edge.
+- Small triangular cutout near the top.
+
+[PROTRUSIONS]
+- Raised circular rim around the perimeter.
+- Smooth circular perimeter.
+- Smooth outer edge.
+- Raised edge along the circumference.
+
+[RELATIVE_POSITIONS]
+- Central hole is perfectly circular within the ring.
+- Notch on the top edge aligns with the circular shape.
+- Notch on the right side aligns with the circular opening.
+- Smaller circular cutout is positioned adjacent to the main hole.
+- Rectangular slot is positioned adjacent to the circular hole.
+- Small notch is positioned symmetrically on the top.
+- Small notches are positioned opposite each other.
+- Central hole is perfectly aligned with the ring's center.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 8/15 (Images 106-120)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is a circular ring with a hollow center.
+This part features a large central circular opening.
+The component is a circular ring with a hollow center.
+This part features a large central circular opening.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is a cylindrical metal ring.
+This part features a central circular hole.
+The component is a cylindrical metal tube.
+This part features a central circular hole.
+The component is a circular ring with a hollow center.
+This part features a large central circular opening.
+The component is a circular ring with a hollow center.
+This part features a large central circular opening.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is a circular ring with a hollow center.
+This part features a large central circular opening.
+The component is a circular metal ring.
+This part features a large central hole.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is a circular ring with a hollow center.
+This part features a large central circular opening.
+The component is a circular ring with a hollow center.
+This part features a large central circular opening.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+
+**Holes & Slots:**
+There is a rectangular slot near the bottom edge.
+The object has a curved outer contour.
+The part includes a semi-circular indentation on one side.
+There is a small circular hole adjacent to the slot.
+There is a small notch cut out on the right side.
+The object has a symmetrical circular shape.
+This part includes a central circular hole.
+There is a curved indentation on the left side.
+There is a small notch on the left side of the ring.
+The ring has a uniform circular shape.
+This part includes a circular cutout in the middle.
+The component has a circular outline with a central void.
+There is a rectangular slot near the bottom edge.
+The object has a curved outer contour.
+The part includes a semi-circular cutout on one side.
+There is a small oval slot adjacent to the main hole.
+There is a rectangular slot on the top side.
+The object has a hollow circular center.
+This part includes a large circular opening.
+There is a small rectangular cutout near the edge.
+There is a rectangular slot on the side.
+The object has a hollow circular center.
+This part includes a large circular opening.
+There is a small circular indentation near the edge.
+There is a small notch on the left side of the ring.
+The ring has a uniform circular shape.
+This part includes a circular cutout in the middle.
+The component has a circular outline with a central void.
+There is a small notch cut out from the left side.
+The object has a symmetrical circular shape.
+This part includes a wide circular perimeter.
+The component has a uniform circular outline.
+There is a rectangular slot near the bottom edge.
+The object has a curved outer edge.
+The part includes a semi-circular cutout on one side.
+There is a small notch on the top left corner.
+There is a small notch cut out on the right side.
+The object has a symmetrical circular shape.
+This part includes a prominent circular cutout in the middle.
+There is a curved indentation on the left side.
+There is a small notch on the right side.
+The object has a uniform circular shape.
+This part includes a prominent circular opening.
+There is a slight indentation on the left edge.
+There is a rectangular slot near the bottom edge.
+The object has a curved outer edge.
+The part includes a semi-circular cutout on one side.
+There is a small notch on the top left corner.
+There is a smaller circular cutout near the top edge.
+The object has a uniform circular outline.
+This part includes a central circular void.
+There is a circular indentation on the side.
+There is a smaller circular cutout near the top edge.
+The object has a uniform circular shape.
+This part includes a central circular hole.
+There is a circular indentation on the side.
+There is a small rectangular slot near the bottom edge.
+The object has a curved edge on the left side.
+The part includes a semi-circular protrusion on the right side.
+There is a small circular hole near the top left corner.
+
+**Protrusions:**
+The part has a raised edge along the inner curve.
+The component has a flat protrusion on the right side.
+The part has a continuous circular outline.
+The component has a uniform circular perimeter.
+The part has a raised edge along the outer circumference.
+The ring has a consistent circular profile.
+The part has a raised edge along the inner curve.
+The component has a protruding section on the right side.
+The part has a raised edge along the circumference.
+The component has a smooth outer rim.
+The part has a raised edge along the circumference.
+The component has a protruding rim around the outer edge.
+The part has a raised edge along the outer circumference.
+The ring has a consistent circular profile.
+The part has a slight indentation on the left side.
+There is a protruding edge on the bottom left.
+The part has raised edges along the sides.
+The component has a flat protrusion on the left side.
+The part has a continuous circular outline.
+This component has a circular form with a central void.
+The part has smooth, continuous outer edges.
+The component has a consistent circular outline.
+The part has raised edges along the sides.
+The component has a flat protrusion on the left side.
+The part has a raised circular rim along the perimeter.
+The component has a circular protrusion on one side.
+The part has a raised edge along the perimeter.
+The component has a continuous circular outline.
+The part has a raised edge along the bottom side.
+The component includes a flat protrusion on the left side.
+
+**Relative Positions:**
+The circular hole is positioned above the rectangular slot.
+The semi-circular indentation is aligned with the L-shape.
+The circular hole is centrally aligned with the ring.
+The notch on the right side is adjacent to the central hole.
+The notch is positioned on the left side of the circular ring.
+The central circular hole is surrounded by a continuous ring structure.
+The rectangular slot is positioned parallel to the L-shape's corner.
+Several smaller holes are arranged around the central circular opening.
+The rectangular slot is positioned above the central hole.
+The central hole is aligned with the rectangular slot.
+The central hole is aligned with the main axis.
+The rectangular slot is positioned adjacent to the circular hole.
+The notch is positioned on the left side of the circular ring.
+The central circular hole is surrounded by a continuous ring structure.
+The circular hole is centrally aligned with the ring.
+The notch is positioned adjacent to the circular opening.
+The circular hole is positioned centrally with respect to the L-shape.
+The rectangular slot is located adjacent to the semi-circular cutout.
+The circular shape has a uniform central hole.
+Several minor indentations are present around the circular perimeter.
+The notch is positioned asymmetrically on the right.
+The central hole is perfectly round and centered.
+The circular hole is positioned adjacent to the rectangular slot.
+The semi-circular cutout is aligned with the flat protrusion.
+The central circular hole is surrounded by a raised edge.
+Several smaller circular features are arranged around the central opening.
+Several smaller circular features are arranged around the central hole.
+The circular shape is consistent throughout the component.
+The large circular hole is positioned centrally with smaller holes around it.
+The rectangular slot is located near the bottom edge, adjacent to the semi-circular protrusion.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- L-shaped metal piece with a central circular hole.
+- Cylindrical metal ring with a hollow center.
+- Circular ring with a uniform circular outline and central void.
+
+[HOLES_SLOTS]
+- Large central circular hole.
+- Rectangular slot near the bottom edge.
+- Small circular hole adjacent to the slot.
+- Semi-circular indentation on one side.
+- Small notch cut out on the right side.
+- Small oval slot adjacent to the main hole.
+- Small rectangular cutout near the edge.
+- Small notch on the left side of the ring.
+- Small notch on the top left corner.
+- Smaller circular cutout near the top edge.
+
+[PROTRUSIONS]
+- Raised edge along the inner curve.
+- Flat protrusion on the right side.
+- Raised edge along the outer circumference.
+- Protruding section on the right side.
+- Raised edge along the sides.
+- Flat protrusion on the left side.
+- Circular protrusion on one side.
+- Raised edge along the bottom side.
+
+[RELATIVE_POSITIONS]
+- Circular hole centrally aligned with the ring.
+- Rectangular slot positioned parallel to the L-shape's corner.
+- Notch on the right side adjacent to the central hole.
+- Notch positioned on the left side of the circular ring.
+- Rectangular slot positioned above the central hole.
+- Semi-circular indentation aligned with the L-shape.
+- Small notch positioned asymmetrically on the right.
+- Semi-circular cutout aligned with the flat protrusion.
+- Central hole surrounded by a raised edge.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 9/15 (Images 121-135)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is a cylindrical metal ring.
+This part features a central circular hole.
+The component is a circular ring with a central void.
+This part features a large circular hole in the middle.
+The component is a circular ring with a flat edge.
+This part features a large central circular opening.
+The component is a cylindrical tube.
+This part features a hollow interior.
+The component is a cylindrical tube.
+This part features a large circular hole in the center.
+The component is a cylindrical tube.
+This part features a hollow interior.
+The component is a cylindrical tube with a hollow interior.
+This part features a large circular hole in the center.
+The component is a cylindrical tube.
+This part features a large circular hole in the center.
+The component is a cylindrical tube with a hollow interior.
+This part features a large circular hole in the center.
+The component is cylindrical in shape.
+This part features a hollow interior.
+The component has a cylindrical shape with a hollow center.
+This part features a large circular opening in the middle.
+The component is cylindrical in shape.
+This part features a hollow interior.
+The component is a cylindrical tube.
+This part features a hollow circular center.
+The component has a cylindrical shape with a hollow center.
+This part features a large circular opening in the middle.
+
+**Holes & Slots:**
+There is a rectangular slot near the bottom edge.
+The object has a curved protrusion on one side.
+The part includes a small circular hole near the top.
+There is a slot extending from the side of the L-shape.
+There is a rectangular slot on the top side.
+The object has a hollow circular center.
+This part includes a large circular opening.
+There is a small rectangular cutout near the edge.
+There is a rectangular slot on the top edge.
+The object has a smooth outer perimeter.
+The part includes a protruding section on the side.
+This component has a hollow circular design.
+There is a small rectangular slot on the top side.
+The object has a smooth outer perimeter.
+The part includes a protruding edge on the top.
+This component has a hollow circular design.
+It contains a large circular opening at one end.
+There is a smaller circular hole near the top edge.
+The part has a flat surface on one side.
+This section includes a curved edge along the circumference.
+There is a rectangular slot near the top edge.
+The object has a hollow interior.
+The cylindrical shape is consistent throughout.
+The part includes a flat surface on one end.
+It contains a large circular opening at one end.
+There is a smaller circular hole near the top edge.
+The part has a flat surface on one side.
+This section includes a curved edge along the circumference.
+There is a smaller circular hole near the top edge.
+The object has a smooth outer surface.
+The part includes a rectangular slot on one side.
+This component has a consistent diameter throughout its length.
+There is a rectangular slot near the top edge.
+The object has a hollow interior.
+The cylindrical shape is consistent throughout.
+The part includes a flat surface on one end.
+There is a smaller circular hole near the top edge.
+The object has a smooth outer surface.
+The part includes a rectangular slot on one side.
+This component has a consistent diameter throughout its length.
+It contains a large circular opening at one end.
+There is a smaller circular hole near the base.
+The part has a flat top surface.
+This section includes a shallow indentation on the side.
+There is a smaller circular hole near the top edge.
+The object has a flat protruding section on one side.
+The part includes a rectangular slot on the side.
+This component has a smooth outer surface with a central void.
+It contains a large circular opening at one end.
+There is a smaller circular hole near the base.
+The part has a flat top surface.
+This section includes a curved side profile.
+The object has a consistent outer diameter.
+There is a slight inward bend on one side.
+The part has a uniform thickness throughout.
+This cylindrical object has a closed end.
+There is a smaller circular hole near the top edge.
+The object has a flat protruding section on one side.
+The part includes a rectangular slot on the side.
+This component has a smooth outer surface with a central void.
+
+**Protrusions:**
+The part has raised edges along the inner curve.
+The component has a flat protrusion on the right side.
+The part has a raised edge along the circumference.
+The component has a smooth outer rim.
+The part has a raised edge along the circumference.
+There is a notch on the upper side of the ring.
+The part has a raised edge along the bottom side.
+The component has a consistent circular shape.
+The component has a smooth outer surface.
+There are no protrusions on the outer surface.
+The edges are smoothly rounded.
+The component has a uniform thickness.
+The component has a smooth outer surface.
+There are no protrusions on the outer surface.
+The part has a slight protrusion on the top edge.
+There is a raised edge along the bottom circumference.
+The edges are smoothly rounded.
+The component has a uniform thickness.
+The part has a slight protrusion on the top edge.
+The cylindrical shape is uniform without any bends.
+The component has a raised rim along the opening.
+There are two parallel grooves running along the length.
+The part has a raised rim around the central hole.
+There is a protruding lip on the top edge.
+The component has a raised rim along the opening.
+There are no protrusions on the outer surface.
+The component has a smooth outer surface.
+The part includes a flat end cap.
+The part has a raised rim around the central hole.
+There is a protruding lip along the top edge.
+
+**Relative Positions:**
+The circular hole is positioned adjacent to the rectangular slot.
+The rectangular slot is located near the bottom right corner.
+The rectangular slot is positioned above the central hole.
+The central hole is aligned with the rectangular slot.
+The rectangular slot is positioned above the central hole.
+The protruding section is aligned with the top edge.
+The rectangular slot is positioned near the top edge.
+The central circular hole is surrounded by a uniform ring.
+The central hole is aligned with the main axis of the cylinder.
+The smaller hole is positioned parallel to the central opening.
+The slot is aligned parallel to the circular hole.
+The flat surface is perpendicular to the cylindrical body.
+The central hole is aligned with the main axis of the cylinder.
+The smaller hole is positioned parallel to the central opening.
+The rectangular slot is positioned adjacent to the central hole.
+Several smaller holes are arranged around the central opening.
+The slot is aligned parallel to the circular hole.
+The flat surface is perpendicular to the cylindrical body.
+The central hole is aligned with the main axis of the cylinder.
+The rectangular slot is positioned parallel to the length of the cylinder.
+The central hole is aligned with the main axis.
+The smaller hole is positioned adjacent to the larger opening.
+The smaller hole is positioned adjacent to the central opening.
+The rectangular slot is aligned parallel to the cylindrical axis.
+The central hole is aligned with the main axis.
+The smaller hole is positioned parallel to the central opening.
+The central hole runs through the entire length.
+The inner surface is parallel to the outer surface.
+The smaller hole is positioned adjacent to the central opening.
+The rectangular slot is aligned parallel to the cylindrical axis.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical tube with a hollow interior.
+- L-shaped metal piece with a central circular hole.
+- Component features a consistent diameter throughout its length.
+
+[HOLES_SLOTS]
+- Large central circular hole.
+- Smaller circular hole near the top edge.
+- Rectangular slot near the top edge.
+- Rectangular slot near the bottom edge.
+- Rectangular slot on the top side.
+
+[PROTRUSIONS]
+- Flat protrusion on the right side.
+- Raised edge along the bottom side.
+- Raised rim around the central hole.
+- Protruding lip along the top edge.
+- Smooth outer rim.
+
+[RELATIVE_POSITIONS]
+- Central circular hole aligned with the main axis of the cylinder.
+- Rectangular slot positioned near the top edge.
+- Smaller hole positioned parallel to the central opening.
+- Rectangular slot positioned adjacent to the central hole.
+- Flat surface perpendicular to the cylindrical body.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 10/15 (Images 136-150)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is cylindrical in shape.
+This part features a large central hole.
+The component is cylindrical in shape.
+This part features a large central hole.
+The component is a cylindrical metal ring.
+This part features a central circular hole.
+The component is a cylindrical metal ring.
+This part features a central circular hole.
+The component has a cylindrical shape with a hollow interior.
+This part features a large circular opening on one side.
+The component is a cylindrical tube.
+This part features a large circular opening on one end.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is a cylindrical tube.
+This part features a large circular opening on one end.
+The component is a cylindrical tube.
+This part features a hollow circular center.
+The component is a cylindrical tube.
+This part features a large circular opening on one end.
+The component is a cylindrical tube.
+This part features a hollow interior.
+The component is a cylindrical tube.
+This part features a hollow interior.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+
+**Holes & Slots:**
+There is a rectangular slot near the top edge.
+The cylindrical part has a smooth outer surface.
+The component includes a smaller circular hole adjacent to the main hole.
+This part has a protruding section on one side.
+There is a smaller circular hole near the top edge.
+The object has a rectangular slot on one side.
+The part includes a protruding lip along the top edge.
+There is a small circular indentation on the side.
+There is a rectangular slot on one side.
+The object has a hollow circular center.
+The part includes a large circular opening.
+There is a small notch on the outer edge.
+There is a rectangular slot on one side.
+The object has a hollow circular center.
+The part includes a large circular opening.
+There is a small notch on the outer edge.
+There is a smaller circular hole near the base.
+The object has a curved outer edge.
+This part includes a rectangular slot on the side.
+The component has a smooth outer surface.
+There is a smaller circular hole near the base.
+The object has a hollow interior.
+This part includes a semi-circular cutout on the side.
+The cylindrical shape is consistent throughout.
+There is a rectangular slot near the top edge.
+The object has a central circular opening.
+A smaller circular hole is positioned near the side.
+The part includes a semi-circular cutout on one side.
+There is a rectangular slot near the top edge.
+The object has a central circular opening.
+This part includes a small circular hole on the side.
+The component has a slot running along the length.
+There is a rectangular slot near the side of the cylinder.
+The object has a hollow interior.
+The cylindrical part has a consistent diameter throughout.
+This component includes a semi-circular cutout on the top edge.
+The object has a consistent circular outer shape.
+There is a slight indentation on one side.
+The part has a uniform circular profile.
+This component includes a central circular void.
+There is a smaller rectangular slot near the side.
+The object has a smooth outer surface.
+The cylindrical part has a hollow interior.
+This component includes a curved edge on the top.
+It contains a large circular opening at one end.
+There is a smaller circular hole near the base.
+The part has a flat circular face on one side.
+This section includes a curved edge along the circumference.
+It contains a large circular opening at one end.
+There is a smaller circular hole near the base.
+The part has a flat circular face on one side.
+This section includes a slight indentation along the circumference.
+There is a rectangular slot near the edge.
+The object has a curved outer profile.
+The part includes a semi-circular cutout on one side.
+There is a small slot adjacent to the main hole.
+There is a rectangular slot near the edge.
+The object has a curved outer profile.
+The part includes a semi-circular cutout on one side.
+There is a small notch on the top edge.
+
+**Protrusions:**
+The cylindrical object has a flat top surface.
+There is a raised edge along the circumference of the cylinder.
+The component has a raised edge along the bottom.
+This part features a flat surface on the top.
+The part has raised edges along the circumference.
+The component has a smooth outer rim.
+The part has raised edges along the circumference.
+The component has a smooth outer rim.
+The part has a raised rim along the circular opening.
+There is a protruding edge on the top side.
+The edges of the component are smooth and rounded.
+The part has a flat base at the bottom.
+The component has raised edges along the sides.
+There are two protruding tabs on the longer side.
+The part has raised edges along the sides.
+There are protruding sections on the outer edges.
+The part has a smooth outer surface.
+The cylindrical shape is uniform in width.
+The part has a smooth outer cylindrical surface.
+The cylindrical shape is continuous along its length.
+The part has a flat base at the bottom.
+The cylindrical shape is consistent throughout.
+The component has a raised rim around the opening.
+There are no protrusions on the surface.
+The component has a smooth outer surface.
+There are no protrusions on the cylindrical surface.
+The part has raised edges along the sides.
+The component has a smooth outer contour.
+The part has raised edges along the sides.
+The component has a flat protrusion on one side.
+
+**Relative Positions:**
+The rectangular slot is positioned parallel to the central hole.
+The protruding section is located on the side opposite the slot.
+The central hole is aligned with the rectangular slot.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is adjacent to the central hole.
+The notch is positioned near the top edge.
+The rectangular slot is adjacent to the central hole.
+The notch is positioned near the top edge.
+The circular hole is positioned centrally on the side.
+The rectangular slot is located adjacent to the circular hole.
+The semi-circular cutout is positioned above the base.
+The large circular opening is aligned with the flat base.
+The rectangular slot is adjacent to the central hole.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned adjacent to the circular hole.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is aligned parallel to the cylinder's length.
+The semi-circular cutout is positioned adjacent to the rectangular slot.
+The circular hole is centrally aligned with the tube.
+The indentation is positioned on the outer circumference.
+The circular opening is aligned with the flat base.
+The rectangular slot is positioned adjacent to the circular opening.
+The central hole is aligned with the main axis.
+The smaller hole is positioned parallel to the central opening.
+The circular opening is centrally aligned with the tube.
+The smaller hole is positioned adjacent to the larger opening.
+The rectangular slot is positioned parallel to the L-shape.
+The semi-circular cutout is aligned with the L-shaped bend.
+The circular hole is positioned centrally on the L-shape.
+The rectangular slot is located adjacent to the circular hole.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical tube with a hollow interior.
+- L-shaped metal piece with a central circular hole.
+
+[HOLES_SLOTS]
+- Large central circular hole.
+- Smaller circular holes near the base and side.
+- Rectangular slots near the top edge and side.
+- Semi-circular cutouts on the side.
+
+[PROTRUSIONS]
+- Raised edges along the circumference.
+- Flat top surface and flat base.
+- Raised rim around the circular opening.
+- Two protruding tabs on the longer side.
+
+[RELATIVE_POSITIONS]
+- Rectangular slot adjacent to the central hole.
+- Semi-circular cutout positioned above the base.
+- Protruding section on the side opposite the slot.
+- Smaller holes arranged around the central opening.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 11/15 (Images 151-165)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is cylindrical in shape.
+This part features a hollow interior.
+The component is cylindrical in shape.
+This part features a hollow interior.
+The component is a cylindrical tube with a hollow center.
+This part features a large circular hole in the middle.
+The component is a cylindrical ring with a hollow center.
+This part features a large circular opening in the middle.
+The component is a cylindrical tube with a hollow center.
+This part features a large circular hole in the middle.
+The component is a cylindrical metal tube.
+This part features a central circular hole.
+The component is a cylindrical ring with a hollow center.
+This part features a large circular opening in the middle.
+The component is a cylindrical metal piece.
+This part features a large central circular opening.
+The component is cylindrical in shape.
+This part features a flat top surface.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is cylindrical in shape.
+This part features a large central hole.
+The component is cylindrical in shape.
+This part features a large central hole.
+The component is a cylindrical tube.
+This part features a large circular opening on one end.
+The component is a cylindrical tube.
+This part features a large circular opening on one end.
+
+**Holes & Slots:**
+It contains a large circular opening at one end.
+There is a smaller circular hole near the base.
+The part has a flat top surface.
+This section includes a shallow indentation on the side.
+It contains a large circular opening at one end.
+There is a smaller circular hole near the base.
+The part has a flat circular face on one side.
+This section includes a narrow slot along the side.
+There is a rectangular slot on the side of the cylinder.
+The object has a smooth outer surface with no additional features.
+The cylindrical part has a consistent diameter throughout its length.
+This component includes a single circular opening at one end.
+There is a rectangular slot cut into the side of the ring.
+The object has a smooth outer edge without any interruptions.
+The part includes a protruding lip on the top side.
+The cylindrical shape is consistent throughout the component.
+There is a rectangular slot on the side of the cylinder.
+The object has a smooth outer surface with no additional features.
+The cylindrical part has a consistent diameter throughout its length.
+This component includes a single circular opening at one end.
+There is a rectangular slot on the side.
+The object has a hollow circular center.
+This part includes a large circular opening.
+There is a small circular indentation near the edge.
+There is a rectangular slot cut into the side of the ring.
+The object has a smooth outer edge without any interruptions.
+The part includes a protruding lip on the top side.
+This component has a consistent thickness throughout its structure.
+There is a rectangular slot near the top edge.
+The cylindrical part has a flat top surface.
+The component includes a protruding rectangular section on the side.
+This part has a smooth outer cylindrical surface.
+It contains a central circular hole.
+There is a rectangular slot on the side.
+The cylindrical body has a consistent diameter.
+The top surface is perpendicular to the cylindrical body.
+There is a rectangular slot near the edge.
+The object has a curved outer surface.
+The part includes a semi-circular cutout on one side.
+There is a small circular indentation on the flat surface.
+There is a rectangular slot near the bottom edge.
+The object has a curved outer surface.
+The part includes a semi-circular cutout on one side.
+There is a small circular hole near the rectangular slot.
+There is a smaller circular hole near the top edge.
+The object has a flat top surface.
+The part includes a rectangular slot on the side.
+There is a protruding lip around the circumference.
+There is a smaller circular hole near the top edge.
+The object has a flat top surface.
+The part includes a rectangular slot on the side.
+There is a protruding lip around the circumference.
+There is a smaller circular hole near the center.
+The object has a smooth outer surface.
+This part includes a rectangular slot on the side.
+The cylindrical shape is consistent throughout.
+There is a smaller circular hole near the center.
+The object has a smooth outer surface.
+This part includes a rectangular slot on the side.
+The cylindrical shape is consistent throughout.
+
+**Protrusions:**
+The component has a raised rim along the circumference.
+There are two parallel grooves running along the length.
+The component has a raised rim around the opening.
+The part includes a slight indentation on the side.
+The part has a flat protrusion on the top edge.
+There is a slight indentation along the circumference of the cylinder.
+The ring has a raised edge along its circumference.
+The component maintains a uniform thickness around its perimeter.
+The part has a flat protrusion on the top edge.
+There is a slight indentation along the circumference of the cylinder.
+The part has a raised rim along the circumference.
+The component has a protruding edge on one side.
+The ring has a raised edge along its circumference.
+The part is designed with a uniform circular profile.
+The cylindrical object has a flat protruding edge on the top.
+There is a small circular indentation on the side.
+The part has a protruding flange at the top.
+The flange extends outward from the cylinder.
+The part has raised edges along the sides.
+The component has a protruding lip on the top edge.
+The part has raised edges along the inner perimeter.
+The component has a flat protrusion on the side.
+The component has a raised edge along the bottom.
+The part features a smooth outer surface.
+The component has a raised edge along the bottom.
+The part features a smooth outer surface.
+The part has a slight indentation along the length.
+There are no protrusions on the surface.
+The part has a slight indentation along the length.
+There are no protrusions on the surface.
+
+**Relative Positions:**
+The central hole is aligned with the main axis.
+Several smaller holes are arranged symmetrically around the central opening.
+The central hole is aligned with the main body.
+A smaller slot is positioned adjacent to the main opening.
+The rectangular slot is aligned parallel to the central axis.
+The circular hole is centrally positioned within the cylindrical body.
+The rectangular slot is aligned parallel to the central axis.
+The protruding lip is positioned at the top of the cylindrical ring.
+The rectangular slot is aligned parallel to the central axis.
+The circular hole is centrally positioned within the cylindrical body.
+The central hole is aligned with the main body.
+The rectangular slot is positioned adjacent to the circular hole.
+The rectangular slot is positioned on the upper side of the ring.
+The central hole is perfectly aligned with the ring's circular shape.
+The rectangular slot is positioned above the central opening.
+The protruding section is aligned parallel to the central axis.
+The central hole is aligned with the cylinder's axis.
+The rectangular slot is positioned adjacent to the flange.
+The rectangular slot is positioned adjacent to the circular hole.
+The semi-circular cutout is aligned with the rectangular slot.
+The rectangular slot is positioned adjacent to the semi-circular cutout.
+Several smaller holes are arranged around the central circular hole.
+The central hole is aligned with the main body.
+The rectangular slot is positioned adjacent to the central hole.
+The central hole is aligned with the main body.
+The rectangular slot is positioned adjacent to the central hole.
+The central opening is aligned with the main axis.
+The rectangular slot is positioned parallel to the opening.
+The central opening is aligned with the main axis.
+The rectangular slot is positioned parallel to the opening.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical tube with a hollow center.
+- Flat top surface.
+- Consistent diameter throughout the length.
+
+[HOLES_SLOTS]
+- Large central circular hole.
+- Rectangular slot on the side.
+- Smaller circular hole near the base or top edge.
+- Semi-circular cutout on one side.
+
+[PROTRUSIONS]
+- Raised rim along the circumference.
+- Flat protrusion on the top edge.
+- Protruding lip on the top edge.
+- Raised edge along the bottom.
+
+[RELATIVE_POSITIONS]
+- Central hole aligned with the main axis.
+- Rectangular slot aligned parallel to the central axis.
+- Smaller holes arranged symmetrically around the central opening.
+- Rectangular slot positioned adjacent to the central hole.
+- Protruding lip positioned at the top of the cylindrical ring.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 12/15 (Images 166-180)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a cylindrical tube.
+This part features a large circular opening on one end.
+The component is a cylindrical metal piece.
+This part features a central circular hole.
+The component is a cylindrical tube.
+This part features a large circular opening on one end.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is a cylindrical tube.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is cylindrical in shape.
+This part features a large central circular opening.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is a cylindrical tube with a hollow interior.
+This part features a large circular opening in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is cylindrical in shape.
+This part features a large central circular opening.
+The component is a cylindrical metal piece.
+This part features a central circular hole.
+The component is cylindrical in shape.
+This part features a large circular opening on one end.
+The component is a cylindrical tube.
+This part features a hollow interior.
+
+**Holes & Slots:**
+There is a smaller rectangular slot near the side.
+The object has a smooth outer surface.
+The cylindrical part has a hollow interior.
+This component includes a curved edge on the top.
+There is a rectangular slot on the side.
+The object has a hollow circular center.
+The part includes a large circular opening.
+There is a small circular hole near the edge.
+There is a smaller circular hole near the center.
+The object has a smooth outer surface.
+The part includes a rectangular slot on the side.
+This component has a hollow interior.
+There is a rectangular slot near the bottom edge.
+The object has a curved outer edge.
+The part includes a semi-circular cutout on one side.
+There is a small circular hole near the rectangular slot.
+There is a rectangular slot near the bottom edge.
+The object has a smooth outer surface.
+The cylindrical shape is consistent throughout.
+This part includes a semi-circular cutout on one side.
+There is a rectangular slot near the bottom edge.
+The object has a curved outer edge.
+The part includes a semi-circular cutout on one side.
+There is a small circular hole adjacent to the slot.
+There is a rectangular slot near the bottom edge.
+The object has a hollow interior.
+This part includes a semi-circular cutout on one side.
+The cylindrical form has a consistent diameter throughout.
+There is a rectangular slot near the bottom edge.
+The object has a curved outer edge.
+The part includes a semi-circular cutout on one side.
+There is a small circular hole adjacent to the slot.
+There is a smaller circular cutout near the bottom edge.
+The object has a smooth outer surface without any protrusions.
+The part includes a rectangular slot on one side.
+This component has a uniform diameter throughout its length.
+There is a rectangular slot near the bottom edge.
+The object has a curved outer edge.
+The part includes a semi-circular cutout on one side.
+There is a small notch on the top side.
+There is a rectangular slot near the bottom edge.
+The object has a curved outer edge.
+The part includes a semi-circular cutout on one side.
+There is a small notch on the top side.
+There is a rectangular slot near the top edge.
+The object has a hollow interior.
+This part includes a semi-circular cutout on one side.
+The cylindrical part has a consistent diameter throughout.
+There is a rectangular slot on the side.
+The object has a hollow circular center.
+The part includes a large circular opening.
+There is a small circular hole near the edge.
+There is a rectangular slot near the side of the cylinder.
+The object has a hollow interior.
+The cylindrical part has a smooth outer surface.
+This component includes a semi-circular cutout on the top edge.
+It contains a large circular opening on one end.
+There is a smaller circular hole near the base.
+The part has a smooth outer surface.
+This section includes a rectangular slot on the side.
+
+**Protrusions:**
+The part has a flat base at the bottom.
+The cylindrical shape is consistent throughout.
+The part has a raised rim along the circumference.
+The component has a protruding edge on one side.
+The part has a slight indentation along the edge.
+The cylindrical shape is consistent throughout.
+The part has raised edges along the inner curve.
+The component has a flat protrusion on the side.
+The edges of the component are slightly raised.
+The part has a uniform thickness along its length.
+The part has a raised edge along the inner curve.
+The component has a flat protrusion on the top side.
+The part has a flat base at the bottom.
+The top edge of the component is slightly indented.
+The part has raised edges along the sides.
+The component has a flat protrusion on the top.
+The cylindrical part has a slight indentation on the side.
+The part has a continuous hollow section running through its length.
+The part has raised edges along the sides.
+The component has a flat protrusion on the left side.
+The part has raised edges along the sides.
+The component has a flat protrusion on one end.
+The component has a flat protruding section on one side.
+There is a slight indentation along the circumference.
+The part has a raised rim along the circumference.
+The component has a protruding edge on one side.
+The part has a flat base at the bottom.
+The cylindrical section has a consistent diameter throughout.
+The component has a slight inward curve on the top edge.
+The part has a flat base at the bottom.
+
+**Relative Positions:**
+The circular opening is aligned with the flat base.
+The rectangular slot is positioned adjacent to the circular opening.
+The rectangular slot is positioned adjacent to the circular hole.
+Several smaller circular holes are arranged around the central opening.
+The rectangular slot is aligned parallel to the circular opening.
+The smaller circular hole is positioned adjacent to the rectangular slot.
+The rectangular slot is positioned adjacent to the circular hole.
+The semi-circular cutout is located on the opposite side of the rectangular slot.
+The rectangular slot is aligned parallel to the circular hole.
+The semi-circular cutout is positioned adjacent to the rectangular slot.
+The rectangular slot is positioned parallel to the L-shape's corner.
+The circular hole is aligned with the inner curve of the L-shape.
+The rectangular slot is aligned parallel to the central axis.
+The semi-circular cutout is positioned adjacent to the rectangular slot.
+The rectangular slot is positioned below the central hole.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned parallel to the circular opening.
+Several smaller circular cutouts are arranged around the central opening.
+The circular hole is positioned adjacent to the rectangular slot.
+The semi-circular cutout is located near the rectangular slot.
+The circular hole is positioned adjacent to the rectangular slot.
+The semi-circular cutout is located near the rectangular slot.
+The rectangular slot is aligned parallel to the central axis.
+The semi-circular cutout is positioned adjacent to the rectangular slot.
+The rectangular slot is adjacent to the central hole.
+Several smaller circular holes are around the central opening.
+The rectangular slot is aligned parallel to the cylinder's axis.
+The semi-circular cutout is positioned adjacent to the rectangular slot.
+The circular opening is aligned with the rectangular slot.
+The smaller hole is positioned adjacent to the rectangular slot.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical tube with a hollow interior.
+- L-shaped metal piece with a central circular hole.
+
+[HOLES_SLOTS]
+- Large central circular hole.
+- Rectangular slots near the bottom edge.
+- Semi-circular cutouts on one side.
+- Small circular holes near the edge and adjacent to slots.
+
+[PROTRUSIONS]
+- Flat base at the bottom.
+- Raised rim along the circumference.
+- Flat protrusions on the top side and one end.
+- Slight indentation along the edge and circumference.
+
+[RELATIVE_POSITIONS]
+- Circular opening aligned with the flat base.
+- Rectangular slot positioned adjacent to the circular opening.
+- Semi-circular cutout located on the opposite side of the rectangular slot.
+- Rectangular slot aligned parallel to the central axis and circular hole.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 13/15 (Images 181-195)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a cylindrical tube.
+This part features a hollow interior.
+The component is cylindrical in shape.
+This part features a hollow interior.
+The component is cylindrical in shape.
+This part features a hollow central cavity.
+The component is cylindrical in shape.
+This part features a hollow interior.
+The component is a cylindrical tube.
+This part features a hollow interior.
+The component is a cylindrical ring.
+This part features a central circular opening.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is cylindrical in shape.
+This part features a large central circular opening.
+The component is a cylindrical ring.
+This part features a central circular opening.
+The component is cylindrical in shape.
+This part features a large central circular opening.
+The component is a cylindrical tube with a hollow interior.
+This part features a large circular opening on one side.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+
+**Holes & Slots:**
+It contains a large circular opening on one end.
+There is a smaller circular hole near the base.
+The part has a smooth outer surface.
+This section includes a rectangular cutout on the side.
+It contains a large circular opening at one end.
+There is a smaller circular hole near the base.
+The part has a smooth outer surface.
+This section includes a rectangular slot on the side.
+It contains a large circular hole in the middle.
+There is a smaller circular hole near the top edge.
+The part has a smooth outer surface.
+This section includes a rectangular slot on the side.
+It contains a large circular opening at one end.
+There is a smaller circular hole near the base.
+The part has a smooth outer surface.
+This section includes a rectangular slot on the side.
+The object has a consistent circular cross-section.
+It contains a single large circular opening.
+There is a smaller circular indentation near one end.
+The part has a uniform diameter throughout its length.
+There is a small rectangular slot on the side.
+The object has a hollow circular center.
+This part includes a large circular hole.
+The component has a circular cutout in the middle.
+There is a rectangular slot near the top edge.
+The object has a central circular opening.
+This part includes a small circular hole on the side.
+The component has a slot running along the length.
+There is a rectangular slot near the top edge.
+The object has a central circular opening.
+This part includes a small circular hole on the side.
+The component has a slot running along the length.
+There is a small rectangular slot near the top edge.
+The object has a smooth outer surface.
+The cylindrical part has a hollow interior.
+This component includes a curved protrusion on one side.
+There is a small rectangular slot on the side.
+The object has a hollow circular center.
+This part includes a large circular hole.
+The component has a circular cutout in the middle.
+There is a rectangular slot on the side.
+The object has a hollow interior.
+This part includes a semi-circular cutout.
+The cylindrical form has a consistent diameter.
+There is a smaller circular cutout near the bottom edge.
+The object has a smooth outer surface without any protrusions.
+The part includes a rectangular slot on the side.
+This component has a uniform diameter throughout its length.
+There is a rectangular slot near the top edge.
+The object has a cylindrical protrusion on one side.
+The part includes a flat surface on the L-shaped corner.
+There is a small circular hole near the rectangular slot.
+There is a rectangular slot near the top edge.
+The object has a cylindrical protrusion on one side.
+The part includes a flat surface on the L-shaped corner.
+There is a small circular hole near the rectangular slot.
+There is a rectangular slot near the top edge.
+The object has a cylindrical central section.
+It contains a smaller circular hole adjacent to the main slot.
+The part includes a semi-circular indentation on one side.
+
+**Protrusions:**
+The component has a slight inward curve on the top edge.
+The part has a flat base at the bottom.
+The component has a slightly tapered design.
+There are raised edges along the circumference.
+The component has a slight protrusion along the top rim.
+There are raised edges around the bottom circumference.
+The component has a slightly tapered design.
+There are raised edges along the circumference.
+The component has a slightly tapered end.
+This part features a smooth outer surface.
+The part has a raised edge along the outer circumference.
+There is a protruding section on the top edge.
+The part has raised edges along the sides.
+There are protruding sections at the corners.
+The part has raised edges along the sides.
+There are protruding sections on the corners.
+The part has a flat protruding section at the top.
+The cylindrical shape is consistent throughout the component.
+The part has a raised edge along the outer circumference.
+There is a protruding section on the top edge.
+The edges of the component are smooth and rounded.
+The part has a uniform thickness throughout.
+The cylindrical part has a flat end cap.
+The component has a continuous hollow section along its length.
+The component has a raised edge along the vertical side.
+The part includes a protruding tab on the horizontal side.
+The component has a raised edge along the vertical side.
+The part includes a protruding tab on the horizontal side.
+The component has raised edges along the sides.
+There are two parallel protrusions on the flat surface.
+
+**Relative Positions:**
+The circular opening is aligned with the flat base.
+The rectangular cutout is positioned adjacent to the circular opening.
+The central hole is aligned with the main body.
+Several smaller holes are arranged around the central opening.
+The central hole is aligned with the main cylindrical axis.
+The rectangular slot is positioned adjacent to the central hole.
+The central hole is aligned with the main body.
+Several smaller holes are arranged around the central opening.
+The circular opening is centrally aligned.
+The tapered end is positioned at the top.
+The rectangular slot is positioned adjacent to the circular hole.
+The raised edges are evenly distributed around the circumference.
+The rectangular slot is positioned adjacent to the circular hole.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned adjacent to the circular hole.
+Several smaller holes are arranged around the central opening.
+The central hole is aligned with the cylindrical axis.
+The rectangular slot is positioned adjacent to the central hole.
+The rectangular slot is positioned adjacent to the circular hole.
+The raised edges are evenly distributed around the circumference.
+The rectangular slot is aligned parallel to the central axis.
+The semi-circular cutout is positioned near the base.
+The rectangular slot is positioned parallel to the circular opening.
+The circular opening is centrally aligned with the rectangular slot.
+The rectangular slot is positioned above the circular hole.
+The cylindrical protrusion is aligned with the flat surface.
+The rectangular slot is positioned above the central hole.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned above the central hole.
+Several smaller holes are arranged around the central opening.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical tube with a hollow interior.
+- L-shaped metal piece with a large central circular hole.
+- Cylindrical ring with a central circular opening.
+
+[HOLES_SLOTS]
+- Large circular opening at one end.
+- Smaller circular hole near the base or top edge.
+- Rectangular slot on the side or near the top edge.
+- Central circular opening or hole.
+- Slot running along the length of the cylinder.
+
+[PROTRUSIONS]
+- Raised edges along the circumference.
+- Slight inward curve on the top edge.
+- Flat base at the bottom or flat end cap.
+- Cylindrical protrusion on one side.
+- Protruding tab on the horizontal side.
+
+[RELATIVE_POSITIONS]
+- Circular opening aligned with the flat base or cylindrical axis.
+- Rectangular slot positioned adjacent to the circular opening or central hole.
+- Raised edges evenly distributed around the circumference.
+- Smaller holes arranged around the central opening.
+- Rectangular slot positioned above the central hole or parallel to the circular opening.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 14/15 (Images 196-210)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is a cylindrical metal piece.
+This part features a smooth outer surface.
+The component is a cylindrical metal piece.
+This part features a smooth outer surface.
+The component is a cylindrical tube.
+This part features a hollow interior.
+The component is a cylindrical tube with a hollow interior.
+This part features a large circular opening in the center.
+The component is a rectangular block with rounded edges.
+This part features a central circular indentation.
+The component has a rectangular shape with rounded corners.
+This part features a central circular opening.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is cylindrical in shape.
+This part features a flat top surface.
+The component is cylindrical in shape.
+This part features a flat top surface.
+The component has a cylindrical shape with a hollow interior.
+This part features a large circular opening on one side.
+The component is a cylindrical ring with a hollow center.
+This part features a large circular opening in the middle.
+The component is a cylindrical ring with a hollow center.
+This part features a large circular opening in the middle.
+
+**Holes & Slots:**
+There is a rectangular slot near the top edge.
+The object has a cylindrical central section.
+It contains a smaller circular hole adjacent to the main slot.
+The part includes a semi-circular indentation on one side.
+There is a smaller circular slot near the bottom edge.
+The object has a prominent central opening.
+It contains a rectangular cutout on one side.
+The part includes a semi-circular notch on the right side.
+It contains a central circular hole.
+There is a small slot near the bottom edge.
+The part has a flat top surface.
+A larger circular hole is positioned near the side.
+It contains a central circular hole.
+There is a small slot near the bottom edge.
+The part has a flat top surface.
+A larger circular hole is positioned near the side.
+It contains a large circular hole in the center.
+There is a smaller circular hole near the top edge.
+The part has a flat protrusion on one side.
+This section includes a rectangular slot on the side.
+There is a smaller circular cutout near the bottom edge.
+The object has a smooth outer surface without any protrusions.
+The part includes a rectangular slot on the side.
+This component has a consistent diameter throughout its length.
+There is a small slot near the bottom edge.
+The object has a large rectangular cutout on one side.
+This part includes a series of evenly spaced holes along the top edge.
+The component has a single elongated slot on the side.
+There is a small slot near the bottom edge.
+The object has a flat top surface.
+The part includes a large rectangular cutout on one side.
+There is a narrow slot positioned along the right edge.
+There is a rectangular slot near the top edge.
+The object has a central circular opening.
+The part includes a small rectangular cutout on the side.
+This component has a large circular void in the middle.
+There is a rectangular slot near the top edge.
+The object has a central circular opening.
+The part includes a small rectangular cutout on the side.
+This component has a large circular void in the middle.
+It contains a central circular hole.
+There is a rectangular slot near the bottom edge.
+The part has a protruding lip at the top.
+This section includes a small circular indentation.
+It contains a central circular hole.
+There is a rectangular slot near the bottom edge.
+The part has a protruding lip around the top edge.
+A smaller circular hole is positioned near the bottom.
+There is a rectangular slot cut into the side of the cylinder.
+The object is designed with a smooth outer surface.
+The cylindrical part includes a smaller circular hole near the base.
+This component has a single elongated slot on the side.
+There is a rectangular slot on the top side.
+The object has a smooth outer edge.
+The cylindrical shape is consistent throughout the component.
+This part includes a central circular void.
+There is a rectangular slot on the top side.
+The object has a smooth outer edge.
+The cylindrical shape is consistent throughout the component.
+This part includes a central circular void.
+
+**Protrusions:**
+The component has raised edges along the sides.
+There are two parallel protrusions on the flat surface.
+The edges of the component are slightly raised.
+The part has a smooth outer contour.
+The component has a slight indentation along the circumference.
+There are raised edges around the central hole.
+The component has a slight indentation along the circumference.
+There are raised edges around the central hole.
+The component has raised edges along the circumference.
+There is a slight indentation on the outer surface.
+The cylindrical shape is uniform with no irregularities.
+The part has a central circular hole with a defined edge.
+The part has raised edges along the top and bottom.
+There are two small protrusions on the left side.
+The component has a raised border along the perimeter.
+The part includes a small protrusion on the left side.
+The part has raised edges along the sides.
+There is a protruding tab on the upper right side.
+The part has raised edges along the sides.
+There is a protruding tab on the upper side.
+The component has a raised rim along the circumference.
+There is a slight indentation on the side.
+The component has a raised rim along the sides.
+There is a notch on the side near the bottom.
+The part has a flat protrusion along the top edge.
+There are raised edges around the perimeter of the cylinder.
+The component has a raised rim along the circumference.
+The top side features a protruding rectangular section.
+The component has a raised rim along the circumference.
+The top side features a protruding rectangular section.
+
+**Relative Positions:**
+The rectangular slot is positioned above the central hole.
+Several smaller holes are arranged around the central opening.
+The circular hole is aligned with the L-shape's corner.
+The rectangular slot is adjacent to the semi-circular notch.
+The slot is aligned parallel to the central hole.
+The indentation is evenly spaced around the cylinder.
+The slot is aligned parallel to the central hole.
+Several smaller indentations are evenly spaced around the perimeter.
+The central hole is aligned with the main axis.
+The rectangular slot is positioned adjacent to the flat protrusion.
+The rectangular slot is positioned parallel to the circular opening.
+The smaller circular cutout is aligned with the main circular opening.
+The central hole is surrounded by four smaller holes.
+The rectangular slot is positioned parallel to the central hole.
+The central circular opening is surrounded by a rectangular frame.
+Several small holes are arranged symmetrically around the central opening.
+The rectangular slot is positioned adjacent to the circular hole.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned adjacent to the circular hole.
+Several smaller holes are arranged around the central opening.
+The central hole is aligned with the cylindrical body.
+The rectangular slot is positioned parallel to the top surface.
+The central hole is aligned with the rectangular slot.
+The notch is positioned adjacent to the smaller circular hole.
+The rectangular slot is positioned adjacent to the circular opening.
+The smaller circular hole is aligned parallel to the main opening.
+The rectangular slot is aligned parallel to the central axis.
+The raised rim surrounds the entire circular opening.
+The rectangular slot is aligned parallel to the top edge.
+The central hole is surrounded by a uniform cylindrical wall.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- L-shaped metal piece with a large circular hole in the center.
+- Cylindrical tube with a hollow interior and a flat top surface.
+- Rectangular block with rounded edges and a central circular indentation.
+
+[HOLES_SLOTS]
+- One large circular hole located centrally.
+- Multiple small rectangular slots near the edges.
+- Semi-circular indentation on one side.
+- Small circular hole near the top edge.
+- Rectangular slot near the top edge.
+- Small slot near the bottom edge.
+- Central circular opening.
+- Large rectangular cutout on one side.
+- Single elongated slot on the side.
+
+[PROTRUSIONS]
+- Raised edges along the sides.
+- Two parallel protrusions on the flat surface.
+- Slight indentation along the circumference.
+- Raised edges around the central hole.
+- Protruding tab on the upper side.
+- Flat protrusion along the top edge.
+- Notch on the side near the bottom.
+- Top side features a protruding rectangular section.
+
+[RELATIVE_POSITIONS]
+- Rectangular slot positioned above the central hole.
+- Smaller circular cutout aligned with the main circular opening.
+- Rectangular slot positioned adjacent to the circular hole.
+- Central hole surrounded by four smaller holes.
+- Rectangular slot positioned parallel to the central hole.
+- Notch positioned adjacent to the smaller circular hole.
+- Raised rim surrounds the entire circular opening.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 15/15 (Images 211-211)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 1 images of the same component:
+
+**Global Shape:**
+The component is a cylindrical tube.
+This part features a hollow interior.
+
+**Holes & Slots:**
+It contains a single large circular opening.
+There is a smaller circular cutout near the top edge.
+The part has a flat protruding section on one side.
+The cylindrical shape is consistent throughout.
+
+**Protrusions:**
+The edges are smoothly rounded.
+The flat section is perpendicular to the main body.
+
+**Relative Positions:**
+The circular opening is centrally aligned.
+The smaller cutout is positioned above the main opening.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+Cylindrical tube with a hollow interior.
+
+[HOLES_SLOTS]
+One large circular opening centrally aligned.
+A smaller circular cutout near the top edge.
+
+[PROTRUSIONS]
+Smoothly rounded edges.
+A flat protruding section on one side, perpendicular to the main body.
+
+[RELATIVE_POSITIONS]
+The smaller cutout is positioned above the main opening.
+----------------------------------------------------------------------
+

@@ -1,0 +1,2291 @@
+Reduction Phase Results for Class: M58-擺臂部軸承座
+Total Images: 170
+Batch Size: 15
+======================================================================
+
+
+======================================================================
+BATCH 1/12 (Images 1-15)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component has a robust L-shaped design.
+This part features a prominent circular hole in the middle.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component has a rectangular base with a flat top.
+This part features a large circular hole in the middle.
+The component has a rectangular base with a flat top edge.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component has a rectangular shape with a vertical edge.
+This part features two circular holes on the upper surface.
+The component has an L-shaped configuration.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component has an L-shaped configuration.
+This part features a prominent circular hole on one side.
+
+**Holes & Slots:**
+There is a smaller circular hole near the top edge.
+The part includes a rectangular slot on the lower section.
+A circular hole is positioned on the bottom right side.
+The component has a central circular hole with two smaller holes nearby.
+There is a smaller circular hole near the top edge.
+The part includes a rectangular slot on the lower section.
+The component has a raised edge along the vertical side.
+There is a circular hole on the horizontal section.
+There is a small circular hole near the top left corner.
+The part includes another small circular hole on the upper side.
+The component has a flat protruding edge along the bottom.
+There is a circular hole on the lower left side.
+There is a small circular hole near the top edge.
+The part includes a rectangular slot on the side.
+The component has a raised edge along the bottom side.
+There is another small circular hole near the bottom edge.
+There is a small circular hole near the bottom edge.
+The object includes a rectangular slot on the side.
+The part has a central circular opening.
+There are two small holes on the top surface.
+There is a small circular hole near the top left corner.
+The part includes another small circular hole near the bottom left corner.
+The component has a rectangular slot on the lower section.
+There is a protruding edge along the right side.
+There is a small circular hole near the top edge.
+The part includes a rectangular slot on the side.
+The component has a raised edge along the bottom side.
+There is another small circular hole on the lower section.
+There is a smaller circular hole near the bottom left.
+Another small circular hole is positioned near the bottom right.
+The part includes a semi-circular indentation on the right side.
+This section has a flat protrusion along the top edge.
+There is a smaller circular hole near the bottom left.
+Another small circular hole is positioned near the bottom right.
+The part includes a semi-circular indentation on the right side.
+This section has a flat surface with no protrusions.
+There is a smaller circular hole near the bottom left.
+The part includes another small circular hole near the bottom right.
+The component has a flat protruding edge along the top.
+This section has a slight indentation on the side.
+There is a circular hole positioned near the top left corner.
+The component includes a circular hole near the bottom right corner.
+There is a circular hole located at the bottom center.
+This part features a circular hole near the bottom left corner.
+There is a smaller circular hole near the top left corner.
+The part includes a medium-sized circular hole on the right side.
+A small circular hole is positioned at the bottom left.
+Another small circular hole is located at the bottom right.
+There is a small oval slot near the bottom edge.
+The component includes a rectangular slot on the side.
+The part has a central circular hole with a smaller concentric circle.
+There are two small circular holes on the right side.
+There is a small oval slot near the bottom edge.
+The object has a rectangular cutout on the right side.
+The part includes a central circular opening.
+There are two small circular holes on the right side.
+There is a small circular slot near the bottom edge.
+The object includes a large rectangular cutout on the flat surface.
+The part has a circular indentation on the vertical section.
+This component features a small oval slot on the horizontal plane.
+
+**Protrusions:**
+The part has a flat protrusion along the bottom edge.
+There is a slight protrusion on the side of the L-shape.
+The part has a flat surface on the top side.
+The component includes a protruding edge on the bottom side.
+The part has a raised edge along the bottom side.
+Another circular hole is positioned on the lower right side.
+The part has a protruding section on the right side.
+The component includes a flat surface on the left side.
+The component has a raised edge along the side.
+The part includes a protruding section at the bottom.
+The part has raised edges along the sides.
+The component has a flat base with two small holes.
+The part has a protruding section on the left side.
+The component includes a flat surface on the top.
+The edges of the component are slightly raised.
+The component has a flat top surface.
+The edges of the component are straight and uniform.
+The top edge is slightly elevated compared to the sides.
+The part has a raised edge along the bottom side.
+There is a small circular hole positioned near the bottom left.
+The part has a flat surface with no protrusions.
+The component has a smooth surface with no raised edges.
+The edges of the component are slightly raised.
+The part has a flat top surface.
+The part has raised edges along the top and bottom.
+The component has a protruding triangular section at the top.
+The part has raised edges along the top side.
+The component has a protruding edge on the left side.
+The part has a raised edge along the vertical side.
+There is a protruding lip on the horizontal section.
+
+**Relative Positions:**
+The large central hole is flanked by two smaller holes on the side.
+The rectangular slot is aligned parallel to the bottom edge.
+The large circular hole is positioned centrally on the horizontal section.
+Several smaller holes are arranged around the central opening.
+The large central hole is aligned with the bottom edge.
+Several smaller holes are arranged around the central opening.
+Several smaller holes are arranged around the central opening.
+The large circular hole is aligned with the L-shaped bend.
+The small holes are arranged symmetrically around the central opening.
+The rectangular slot is positioned adjacent to the circular hole.
+Several smaller holes are arranged around the central opening.
+The large circular hole is positioned centrally on the L-shaped bracket.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned adjacent to the circular hole.
+The large circular hole is centrally located.
+The smaller holes are symmetrically arranged around the central hole.
+The large central hole is surrounded by three smaller holes.
+The smaller holes are evenly spaced around the central hole.
+Several smaller holes are arranged symmetrically around the central hole.
+The component has a flat protruding edge along the top side.
+Two smaller holes are arranged symmetrically on the upper surface.
+The circular holes are evenly spaced around the central area.
+The central hole is surrounded by four smaller holes.
+The smaller holes are symmetrically arranged around the central hole.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned adjacent to the circular hole.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned adjacent to the circular hole.
+The circular hole is positioned adjacent to the rectangular cutout.
+The small oval slot is located near the raised edge.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- L-shaped metal bracket configuration.
+- Robust L-shaped design with a flat top edge.
+- Rectangular base with a vertical edge.
+
+[HOLES_SLOTS]
+- One large circular hole located centrally.
+- Multiple small circular holes near the edges.
+- Rectangular slot on the lower section.
+- Small oval slot near the bottom edge.
+- Semi-circular indentation on the right side.
+
+[PROTRUSIONS]
+- Flat protrusion along the bottom edge.
+- Raised edge along the vertical side.
+- Protruding section on the right side.
+- Flat surface on the top side.
+- Raised edges along the sides.
+
+[RELATIVE_POSITIONS]
+- Large central hole flanked by two smaller holes on the side.
+- Rectangular slot aligned parallel to the bottom edge.
+- Small holes arranged symmetrically around the central opening.
+- Rectangular slot positioned adjacent to the circular hole.
+- Small oval slot located near the raised edge.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 2/12 (Images 16-30)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component has a rectangular L-shaped form.
+This part features a prominent circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component has an L-shaped configuration.
+This part features a prominent circular hole in the middle.
+The component has a rectangular shape with rounded corners.
+This part features two large circular holes near the top.
+The component has an L-shaped configuration.
+This part features a prominent circular hole on one side.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component has a rectangular base with an L-shaped extension.
+This part features a large circular hole in the central section.
+The component has a rectangular base with a vertical extension.
+This part features a large circular hole on the side.
+The component is an L-shaped metal structure.
+This part features a large circular hole in the side.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component has an L-shaped configuration.
+This part features a large circular hole in the center.
+
+**Holes & Slots:**
+There is a small oval slot near the bottom edge.
+The object contains two medium-sized oval holes on the flat side.
+The part has a raised edge along the longer side.
+There is a small circular hole positioned near the corner.
+There is a small oval slot near the bottom edge.
+The object has a rectangular cutout on the side.
+The part includes a semi-circular indentation on one side.
+There are two small circular holes on the flat surface.
+There is a small oval slot near the bottom edge.
+The object contains a medium-sized circular hole on the flat side.
+This part has a rectangular slot positioned on the side.
+The component includes a small circular hole near the corner.
+There is a smaller circular hole near the top right corner.
+The part includes a rectangular slot on the left side.
+The component has a raised edge along the bottom side.
+There is a small circular hole on the right side near the bottom.
+There is a small circular hole near the top edge.
+The part includes a rectangular slot on the side.
+The component has a raised edge along the bottom side.
+There is another small circular hole on the lower section.
+There is a small circular hole adjacent to the main hole.
+The part includes a flat protrusion on the right side.
+The left side of the component has a raised edge.
+This section has a rectangular slot on the bottom surface.
+There is a smaller circular hole positioned centrally.
+The part includes another small circular hole near the bottom right.
+A medium-sized circular hole is located near the bottom left.
+This section has a flat surface with no additional protrusions.
+There is a small circular slot near the bottom edge.
+The object includes a large rectangular cutout on the flat surface.
+The part has a raised edge along the vertical side.
+There is a small circular indentation on the flat surface.
+There is a small oval slot near the bottom edge.
+The object includes a medium-sized circular hole on the flat side.
+This part has a rectangular slot on the side edge.
+The component contains a small circular hole near the corner.
+There is a smaller circular hole adjacent to the larger one.
+The part includes a rectangular slot on the side of the L-shaped extension.
+The L-shaped extension has a flat protruding edge.
+The component has a protruding tab on the right side.
+There is a small circular slot near the bottom edge.
+The object includes a protruding section on the right side.
+The part has a flat surface on the front face.
+There is a circular indentation on the vertical section.
+There is a small circular hole near the bottom edge.
+The object has a rectangular slot on the flat surface.
+The part includes a protruding edge along the top side.
+This component has a smooth, flat base.
+There is a small oval slot near the bottom edge.
+The object includes a medium-sized circular hole on the side.
+This part has a rectangular slot close to the corner.
+The component contains a small circular hole near the top.
+There is a smaller circular hole near the bottom edge.
+The part includes a rectangular slot on the side.
+The component has a raised edge along the top side.
+There is a small circular hole near the top right corner.
+There is a small oval slot near the bottom edge.
+The object includes a rectangular cutout on the side.
+The part has a central circular opening.
+There are two small circular holes on the side.
+
+**Protrusions:**
+The component has a protruding edge on the right side.
+Several smaller holes are arranged around the central opening.
+The part has raised edges along the sides.
+The component has a protruding lip on the right side.
+The part has raised edges along the sides.
+There is a protruding lip on the top edge.
+The part has a flat protrusion on the top left corner.
+The component includes a circular indentation on the front face.
+The part has a protruding section on the right side.
+The component includes a flat protrusion on the left side.
+The central area has a large circular opening.
+The component has a flat protrusion extending from the bottom.
+The edges of the component are smooth without any raised features.
+The component does not have any slots or indentations.
+The component has a protruding section on the right side.
+The part features a flat protrusion on the top edge.
+The part has raised edges along the sides.
+There is a protruding edge on the top side.
+The central circular hole is aligned with the L-shaped extension.
+The rectangular slot is positioned parallel to the L-shaped edge.
+The component has a raised edge along the top side.
+The part includes a protruding lip on the left side.
+The part has a raised edge along the vertical side.
+There is a small circular protrusion on the side.
+The part has raised edges along the longer sides.
+There is a protruding edge on the shorter side.
+The part has a flat protrusion on the bottom side.
+The component includes a small circular hole near the bottom left corner.
+The component has raised edges along the top.
+The part includes a protruding section at the corner.
+
+**Relative Positions:**
+The large circular hole is aligned with the shorter side of the L-shape.
+The rectangular slot is positioned adjacent to the central hole.
+Several smaller holes are arranged around the central opening.
+The L-shape has a smooth transition between the two arms.
+Several smaller holes are arranged around the central opening.
+The smaller holes are evenly spaced around the large central hole.
+The large circular hole is centrally aligned with the rectangular slot.
+Two smaller holes are positioned symmetrically around the central hole.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned adjacent to the large circular hole.
+The circular hole is positioned centrally on the L-shaped part.
+The rectangular slot is located near the bottom edge.
+The two larger holes are aligned horizontally near the top.
+The smaller holes are positioned diagonally opposite each other near the bottom.
+The circular hole is positioned adjacent to the flat protrusion.
+The rectangular cutout is aligned parallel to the L-shaped corner.
+Several smaller holes are arranged around the central opening.
+The smaller holes are positioned symmetrically around the large central hole.
+The smaller circular hole is situated near the base of the L-shape.
+The protruding tab is located on the flat surface of the rectangular base.
+The circular hole is aligned with the vertical extension.
+The rectangular slot is positioned adjacent to the circular hole.
+The large circular hole is positioned on the right side.
+The rectangular slot is located on the front face.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned adjacent to the large circular hole.
+The large circular hole is positioned centrally on the L-shape.
+Several smaller holes are arranged around the central opening.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned adjacent to the circular hole.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- L-shaped metal bracket configuration.
+- Rectangular base with an L-shaped extension.
+- Central circular hole aligned with the L-shape.
+
+[HOLES_SLOTS]
+- One large circular hole centrally located.
+- Two small circular holes near the top right corner.
+- Small oval slot near the bottom edge.
+- Rectangular slot positioned on the side.
+- Small circular holes near the corners and edges.
+
+[PROTRUSIONS]
+- Flat protrusion on the right side.
+- Raised edges along the sides and top.
+- Protruding lip on the top edge.
+- Flat protrusion on the top left corner.
+
+[RELATIVE_POSITIONS]
+- Large circular hole aligned with the shorter side of the L-shape.
+- Rectangular slot positioned adjacent to the central hole.
+- Smaller holes arranged symmetrically around the central hole.
+- Rectangular slot located near the bottom edge.
+- Protruding tab on the flat surface of the rectangular base.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 3/12 (Images 31-45)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component has an L-shaped profile.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component has a rectangular base with a protruding section.
+This part features a large circular hole on the side.
+The component has a rectangular base with a protruding section.
+This part features a large circular hole on the side.
+The component has a rectangular base with a protruding section.
+This part features a large circular hole on the side.
+The component is an L-shaped metal frame.
+This part features a central circular opening.
+The component has a rectangular base with a protruding section.
+This part features a large circular hole on the side.
+The component has a rectangular base with an L-shaped extension.
+This part features a prominent circular hole on the side.
+The component has a rectangular shape with rounded corners.
+This part features two large circular holes.
+The component is an L-shaped metal structure.
+This part features a large circular hole in the center.
+
+**Holes & Slots:**
+There is a small oval slot near the bottom edge.
+The object has a rectangular cutout on the right side.
+The part includes a semi-circular indentation on the left.
+This component has a triangular notch at the top corner.
+There is a small oval slot near the bottom left.
+The part includes another small oval slot near the bottom right.
+The component has a raised edge along the longer side.
+There is a protruding edge on the shorter side.
+There is a smaller circular hole near the top right.
+The part includes a rectangular slot on the left side.
+A medium-sized circular hole is positioned at the bottom center.
+Another small circular hole is located near the bottom right.
+There is a small oval slot near the bottom edge.
+The part includes a medium-sized circular hole on the side.
+This section has a rectangular slot close to the corner.
+The component has a small circular hole near the top.
+There is a small oval slot near the bottom edge.
+The part includes a medium-sized circular hole on the side.
+This section has a rectangular slot close to the corner.
+The component has a small circular hole near the top.
+There is a small circular hole near the top edge.
+The part includes another small circular hole on the lower side.
+The component has a flat protruding edge on the left side.
+There is a raised edge along the right side of the part.
+There is a small circular hole near the top edge.
+The part includes a rectangular slot on the side.
+The component has a protruding edge along the bottom.
+There is another small circular hole near the bottom edge.
+There is a small circular indentation near the base.
+The object includes a flat surface on the bottom.
+The part has a raised edge along the front side.
+There is a circular cutout on the right side.
+There is a small circular indentation near the base.
+The object includes a flat surface on the bottom.
+The part has a smooth, continuous edge along the top.
+There is a cylindrical protrusion on the right side.
+There is a small circular slot near the bottom edge.
+The object includes a cylindrical protrusion on the right side.
+The part has a flat surface on the front face.
+There is a semi-circular indentation on the side.
+There is a small circular hole near the top left corner.
+The object has a large circular hole in the middle.
+A rectangular slot is present on the right side.
+The part includes a smaller circular hole near the bottom right.
+There is a small circular slot near the bottom edge.
+The object includes a rectangular cutout on the front face.
+The part has a flat surface with a circular indentation.
+This component has a cylindrical hole extending through the side.
+There is a small circular indentation near the corner.
+The object includes a large central circular opening.
+This part has a rectangular slot on the flat surface.
+The component contains a semi-circular cutout on the side.
+There is a smaller circular hole near the top left corner.
+The part includes a medium-sized circular hole near the top right corner.
+A small circular hole is positioned near the bottom left corner.
+This component has a larger circular hole near the bottom right corner.
+There is a small circular hole near the side.
+The object has a flat rectangular base.
+The part includes a protruding edge on the top side.
+There is a circular cutout on the right side.
+
+**Protrusions:**
+The part has raised edges along the vertical side.
+There are two small circular protrusions on the bottom.
+Several smaller holes are arranged around the central opening.
+The holes are evenly spaced around the circular hole.
+The edges of the part are slightly raised.
+The part has a protruding section on the left side.
+The part has raised edges along the longer side.
+There is a protruding edge on the shorter side.
+The part has raised edges along the longer side.
+There is a slight protrusion on the shorter side.
+Several smaller holes are arranged around the central opening.
+The holes are symmetrically positioned relative to the central circular hole.
+The part has a raised edge along the left side.
+The component includes a curved protrusion on the right side.
+The component has a flat top surface.
+The part includes a protruding section on the right.
+The component has a flat, extended section at the front.
+The part includes a rounded edge on the protruding section.
+The component has a raised edge along the top.
+The part includes a small notch on the left side.
+The edges of the component are slightly raised.
+There are two small holes on the right side.
+The part has a raised rectangular section along the top edge.
+There is a protruding tab on the right side.
+The part has a raised edge along the top surface.
+There is a protruding lip on the front face.
+The edges of the part are smooth and flat.
+The part has no protrusions or raised features.
+The component has a raised edge along the bottom.
+The part features a small protrusion on the left side.
+
+**Relative Positions:**
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned adjacent to the circular hole.
+The rectangular slot is positioned adjacent to the circular hole.
+The protruding edges frame the central circular hole.
+The large circular hole is flanked by two smaller holes on the right.
+The rectangular slot is adjacent to the raised edge on the left.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned parallel to the L-shape's corner.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned adjacent to the large circular hole.
+The L-shape is formed by a horizontal and vertical section.
+The circular holes are aligned with the central axis of the component.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned adjacent to the large circular hole.
+The circular hole is positioned on the upper right side.
+The rectangular base is aligned with the main body.
+The circular hole is positioned on the right side of the component.
+The rectangular base is aligned horizontally with the protruding section.
+The circular hole is positioned adjacent to the rectangular base.
+The protruding section is aligned parallel to the base.
+The central hole is surrounded by a raised rim.
+The rectangular slot is aligned parallel to the longer side.
+The circular hole is positioned adjacent to the rectangular slot.
+The rectangular base is connected to the protruding section at a right angle.
+The circular hole is positioned adjacent to the rectangular slot.
+The L-shaped extension includes a smaller circular hole near the base.
+The two larger holes are aligned diagonally across the component.
+The smaller holes are positioned symmetrically relative to the larger holes.
+The large circular hole is positioned centrally on the vertical section.
+The rectangular base is aligned horizontally with the L-shape.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- L-shaped metal bracket with a rectangular base and protruding section.
+- Central large circular hole.
+- Rectangular base with an L-shaped extension.
+
+[HOLES_SLOTS]
+- One large central circular hole.
+- Small circular holes near the top and bottom edges.
+- Rectangular slots on the right side and near the corner.
+- Small oval slots near the bottom edges.
+- Semi-circular indentation on the left side.
+
+[PROTRUSIONS]
+- Raised edges along the longer side.
+- Protruding section on the left side.
+- Curved protrusion on the right side.
+- Flat top surface and front face.
+- Raised rectangular section along the top edge.
+
+[RELATIVE_POSITIONS]
+- Several smaller holes arranged symmetrically around the central circular hole.
+- Rectangular slot positioned adjacent to the circular hole.
+- Protruding edges frame the central circular hole.
+- Rectangular base aligned horizontally with the L-shape.
+- L-shaped extension includes a smaller circular hole near the base.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 4/12 (Images 46-60)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component has an L-shaped configuration.
+This part features a prominent circular hole in the middle.
+The component has an L-shaped configuration.
+This part features a prominent circular hole in the middle.
+The component has an L-shaped configuration.
+This part features a prominent circular hole on one side.
+The component has an L-shaped configuration.
+This part features a prominent circular hole on one side.
+The component has an L-shaped profile.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component has an L-shaped configuration.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component has a rectangular base with rounded corners.
+This part features four circular holes distributed across its surface.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component has a rectangular base with an extended vertical section.
+This part features a large circular hole on the left side.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component has a rectangular base with a protruding section.
+This part features a large circular hole on the side.
+
+**Holes & Slots:**
+There is a small rectangular slot on the flat surface.
+The object includes a large circular cutout on one side.
+This part has a circular indentation on the vertical section.
+The component has a circular opening near the top edge.
+There is a small circular hole adjacent to the main opening.
+The object includes a flat protrusion on the right side.
+The part has a rectangular slot on the lower edge.
+This component has a smooth, flat surface on the top.
+There is a small circular slot near the bottom edge.
+The object includes a large rectangular cutout on the flat surface.
+The part has a raised edge along the vertical side.
+This component has a flat base with a slight overhang.
+There is a small circular slot near the bottom edge.
+The object includes a large rectangular cutout on the flat surface.
+The part has a raised edge along the vertical side.
+There is a small circular indentation on the horizontal section.
+There is a small oval slot near the bottom edge.
+The object includes a rectangular cutout on the side.
+The part has a triangular notch at the top.
+This component has a central elongated slot.
+There is a smaller circular hole near the bottom left.
+The part includes a medium-sized circular hole on the flat side.
+A small circular hole is positioned near the bottom right.
+This section has a large oval-shaped cutout on the right side.
+There is a smaller circular hole near the bottom left.
+The part includes a medium-sized circular hole on the flat side.
+A small circular hole is positioned near the bottom right.
+This section has a rectangular slot on the right side.
+There is a small oval slot near the top edge.
+The object includes a rectangular cutout on the side.
+The part has a central circular opening.
+There are two small circular holes on the flat surface.
+There is a small oval slot near the bottom edge.
+The object has a rectangular cutout on the left side.
+The part includes a semi-circular indentation on the right.
+There are two small circular holes on the flat surface.
+There is a large circular hole near the top left corner.
+A smaller circular hole is positioned below the large one.
+Another circular hole is located near the bottom right corner.
+The component includes a vertical slot on the right side.
+There is a small oval slot near the bottom left corner.
+The object includes a medium-sized circular cutout on the right side.
+This part has a rectangular slot close to the bottom edge.
+The component contains a small circular hole near the top right.
+There is a small oval slot near the bottom edge.
+The object has a rectangular cutout on the side.
+The part includes a central circular opening.
+There are two small circular holes on the right side.
+There is a small circular hole near the bottom edge.
+The object includes a flat surface on the top.
+The part has a protruding section on the right side.
+There is a small rectangular slot on the top surface.
+There is a small oval slot near the bottom edge.
+The part includes a rectangular cutout on the side.
+The component has a central circular opening.
+There are two small circular holes on the right side.
+There is a small circular hole near the bottom edge.
+The object includes a flat surface on the top.
+The part has a raised edge along the front side.
+There is a rectangular slot on the top surface.
+
+**Protrusions:**
+The part has a raised rectangular section on the flat surface.
+There is a protruding edge along the vertical side.
+The part includes a raised edge along the left side.
+There is a small notch on the bottom right corner.
+The part includes a circular indentation on the side.
+There is a small protrusion along the bottom edge.
+The component has a flat protrusion on the top surface.
+The part includes a small rectangular notch on the side.
+The part has raised edges along the sides.
+There are two small circular protrusions on the bottom.
+The part has raised edges along the top and bottom sides.
+There are two small protrusions on the top edge.
+The part has raised edges along the top and bottom sides.
+There is a protruding edge on the right side.
+The component has raised edges along the sides.
+The part includes a triangular protrusion at the corner.
+The part has raised edges along the L-shaped corners.
+The component has a protruding tab on the top right.
+The part has a slight protrusion along the right edge.
+There is a small notch on the top right corner.
+The part has a raised edge along the left side.
+There is a protruding edge on the right side of the component.
+The component has raised edges along the top and bottom.
+The part includes a protruding section on the left side.
+The component has a raised edge along the left side.
+The part includes a flat protrusion on the bottom right.
+The part has raised edges along the top and bottom.
+The component includes a protruding section on the left side.
+The component has a protruding section on the left side.
+The part includes a flat protrusion on the right side.
+
+**Relative Positions:**
+The circular hole is positioned adjacent to the rectangular slot.
+The rectangular slot is located near the base of the L-shape.
+The circular hole is positioned centrally on the L-shaped part.
+The rectangular slot is located near the bottom edge, close to the protrusion.
+The circular hole is positioned adjacent to the flat base.
+The rectangular cutout is aligned parallel to the L-shaped corner.
+The circular hole is positioned adjacent to the rectangular slot.
+The rectangular cutout is aligned parallel to the L-shaped corner.
+Several smaller holes are arranged around the central opening.
+The component has a flat top surface.
+Several smaller holes are arranged around the central opening.
+The large oval cutout is aligned with the right side of the L-shape.
+Several smaller holes are arranged around the central opening.
+The circular holes are symmetrically placed around the central hole.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned adjacent to the circular hole.
+Several smaller holes are arranged around the central circular hole.
+The rectangular slot is positioned parallel to the L-shaped edge.
+The circular holes are arranged in a diagonal pattern.
+The slot aligns vertically with the right protrusion.
+Several smaller holes are arranged around the central circular opening.
+The rectangular slot is positioned parallel to the L-shaped corner.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned adjacent to the circular hole.
+The large circular hole is positioned on the left side of the rectangular base.
+The small rectangular slot is located near the top edge of the extended section.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned adjacent to the circular hole.
+The large circular hole is positioned on the left side.
+The rectangular slot is located near the center of the top surface.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- L-shaped metal bracket configuration.
+- Main body features a rectangular base with an extended vertical section.
+- Component has a rectangular base with rounded corners.
+
+[HOLES_SLOTS]
+- One large circular hole located centrally.
+- Multiple small circular holes distributed across the surface.
+- Small rectangular slots near the edges.
+- Central elongated slot.
+- Rectangular cutouts on the flat surface and side.
+
+[PROTRUSIONS]
+- Raised rectangular section on the flat surface.
+- Protruding edge along the vertical side.
+- Flat protrusion on the right side.
+- Raised edges along the top and bottom sides.
+- Protruding tab on the top right.
+
+[RELATIVE_POSITIONS]
+- The circular hole is positioned adjacent to the rectangular slot.
+- The rectangular slot is located near the bottom edge, close to the protrusion.
+- The circular hole is positioned centrally on the L-shaped part.
+- The rectangular cutout is aligned parallel to the L-shaped corner.
+- Several smaller holes are arranged around the central opening.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 5/12 (Images 61-75)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component has an L-shaped configuration.
+This part features a prominent circular hole in the middle.
+The component has an L-shaped configuration.
+This part features a prominent circular hole in the middle.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component has a rectangular base with a protruding section.
+This part features a large circular hole in the center.
+The component has an L-shaped configuration.
+This part features a prominent circular hole in the middle.
+The component has an L-shaped profile.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal structure.
+This part features a large circular hole in the center.
+The component has an L-shaped configuration.
+This part features a prominent circular hole in the middle.
+The component has an L-shaped configuration.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component has an L-shaped configuration.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component has a rectangular L-shaped form.
+This part features a prominent circular hole in the middle.
+
+**Holes & Slots:**
+There is a smaller circular hole adjacent to the main hole.
+The part includes a rectangular slot on the side.
+The component has a flat protrusion on the right side.
+This part has a cylindrical protrusion near the bottom.
+There is a smaller circular hole adjacent to the larger one.
+The part includes a rectangular slot on the side.
+The component has a flat protrusion on the right side.
+The left side of the part has a raised edge.
+There is a small circular hole near the top edge.
+The part includes another small circular hole on the side.
+The component has a protruding edge along the top side.
+There is a protruding edge along the bottom side.
+There is a smaller circular hole near the top left corner.
+The part includes a circular cutout on the front face.
+The component has a raised edge along the bottom side.
+There is a small circular hole positioned near the bottom right corner.
+There is a small slot near the bottom edge.
+The object includes a large central circular opening.
+A rectangular cutout is present on the side.
+The part has a circular hole with a smaller concentric circle inside.
+There is a smaller circular hole near the top right corner.
+The part includes a medium-sized circular hole at the bottom left.
+Another small circular hole is positioned at the bottom right.
+This section has a vertical slot on the left side.
+There is a rectangular slot near the bottom edge.
+The object has a central circular opening.
+The part includes a small circular indentation on the flat surface.
+There is a semi-circular cutout on the side panel.
+There is a small circular hole near the top edge.
+The part includes a rectangular slot on the side.
+The component has a raised edge along the bottom side.
+There is another small circular hole on the lower section.
+There is a smaller circular hole adjacent to the main hole.
+The part includes a rectangular slot on the flat side.
+The component has a protruding edge on the vertical side.
+This part has a smooth, flat surface on the base.
+There is a small slot near the bottom edge.
+The object includes a large central circular opening.
+A rectangular cutout is present on the side.
+The part has a circular hole with a smaller concentric circle inside.
+There is a smaller circular hole near the bottom edge.
+The part includes a rectangular slot on the side.
+The component has a flat protrusion on the top surface.
+There is a small notch on the upper right side.
+There is a smaller circular hole near the bottom left.
+The object has a rectangular slot on the lower side.
+The part includes a protruding edge along the top.
+There is a small circular hole positioned near the bottom right.
+There is a small oval slot near the top edge.
+The object includes a medium-sized circular hole on the side.
+This part has a rectangular slot at the bottom.
+The component contains a small circular hole near the bottom right.
+There is a small circular hole near the top edge.
+The part includes a rectangular slot on the side.
+The component has a protruding edge along the bottom.
+This part features a smaller circular hole near the bottom.
+There is a smaller circular hole near the top left corner.
+The object includes a large central circular opening.
+A rectangular slot is visible on the right side.
+The part has a circular cutout on the front face.
+
+**Protrusions:**
+The L-shaped structure has a flat base on the left.
+There is a raised edge along the vertical side.
+The central circular hole is surrounded by a ring-like structure.
+The rectangular slot is aligned parallel to the L-shape's corner.
+Several smaller holes are arranged around the central opening.
+The holes are symmetrically placed around the central circular hole.
+The part has a flat protruding section on the top right.
+Several smaller holes are arranged around the central circular opening.
+The component has raised edges along the vertical side.
+There is a protruding section on the flat surface.
+The edges of the component are slightly raised.
+The part has a flat surface with no additional protrusions.
+The part has raised edges along the vertical side.
+The component has a protruding section at the bottom left.
+The part has a protruding section on the right side.
+The component includes a flat protrusion on the left side.
+The L-shaped structure has a raised edge along the horizontal side.
+There is a circular cutout on the vertical section.
+The edges of the component are slightly raised.
+There are protruding sections along the vertical side.
+The part has raised edges along the left side.
+The component includes a protruding tab on the bottom right.
+The component has a raised edge along the left side.
+The part includes a flat protrusion on the right side.
+The part has a raised triangular protrusion on the left side.
+There is a small notch on the right side of the component.
+The part has a raised edge along the left side.
+There is a small circular hole positioned near the right edge.
+The edges of the component are slightly raised.
+There are two small protrusions on the top edge.
+
+**Relative Positions:**
+The circular hole is centrally aligned with the L-shape.
+The rectangular slot is positioned parallel to the base.
+The smaller circular hole is positioned slightly above the larger one.
+The flat protrusion extends outward from the main body.
+The central hole is surrounded by a ring-like structure.
+The L-shape is formed by the combination of flat surfaces and edges.
+The large circular hole is centrally located on the main body.
+The smaller holes are positioned symmetrically around the central hole.
+The circular hole is positioned centrally on the L-shaped part.
+A smaller slot is located adjacent to the main circular hole.
+The large central hole is surrounded by three smaller holes.
+The vertical slot is aligned with the L-shaped bend.
+The circular hole is aligned with the rectangular slot.
+The semi-circular cutout is adjacent to the central opening.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned adjacent to the large circular hole.
+The rectangular slot is positioned near the bottom edge.
+The main circular hole is aligned with the vertical protrusion.
+The circular hole is positioned centrally on the L-shaped part.
+The slot is located adjacent to the circular hole.
+The smaller hole is positioned adjacent to the central opening.
+The rectangular slot is aligned parallel to the bottom edge.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is aligned parallel to the bottom edge.
+The large circular hole is positioned centrally with smaller holes around it.
+The rectangular slot is located near the bottom left of the component.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is located adjacent to the central hole.
+The central hole is aligned with the L-shaped bend.
+Several small holes are distributed around the main circular opening.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- L-shaped metal bracket configuration.
+- Rectangular base with a protruding section.
+- Central large circular hole.
+
+[HOLES_SLOTS]
+- One large central circular hole.
+- Multiple small circular holes symmetrically arranged around the central hole.
+- Rectangular slots on the side and near the bottom edge.
+- Small circular holes near the top, bottom, and corners.
+
+[PROTRUSIONS]
+- Flat protrusion on the right side.
+- Raised edge along the vertical and horizontal sides.
+- Flat protruding section on the top right.
+- Protruding tab on the bottom right.
+
+[RELATIVE_POSITIONS]
+- Large central circular hole aligned with the L-shape.
+- Rectangular slots positioned parallel to the base and near the bottom edge.
+- Small circular holes positioned symmetrically around the central hole.
+- Flat protrusion extends outward from the main body.
+- Rectangular slot aligned with the L-shaped bend.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 6/12 (Images 76-90)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component has a rectangular base with a protruding section.
+This part features a large semi-circular cutout on one side.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole on the right side.
+The component has an L-shaped profile.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is a flat rectangular sheet.
+This part features two large circular holes.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole on the right side.
+The component has an L-shaped configuration.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component has an L-shaped configuration.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+
+**Holes & Slots:**
+There is a small circular hole near the base of the protruding section.
+The object includes a flat surface on the bottom.
+The part has a raised edge along the top side.
+There is a small rectangular slot on the flat surface.
+There is a smaller circular hole near the top left corner.
+The part includes another circular hole at the bottom left.
+A medium-sized circular hole is positioned at the bottom right.
+This section has a large oval slot on the right side.
+There is a small oval hole near the bottom left corner.
+The part includes a medium-sized circular hole on the flat surface.
+A rectangular slot is present on the right side.
+The component has a small circular hole near the bottom right corner.
+It contains one small circular hole near the top left corner.
+There is another small circular hole positioned at the bottom left.
+The part includes a medium-sized circular hole at the bottom center.
+This section has a large oval slot on the right edge.
+There is a smaller circular hole near the top right.
+The part includes a medium-sized circular hole at the bottom.
+A small circular hole is positioned near the bottom right.
+This section has a rectangular slot on the left side.
+There is a smaller circular hole near the top right corner.
+The part includes a medium-sized circular hole at the bottom.
+A rectangular slot is positioned on the left side.
+This section has a small circular hole near the bottom right.
+There is a small circular hole near the top left corner.
+The sheet contains another small circular hole near the top right corner.
+A medium-sized circular hole is positioned near the bottom left corner.
+This part includes a small circular hole near the bottom right corner.
+There are three smaller circular holes on the flat side.
+The part includes a large circular hole on the vertical side.
+The component has a rectangular slot near the bottom edge.
+There is a small circular hole positioned near the top left corner.
+It contains one medium-sized circular hole near the top.
+There is a small circular hole positioned on the left side.
+The part has another small circular hole at the bottom left.
+A small circular hole is located at the bottom center.
+There are three smaller circular holes on the left side.
+The part includes a central circular cutout.
+A small circular hole is positioned near the top left corner.
+Another small circular hole is located near the bottom left corner.
+There is a smaller circular hole near the top right corner.
+The part includes a medium-sized circular hole at the bottom.
+A rectangular slot is positioned near the left edge.
+The component has a small circular hole close to the bottom right corner.
+There is a smaller circular hole near the top right corner.
+The part includes a medium-sized circular hole at the bottom.
+A rectangular slot is positioned near the left edge.
+There is a small circular hole close to the bottom right corner.
+There are three smaller circular holes on the vertical side.
+The object includes a circular cutout on the right side.
+The part has a protruding section on the right edge.
+There is a smaller circular hole near the bottom left corner.
+There is a smaller circular hole near the top right corner.
+The part includes a medium-sized circular hole at the bottom.
+A rectangular slot is positioned near the left edge.
+There is another small circular hole near the bottom right corner.
+There is a small circular hole near the top right corner.
+The part includes another small circular hole on the right side.
+A small circular hole is positioned near the bottom right corner.
+There is a small circular hole near the bottom center.
+
+**Protrusions:**
+The component has a smooth transition between the base and the protruding section.
+The part includes a semi-circular indentation on the side.
+The part has raised edges along the vertical side.
+The horizontal side of the component has a slight protrusion.
+The part has raised edges along the top and bottom sides.
+There is a protruding section on the right edge.
+The part has a flat protrusion along the top edge.
+The component has a slight indentation on the right side.
+The edges of the part are slightly raised.
+The part has a flat surface with no additional protrusions.
+The part has raised edges along the vertical sides.
+The L-shape has a distinct bend at the corner.
+The edges of the component are smooth and flat.
+The component has no protrusions or raised features.
+The part has a raised edge along the vertical side.
+The component has a protruding section on the right side.
+The part has a flat protrusion along the right edge.
+There is a raised edge on the top right corner.
+The part has a protruding section on the right side.
+There is a raised edge along the bottom side.
+The part has raised edges along the vertical sides.
+The L-shaped bracket has a flat protrusion on the left side.
+The part has raised edges along the vertical side.
+The horizontal side has a slight protrusion at the bottom.
+The component has a flat protruding edge along the top.
+The part includes a raised section on the right side.
+The part has raised edges along the vertical sides.
+The horizontal side has a slight protrusion at the bottom.
+The part has raised edges along the vertical sides.
+The component has a protruding section on the left side.
+
+**Relative Positions:**
+The rectangular slot is positioned centrally on the flat surface.
+The semi-circular cutout is aligned with the raised edge on the side.
+The smaller holes are arranged symmetrically around the central hole.
+The oval slot is aligned with the right edge of the L-shape.
+Several smaller holes are arranged around the central opening.
+The large circular hole is positioned adjacent to the L-shaped bend.
+Several small holes are arranged symmetrically around the central oval slot.
+The L-shape is formed by a vertical and horizontal section meeting at a right angle.
+The large circular hole is flanked by smaller holes on the right.
+The rectangular slot is adjacent to the large central hole.
+Several smaller holes are arranged around the central opening.
+The holes are symmetrically placed relative to the L-shape.
+Two small holes are aligned horizontally near the top.
+Two medium-sized holes are positioned diagonally near the bottom.
+Several smaller holes are arranged around the central opening.
+The large circular hole is aligned with the vertical protrusion.
+The large circular hole is adjacent to the L-shaped bend.
+Several smaller holes are arranged around the central circular hole.
+The large circular hole is surrounded by smaller holes.
+The smaller holes are arranged symmetrically around the central hole.
+Several smaller holes are arranged around the central opening.
+The holes are symmetrically placed relative to the L-shape.
+Several smaller holes are arranged around the central opening.
+The holes are symmetrically placed relative to the L-shape.
+The large circular hole is positioned centrally on the right side.
+Several smaller holes are arranged around the central circular opening.
+Several smaller holes are arranged around the central opening.
+The holes are symmetrically placed relative to the central circular hole.
+Several smaller holes are arranged around the central opening.
+The holes are symmetrically placed around the central circular feature.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- L-shaped metal bracket configuration.
+- Main body features a rectangular base with a protruding section.
+- Large semi-circular cutout on one side.
+- Large circular hole in the center.
+
+[HOLES_SLOTS]
+- One large circular hole located centrally.
+- Small circular holes near the top left and bottom left corners.
+- Medium-sized circular holes at the bottom center and bottom right.
+- Small oval hole near the bottom left corner.
+- Rectangular slot on the flat surface.
+- Large oval slot on the right side.
+- Rectangular slot positioned on the left side.
+
+[PROTRUSIONS]
+- Protruding section on the right edge.
+- Flat protrusion along the top edge.
+- Raised edges along the vertical sides.
+- Slight protrusion on the horizontal side.
+- Flat protrusion along the right edge.
+
+[RELATIVE_POSITIONS]
+- The large circular hole is positioned adjacent to the L-shaped bend.
+- The rectangular slot is positioned centrally on the flat surface.
+- The semi-circular cutout is aligned with the raised edge on the side.
+- The oval slot is aligned with the right edge of the L-shape.
+- Several smaller holes are arranged symmetrically around the central hole.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 7/12 (Images 91-105)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component has a rectangular base.
+This part features two large circular holes near the top.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component has a rectangular base with a flat top surface.
+This part features a large central circular hole.
+The component has a rectangular base with a flat top surface.
+This part features a large central circular hole.
+The component has a rectangular base with a flat top surface.
+This part features a large central rectangular opening.
+The component has a rectangular base with a flat top surface.
+This part features a large central hole on the upper surface.
+The component has a rectangular base with a flat top surface.
+This part features a large central circular hole.
+The component has a rectangular base with a flat top surface.
+This part features a large central circular hole.
+The component has a hexagonal base with a flat top surface.
+This part features a large central circular hole.
+The component has a rectangular base with a flat top surface.
+This part features a large circular hole near the bottom left corner.
+The component is a rectangular block with a flat top surface.
+This part features a large rectangular opening at the bottom.
+The component has a rectangular shape with rounded corners.
+This part features two large circular holes near the top.
+The component is a rectangular block with a flat top surface.
+This part features a large rectangular opening at the bottom.
+
+**Holes & Slots:**
+There is a small circular hole near the top left corner.
+The object includes another small circular hole below the first one.
+A smaller circular hole is positioned near the bottom left corner.
+There is a circular hole situated near the bottom center.
+There is a smaller circular hole near the top right corner.
+The part includes a rectangular slot on the left side.
+A small circular hole is positioned near the bottom right corner.
+This component has a central circular opening.
+There is a smaller circular hole positioned centrally.
+The part includes a medium-sized circular hole at the bottom left.
+This section has a large circular hole at the bottom right.
+The component has a flat surface with no protrusions.
+There is a smaller circular hole near the top left corner.
+The part includes a medium-sized circular hole at the bottom left.
+The object has a protruding section on the right side.
+This section has a raised edge along the top.
+There is a smaller circular hole located near the top right corner.
+The part includes a circular hole on the lower left side.
+Another circular hole is positioned on the lower right side.
+The component has a flat horizontal section dividing the top and bottom parts.
+There is a smaller circular hole located near the top left corner.
+The part includes a circular hole on the bottom left side.
+Another circular hole is positioned on the bottom right side.
+The component has a flat horizontal section dividing the top and bottom parts.
+There is a small circular hole near the top left corner.
+The component includes another small circular hole near the bottom left corner.
+There is a circular hole positioned centrally on the lower section.
+The part has a circular hole near the bottom right corner.
+There is a smaller circular hole located towards the right side.
+The lower section includes a horizontal rectangular cutout.
+A circular hole is positioned on the left side of the lower section.
+Another circular hole is situated on the right side of the lower section.
+There is a small circular hole near the top right corner.
+The part includes a medium-sized circular hole on the lower left side.
+Another small circular hole is positioned on the lower right side.
+The component has a flat horizontal section dividing the top and bottom parts.
+There is a smaller circular hole positioned near the top left corner.
+The bottom section includes a medium-sized circular hole.
+Another circular hole is located on the bottom right side.
+The component has a horizontal division between the top and bottom sections.
+There is a smaller circular hole located near the top right corner.
+The part includes a circular hole on the lower left side.
+Another circular hole is positioned on the lower right side.
+The component has a protruding edge along the bottom section.
+There is a smaller circular hole positioned above the larger one.
+The object contains a circular hole on the top surface towards the left side.
+This part has a circular hole on the bottom surface near the right side.
+There is a circular hole on the bottom surface towards the left side.
+There is a small circular hole near the left side of the opening.
+The right side of the opening has a similar small circular hole.
+The component has a flat base with no additional protrusions.
+The top surface is smooth and uninterrupted.
+There is a smaller circular hole positioned centrally.
+The part includes a medium-sized circular hole at the bottom left.
+This section has a larger circular hole situated at the bottom right.
+The component has a flat surface with multiple circular openings.
+There is a small circular hole near the left side of the opening.
+The right side of the opening has another small circular hole.
+The component has a flat base with no additional protrusions.
+The top surface is smooth and uninterrupted.
+
+**Protrusions:**
+The part has a flat protrusion along the right side.
+The component has a raised edge on the left side.
+The part has raised edges along the vertical sides.
+There are two small holes on the right side.
+The part has a smooth edge without any raised features.
+Several circular holes are evenly distributed across the surface.
+Several smaller holes are arranged around the central opening.
+The holes are evenly spaced along the vertical edge.
+The edges of the component are straight and parallel.
+The part has a slight indentation along the bottom edge.
+The edges of the component are straight and parallel.
+The top surface is flat and uninterrupted.
+The edges of the component are straight and parallel.
+The component has a flat top and bottom surface.
+The edges of the component are straight and parallel.
+The top surface is flat and uninterrupted.
+The edges of the component are straight and parallel.
+The top surface is flat and uninterrupted.
+The edges of the component are slightly raised.
+The top surface is flat and uninterrupted.
+The part has a raised edge running along the sides.
+The top surface is flat and unobstructed.
+The part has a flat, wide top surface.
+The component has a flat bottom surface with a slight overhang.
+The edges of the rectangular block are straight and uniform.
+The rectangular opening is centrally aligned with the base.
+The edges of the part are smooth and unobstructed.
+There are no protrusions or raised features on the surface.
+The edges of the rectangular block are straight and uniform.
+The rectangular opening is centrally aligned with the block.
+
+**Relative Positions:**
+Several smaller holes are arranged around the central opening.
+The large circular hole is aligned with the L-shaped bend.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is located adjacent to the central hole.
+The two large holes are aligned horizontally near the top.
+The bottom holes are positioned diagonally opposite each other.
+The central hole is aligned with the protruding section.
+The smaller holes are positioned symmetrically around the main hole.
+The smaller hole near the top is aligned diagonally with the lower left hole.
+The central hole is aligned horizontally with the bottom section.
+The smaller hole on the top left is aligned diagonally with the bottom left hole.
+The bottom right hole is positioned symmetrically opposite the bottom left hole.
+The small circular holes are symmetrically arranged on the lower section.
+The central rectangular opening is aligned with the component's main body.
+The central hole is aligned vertically with the lower section.
+The two circular holes on the lower section are evenly spaced apart.
+The central circular hole is aligned horizontally with the base.
+The smaller holes on the lower section are symmetrically placed on either side.
+The smaller hole near the top is aligned diagonally with the bottom hole.
+The central hole is aligned vertically with the horizontal division.
+The central hole is aligned with the lower holes vertically.
+The smaller top hole is offset from the central hole horizontally.
+The larger circular hole is located on the bottom surface, left of center.
+The smaller circular hole is positioned above the larger one on the top surface.
+The small circular holes are symmetrically placed on either side of the opening.
+The overall shape is simple and lacks complex geometric features.
+The two larger holes are aligned horizontally near the top.
+The smaller central hole is surrounded by the larger bottom holes.
+The small circular holes are symmetrically placed on either side of the opening.
+The overall shape is simple and lacks complex geometric features.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- L-shaped metal bracket.
+- Rectangular base with a flat top surface.
+- Central circular hole.
+- Horizontal division between top and bottom sections.
+
+[HOLES_SLOTS]
+- Large central circular hole.
+- Smaller circular holes symmetrically arranged around the central hole.
+- Rectangular slot adjacent to the central hole.
+- Two large circular holes near the top, aligned horizontally.
+- Small circular holes near the top left and bottom right corners.
+
+[PROTRUSIONS]
+- Flat protrusion along the right side.
+- Raised edge along the vertical sides.
+- Slight indentation along the bottom edge.
+- Smooth edges without raised features.
+
+[RELATIVE_POSITIONS]
+- Central hole aligned with the L-shaped bend.
+- Smaller holes symmetrically arranged around the central hole.
+- Rectangular slot located adjacent to the central hole.
+- Two large holes aligned horizontally near the top.
+- Bottom holes positioned diagonally opposite each other.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 8/12 (Images 106-120)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is a rectangular block with a flat top surface.
+This part features a large rectangular opening in the center.
+The component is a rectangular block with a flat top surface.
+This part features a large rectangular opening in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component has a rectangular base with a flat top.
+This part features two large circular holes on the front face.
+The component has a rectangular base with a flat top.
+This part features two large circular holes on the front face.
+The component has a rectangular base with a flat top surface.
+This part features two large circular holes on the front face.
+The component has a rectangular base with a flat top.
+This part features two large circular holes on the front face.
+The component is a rectangular block with a flat top surface.
+This part features a large rectangular opening in the center.
+The component has a rectangular shape with rounded corners.
+This part features two large circular holes near the top.
+The component is a rectangular block with a flat top surface.
+This part features a large rectangular opening in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component has a rectangular base with a protruding section.
+This part features a large circular hole in the lower section.
+
+**Holes & Slots:**
+There is a small circular hole near the top right corner.
+The part includes a smaller circular hole below the central opening.
+A rectangular slot is positioned near the bottom edge.
+There is another small circular hole on the side.
+There is a small circular hole near the bottom left corner.
+The object has a flat base with a slight overhang.
+The part includes a small circular hole near the bottom right corner.
+This component has a smooth, flat top surface.
+There is a small circular hole near the bottom left corner.
+The object has a flat base with a slight overhang.
+The part includes a rectangular slot on the front side.
+There is a circular indentation on the right side.
+There is a small circular hole near the top left corner.
+The object has a medium-sized circular hole on the left side.
+The part includes a small circular hole positioned near the bottom left.
+There is a small circular hole located near the bottom right.
+There is a smaller circular hole near the bottom left corner.
+Another small circular hole is positioned near the bottom right corner.
+The part has a flat top surface extending horizontally.
+The front face is characterized by two prominent circular cutouts.
+There is a smaller circular hole near the bottom left corner.
+Another small circular hole is positioned near the bottom right corner.
+The part has a flat top surface extending horizontally.
+The front face is characterized by two prominent circular openings.
+There is a smaller circular hole near the bottom left corner.
+Another small circular hole is positioned near the bottom right corner.
+The part has a flat top surface extending horizontally.
+The front face is characterized by two prominent circular openings.
+There is a smaller circular hole near the bottom left corner.
+Another small circular hole is positioned near the bottom right corner.
+The part has a flat top surface extending horizontally.
+The front face is characterized by two prominent circular openings.
+There is a small circular hole near the bottom left corner.
+The object has a protruding edge along the top side.
+This part includes a shallow rectangular slot on the front face.
+The component has a flat base with a slight elevation on the sides.
+There is a smaller circular hole positioned centrally.
+The part includes a medium-sized circular hole at the bottom left.
+Another circular hole is located at the bottom right.
+The component has a flat surface with no protrusions.
+There is a small circular hole near the bottom left corner.
+The object has a flat base with a slight protrusion on the right side.
+The part includes a small circular hole near the bottom right corner.
+This component has a smooth rectangular shape with no additional features.
+There is a smaller circular hole near the top left corner.
+The part includes a medium-sized circular hole on the bottom left side.
+Another circular hole is positioned on the bottom right side.
+The component has a flat surface with no protrusions.
+There is a smaller circular hole near the top edge.
+The part includes a medium-sized circular hole on the lower section.
+The component has a raised edge along the bottom side.
+There is a small circular hole on the left side.
+There is a smaller circular hole near the top edge.
+The part includes a medium-sized circular hole on the lower section.
+There is a small circular hole positioned on the side.
+This section has a rectangular slot near the bottom edge.
+There is a smaller circular hole near the top right corner.
+The part includes a rectangular slot on the side.
+The component has a flat top surface.
+There is a circular hole positioned centrally on the lower section.
+
+**Protrusions:**
+The part has raised edges along the vertical sides.
+The horizontal side has a slight protrusion at the bottom.
+The part has a flat, wide base extending horizontally.
+The component has a rectangular shape with a flat top and bottom.
+The component has a smooth, flat top surface.
+The part has a rectangular protrusion along the bottom edge.
+The part has a raised edge along the vertical side.
+The component has a protruding section on the right side.
+The edges of the component are straight and well-defined.
+The sides of the part slope inward slightly.
+The edges of the component are straight and well-defined.
+The sides of the part slope inward slightly.
+The edges of the component are straight and well-defined.
+The sides of the part slope inward slightly.
+The edges of the component are straight and well-defined.
+The sides of the part slope inward slightly.
+The part has a raised edge along the bottom perimeter.
+There is a small circular indentation near the top right corner.
+The edges of the component are smooth and unobstructed.
+Several circular holes are symmetrically arranged on the surface.
+The part has a flat top and bottom surface with no raised edges.
+The component is a simple rectangular block with no protrusions.
+The edges of the part are slightly raised.
+The L-shape is formed by two perpendicular flat surfaces.
+The part has a raised edge along the right side.
+Several smaller holes are arranged around the central opening.
+The part has raised edges along the sides.
+The component has a flat base with a slight protrusion.
+The part has a raised edge along the bottom side.
+The component has a flat protruding section at the bottom.
+
+**Relative Positions:**
+Several smaller holes are arranged around the central opening.
+The holes are symmetrically placed on the vertical and horizontal arms.
+The large rectangular opening is centrally aligned on the component.
+The small circular holes are symmetrically placed on opposite sides of the base.
+The rectangular slot is positioned centrally on the front face.
+The circular hole is aligned with the rectangular opening.
+Several smaller holes are arranged around the central opening.
+The small holes are positioned symmetrically on the left side.
+The two large holes are symmetrically placed on the front face.
+The smaller holes are aligned horizontally at the bottom.
+The two large holes are symmetrically placed on the front face.
+The smaller holes are aligned horizontally with the larger ones.
+The two large holes are symmetrically placed on the front face.
+The smaller holes are aligned horizontally at the bottom.
+The two large holes are symmetrically placed on the front face.
+The smaller holes are aligned horizontally at the bottom.
+The rectangular opening is centrally aligned with the base.
+The small circular hole is positioned adjacent to the rectangular slot.
+The two larger holes are aligned horizontally near the top.
+The smaller holes are positioned diagonally opposite each other at the bottom.
+The large rectangular opening is centrally located on the component.
+The small circular holes are positioned symmetrically on the bottom surface.
+The central hole is aligned with the corner of the L-shape.
+The smaller holes are symmetrically placed around the central hole.
+The large circular hole is positioned centrally on the top section.
+The smaller holes are symmetrically placed around the central hole.
+Several smaller holes are arranged around the central opening.
+The holes are symmetrically placed on the L-shaped structure.
+The large circular hole is aligned with the rectangular slot.
+Two smaller holes are positioned symmetrically on the lower section.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- L-shaped metal bracket.
+- Rectangular base with a flat top surface.
+- Component has a rectangular shape with rounded corners.
+- Rectangular base with a protruding section.
+- Rectangular base with a slight overhang.
+
+[HOLES_SLOTS]
+- Two large circular holes on the front face.
+- Large rectangular opening in the center.
+- Small circular holes near the top and bottom corners.
+- Small circular holes near the bottom left and right corners.
+- Small circular holes near the top left and right corners.
+- Rectangular slot near the bottom edge.
+- Shallow rectangular slot on the front face.
+- Medium-sized circular hole on the lower section.
+
+[PROTRUSIONS]
+- Raised edges along the vertical sides.
+- Slight protrusion at the bottom of the horizontal side.
+- Rectangular protrusion along the bottom edge.
+- Raised edge along the bottom perimeter.
+- Flat protruding section at the bottom.
+- Raised edge along the right side.
+
+[RELATIVE_POSITIONS]
+- Two large holes are symmetrically placed on the front face.
+- Small holes are symmetrically placed on opposite sides of the base.
+- Rectangular slot is positioned centrally on the front face.
+- Small circular holes are symmetrically placed on the bottom surface.
+- Large circular hole is aligned with the rectangular slot.
+- Small holes are positioned diagonally opposite each other at the bottom.
+- Large rectangular opening is centrally aligned on the component.
+- Small circular holes are positioned symmetrically around the central opening.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 9/12 (Images 121-135)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a rectangular block with a flat top surface.
+This part features a large rectangular opening in the center.
+The component is a rectangular block with a flat top surface.
+This part features a large rectangular opening at the bottom.
+The component has a rectangular base with a flat top.
+This part features a large circular hole on the upper side.
+The component has a rectangular base with a flat top.
+This part features a large circular hole on the upper side.
+The component has a trapezoidal base.
+This part features a large circular hole on the upper side.
+The component is a flat rectangular sheet.
+This part features two circular holes near the top.
+The component has a trapezoidal base.
+This part features a large circular hole on the upper side.
+The component has a rectangular base with a vertical extension.
+This part features a flat top surface.
+The component has a rectangular base with a vertical extension.
+This part features a flat top surface.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large rectangular opening in the center.
+The component is an L-shaped metal bracket.
+This part features a large rectangular opening in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the upper section.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+
+**Holes & Slots:**
+There is a small circular hole near the left side.
+The object has a flat base with a slight overhang.
+This part includes a rectangular slot on the front face.
+The component has a smooth, flat surface with no visible indentations.
+There is a small circular hole on the left side of the opening.
+The right side of the opening has another small circular hole.
+The component has a flat base with no additional protrusions.
+The top surface is smooth and uninterrupted.
+There is a smaller circular hole near the bottom left.
+The part includes a medium-sized circular hole on the right side.
+The component has a protruding edge along the bottom.
+There is a small circular indentation at the bottom center.
+There is a smaller circular hole near the bottom left.
+The part includes another small circular hole near the bottom right.
+The component has a flat protrusion along the top edge.
+This part features a slight indentation on the lower side.
+There is a smaller circular hole near the bottom left.
+The part includes another small circular hole near the bottom right.
+The component has a flat top surface.
+This part features two small circular holes at the bottom.
+There is a small circular hole positioned near the bottom left.
+The part includes another circular hole near the bottom right.
+The component has a central circular hole.
+This part features a circular hole with a slight indentation.
+There is a smaller circular hole near the bottom left.
+The part includes another small circular hole near the bottom right.
+The component has a flat top surface.
+This part features two small circular holes at the bottom.
+It contains a small circular hole near the bottom left corner.
+There is a similar small circular hole near the bottom right corner.
+The vertical extension has a smooth, flat surface.
+The base has a slightly recessed area in the center.
+It contains a small circular hole near the bottom left corner.
+There is a similar small circular hole near the bottom right corner.
+The vertical extension has a smooth, flat surface.
+The base has a slightly recessed area in the center.
+There is a small circular hole near the top right corner.
+The part includes a medium-sized circular hole at the bottom right.
+The component has a raised edge along the bottom side.
+There is a small circular hole positioned near the bottom left.
+It contains one circular hole near the top edge.
+There is a small slot positioned on the side.
+The part has a flat base with a protruding section.
+The component includes a series of evenly spaced holes along the side.
+It contains one circular hole near the top left corner.
+There is a small slot positioned along the bottom edge.
+The part has a flat protrusion on the right side.
+The left side of the component has a raised edge.
+There is a smaller circular hole near the top edge.
+The part includes a rectangular slot on the lower section.
+A circular hole is positioned on the bottom right side.
+Another circular hole is located on the bottom left side.
+There is a smaller circular hole near the top right corner.
+The lower section includes a medium-sized circular hole.
+Another circular hole is positioned near the bottom right corner.
+The part has a flat surface with defined edges.
+There is a small circular hole near the top left corner.
+The part includes another small circular hole on the upper side.
+The component has a rectangular slot on the bottom section.
+There is a circular hole positioned centrally on the lower part.
+
+**Protrusions:**
+The part has a flat top and bottom surface.
+There is a small circular indentation on the front face.
+The edges of the component are straight and well-defined.
+The rectangular opening is centrally aligned with the base.
+The part has a raised edge along the left side.
+A small circular feature is located near the bottom right.
+The part has a raised edge along the left side.
+There is a subtle protrusion along the right side.
+The part has a smooth transition between the base and the top.
+The component has a wide top edge.
+The part has no protrusions or raised edges.
+Several circular holes are evenly spaced across the surface.
+The part has a smooth transition between the base and the top.
+The component has a wide top edge.
+The edges of the vertical extension are straight and parallel.
+The corners of the base are right-angled.
+The edges of the vertical extension are straight and parallel.
+The corners of the base are right-angled.
+The part has a flat surface on the top side.
+Several smaller holes are arranged around the central opening.
+The part has raised edges along the top and bottom.
+There is a protruding tab on the right side.
+Several smaller holes are arranged around the central opening.
+The top edge features a slight indentation.
+The part has a flat protrusion along the bottom edge.
+There is a slight protrusion on the top edge.
+The edges of the component are slightly raised.
+The L-shape creates a right-angle bend between sections.
+The part has raised edges along the sides.
+The edges are slightly elevated to form a border.
+
+**Relative Positions:**
+The rectangular opening is centrally aligned with the base.
+The small circular hole is positioned slightly off-center towards the left.
+The small circular holes are symmetrically placed on either side of the opening.
+The overall shape is simple and uniform without any complex features.
+The large circular hole is positioned centrally on the upper side.
+Two smaller holes are arranged symmetrically near the bottom.
+The large circular hole is positioned centrally on the upper side.
+Two smaller holes are aligned horizontally near the bottom.
+The large circular hole is positioned towards the right side.
+The two small bottom holes are aligned horizontally.
+The top holes are aligned horizontally.
+The bottom holes are aligned horizontally.
+The large circular hole is positioned centrally on the upper side.
+The two small circular holes at the bottom are aligned horizontally.
+The two small circular holes are symmetrically placed on the base.
+The vertical extension is aligned centrally with the base.
+The two small circular holes are symmetrically placed on the base.
+The vertical extension is aligned centrally with the base.
+The large circular hole is centrally located on the top section.
+The smaller holes are symmetrically placed around the central hole.
+Several smaller holes are arranged around the central opening.
+The component has a flat surface with a distinct L-shape.
+The rectangular opening is aligned with the L-shape.
+The small slot is parallel to the main rectangular opening.
+The central hole is aligned with the rectangular slot.
+Smaller holes are symmetrically arranged around the central hole.
+The central hole aligns with the bend of the L-shape.
+Smaller holes are symmetrically placed around the larger central hole.
+Several smaller holes are arranged around the central opening.
+The holes on the upper side are aligned horizontally.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular block with a flat top surface.
+- Large rectangular opening in the center.
+- L-shaped metal bracket configuration.
+- Trapezoidal base with a flat top.
+- Flat rectangular sheet with a vertical extension.
+
+[HOLES_SLOTS]
+- One large circular hole in the center.
+- Two small circular holes near the top.
+- Small circular holes near the bottom left and right.
+- Rectangular slot on the front face.
+- Small circular indentation at the bottom center.
+- Medium-sized circular hole on the right side.
+- Circular hole with a slight indentation.
+- Small slot positioned on the side.
+- Series of evenly spaced holes along the side.
+- Rectangular slot on the lower section.
+
+[PROTRUSIONS]
+- Flat protrusion along the bottom edge.
+- Slight protrusion along the right side.
+- Raised edge along the left side.
+- Flat protrusion on the right side.
+- Protruding tab on the right side.
+- Raised edges along the top and bottom.
+- Slight protrusion on the top edge.
+- Flat surface on the top side.
+- Raised edges along the sides.
+- Edges are slightly elevated to form a border.
+
+[RELATIVE_POSITIONS]
+- Rectangular opening centrally aligned with the base.
+- Small circular hole slightly off-center towards the left.
+- Small circular holes symmetrically placed on either side of the opening.
+- Large circular hole positioned centrally on the upper side.
+- Two smaller holes arranged symmetrically near the bottom.
+- Two small circular holes aligned horizontally near the bottom.
+- Large circular hole positioned towards the right side.
+- Two small circular holes at the bottom aligned horizontally.
+- Top holes aligned horizontally.
+- Bottom holes aligned horizontally.
+- Vertical extension aligned centrally with the base.
+- Small slot parallel to the main rectangular opening.
+- Central hole aligns with the bend of the L-shape.
+- Smaller holes symmetrically arranged around the central hole.
+- Holes on the upper side aligned horizontally.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 10/12 (Images 136-150)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is a flat rectangular sheet.
+This part features two large circular holes.
+The component has a rectangular base with a flat top.
+This part features two large circular holes on the front face.
+The component has a rectangular base with a flat top.
+This part features two large circular holes on the front face.
+The component has a rectangular base with a flat top surface.
+This part features a large circular hole in the middle.
+The component has a rectangular base with a flat top surface.
+This part features a large circular hole in the upper section.
+The component is an L-shaped metal bracket.
+This part features a large rectangular cutout in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component has a rectangular shape with rounded corners.
+This part features two large circular holes near the top.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+
+**Holes & Slots:**
+There is a small circular hole near the top left corner.
+The part includes another small circular hole below the first one.
+The component has a protruding edge on the right side.
+There is a protruding edge on the bottom side as well.
+There is a small circular hole near the top left corner.
+Another small circular hole is positioned near the top right corner.
+A medium-sized circular hole is located near the bottom left corner.
+There is a small circular hole near the bottom right corner.
+There is a small circular hole near the bottom left corner.
+Another small circular hole is positioned near the bottom right corner.
+The part has a flat top surface extending horizontally.
+The front face is characterized by two prominent circular holes.
+There is a small circular hole near the bottom left corner.
+The part includes another small circular hole near the bottom right corner.
+The component has a flat top surface extending horizontally.
+This part has a smooth, flat surface with no additional protrusions.
+There is a smaller circular hole near the bottom left corner.
+The part includes a medium-sized circular hole on the right side.
+The component has a protruding edge along the top side.
+This part features a small circular hole at the bottom right corner.
+There is a smaller circular hole near the bottom left corner.
+The part includes a medium-sized circular hole on the right side.
+The component has a protruding edge along the top perimeter.
+This part features a small circular hole at the bottom right corner.
+It contains one circular hole near the top left corner.
+There is a small slot positioned along the bottom edge.
+The part has a protruding edge on the right side.
+The left side of the component has a raised contour.
+There is a rectangular slot near the edge.
+The object has a flat base with a protruding section.
+It contains one large circular hole on the side.
+There is a small circular hole near the bottom edge.
+There is a small circular hole near the top right corner.
+The part includes a small circular hole near the bottom right corner.
+There is a small circular hole near the bottom left corner.
+The part has a small circular hole near the top left corner.
+There is a smaller circular hole near the top edge.
+The part includes a rectangular slot on the side.
+The component has a protruding edge along the bottom.
+This part features a small circular hole near the bottom right.
+There is a small circular hole near the top right corner.
+The part includes a medium-sized circular hole on the lower side.
+The object has a rectangular slot on the side edge.
+This component has a small circular hole positioned near the bottom left.
+There is a smaller circular hole near the top edge.
+The part includes a rectangular slot on the side.
+The component has a raised edge along the bottom side.
+There is a small circular hole positioned near the bottom left corner.
+There is a small circular hole positioned centrally.
+The part includes a medium-sized circular hole at the bottom left.
+This section has a smaller circular hole near the bottom right.
+The component has a flat surface with no additional protrusions.
+There is a small circular hole near the top left corner.
+The object has a rectangular slot on the lower side.
+The part includes another small circular hole on the bottom right.
+There is a semi-circular cutout on the right side.
+There is a small circular hole near the top edge.
+The part includes a rectangular slot on the side.
+The component has a central circular opening.
+There are two smaller circular holes on the flat surface.
+
+**Protrusions:**
+Several smaller holes are arranged around the central opening.
+The holes are evenly spaced around the central circular hole.
+The part has a smooth edge along the bottom side.
+The component has a flat surface with no protrusions.
+The edges of the component are straight and well-defined.
+The component has a consistent thickness throughout its structure.
+The edges of the component are straight and parallel.
+The component has a consistent width along its length.
+The part has a flat top surface with no protrusions.
+Several circular holes are distributed across the front face.
+The part has a flat top surface with no additional protrusions.
+Several circular holes are distributed across the front face.
+Several smaller holes are arranged symmetrically around the central opening.
+The top edge features a slight indentation.
+The part has raised edges along the sides.
+The component has a flat top surface.
+The part has raised edges along the vertical sides.
+The part has raised edges along the horizontal sides.
+The part has a raised edge along the left side.
+There is a circular hole positioned near the bottom left.
+The part has raised edges along the vertical side.
+The component includes a protruding section on the left side.
+The part has a curved protrusion on the right side.
+Several smaller holes are arranged around the central opening.
+The edges of the part are smooth and unobstructed.
+There are no raised edges or protrusions on the surface.
+The part has raised edges along the sides.
+The component has a flat base with a slight overhang.
+The part has raised edges along the sides.
+The bracket has a protruding section on one side.
+
+**Relative Positions:**
+The L-shape is formed by a vertical and horizontal section.
+The circular hole is aligned with the inner corner of the L-shape.
+The two large circular holes are aligned diagonally.
+The small circular holes are evenly spaced around the edges.
+The two large circular holes are symmetrically placed on the front face.
+The small circular holes are aligned diagonally at the bottom.
+The two large circular holes are symmetrically placed on the front face.
+The small circular holes are positioned diagonally opposite each other at the bottom.
+The large central hole is positioned slightly off-center to the left.
+The smaller holes are arranged symmetrically around the central hole.
+The large circular hole is positioned centrally on the front face.
+The smaller holes are arranged symmetrically around the central hole.
+The rectangular cutout is aligned with the corner of the L-shape.
+The slot is parallel to the longer side of the L-shape.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned parallel to the base.
+Several smaller holes are arranged around the central opening.
+The smaller holes are evenly spaced around the central circular hole.
+The large circular hole is centrally located above the rectangular slot.
+Several smaller holes are arranged around the central opening.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is aligned parallel to the base edge.
+The large circular hole is aligned with the rectangular slot.
+The raised edges provide structural support along the sides.
+The two large holes are aligned horizontally near the top.
+The smaller holes are positioned diagonally from each other at the bottom.
+Several smaller holes are arranged around the central opening.
+The holes are symmetrically positioned relative to the L-shape.
+Several smaller holes are arranged around the central opening.
+The holes are symmetrically positioned on the flat surface.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- L-shaped metal bracket configuration.
+- Rectangular base with a flat top surface.
+- Component features a large circular hole in the center.
+- Component has a rectangular shape with rounded corners.
+
+[HOLES_SLOTS]
+- One large circular hole located centrally.
+- Two large circular holes near the top.
+- Small circular holes near the top left and right corners.
+- Small circular holes near the bottom left and right corners.
+- Medium-sized circular hole on the right side.
+- Rectangular slot near the edge.
+
+[PROTRUSIONS]
+- Protruding edge on the right side.
+- Protruding edge along the top side.
+- Raised edges along the vertical sides.
+- Curved protrusion on the right side.
+- Protruding section on one side.
+
+[RELATIVE_POSITIONS]
+- The L-shape is formed by a vertical and horizontal section.
+- The large central hole is positioned slightly off-center to the left.
+- The two large circular holes are symmetrically placed on the front face.
+- The small circular holes are evenly spaced around the edges.
+- The rectangular slot is aligned parallel to the base edge.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 11/12 (Images 151-165)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is a flat rectangular sheet.
+This part features two circular holes near the top.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large rectangular opening in the center.
+The component is an L-shaped metal structure.
+This part features a large rectangular opening in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+
+**Holes & Slots:**
+There is a small circular hole near the top left corner.
+The part includes another small circular hole on the bottom left side.
+The component has a raised edge along the right side.
+There is a protruding edge on the right side of the part.
+There is a small circular hole near the top edge.
+The part includes a rectangular slot on the side.
+It contains another small circular hole on the lower section.
+This component has a central rectangular cutout.
+There is a small circular hole near the top right corner.
+The part includes a medium-sized circular hole on the lower section.
+The object has a rectangular slot on the side.
+This component has a small circular hole near the bottom left.
+There are two smaller circular holes on the top side.
+The component includes a rectangular slot near the bottom edge.
+The part has a central cylindrical opening on one side.
+There is a small circular hole positioned near the bottom left.
+There is a smaller circular hole near the top edge.
+The part includes a rectangular slot on the side.
+The component has a flat surface on the top.
+This part features a protruding edge along the bottom.
+There is a small circular hole near the top right corner.
+The part includes a medium-sized circular hole on the lower side.
+The object has a rectangular slot on the side edge.
+This section contains a small circular hole positioned near the bottom left.
+There is a small circular hole near the top edge.
+The part includes a rectangular slot on the side.
+The component has a central cylindrical opening.
+There are two smaller holes on the flat surface.
+There is a small circular hole near the top right corner.
+The part includes a medium-sized circular hole on the lower section.
+The object has a rectangular slot on the side.
+This component has a small circular hole near the bottom edge.
+There is a circular hole positioned towards the bottom left.
+The part includes a circular hole near the bottom right.
+The component has a circular hole on the left side.
+This part features a circular hole on the right side.
+There is a smaller circular hole near the top edge.
+The part includes a rectangular slot on the side.
+The component has a protruding edge along the bottom.
+There is a circular hole positioned near the bottom right corner.
+There is a smaller circular hole near the top left corner.
+The part includes a rectangular slot on the side.
+The component has a protruding edge along the bottom.
+There is a circular hole on the lower left side.
+There is a smaller circular hole near the top right corner.
+The part includes a rectangular slot on the side.
+The component has a raised edge along the bottom side.
+There is another circular hole on the lower left side.
+It contains one circular hole near the top edge.
+There is a small slot positioned on the side.
+The part has a flat protrusion along the bottom edge.
+The component includes a semi-circular indentation on one side.
+There is a small circular hole near the bottom edge.
+The object has a flat base with a protruding vertical section.
+The part includes a slot on the side of the vertical section.
+There is a circular hole aligned with the base of the vertical section.
+There is a small circular hole near the top right corner.
+The part includes a medium-sized circular hole on the lower section.
+The object has a rectangular slot on the side.
+This component has a small circular hole near the bottom edge.
+
+**Protrusions:**
+Several smaller holes are arranged around the central opening.
+The holes are symmetrically placed relative to the central hole.
+The part has raised edges along the sides.
+There are two small holes on the lower flange.
+The part has raised edges along the vertical side.
+The component has a flat protrusion on the bottom edge.
+The part has raised edges along the sides.
+The component has a flat base with a slight overhang.
+The part has a raised edge along the left side.
+There is a circular hole positioned near the bottom right.
+The part has raised edges along the vertical side.
+The component includes a flat protrusion on the bottom edge.
+The part has raised edges along the sides.
+The edges are slightly protruding from the main body.
+The part has raised edges along the sides.
+The component has a flat top surface.
+The part has no protrusions.
+The part has no protrusions.
+The part has a raised edge along the left side.
+Several smaller holes are arranged around the central opening.
+The part has raised edges along the sides.
+Several smaller holes are arranged around the central opening.
+The part has a flat protrusion on the right edge.
+The component includes a small circular hole near the bottom left.
+The part has raised edges along the vertical sides.
+There is a rectangular protrusion on the bottom left corner.
+The part has a raised edge along the top of the base.
+The vertical section has a slight indentation on one side.
+The part has raised edges along the sides.
+The component has a flat protrusion on the bottom.
+
+**Relative Positions:**
+The central hole is aligned with the L-shaped bend.
+The smaller holes are positioned on opposite sides of the L-shape.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned adjacent to the central hole.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned adjacent to the large circular hole.
+Several smaller holes are arranged around the central opening.
+The L-shape is formed by a horizontal and vertical section.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is aligned parallel to the bottom edge.
+Several smaller holes are arranged around the central opening.
+The holes are symmetrically placed on the L-shaped structure.
+Several smaller holes are arranged around the central opening.
+The holes are symmetrically positioned on the flat surface.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned adjacent to the large circular hole.
+Two circular holes are aligned vertically on the left side.
+The circular holes are evenly spaced across the surface.
+The rectangular slot is located adjacent to the large circular hole.
+The L-shaped structure has a flat base with a protruding section.
+The rectangular slot is positioned near the bottom edge.
+The component has a flat surface on the top.
+The large circular hole is positioned centrally on the top section.
+Several smaller holes are arranged around the central opening.
+Several smaller holes are arranged around the central opening.
+The component has a flat base with a slight elevation on the right side.
+The circular hole is positioned directly above the rectangular slot.
+The rectangular slot is aligned parallel to the base's longer side.
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned adjacent to the large circular hole.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- L-shaped metal bracket with a flat base and a vertical section.
+- Central large circular hole aligned with the L-shaped bend.
+- Flat protrusion on the bottom edge.
+
+[HOLES_SLOTS]
+- One large central circular hole.
+- Multiple smaller circular holes symmetrically arranged around the central hole.
+- Rectangular slot positioned adjacent to the central hole.
+- Two smaller circular holes aligned vertically on the left side.
+
+[PROTRUSIONS]
+- Raised edges along the sides of the L-shaped bracket.
+- Flat protrusion on the bottom edge.
+- Slight overhang on the flat base.
+
+[RELATIVE_POSITIONS]
+- The central hole is aligned with the L-shaped bend.
+- Smaller holes are symmetrically positioned on the L-shaped structure.
+- The rectangular slot is positioned adjacent to the large circular hole.
+- The flat protrusion is located on the bottom edge, parallel to the base.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 12/12 (Images 166-170)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 5 images of the same component:
+
+**Global Shape:**
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal piece.
+This part features a large circular hole in the center.
+The component has a rectangular shape with rounded edges.
+This part features two large circular holes on the top surface.
+
+**Holes & Slots:**
+There is a small circular hole near the top edge.
+The part includes a rectangular slot on the side.
+The component has a raised edge along the bottom side.
+There is another small circular hole on the lower section.
+There is a small circular hole near the top left corner.
+The part includes another small circular hole on the bottom left side.
+The component has a rectangular slot on the lower section.
+There is a protruding edge along the right side.
+There is a small circular hole near the top edge.
+The part includes a rectangular slot on the side.
+The component has a raised edge along the bottom side.
+There is another small circular hole near the bottom edge.
+There is a small circular hole near the top right corner.
+The part includes a medium-sized circular hole on the lower side.
+The object has a rectangular slot on the upper edge.
+This section contains a small circular hole on the lower right side.
+There is a small circular hole near the bottom left corner.
+The part includes a medium-sized circular hole at the bottom center.
+The component has a protruding edge on the right side.
+This part features a circular hole near the bottom right corner.
+
+**Protrusions:**
+The part has a flat surface on the top side.
+The L-shape is formed by two perpendicular flat surfaces.
+The part has raised edges along the sides.
+Several smaller holes are arranged around the central opening.
+The part has a protruding section on the right side.
+The L-shape is formed by two perpendicular flat surfaces.
+The part has a flat protrusion along the bottom edge.
+The component includes a raised edge on the left side.
+The part has a raised edge along the left side.
+There is a circular hole positioned near the top right corner.
+
+**Relative Positions:**
+Several smaller holes are arranged around the central opening.
+The rectangular slot is positioned adjacent to the circular hole.
+The large circular hole is positioned centrally on the right side.
+The rectangular slot is located near the bottom edge.
+Several smaller holes are arranged around the central opening.
+The circular hole is aligned with the L-shaped corner.
+The large circular hole is positioned centrally with smaller holes around it.
+Several smaller holes are arranged symmetrically around the central opening.
+The two large holes are aligned diagonally from top left to bottom right.
+Several smaller holes are arranged around the central area.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- L-shaped metal bracket configuration.
+- Main body features a rigid structure with a rectangular shape and rounded edges.
+
+[HOLES_SLOTS]
+- One large circular hole located centrally.
+- Multiple small circular holes distributed around the central area.
+- Rectangular slots positioned on the side and near the bottom edge.
+
+[PROTRUSIONS]
+- Raised edges along the bottom and right sides.
+- Flat protrusion along the bottom edge.
+- Protruding section on the right side.
+
+[RELATIVE_POSITIONS]
+- The large circular hole is centrally positioned with smaller holes arranged symmetrically around it.
+- Rectangular slots are positioned adjacent to the circular hole and near the bottom edge.
+- The circular hole is aligned with the L-shaped corner, and smaller holes are arranged around the central opening.
+----------------------------------------------------------------------
+

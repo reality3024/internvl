@@ -1,0 +1,2 @@
+conda create --name internvl python=3.9
+pip install torch torchvision transformers pillow einops timm

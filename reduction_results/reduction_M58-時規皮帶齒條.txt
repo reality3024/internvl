@@ -1,0 +1,3340 @@
+Reduction Phase Results for Class: M58-時規皮帶齒條
+Total Images: 240
+Batch Size: 15
+======================================================================
+
+
+======================================================================
+BATCH 1/16 (Images 1-15)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a straight cylindrical rod.
+This part features a uniform elongated shape.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is a straight cylindrical rod.
+This part features a uniform elongated shape.
+The component has a rectangular flat shape.
+This part features a long horizontal slot running through its center.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a straight rectangular bar.
+This part features a uniform elongated shape.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a uniform elongated shape.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is a straight cylindrical rod.
+This part features a uniform elongated shape.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+
+**Holes & Slots:**
+The rod has a consistent diameter throughout its length.
+There are no holes present on the surface of the rod.
+The part has a smooth outer profile without any interruptions.
+This cylindrical object does not contain any slots.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+There are two parallel slots on the top surface.
+There is a small circular hole near the left edge.
+The object has a rectangular cutout on the right side.
+The part includes a series of evenly spaced holes along the bottom edge.
+This component has a narrow elongated slot running through its center.
+The rod has a consistent diameter throughout its length.
+There are no holes present on the cylindrical surface.
+The part includes a central longitudinal slot.
+This cylindrical object has a smooth outer contour.
+There is a narrow elongated slot near the left edge.
+The object includes a small circular hole on the right side.
+The part has a series of evenly spaced holes along the bottom edge.
+This component features a large rectangular cutout in the middle.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+This component has a series of evenly spaced holes along the top.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+There are two parallel slots on the top surface.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+There are two parallel slots on the top surface.
+It contains a series of evenly spaced small circular holes along its length.
+There is a narrow rectangular slot near one end.
+The bar has a flat surface with no protrusions.
+The component has a consistent width throughout its length.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+This component has a series of evenly spaced holes along the top.
+The rod has a consistent diameter throughout its length.
+There are no holes present on the cylindrical surface.
+The part includes a narrow elongated slot along its length.
+The slot runs parallel to the central axis of the rod.
+There is a rectangular slot near the edge.
+The object has a U-shaped profile with a flat base.
+It contains two small circular holes on opposite sides.
+This part includes a long horizontal slot along one side.
+There is a small circular hole near the left edge.
+The component has a large rectangular cutout on the right side.
+This part includes a series of evenly spaced holes along the bottom edge.
+The component has a narrow vertical slot near the top right corner.
+The rod has a consistent diameter throughout its length.
+There are no holes present on the surface of the rod.
+The part has a smooth outer profile without any interruptions.
+This cylindrical object maintains a straight alignment from end to end.
+There is a small circular hole near the left edge.
+The component has a large rectangular cutout on the right side.
+The part includes a series of evenly spaced holes along the bottom edge.
+This component has a narrow vertical slot near the top right corner.
+
+**Protrusions:**
+The rod maintains a straight form from one end to the other.
+There are no protrusions along the length of the rod.
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes along the perimeter.
+The part has a raised border along the top edge.
+The object includes a protruding tab on the left side.
+The rod does not have any protrusions on its surface.
+The part maintains a straight alignment from end to end.
+The part has raised edges along the top and bottom sides.
+There are two small protrusions on the left and right ends.
+The part includes a raised ridge along the bottom edge.
+There is a notch on the left side of the component.
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes along the perimeter.
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes along the perimeter.
+The edges of the bar are smooth and rounded.
+The part has a central alignment with no additional features.
+The part includes a raised ridge along the bottom edge.
+There is a notch on the left side of the component.
+The rod has a smooth outer surface without any protrusions.
+The edges of the rod are flat and even.
+The part has raised edges along the sides.
+There are two protruding tabs at the ends.
+The part has a raised border along the perimeter.
+There are two small protrusions on the left side.
+The rod does not have any protrusions or raised edges.
+The component is designed with a simple linear geometry.
+The part has a raised border along the perimeter.
+The component includes a protruding tab on the left side.
+
+**Relative Positions:**
+The rod's ends are flat and parallel to each other.
+The component is a simple, unbroken cylindrical piece.
+The central hole is flanked by two smaller rectangular slots.
+A protruding lip is present on the left side near the top.
+Several small holes are arranged symmetrically around the central slot.
+The rectangular plate has a notch on the bottom right corner.
+The central slot runs parallel to the rod's length.
+There are no additional geometric features on the rod.
+The rectangular slot is positioned centrally, with smaller holes on either side.
+Several smaller holes are arranged symmetrically around the central slot.
+The central hole is surrounded by four smaller circular holes.
+The rectangular slot is positioned parallel to the top edge.
+The central hole is flanked by two smaller rectangular slots.
+A protruding lip is present on the left side near the top.
+The central hole is flanked by two smaller rectangular slots.
+A protruding lip is present on the left side near the top.
+The small circular holes are aligned parallel to the length of the bar.
+The rectangular slot is positioned at the midpoint of the bar.
+The central hole is surrounded by four smaller circular holes.
+The rectangular slot is positioned parallel to the top edge.
+The slot is centrally aligned with the rod's length.
+The rod maintains a consistent geometric profile from end to end.
+Several smaller holes are arranged around the central opening.
+The component has a central hole with a surrounding rectangular frame.
+The rectangular slot is positioned centrally on the component.
+Several smaller holes are arranged symmetrically around the central slot.
+The rod's length is significantly greater than its diameter.
+There are no additional features or indentations on the rod.
+Several small holes are arranged symmetrically around the central slot.
+The part has a flat surface with a central elongated slot.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Straight cylindrical rod with a consistent diameter.
+- Rectangular base with rounded corners.
+- Flat rectangular plate with a central circular hole.
+- Long horizontal slot running through the center.
+- L-shaped metal bracket with a large central hole.
+
+[HOLES_SLOTS]
+- Central circular hole.
+- Long horizontal slot in the middle.
+- Series of evenly spaced holes along the bottom edge.
+- Small circular hole near the left edge.
+- Large oval opening near the bottom.
+- Rectangular cutout on the right side.
+- Narrow elongated slot near the left edge.
+- Two parallel slots on the top surface.
+
+[PROTRUSIONS]
+- Raised ridge along the bottom edge.
+- Protruding tab on the right edge.
+- Raised border along the top edge.
+- Notch on the left side.
+- Raised ridge along the sides.
+
+[RELATIVE_POSITIONS]
+- Central hole flanked by two smaller rectangular slots.
+- Rectangular slot positioned centrally.
+- Small circular holes aligned parallel to the length of the bar.
+- Central hole surrounded by four smaller circular holes.
+- Rectangular slot positioned parallel to the top edge.
+- Slot centrally aligned with the rod's length.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 2/16 (Images 16-30)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component has a rectangular flat shape.
+This part features a long horizontal slot near the center.
+The component is a flat rectangular plate.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a central elongated slot.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a uniform elongated shape.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a straight rectangular bar.
+This part features a uniform elongated shape.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+
+**Holes & Slots:**
+There is a narrow elongated slot positioned along the top edge.
+The object includes a small circular hole on the left side.
+This part has a larger circular hole situated centrally.
+There is a rectangular cutout located near the bottom edge.
+There is a small slot near the bottom edge.
+The object has a large rectangular cutout on one side.
+This part includes a series of evenly spaced holes along the top edge.
+The component has a single elongated slot in the middle.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+This component has a series of evenly spaced holes along the top.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+This component has a series of evenly spaced holes along the top.
+There is a narrow slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a small circular hole on the right edge.
+This component has a U-shaped notch at the top.
+There is a small slot near the left edge.
+The object has a large rectangular cutout on one side.
+This part includes a series of evenly spaced holes along the bottom edge.
+The component has a single elongated slot in the middle.
+There is a small circular hole near the left edge.
+The right side of the component has a series of evenly spaced holes.
+The component has a slight indentation along the bottom edge.
+A large rectangular cutout is present on the top side.
+There is a narrow slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a small triangular notch on the right edge.
+This component contains two parallel slots on the top.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+There are two parallel slots on the top surface.
+The rod has a consistent diameter throughout its length.
+There are no holes present on the cylindrical surface.
+The part has a smooth outer contour without any interruptions.
+This cylindrical object lacks any slots or indentations.
+There is a narrow elongated slot on the left side.
+The object includes a small circular hole near the bottom right corner.
+The part has a series of evenly spaced holes along the top edge.
+This component has a large rectangular slot in the middle.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a series of evenly spaced holes along the top edge.
+This component has a U-shaped notch on the right side.
+The bar has a consistent width along its length.
+There are no holes present on the surface.
+The part includes a single narrow slot along one side.
+The slot is positioned near the middle of the bar.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+There are two parallel slots on the top surface.
+There is a narrow slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a small triangular notch on the right edge.
+This component contains two parallel slots on the top.
+
+**Protrusions:**
+The part has a raised edge along the right side.
+The component includes a protruding tab on the left side.
+The part has raised edges along the left and right sides.
+There are two small protrusions on the bottom corners.
+The part includes a raised ridge along the bottom edge.
+There is a notch on the left side of the component.
+The part includes a raised ridge along the bottom edge.
+There is a triangular notch on the left side.
+The part includes a raised ridge along the bottom edge.
+There are two parallel slots on the upper side.
+The part has raised edges along the top and bottom sides.
+There are two small protrusions on the right side.
+The part has raised edges along the left and right sides.
+There are two smaller slots parallel to the central elongated slot.
+The part has a raised ridge along the bottom edge.
+There are two protruding tabs on the left side.
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes along the perimeter.
+The rod does not have any raised edges or protrusions.
+The component maintains a simple and uninterrupted form.
+The part includes a raised ridge along the bottom edge.
+There are two protruding tabs on the left side.
+The part includes a raised ridge along the bottom edge.
+There are two protruding tabs on the left side.
+The edges of the bar are smooth and flat.
+The bar has a slight protrusion at one end.
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes along the perimeter.
+The part has a raised ridge along the bottom edge.
+There are two protruding tabs on the left side.
+
+**Relative Positions:**
+The rectangular slot is aligned parallel to the longer edge.
+Several smaller holes are arranged symmetrically around the central slot.
+The central hole is surrounded by four smaller holes arranged symmetrically.
+The rectangular slot is positioned parallel to the top edge.
+The central hole is surrounded by four smaller circular holes.
+The rectangular slot is positioned parallel to the top edge.
+The central hole is surrounded by four smaller circular holes.
+The rectangular slot is positioned parallel to the top edge.
+The central hole is flanked by two smaller holes on either side.
+The rectangular slot is positioned adjacent to the central circular hole.
+The central hole is surrounded by four smaller holes arranged symmetrically.
+The slot is positioned parallel to the longer side of the rectangle.
+The circular hole is positioned slightly off-center towards the left.
+The rectangular cutout is aligned with the central elongated slot.
+The central hole is flanked by two smaller holes on either side.
+The slots are aligned horizontally across the middle section.
+The central hole is flanked by two smaller rectangular slots.
+A protruding lip is present on the left side near the top.
+The rod's length is significantly greater than its diameter.
+There are no additional geometric features on the rod's surface.
+The central hole is surrounded by four smaller holes arranged symmetrically.
+The rectangular slot is positioned parallel to the top edge.
+The central hole is surrounded by four smaller circular holes.
+The rectangular slot is positioned adjacent to the central oval opening.
+The slot is parallel to the longer side of the bar.
+The protrusion is located at the far end of the bar.
+The central hole is flanked by two smaller rectangular slots.
+A protruding lip is present on the left side near the top.
+The central hole is flanked by two smaller holes on either side.
+The slots are positioned symmetrically on the upper half.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular flat plate with rounded corners.
+- Central circular hole.
+- Long horizontal slot near the center.
+- Uniform elongated shape.
+
+[HOLES_SLOTS]
+- Central circular hole.
+- Long horizontal slot near the center.
+- Series of evenly spaced holes along the top edge.
+- Small circular hole on the left side.
+- Large oval opening near the bottom.
+- Large rectangular cutout on one side.
+- Small slot near the bottom edge.
+- Narrow elongated slot on the left side.
+
+[PROTRUSIONS]
+- Raised ridge along the bottom edge.
+- Protruding tab on the right edge.
+- Two small protrusions on the bottom corners.
+- Raised edges along the left and right sides.
+- Two protruding tabs on the left side.
+
+[RELATIVE_POSITIONS]
+- Central hole surrounded by four smaller holes arranged symmetrically.
+- Rectangular slot positioned parallel to the top edge.
+- Central hole flanked by two smaller holes on either side.
+- Slot positioned adjacent to the central circular hole.
+- Slots aligned horizontally across the middle section.
+- Protruding lip on the left side near the top.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 3/16 (Images 31-45)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a flat rectangular plate.
+This part features a central elongated slot.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component has a rectangular flat shape.
+This part features a long horizontal slot in the middle.
+The component has a rectangular flat shape.
+This part features a long horizontal slot.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a straight rectangular bar.
+This part features a uniform elongated shape.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is a straight cylindrical rod.
+This part features a uniform elongated shape.
+The component is a straight rectangular bar.
+This part features a uniform elongated shape.
+
+**Holes & Slots:**
+There is a small circular hole near the left edge.
+The right side of the component has a series of evenly spaced holes.
+The component has a slight indentation along the bottom edge.
+A large rectangular slot is positioned near the top right corner.
+There is a small circular hole near the left edge.
+The component has a large rectangular cutout on the right side.
+This part includes a series of evenly spaced holes along the bottom edge.
+The component has a narrow vertical slot near the top right corner.
+There is a narrow vertical slot near the left edge.
+The object includes a small circular hole on the right side.
+The part has a large rectangular cutout in the center.
+There is a series of evenly spaced small holes along the bottom edge.
+It contains a narrow elongated slot in the middle.
+The object is a straight rectangular bar.
+There is a small circular hole near the left end.
+This part includes a rectangular cutout on the right side.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+There are two parallel slots on the top surface.
+There is a narrow slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a small triangular notch on the right edge.
+This component contains two parallel slots on the top.
+There is a narrow slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a small triangular notch on the right edge.
+This component contains two parallel slots on the top.
+There is a small slot near the left edge.
+The object has a large rectangular cutout on one side.
+This part includes a series of evenly spaced holes along the bottom edge.
+The component has a single elongated slot in the middle.
+There is a narrow slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a small triangular notch on the right edge.
+This component contains two parallel slots on the top.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+There are two parallel slots on the top surface.
+It contains a single narrow slot along its length.
+The bar has a consistent width throughout its entirety.
+There are no holes present on the surface.
+The edges of the bar are smooth and parallel.
+There is a narrow slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a small triangular notch on the right edge.
+This component contains two parallel slots on the top.
+There is a small circular hole near the left edge.
+The component has a large rectangular cutout on the right side.
+This part includes a series of evenly spaced holes along the bottom edge.
+The component has a narrow vertical slot near the top right corner.
+The rod has a consistent diameter throughout its length.
+There are no holes present on the cylindrical surface.
+The part includes a narrow elongated slot along one side.
+The slot runs parallel to the length of the rod.
+It contains a series of evenly spaced small holes along its length.
+There is a central rectangular cutout running through the bar.
+The bar has a consistent width throughout its entire length.
+This part includes a narrow slot near one end.
+
+**Protrusions:**
+The part has raised edges along the top and bottom sides.
+Several smaller holes are arranged symmetrically around the central slot.
+The part has a raised border along the perimeter.
+There are two small protrusions on the left side.
+The component has a raised ridge along the top border.
+The part includes a protruding tab on the left side.
+The component has a flat surface with no protrusions.
+The part has a central rectangular slot running horizontally.
+The component has a raised ridge along the bottom edge.
+This part includes a series of evenly spaced holes around the perimeter.
+The part has a raised ridge along the bottom edge.
+There are two protruding tabs on the left side.
+The part has a raised ridge along the bottom edge.
+There are two protruding tabs on the left side.
+The part has raised edges along the top and bottom sides.
+There are two small protrusions on the right side.
+The part has a raised ridge along the bottom edge.
+There are two protruding tabs on the left side.
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes along the perimeter.
+The bar has a flat top and bottom surface.
+The length of the bar is significantly greater than its width.
+The part has a raised ridge along the bottom edge.
+There are two protruding tabs on the left side.
+The part has a raised border along the perimeter.
+There are two small protrusions on the left side.
+The rod has a smooth outer surface without any protrusions.
+The edges of the rod are flat and even.
+The edges of the bar are slightly raised.
+The bar has a flat surface on both sides.
+
+**Relative Positions:**
+The elongated slot runs parallel to the longer side of the rectangle.
+The component has a central hole flanked by two smaller slots on either side.
+The rectangular slot is positioned centrally on the component.
+Several smaller holes are arranged symmetrically around the central slot.
+The rectangular slot is positioned centrally on the component.
+Several small holes are arranged symmetrically around the central rectangular cutout.
+A small circular hole is positioned near the left side.
+The rectangular slot is aligned centrally along the length.
+The central hole is flanked by two smaller rectangular slots.
+A protruding lip is present on the left side near the top.
+The central hole is flanked by two smaller holes on either side.
+The rectangular slot is positioned above the central oval opening.
+The central hole is flanked by two smaller holes on either side.
+The rectangular slot is positioned above the central oval opening.
+The central hole is surrounded by four smaller holes arranged symmetrically.
+The slot is positioned parallel to the longer side of the rectangle.
+The central hole is flanked by two smaller holes on either side.
+The rectangular slot is positioned above the central oval opening.
+The central hole is flanked by two smaller rectangular slots.
+A protruding lip is present on the left side near the top.
+The slot is centrally aligned with the bar.
+The bar maintains a straight profile from end to end.
+The central hole is flanked by two smaller holes on either side.
+The rectangular slot is positioned above the central oval opening.
+The rectangular slot is positioned centrally on the component.
+Several smaller holes are arranged symmetrically around the central slot.
+The slot is centrally aligned with the rod's length.
+The rod maintains a consistent geometric profile from end to end.
+The small holes are aligned parallel to the length of the bar.
+The central cutout is positioned exactly in the middle of the bar.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Flat rectangular plate with rounded corners.
+- Central elongated slot.
+- Central circular hole.
+- Long horizontal slot in the middle.
+- Uniform elongated shape.
+
+[HOLES_SLOTS]
+- One large circular hole centrally located.
+- Long horizontal slot in the middle.
+- Series of evenly spaced holes along the bottom edge.
+- Narrow vertical slot near the top right corner.
+- Small circular hole near the left edge.
+- Large rectangular cutout on the right side.
+- Small oval opening near the bottom.
+- Two parallel slots on the top surface.
+- Small triangular notch on the right edge.
+
+[PROTRUSIONS]
+- Raised ridge along the top and bottom sides.
+- Protruding tab on the right edge.
+- Two small protrusions on the left side.
+- Raised border along the perimeter.
+- Raised ridge along the bottom edge.
+
+[RELATIVE_POSITIONS]
+- Elongated slot runs parallel to the longer side of the rectangle.
+- Central hole flanked by two smaller slots on either side.
+- Rectangular slot positioned centrally on the component.
+- Small circular hole positioned near the left side.
+- Protruding lip present on the left side near the top.
+- Rectangular slot positioned above the central oval opening.
+- Central hole surrounded by four smaller holes arranged symmetrically.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 4/16 (Images 46-60)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a central elongated slot.
+The component is a flat rectangular plate.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component has a rectangular flat shape.
+This part features a long horizontal slot.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a uniform rectangular cross-section.
+
+**Holes & Slots:**
+There is a long horizontal slot on the left side.
+The object includes a small circular hole near the bottom right corner.
+The part has a protruding tab on the upper edge.
+There is a rectangular cutout adjacent to the central hole.
+There is a narrow slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a small triangular notch on the right edge.
+This component contains two parallel slots on the top.
+There is a small circular hole near the left edge.
+The right side of the component has a series of evenly spaced holes.
+The component has a slight indentation along the bottom edge.
+A large rectangular cutout is present on the upper half.
+There is a small slot near the bottom edge.
+The object has a large rectangular cutout on one side.
+This part includes a series of evenly spaced holes along the top edge.
+The component has a single elongated slot in the middle.
+There is a small slot near the left edge.
+The object has a large rectangular cutout on the right side.
+The part includes a series of evenly spaced holes along the bottom edge.
+This component has a U-shaped notch on the top side.
+There is a narrow slot on the left side.
+The right side of the component has a small circular hole.
+The component has a raised edge along the top border.
+The bottom edge of the part is slightly indented.
+There is a long horizontal slot on the left side.
+The right side of the component has a small circular hole.
+The component has a raised edge along the top border.
+The bottom edge of the part is slightly indented.
+There is a small slot near the left edge.
+The object has a large rectangular cutout on one side.
+This part includes a series of evenly spaced holes along the bottom edge.
+The component has a single elongated slot near the right side.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+This component has a series of evenly spaced holes along the top.
+There is a small circular hole near the left edge.
+The component has a large rectangular cutout on the right side.
+This part includes a series of evenly spaced holes along the bottom edge.
+The component has a narrow vertical slot near the top right corner.
+The object includes a narrow elongated slot.
+There is a small circular hole near the left side.
+The part has a wide horizontal rectangular slot.
+This component contains a single elongated slot.
+There is a narrow slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a small circular hole on the right edge.
+This component has a series of evenly spaced holes along the top.
+There is a narrow slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a small circular hole on the right edge.
+This component has a series of evenly spaced holes along the top.
+There is a small slot near the bottom edge.
+The object has a large rectangular cutout on one side.
+This part includes a series of evenly spaced holes along the top edge.
+The component has a single elongated slot in the middle.
+The rod has a consistent width along its length.
+There are no holes present on the surface of the rod.
+The part has a smooth outer edge without any indentations.
+The rod maintains a straight alignment throughout its entirety.
+
+**Protrusions:**
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes along the top edge.
+The part has a raised ridge along the bottom edge.
+There are two protruding tabs on the left side.
+The part has raised edges along the top and bottom.
+Several smaller slots are aligned parallel to the main slot.
+The part has raised edges along the left and right sides.
+There are two small protrusions on the bottom corners.
+The part has raised edges along the perimeter.
+There are two protruding tabs on the left side.
+A small rectangular slot is located near the bottom right corner.
+Several smaller holes are arranged symmetrically around the central hole.
+A series of small holes are aligned along the left edge.
+Several larger holes are positioned symmetrically around the central hole.
+The part has raised edges along the top and bottom borders.
+There are two small protrusions on the left side.
+The part includes a raised ridge along the bottom edge.
+There is a notch on the left side of the component.
+The part has a raised border along the perimeter.
+There are two small protrusions on the left side.
+The part has a flat surface with no protrusions.
+The component has a smooth edge without any raised features.
+The part includes a raised ridge along the bottom edge.
+There are two protruding tabs on the left side.
+The part includes a raised ridge along the bottom edge.
+There is a protruding tab on the left side.
+The part has raised edges along the left and right sides.
+There are two small protrusions on the bottom corners.
+The component lacks any protrusions or raised features.
+The rod is designed with a flat top and bottom surface.
+
+**Relative Positions:**
+The central hole is flanked by two smaller slots on either side.
+The rectangular slot is positioned parallel to the top edge.
+The central hole is flanked by two smaller holes on either side.
+The rectangular slot is positioned above the central oval opening.
+The circular hole is positioned slightly off-center towards the left.
+The rectangular cutout is centered horizontally on the component.
+The central hole is surrounded by four smaller holes arranged symmetrically.
+The slot is positioned directly above the central hole.
+The central hole is surrounded by four smaller holes arranged symmetrically.
+The slot is positioned parallel to the top edge.
+The slot is parallel to the longer side of the rectangle.
+The central hole is aligned with the slot on the left side.
+The rectangular slot is parallel to the longer side of the plate.
+The central hole is surrounded by four smaller circular holes.
+The central hole is surrounded by four smaller holes arranged symmetrically.
+The rectangular slot is positioned parallel to the longer edge of the component.
+The central hole is surrounded by four smaller circular holes.
+The rectangular slot is positioned parallel to the top edge.
+The rectangular slot is positioned centrally on the component.
+Several smaller holes are arranged symmetrically around the central slot.
+The slot is positioned centrally on the component.
+The circular hole is located adjacent to the slot.
+The central hole is surrounded by four smaller holes.
+The slot is positioned parallel to the top edge.
+The central hole is surrounded by four smaller holes.
+The slot is positioned parallel to the top edge.
+The central hole is surrounded by four smaller holes arranged symmetrically.
+The rectangular slot is positioned parallel to the top edge.
+The length of the rod is significantly greater than its width.
+The part is symmetrical along its central axis.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular flat plate with rounded corners.
+- Central circular hole or elongated slot.
+- Long horizontal slot on the left side.
+- U-shaped notch on the top side.
+- Series of evenly spaced holes along the top or bottom edge.
+
+[HOLES_SLOTS]
+- Central circular hole.
+- Long horizontal slot in the middle.
+- Small circular holes near edges.
+- Large rectangular cutout on one side.
+- Narrow slot on the left side.
+- Oval opening near the bottom.
+- Series of evenly spaced holes along the top or bottom edge.
+
+[PROTRUSIONS]
+- Raised ridge along the bottom edge.
+- Raised edges along the top and bottom.
+- Protruding tabs on the left side.
+- Small rectangular slot near the bottom right corner.
+- Raised border along the perimeter.
+
+[RELATIVE_POSITIONS]
+- Central hole flanked by smaller slots or holes.
+- Slot positioned parallel to the top edge or centrally.
+- Rectangular cutout centered horizontally.
+- Slot positioned directly above the central hole.
+- Symmetrical arrangement of smaller holes around the central hole.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 5/16 (Images 61-75)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is a straight cylindrical rod.
+This part features a uniform rectangular cross-section.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is a flat rectangular plate.
+This part features a central elongated slot.
+The component is a flat rectangular plate.
+This part features a central circular hole.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is a flat rectangular plate.
+This part features a central elongated slot.
+The component is a flat rectangular plate.
+This part features a central elongated slot.
+The component is a flat rectangular plate.
+This part features a central elongated slot.
+The component is a straight rectangular bar.
+This part features a uniform elongated shape.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is a flat rectangular plate.
+This part features a long horizontal slot near the center.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+
+**Holes & Slots:**
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+This component has a series of evenly spaced holes along the top.
+There is a small circular hole near the left edge.
+The component has a larger rectangular slot on the right side.
+The part includes a series of evenly spaced holes along the bottom edge.
+This component has a central rectangular cutout.
+The rod has a smooth elongated shape.
+It contains a central longitudinal slot running along its length.
+There are no holes present on the surface.
+The part maintains a consistent width throughout its length.
+There is a small circular hole near the left edge.
+The right side of the component has a series of evenly spaced holes.
+The component has a slight indentation along the bottom edge.
+A narrow vertical slot is present near the top right corner.
+There is a small circular hole near the left edge.
+The right side of the component has a series of evenly spaced holes.
+The component has a slight indentation along the bottom edge.
+A large rectangular cutout is present on the upper side.
+There is a small slot near the bottom edge.
+The object has a large rectangular cutout on one side.
+This part includes a series of evenly spaced holes along the top edge.
+The component has a single elongated slot in the middle.
+There is a rectangular slot near the edge.
+The object has a U-shaped profile with a flat base.
+It contains two small circular holes on opposite sides.
+This part includes a long horizontal slot along one side.
+There is a small circular hole near the left edge.
+The right side of the component has a series of evenly spaced holes.
+The component has a slight indentation along the bottom edge.
+A large rectangular cutout is present on the upper half.
+There is a small circular hole near the left edge.
+The component has a large rectangular cutout on the right side.
+The part includes a series of evenly spaced holes along the bottom edge.
+This section has a semi-circular indentation on the top.
+There is a small circular hole near the left edge.
+The right side of the component has a series of evenly spaced holes.
+The component has a slight indentation along the bottom edge.
+A large rectangular slot is positioned near the top right corner.
+The bar has a central cylindrical hole running through its length.
+There is a narrow slot along one side of the bar.
+The bar has a flat surface on both ends.
+The component includes a series of evenly spaced notches along its length.
+There is a small circular hole near the left edge.
+The object has a rectangular cutout on the right side.
+The part includes a series of evenly spaced holes along the bottom edge.
+This component has a large rectangular slot near the center.
+There is a small circular hole near the left edge.
+The component has a large rectangular cutout on the right side.
+This part includes a series of evenly spaced holes along the bottom edge.
+The component has a narrow vertical slot near the top right corner.
+It contains a single large circular hole on one side.
+There is a smaller rectangular slot positioned near the bottom edge.
+The part has a series of evenly spaced holes along the top edge.
+This component includes a semi-circular notch on the right side.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+This component has a series of evenly spaced holes along the top.
+
+**Protrusions:**
+The part includes a raised ridge along the bottom edge.
+There is a notch on the left side of the component.
+The part has raised edges along the top and bottom sides.
+There are two small protrusions on the left side of the component.
+The edges of the rod are flat and parallel.
+The rod has a simple linear profile without any protrusions.
+The part has a raised border along the perimeter.
+Several small holes are aligned along the central slot.
+The part has raised edges along the top and bottom borders.
+Several smaller slots are aligned parallel to the main elongated slot.
+The part has raised edges along the left and right sides.
+There are two small protrusions on the bottom corners.
+The part has raised edges along the sides.
+There are two protruding tabs at the ends.
+The part has raised edges along the top and bottom borders.
+Several smaller slots are aligned parallel to the main elongated slot.
+The part has raised edges along the left and right sides.
+There are two parallel slots running along the bottom edge.
+The part has a raised border along the perimeter.
+Several smaller holes are aligned parallel to the elongated slot.
+The bar has a slight curvature on one end.
+The part has a protruding edge on the shorter side.
+The part has a raised border along the top edge.
+The object features a protruding tab on the left side.
+The part has a raised border along the perimeter.
+There are two small protrusions on the left side.
+The part has raised edges along the left and right sides.
+There are two parallel slots running along the bottom edge.
+The part includes a raised ridge along the bottom edge.
+There is a notch on the left side of the component.
+
+**Relative Positions:**
+The central hole is surrounded by four smaller circular holes.
+The rectangular slot is positioned parallel to the top edge.
+The rectangular slot is positioned centrally on the component.
+Several smaller holes are arranged symmetrically around the central slot.
+The slot is positioned centrally along the rod's length.
+The rod's geometry is symmetrical along its axis.
+The circular hole is positioned centrally on the flat surface.
+The rectangular slot runs parallel to the longer side of the component.
+The circular hole is positioned slightly off-center towards the left.
+The rectangular cutout is located towards the right side, near the top edge.
+The central hole is surrounded by four smaller holes arranged symmetrically.
+The slot is positioned directly above the central hole.
+Several smaller holes are arranged around the central opening.
+The component has a central hole with a surrounding rectangular frame.
+The circular hole is positioned slightly off-center towards the left.
+The rectangular cutout is centered horizontally on the component.
+The central slot is flanked by two smaller circular holes on either side.
+Several smaller holes are arranged symmetrically around the central slot.
+The central slot is flanked by two smaller circular holes on either side.
+The component's edges are slightly rounded.
+The central hole is aligned with the longer axis of the bar.
+The notches are positioned symmetrically around the central hole.
+Several small holes are arranged symmetrically around the central slot.
+The rectangular plate has a central elongated slot.
+The rectangular slot is positioned centrally on the component.
+Several smaller holes are arranged symmetrically around the central slot.
+The large circular hole is aligned with the central slot.
+Several smaller holes are arranged symmetrically around the central slot.
+The central hole is surrounded by four smaller circular holes.
+The rectangular slot is positioned parallel to the top edge.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Flat rectangular plate with rounded corners.
+- Central circular hole.
+- Long horizontal slot in the middle.
+- L-shaped metal bracket.
+- Uniform elongated shape.
+
+[HOLES_SLOTS]
+- Central circular hole.
+- Long horizontal slot near the center.
+- Series of evenly spaced holes along the top and bottom edges.
+- Small circular hole near the left edge.
+- Large rectangular cutout on the right side.
+- Narrow vertical slot near the top right corner.
+- Semi-circular indentation on the top.
+
+[PROTRUSIONS]
+- Raised ridge along the bottom edge.
+- Raised border along the perimeter.
+- Protruding tab on the right edge.
+- Raised edges along the top and bottom sides.
+- Two small protrusions on the left side.
+
+[RELATIVE_POSITIONS]
+- Central hole surrounded by four smaller circular holes.
+- Rectangular slot positioned centrally on the component.
+- Slot positioned directly above the central hole.
+- Central slot flanked by two smaller circular holes on either side.
+- Rectangular cutout located towards the right side, near the top edge.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 6/16 (Images 76-90)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the center.
+The component is a flat rectangular plate.
+This part features a central elongated slot.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is a flat rectangular plate.
+This part features a central elongated slot.
+The component is a flat rectangular plate.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a central elongated slot.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+
+**Holes & Slots:**
+There is a rectangular slot near the edge.
+The object has a U-shaped profile with rounded corners.
+It contains two small circular holes aligned horizontally.
+This section includes a long horizontal slot on one side.
+There is a small circular hole near the left edge.
+The component has a larger rectangular slot on the right side.
+The part includes a series of evenly spaced holes along the bottom edge.
+This component has a central rectangular cutout.
+There is a narrow rectangular slot near the left edge.
+The object has a uniform rectangular shape.
+This part includes a small circular hole on the right side.
+There is a larger circular hole positioned centrally.
+There is a small circular hole near the left edge.
+The object has a large rectangular cutout on the right side.
+The part includes a series of evenly spaced holes along the bottom edge.
+This component has a narrow slot running parallel to the top edge.
+There is a rectangular slot near the edge.
+The object has a U-shaped profile with a flat base.
+It contains two small circular holes aligned horizontally.
+This section includes a long horizontal slot on one side.
+There is a long horizontal slot on the left side.
+The object includes a small circular hole near the bottom right corner.
+The part has a protruding tab on the upper edge.
+There is a rectangular cutout adjacent to the central hole.
+There is a small circular hole near the left edge.
+The component has a large rectangular cutout on the right side.
+The part includes a series of evenly spaced holes along the bottom edge.
+This component has a narrow vertical slot near the top right corner.
+There is a small circular hole near the left edge.
+The right side of the component has a series of evenly spaced holes.
+The component has a slight indentation along the bottom edge.
+A large rectangular cutout is present in the middle section.
+There is a small slot near the bottom edge.
+The object has a large rectangular cutout on one side.
+This part includes a series of evenly spaced holes along the top edge.
+The component has a single elongated slot in the middle.
+There is a small circular hole near the left edge.
+The component has a large rectangular cutout in the middle.
+This part includes a series of evenly spaced holes along the top side.
+The component has a narrow slot running parallel to the bottom edge.
+There is a rectangular slot near the edge.
+The object has a U-shaped profile with rounded corners.
+It contains two small circular holes aligned horizontally.
+This section includes a long horizontal slot on one side.
+There is a small circular hole near the left edge.
+The component has a large rectangular cutout on the right side.
+The part includes a series of evenly spaced holes along the bottom edge.
+This section has a narrow vertical slot near the top.
+There is a small circular hole near the left edge.
+The component has a large rectangular cutout on the right side.
+This part includes a series of evenly spaced holes along the bottom edge.
+The component has a narrow vertical slot near the top right corner.
+There is a small circular hole near the left edge.
+The component has a larger rectangular slot on the right side.
+The part includes a series of evenly spaced holes along the bottom edge.
+This section has a central rectangular cutout.
+There is a rectangular slot near the edge.
+The object has a U-shaped profile with rounded corners.
+It contains two small circular holes aligned horizontally.
+This section includes a long horizontal slot on one side.
+
+**Protrusions:**
+The part has raised edges along the sides.
+There are two protruding tabs on opposite ends.
+The part has raised edges along the top and bottom sides.
+There are two small protrusions on the left side.
+The part has a slight indentation along the top edge.
+The component has a raised border around the perimeter.
+The part has a raised border along the perimeter.
+There are two protruding tabs on the left side.
+The part has raised edges along the sides.
+There are two protruding tabs on opposite ends.
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes along the top edge.
+The part has a raised border along the perimeter.
+The component includes a small protrusion on the left side.
+The part has raised edges along the top and bottom sides.
+Several smaller slots are aligned parallel to the main elongated slot.
+The part has raised edges along the left and right sides.
+There are two small protrusions on the bottom corners.
+The part has raised edges along the left and right sides.
+There are two small protrusions on the bottom edge.
+The part has raised edges along the sides.
+There are two protruding tabs on opposite ends.
+The part has a raised border along the perimeter.
+The component includes a protruding tab on the left side.
+The part has a raised border along the perimeter.
+There are two small protrusions on the left side.
+The part has raised edges along the top and bottom borders.
+There are two small protrusions on the left side.
+The part has raised edges along the sides.
+There are two protruding tabs on opposite ends.
+
+**Relative Positions:**
+Several smaller holes are arranged around the central opening.
+The component has a central rectangular cutout with rounded edges.
+The rectangular slot is positioned centrally on the component.
+Several smaller holes are arranged symmetrically around the central slot.
+The central slot is aligned horizontally across the width.
+Several smaller holes are evenly spaced along the bottom edge.
+The central slot is flanked by two smaller holes on either side.
+Several holes are aligned vertically near the bottom edge.
+Several smaller holes are arranged around the central opening.
+The component has a notch on the right side.
+The central hole is flanked by two smaller slots on either side.
+The protruding tab aligns with the rectangular cutout on the right side.
+Several small holes are arranged symmetrically around the central slot.
+The rectangular slot is positioned centrally on the component.
+The circular hole is positioned slightly off-center towards the left.
+The rectangular cutout is flanked by two smaller slots on either side.
+The central hole is surrounded by four smaller holes arranged symmetrically.
+The slot is positioned directly above the central hole.
+The central slot is aligned with the elongated rectangular cutout.
+Several smaller holes are arranged symmetrically around the central slot.
+Several smaller holes are arranged around the central opening.
+The component has a central rectangular cutout with rounded edges.
+Several small holes are arranged symmetrically around the central slot.
+The rectangular plate has a central elongated slot spanning its width.
+The rectangular slot is positioned centrally on the component.
+Several smaller holes are arranged symmetrically around the central slot.
+The rectangular slot is positioned centrally on the component.
+Several smaller holes are arranged symmetrically around the central slot.
+Several smaller holes are arranged around the central opening.
+The component has a central rectangular cutout with rounded edges.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- L-shaped metal bracket.
+- Flat rectangular plate with rounded corners.
+- Central elongated slot.
+- Large circular hole in the center.
+
+[HOLES_SLOTS]
+- One large circular hole centrally located.
+- Long horizontal slot in the middle.
+- Series of evenly spaced holes along the bottom edge.
+- Small circular holes near the left edge.
+- Rectangular slot near the edge.
+
+[PROTRUSIONS]
+- Raised edges along the sides.
+- Two protruding tabs on opposite ends.
+- Raised border along the perimeter.
+- Small protrusions on the left side.
+
+[RELATIVE_POSITIONS]
+- Central slot flanked by smaller holes.
+- Central hole surrounded by smaller holes symmetrically arranged.
+- Rectangular slot positioned centrally.
+- Protruding tab aligns with rectangular cutout on the right side.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 7/16 (Images 91-105)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component has a rectangular flat shape.
+This part features a long horizontal slot in the middle.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is a flat rectangular plate.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a flat rectangular bar.
+This part features a series of evenly spaced holes along its length.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is a straight cylindrical rod.
+This part features a uniform rectangular cross-section.
+The component is a flat rectangular bar.
+This part features a uniform elongated shape.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is a straight cylindrical rod.
+This part features a uniform rectangular cross-section.
+The component is a straight rectangular bar.
+This part features a uniform elongated shape.
+The component is a straight cylindrical rod.
+This part features a uniform elongated shape.
+The component is a flat rectangular bar.
+This part features a long, narrow rectangular shape.
+The component has a rectangular flat shape.
+This part features a long horizontal slot.
+The component is a flat rectangular plate.
+This part features a central elongated slot.
+
+**Holes & Slots:**
+It contains a single elongated rectangular hole near the center.
+The object has a straight edge along the top side.
+There is a narrow vertical slot on the left side.
+The part includes a small circular hole on the right edge.
+There is a small circular hole near the left edge.
+The component has a larger rectangular slot on the right side.
+The part includes a series of evenly spaced holes along the bottom edge.
+This section has a narrow vertical slot adjacent to the main rectangular slot.
+There is a small slot near the bottom edge.
+The object has a large rectangular cutout on one side.
+This part includes a series of evenly spaced holes along the top edge.
+The component has a single elongated slot on the left side.
+There is a narrow slot on the left side.
+The object includes a series of evenly spaced holes along the bottom edge.
+The part has a protruding tab on the right side.
+This component has a U-shaped notch at the top.
+The bar has a central elongated slot.
+There are two small circular holes near the ends.
+The edges of the bar are slightly raised.
+The holes are aligned parallel to the length of the bar.
+There is a small circular hole near the left edge.
+The component has a large rectangular cutout on the right side.
+The part includes a series of evenly spaced holes along the bottom edge.
+This component has a narrow vertical slot near the top right corner.
+The rod has a consistent width along its length.
+There are no holes present in the cylindrical rod.
+The rod does not contain any slots or openings.
+The cylindrical rod maintains a smooth outer surface.
+It contains a series of evenly spaced small circular holes along its length.
+There is a narrow elongated slot running parallel to the edges.
+The part has a smooth continuous outline without any interruptions.
+This section includes a central rectangular cutout.
+There is a small circular hole near the left edge.
+The component has a large rectangular cutout on the right side.
+The part includes a series of evenly spaced holes along the bottom edge.
+This component has a narrow vertical slot near the top right corner.
+The rod has a central elongated slot running along its length.
+There is a narrow rectangular cutout positioned near one end.
+The part has a flat surface on both ends.
+This component includes a small circular indentation on one side.
+It contains a single narrow slot along its length.
+The bar has a consistent width throughout.
+There is a small circular hole near one end.
+The component has a flat surface on both sides.
+It contains a single central circular hole.
+There is a narrow rectangular slot along the length.
+The part has a smooth cylindrical surface.
+The rod is designed with a consistent diameter throughout.
+It contains a series of evenly spaced small holes along its length.
+There is a central elongated slot running through the middle.
+The bar has a uniform width throughout its length.
+This section includes a slight indentation near one end.
+It contains a narrow elongated slot in the middle.
+The object is a straight rectangular bar.
+This part includes a small circular hole near the center.
+There is a rectangular cutout on one side.
+There is a small circular hole near the left edge.
+The right side of the component has a series of evenly spaced holes.
+The component has a raised border along the perimeter.
+A large oval slot is positioned towards the bottom.
+
+**Protrusions:**
+The component has a flat surface with no protrusions.
+The part has a smooth edge along the bottom side.
+The component has a raised border along the top edge.
+The part includes a small protrusion on the left side.
+The part has raised edges along the bottom perimeter.
+There are two small protrusions on the right side.
+The part includes a raised ridge along the perimeter.
+There are two small holes near the bottom left corner.
+The bar has a uniform width throughout its length.
+The slot is positioned centrally on the bar.
+The part has a raised border along the perimeter.
+The component includes a protruding tab on the left side.
+There are no protrusions on the cylindrical rod.
+The rod's ends are flat and parallel to the main body.
+The edges of the component are slightly raised.
+The component has a consistent thickness throughout its length.
+The part has a raised border along the perimeter.
+The component includes a protruding tab on the left side.
+The rod has a slight protrusion along the central axis.
+The part has a raised edge along the length of the rod.
+The part has a slight indentation along the center.
+The bar is designed with parallel edges.
+The edges of the rod are slightly raised.
+The component has a flat top surface.
+The edges of the component are straight and parallel.
+The part has a consistent thickness from one side to the other.
+The part has a flat surface with no protrusions.
+The component has a smooth edge along the length.
+Several smaller holes are aligned parallel to the elongated slot.
+The top edge of the component has a slight indentation.
+
+**Relative Positions:**
+The rectangular slot is positioned centrally on the component.
+The small circular hole is located near the bottom right corner.
+The rectangular slot is positioned centrally on the component.
+Several smaller holes are arranged symmetrically around the central slot.
+The central hole is surrounded by four smaller holes arranged symmetrically.
+The slot is positioned parallel to the longer side of the rectangle.
+The central hole is flanked by two smaller slots on either side.
+The protruding tab extends outward from the main body.
+The circular holes are located symmetrically on both ends.
+The bar maintains a consistent thickness from one end to the other.
+Several small holes are arranged symmetrically around the central slot.
+The part has a flat surface with a central elongated slot.
+The length of the rod is significantly greater than its width.
+The rod is symmetrical along its central axis.
+The small circular holes are aligned symmetrically along the bar.
+The central rectangular cutout is positioned near the middle of the bar.
+Several small holes are arranged symmetrically around the central slot.
+The rectangular plate has a central elongated slot with rounded edges.
+The central slot is aligned parallel to the rod's length.
+The small circular indentation is located near the protrusion.
+The slot is positioned centrally on the bar.
+The circular hole is located at the midpoint of the bar.
+The central hole is aligned with the rod's axis.
+The rectangular slot is positioned symmetrically along the rod.
+Several small holes are aligned symmetrically along the length.
+The central slot is positioned precisely in the middle of the bar.
+The rectangular slot is aligned centrally on the bar.
+Several small holes are evenly spaced along the length.
+The central slot is flanked by two smaller rectangular openings.
+The component's surface includes a series of evenly spaced circular perforations.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Flat rectangular plate with rounded corners.
+- Long horizontal slot in the middle.
+- Central circular hole.
+- Series of evenly spaced holes along the length.
+- Uniform elongated shape.
+
+[HOLES_SLOTS]
+- One large central circular hole.
+- Long horizontal slot in the middle.
+- Series of evenly spaced small circular holes along the length.
+- Narrow vertical slot on the left side.
+- Small circular hole near the left edge.
+- Large rectangular cutout on one side.
+- Narrow slot near the bottom edge.
+- Central elongated slot running through the middle.
+
+[PROTRUSIONS]
+- Raised border along the perimeter.
+- Protruding tab on the right side.
+- Slight indentation along the center.
+- Flat ends on the cylindrical rod.
+- Slight protrusion along the central axis.
+
+[RELATIVE_POSITIONS]
+- Central circular hole surrounded by four smaller holes.
+- Central slot flanked by two smaller rectangular openings.
+- Small circular holes aligned symmetrically along the bar.
+- Rectangular slot positioned centrally on the component.
+- Slot positioned parallel to the longer side of the rectangle.
+- Central slot aligned with the rod's axis.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 8/16 (Images 106-120)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a central elongated slot.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component has a rectangular flat shape.
+This part features a long horizontal slot in the middle.
+The component is a flat rectangular plate.
+This part features a central elongated slot.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is a straight rectangular bar.
+This part features a uniform elongated shape.
+The component is a flat rectangular bar.
+This part features a long, narrow rectangular shape.
+The component is a flat rectangular plate.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a central elongated slot.
+The component is a straight cylindrical rod.
+This part features a uniform elongated shape.
+The component is a flat rectangular plate.
+This part features a long horizontal slot near the center.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a uniform rectangular cross-section.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+
+**Holes & Slots:**
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a series of evenly spaced holes along the top edge.
+This component has a U-shaped notch on the right side.
+There is a small circular hole near the left edge.
+The right side of the component has a series of evenly spaced holes.
+The component has a slight indentation along the bottom edge.
+A large rectangular cutout is present on the upper side.
+There is a rectangular slot near the edge.
+The object has a U-shaped profile with rounded corners.
+It contains two small circular holes aligned horizontally.
+This section includes a long horizontal slot on one side.
+The object is a straight bar with uniform width.
+It contains a single elongated rectangular cutout.
+There is a narrow slot running parallel to the length.
+The part has a consistent rectangular profile throughout.
+There is a small circular hole near the left edge.
+The right side of the component has a series of evenly spaced holes.
+The component has a slight indentation along the bottom edge.
+A large rectangular cutout is present on the upper side.
+There is a small circular hole near the left edge.
+The component has a large rectangular cutout on the right side.
+This part includes a series of evenly spaced holes along the bottom edge.
+The component has a narrow vertical slot near the top right corner.
+It contains a single narrow slot along its length.
+The bar has a consistent width throughout.
+There is a small circular indentation near one end.
+The part includes a slight curvature at one side.
+It contains a series of evenly spaced small circular holes along its length.
+There is a single elongated slot running parallel to the edges.
+The bar has a consistent width throughout its entire length.
+This part includes a central rectangular cutout.
+There is a small slot near the bottom edge.
+The object has a large rectangular cutout on one side.
+This part includes a series of evenly spaced holes along the top edge.
+The component has a single elongated slot in the middle.
+There is a small circular hole near the left edge.
+The right side of the component has a series of evenly spaced holes.
+The component has a raised border along the perimeter.
+A large rectangular cutout is present in the middle section.
+It contains a single central circular hole.
+There is a narrow rectangular slot along the length.
+The part has a flat surface on both ends.
+The rod has a consistent diameter throughout.
+The object has a thin elongated shape.
+It contains a series of evenly spaced small holes along the length.
+The part has a uniform rectangular profile.
+There is a narrow rectangular slot positioned near the bottom edge.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+This component has a series of evenly spaced holes along the top.
+The rod has a central elongated slot running along its length.
+There is a small circular hole near one end of the rod.
+The rod has a flat surface on both ends.
+This part includes a series of evenly spaced notches along its side.
+There is a small circular hole near the left edge.
+The component has a larger rectangular slot on the right side.
+The part includes a series of evenly spaced holes along the bottom edge.
+This section has a narrow vertical slot near the top.
+
+**Protrusions:**
+The part includes a raised ridge along the bottom edge.
+There are two protruding tabs on the left side.
+The part has raised edges along the top and bottom borders.
+Several smaller slots are aligned parallel to the main elongated slot.
+The part has raised edges along the sides.
+There are two protruding tabs on opposite ends.
+The edges of the component are smooth and straight.
+The component has a flat surface with no protrusions.
+The part has raised edges along the top and bottom.
+There are two smaller slots parallel to the main elongated slot.
+The part has a raised border along the perimeter.
+There are two small protrusions on the left side.
+The edges of the bar are smoothly finished.
+The bar has a flat surface on both sides.
+The edges of the component are slightly raised.
+The part has rounded corners at both ends.
+The part has raised edges along the left and right sides.
+There are two small protrusions on the bottom corners.
+Several smaller slots are aligned parallel to the main elongated slot.
+The component has a flat surface with no protrusions.
+The edges are smooth and rounded.
+The component has a slight taper towards one end.
+The component has a smooth flat surface.
+This part features a central elongated slot.
+The part includes a raised ridge along the bottom edge.
+There is a notch on the left side of the component.
+The component has a slight taper towards one end.
+The rod's surface is smooth with no visible protrusions.
+The part has a raised border along the perimeter.
+The component includes a central protruding ridge.
+
+**Relative Positions:**
+The central hole is surrounded by four smaller circular holes.
+The rectangular slot is positioned parallel to the top edge.
+The circular hole is positioned adjacent to the rectangular cutout.
+The elongated slot runs horizontally across the middle of the component.
+Several smaller holes are arranged around the central opening.
+The component has a central rectangular cutout with rounded edges.
+The slot is centrally aligned along the length of the bar.
+The rectangular shape is consistent across the entire component.
+The circular hole is aligned with the central slot.
+Several smaller holes are arranged symmetrically around the central cutout.
+The rectangular slot is positioned centrally on the component.
+Several smaller holes are arranged symmetrically around the central slot.
+The slot is centrally aligned with the bar.
+The circular indentation is positioned close to the slot.
+Several small holes are aligned symmetrically along the central axis.
+The elongated slot is positioned centrally on the bar.
+The central hole is surrounded by four smaller holes arranged symmetrically.
+The rectangular slot is positioned parallel to the longer side of the component.
+The central slot is positioned directly above the small circular hole.
+The rectangular cutout is flanked by two smaller slots on either side.
+The central hole aligns with the rod's axis.
+The rectangular slot is positioned symmetrically along the rod.
+The rectangular slot is aligned parallel to the longer side.
+Several small holes are distributed evenly along the length of the component.
+The central hole is surrounded by four smaller circular holes.
+The rectangular slot is positioned parallel to the top edge.
+The central slot is aligned parallel to the rod's axis.
+The circular hole is positioned close to the tapered end.
+Several smaller holes are arranged symmetrically around the central slot.
+The rectangular slot is positioned centrally on the flat surface.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular base with rounded corners.
+- Flat rectangular plate.
+- L-shaped metal bracket.
+- Long horizontal slot in the middle.
+- Straight cylindrical rod.
+- Uniform elongated shape.
+- Flat rectangular bar.
+- Long, narrow rectangular shape.
+
+[HOLES_SLOTS]
+- Central circular hole.
+- Central elongated slot.
+- Small circular hole near the left edge.
+- Series of evenly spaced holes along the top edge.
+- U-shaped notch on the right side.
+- Large rectangular cutout on the upper side.
+- Narrow vertical slot near the top right corner.
+- Single narrow slot along its length.
+- Central rectangular cutout.
+- Small slot near the bottom edge.
+- Large oval opening near the bottom.
+- Large rectangular cutout on the right side.
+- Series of evenly spaced holes along the bottom edge.
+- Narrow rectangular slot near the bottom edge.
+- Small slot on the left side.
+- Large rectangular cutout in the middle section.
+- Single elongated slot running parallel to the edges.
+- Small circular indentation near one end.
+- Series of evenly spaced small circular holes along its length.
+- Central protruding ridge.
+
+[PROTRUSIONS]
+- Raised ridge along the bottom edge.
+- Two protruding tabs on the left side.
+- Raised edges along the top and bottom borders.
+- Raised edges along the sides.
+- Two protruding tabs on opposite ends.
+- Raised border along the perimeter.
+- Two small protrusions on the left side.
+- Smooth and straight edges.
+- Flat surface with no protrusions.
+- Raised edges along the top and bottom.
+- Two small protrusions on the bottom corners.
+- Smooth flat surface.
+- Slight taper towards one end.
+- Smooth surface with no visible protrusions.
+- Raised border along the perimeter.
+- Central protruding ridge.
+
+[RELATIVE_POSITIONS]
+- Central hole surrounded by four smaller circular holes.
+- Rectangular slot positioned parallel to the top edge.
+- Circular hole positioned adjacent to the rectangular cutout.
+- Elongated slot runs horizontally across the middle.
+- Smaller holes arranged around the central opening.
+- Central rectangular cutout with rounded edges.
+- Slot centrally aligned along the length of the bar.
+- Circular hole aligned with the central slot.
+- Smaller holes arranged symmetrically around the central cutout.
+- Rectangular slot positioned centrally on the component.
+- Smaller holes arranged symmetrically around the central slot.
+- Slot centrally aligned with the bar.
+- Circular indentation positioned close to the slot.
+- Small holes aligned symmetrically along the central axis.
+- Elongated slot positioned centrally on the bar.
+- Central hole surrounded by four smaller holes arranged symmetrically.
+- Rectangular slot positioned parallel to the longer side.
+- Central slot positioned directly above the small circular hole.
+- Rectangular cutout flanked by two smaller slots on either side.
+- Central hole aligns with the rod's axis.
+- Rectangular slot positioned symmetrically along the rod.
+- Rectangular slot aligned parallel to the longer side.
+- Small holes distributed evenly along the length of the component.
+- Central slot aligned parallel to the rod's axis.
+- Circular hole positioned close to the tapered end.
+- Smaller holes arranged symmetrically around the central slot.
+- Rectangular slot positioned centrally on the flat surface.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 9/16 (Images 121-135)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component is a flat rectangular bar.
+This part features a uniform elongated shape.
+The component has a rectangular flat shape.
+This part features a long horizontal slot in the middle.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular flat shape.
+This part features a long horizontal slot in the middle.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a uniform elongated shape.
+The component is a flat rectangular plate.
+This part features a central circular hole.
+The component is a flat rectangular bar.
+This part features a uniform elongated shape.
+
+**Holes & Slots:**
+There is a narrow rectangular slot near the left edge.
+The object has a uniform rectangular shape.
+This part includes a small circular hole on the right side.
+There is a larger circular hole positioned centrally.
+There is a small circular hole near the left edge.
+The component has a large rectangular cutout on the right side.
+The part includes a series of evenly spaced holes along the bottom edge.
+This component has a narrow vertical slot near the top right corner.
+There is a small circular hole near the left edge.
+The component has a large rectangular cutout on the right side.
+This part includes a series of evenly spaced holes along the bottom edge.
+The component has a narrow vertical slot near the top right corner.
+There is a rectangular slot near the edge.
+The object has a U-shaped profile with rounded corners.
+It contains two small circular holes aligned horizontally.
+This section includes a long horizontal slot on one side.
+There is a small circular hole near the left edge.
+The component has a rectangular cutout on the right side.
+The part includes a series of evenly spaced holes along the top edge.
+This section has a narrow elongated slot running parallel to the length.
+There is a rectangular slot near the edge.
+The object has a U-shaped profile with rounded corners.
+It contains two small circular holes aligned horizontally.
+This section includes a long horizontal slot on one side.
+There is a rectangular slot near the edge.
+The object has a U-shaped profile with rounded corners.
+It contains two small circular holes aligned horizontally.
+This section includes a long horizontal slot on one side.
+It contains a single central circular hole.
+There is a narrow elongated slot along one side.
+The bar has a consistent width throughout its length.
+The edges of the bar are straight and parallel.
+The object is a straight bar with uniform width.
+It contains a narrow elongated slot running through its length.
+The part has a single elongated slot positioned centrally.
+There is a thin horizontal slot near the center.
+There is a narrow slot on the left side.
+The object includes a series of evenly spaced holes along the bottom edge.
+The part has a protruding tab on the right side.
+This component has a U-shaped notch at the top.
+There is a narrow elongated slot running parallel to the edges.
+The object is a straight rectangular bar.
+This part includes a central elongated slot.
+There is a small circular hole near the center.
+There is a narrow slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a small circular hole on the right edge.
+This component has a U-shaped notch at the top.
+It contains a single elongated slot running along its length.
+The rod has a consistent diameter throughout its entire length.
+There is a narrow rectangular cutout positioned centrally along the rod.
+The part includes a series of evenly spaced small holes along its length.
+There is a small slot near the bottom edge.
+The object has a large rectangular cutout on one side.
+This part includes a series of evenly spaced holes along the top edge.
+The component has a single elongated slot in the middle.
+The bar has a central rectangular cutout.
+There is a narrow slot running along the length of the bar.
+The edges of the bar are straight and parallel.
+The bar has a consistent width throughout its length.
+
+**Protrusions:**
+The part has a slight indentation along the top edge.
+The component has a raised border around the perimeter.
+The part has a raised border along the perimeter.
+The component includes a protruding tab on the left side.
+The part has a raised border along the perimeter.
+There are two small protrusions on the left side.
+The part has raised edges along the sides.
+There are two protruding tabs on opposite ends.
+The part has a raised border along the bottom edge.
+The component includes a small notch on the left side.
+The part has raised edges along the sides.
+There are two protruding tabs on opposite ends.
+The part has raised edges along the sides.
+There are two protruding tabs on opposite ends.
+The part has a slight raised edge along the top surface.
+The bottom surface of the bar is flush and smooth.
+The component has smooth edges along its length.
+The part has a flat surface with no protrusions.
+The part includes a raised ridge along the perimeter.
+There are two small holes near the bottom left corner.
+The part has a flat surface with no protrusions.
+The component has a smooth rectangular profile.
+The part includes a raised ridge along the bottom edge.
+There are two parallel grooves on the left side.
+The rod has a smooth outer surface without any protrusions.
+The component has a flat top and bottom surface.
+The part has raised edges along the left and right sides.
+There are two small protrusions on the bottom corners.
+The part has a slight indentation along one side.
+The bar's surface is smooth with no protrusions.
+
+**Relative Positions:**
+The central slot is aligned horizontally across the width.
+Several smaller holes are evenly spaced along the bottom edge.
+Several small holes are arranged symmetrically around the central slot.
+The part has a flat surface with a central elongated slot.
+The rectangular slot is positioned centrally on the component.
+Several smaller holes are arranged symmetrically around the central slot.
+Several smaller holes are arranged around the central opening.
+The component has a central rectangular cutout with rounded edges.
+Several small holes are arranged symmetrically around the central slot.
+The rectangular plate has a central elongated slot with rounded edges.
+Several smaller holes are arranged around the central opening.
+The component has a central rectangular cutout with rounded edges.
+Several smaller holes are arranged around the central opening.
+The component has a central rectangular cutout with rounded edges.
+The circular hole is centrally aligned with the bar.
+The elongated slot is positioned parallel to the length of the bar.
+The slot is aligned horizontally across the component.
+The elongated slot is positioned centrally on the flat bar.
+The central hole is flanked by two smaller slots on either side.
+The protruding tab extends outward from the main body.
+The rectangular slot is positioned centrally along the length.
+The central slot is aligned with the longer side of the rectangle.
+The central hole is flanked by two smaller slots on either side.
+A series of evenly spaced holes are aligned along the top edge.
+The elongated slot is aligned parallel to the rod's length.
+Several smaller holes are evenly distributed along the central slot.
+The central hole is surrounded by four smaller holes arranged symmetrically.
+The rectangular slot is positioned parallel to the longer side of the plate.
+The central cutout is aligned with the bar's length.
+The slot is positioned symmetrically along the bar's center.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Flat rectangular plate with a central elongated slot.
+- L-shaped metal bracket with a central circular hole.
+- Rectangular bar with a consistent width and smooth edges.
+
+[HOLES_SLOTS]
+- Central circular hole.
+- Long horizontal slot in the middle.
+- Series of evenly spaced holes along the bottom edge.
+- Narrow vertical slot near the top right corner.
+- Rectangular cutout on the right side.
+
+[PROTRUSIONS]
+- Raised border around the perimeter.
+- Protruding tab on the left side.
+- Two small protrusions on the left side.
+- Raised edges along the sides.
+
+[RELATIVE_POSITIONS]
+- Central slot aligned horizontally across the width.
+- Smaller holes arranged symmetrically around the central slot.
+- Rectangular slot positioned centrally on the component.
+- Protruding tab extends outward from the main body.
+- Series of evenly spaced holes aligned along the top edge.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 10/16 (Images 136-150)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component has a flat rectangular shape.
+This part features a long horizontal slot in the middle.
+The component is a flat rectangular plate.
+This part features a central elongated slot.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is a flat rectangular plate.
+This part features a long horizontal slot near the center.
+The component is a straight cylindrical rod.
+This part features a uniform elongated shape.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is a straight rectangular bar.
+This part features a uniform elongated shape.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a central circular hole.
+The component is a flat rectangular bar.
+This part features a central elongated slot.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a uniform rectangular cross-section.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular flat shape.
+This part features a long horizontal slot in the middle.
+The component is a flat rectangular bar.
+This part features a long, narrow rectangular shape.
+
+**Holes & Slots:**
+There is a narrow rectangular slot near the left edge.
+The object includes a small circular hole on the right side.
+This part has a large rectangular slot aligned centrally.
+There is a small circular hole positioned near the bottom edge.
+There is a small circular hole near the left edge.
+The right side of the component has a series of evenly spaced holes.
+The component has a slight indentation along the bottom edge.
+A large rectangular cutout is positioned towards the top right corner.
+There is a small circular hole near the left edge.
+The component has a rectangular cutout on the right side.
+The part includes a series of evenly spaced holes along the top edge.
+This section has a narrow elongated slot running parallel to the length.
+The object has a narrow elongated shape.
+It contains a single elongated slot running along its length.
+The part has a uniform rectangular profile.
+There is a small circular hole near the left edge.
+The rod has a consistent diameter throughout its length.
+There are no holes present on the cylindrical surface.
+The part has a flat end on one side.
+The other end of the rod is also flat and parallel to the first.
+There is a narrow rectangular slot near the left edge.
+The object has a uniform rectangular shape.
+This part includes a small circular hole on the right side.
+There is a larger circular hole positioned centrally.
+It contains a series of evenly spaced small circular holes along its length.
+There is a narrow rectangular slot near one end.
+The bar has a flat surface with no protrusions.
+The component has a consistent width throughout its length.
+There is a narrow slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a small triangular notch on the right edge.
+This component contains two parallel slots on the top.
+There is a long horizontal slot on the left side.
+The right side of the component has a smaller circular hole.
+The component has a raised edge along the top border.
+The bottom edge of the part is slightly indented.
+The bar has a uniform width throughout its length.
+There are no holes present on the surface.
+The edges of the bar are straight and parallel.
+The bar maintains a consistent thickness from one end to the other.
+There is a narrow slot on the left side.
+The object includes a series of evenly spaced holes along the top edge.
+The part has a protruding tab on the right side.
+This component has a U-shaped notch on the bottom.
+The rod has a consistent width along its length.
+There are no holes present in the cylindrical rod.
+The part has a smooth outer surface without any indentations.
+The rod maintains a straight alignment throughout its entirety.
+There is a narrow slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a small triangular notch on the right edge.
+This component contains two parallel slots on the top.
+There is a narrow elongated slot running parallel to the edges.
+The object is a straight rectangular bar.
+This component includes a central elongated slot.
+There is a small circular hole near the center.
+It contains a series of evenly spaced small holes along its length.
+There is a central elongated slot running through the middle.
+The part has a uniform width throughout its length.
+This section includes a single large rectangular cutout near one end.
+
+**Protrusions:**
+The part has a raised edge along the top side.
+The component includes a protruding tab on the left side.
+The part has raised edges along the left and right sides.
+There are two parallel slots running along the bottom edge.
+The part has a raised border along the bottom edge.
+The component includes a protruding tab on the left side.
+The component has a smooth edge along the top side.
+The part includes a slight indentation on the right side.
+The rod does not have any protrusions or raised edges.
+The length of the rod is significantly greater than its diameter.
+The part has a slight indentation along the top edge.
+The component has a raised border around the perimeter.
+The edges of the bar are smooth and unbroken.
+The part has a central alignment with no additional features.
+The part has a raised ridge along the bottom edge.
+There are two protruding tabs on the left side.
+A series of small holes are aligned along the left edge.
+Several larger holes are arranged symmetrically around the central hole.
+The surface is uninterrupted along its length.
+The bar's ends are flat and perpendicular to the main body.
+The part includes a raised ridge along the bottom edge.
+There is a small circular hole near the top left corner.
+There are no protrusions on the cylindrical rod.
+The rod does not have any additional geometric features.
+The part has a raised ridge along the bottom edge.
+There are two protruding tabs on the left side.
+The part has a flat surface with no protrusions.
+The component has a smooth rectangular profile.
+The edges of the component are slightly raised.
+The part has a consistent thickness from one side to the other.
+
+**Relative Positions:**
+The rectangular slot is positioned parallel to the top edge.
+Several small holes are arranged symmetrically around the central slot.
+The central slot is aligned horizontally across the component.
+Several smaller holes are arranged symmetrically around the central slot.
+Several small holes are arranged symmetrically around the central slot.
+The rectangular plate has a central groove extending its full length.
+The slot is positioned centrally on the flat surface.
+The circular hole is located towards the left end of the component.
+The flat ends are positioned at opposite ends of the rod.
+The rod maintains a straight alignment from one end to the other.
+The central slot is aligned horizontally across the width.
+Several smaller holes are evenly spaced along the bottom edge.
+The small circular holes are aligned parallel to the length of the bar.
+The rectangular slot is positioned at the midpoint of the bar.
+The central hole is flanked by two smaller holes on either side.
+The rectangular slot is positioned above the central oval opening.
+The rectangular slot is positioned parallel to the top edge.
+The smaller hole on the right side is offset from the central hole.
+The slot runs the full length of the bar.
+The bar's geometry is simple and unembellished.
+The rectangular slot is positioned parallel to the bottom edge.
+Several smaller holes are arranged symmetrically around the central hole.
+The rod is a single continuous piece without any segments.
+The rod's geometry is simple and unadorned.
+The central hole is flanked by two smaller holes on either side.
+The rectangular slot is positioned above the central oval opening.
+The rectangular slot is positioned centrally along the length.
+The circular hole is aligned with the central slot.
+Several smaller holes are aligned parallel to the central slot.
+The component's holes are evenly distributed along its length.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Flat rectangular plate with rounded corners.
+- Long horizontal slot near the center.
+- Uniform elongated shape.
+- Central circular hole.
+
+[HOLES_SLOTS]
+- One large rectangular slot aligned centrally.
+- Series of evenly spaced small circular holes along the top edge.
+- Small circular hole near the left edge.
+- Small circular hole near the bottom edge.
+- Small circular hole on the right side.
+- Narrow rectangular slot near the left edge.
+- Central circular hole.
+
+[PROTRUSIONS]
+- Raised edge along the top side.
+- Raised ridge along the bottom edge.
+- Slight indentation along the top edge.
+- Flat ends on both sides of the rod.
+
+[RELATIVE_POSITIONS]
+- Central slot aligned horizontally across the component.
+- Small circular holes arranged symmetrically around the central slot.
+- Rectangular slot positioned parallel to the top edge.
+- Flat ends positioned at opposite ends of the rod.
+- Central hole flanked by two smaller holes on either side.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 11/16 (Images 151-165)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a flat rectangular bar.
+This part features a uniform elongated shape.
+The component is a straight rectangular bar.
+This part features a uniform elongated shape.
+The component is a flat rectangular bar.
+This part features a long, narrow rectangular shape.
+The component is a straight rectangular bar.
+This part features a uniform elongated shape.
+The component is a straight cylindrical rod.
+This part features a uniform rectangular cross-section.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component has a rectangular flat shape.
+This part features a long horizontal slot in the middle.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is a straight cylindrical rod.
+This part features a uniform elongated shape.
+The component is a straight cylindrical rod.
+This part features a uniform elongated shape.
+The component is a straight cylindrical rod.
+This part features a uniform elongated shape.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is a straight rectangular bar.
+This part features a uniform elongated shape.
+
+**Holes & Slots:**
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+There are two parallel slots on the top surface.
+It contains a single elongated slot along its length.
+The bar has a consistent width throughout its entirety.
+There is a narrow rectangular cutout near one end.
+The component has a straight and continuous outline.
+It contains a single narrow slot along its length.
+The bar has a consistent width throughout.
+There is a small circular hole near one end.
+The component has a flat surface on both sides.
+It contains a single elongated slot running along its length.
+The bar has a uniform width throughout its entire length.
+This part includes a central rectangular cutout.
+There is a small circular hole near one end of the bar.
+It contains a single narrow slot running along its length.
+The bar has a consistent width throughout its entire length.
+There is a small circular hole near one end of the bar.
+The part includes a rectangular cutout positioned centrally along its length.
+The rod has a smooth elongated shape.
+It contains a central longitudinal slot running along its length.
+The part has a consistent width throughout its entire length.
+There are no additional holes or slots on the surface.
+There is a small circular hole near the left edge.
+The component has a large rectangular cutout on the right side.
+This part includes a series of evenly spaced holes along the bottom edge.
+The component has a narrow vertical slot near the top right corner.
+There is a narrow elongated slot near the left edge.
+The object includes a small circular hole on the right side.
+The part has a central rectangular cutout.
+There is a large oval hole positioned towards the bottom.
+There is a small circular hole near the left edge.
+The right side of the component has a series of evenly spaced holes.
+The component has a slight indentation along the bottom edge.
+A narrow rectangular slot is present near the top right corner.
+The rod has a central circular hole running through its length.
+There is a narrow rectangular slot along one side of the rod.
+The rod has a slight taper towards one end.
+The part includes a small circular indentation near the middle.
+The rod has a consistent diameter throughout its length.
+There are no holes present on the cylindrical surface.
+The part includes a narrow elongated slot along one side.
+The slot runs parallel to the length of the rod.
+It contains a series of evenly spaced small circular holes along its length.
+There is a narrow rectangular slot positioned near one end.
+The part has a flat surface on both ends.
+Several smaller holes are aligned parallel to the central axis.
+There is a small circular hole near the left edge.
+The component has a large rectangular cutout on the right side.
+The part includes a series of evenly spaced holes along the bottom edge.
+This section has a narrow vertical slot adjacent to the central hole.
+It contains a single large circular hole near one end.
+There is a smaller rectangular slot positioned parallel to the main slot.
+The part has a series of evenly spaced circular holes along one side.
+This section includes a semi-circular notch on the right edge.
+It contains a single narrow slot along its length.
+The bar has a consistent width throughout.
+There is a small circular hole near one end.
+The part includes a rectangular cutout in the middle.
+
+**Protrusions:**
+The component has a raised ridge along the bottom edge.
+This part includes a series of evenly spaced holes around the perimeter.
+The edges of the bar are smooth and uninterrupted.
+The part has a central groove running its length.
+The part has a slight indentation along the center.
+The bar is designed with precise linear dimensions.
+The edges of the bar are slightly raised.
+The part has a consistent thickness from one side to the other.
+The bar has a flat surface with no raised edges.
+Several smaller slots are evenly spaced along the length of the bar.
+The rod has a flat top and bottom edge.
+The edges are parallel and straight along the length.
+The part has a raised border along the perimeter.
+There are two small protrusions on the left side.
+The component has a raised ridge along the top edge.
+The part includes a series of small notches along the bottom.
+The part has a raised border along the perimeter.
+Several small holes are aligned along the central slot.
+The rod has a flat surface on one end.
+The component has a slight curvature along its length.
+The rod has a smooth outer surface without any protrusions.
+The edges of the rod are flat and even.
+The rod has a slight taper towards one end.
+This section has a series of evenly distributed perforations.
+The component has a raised border along the perimeter.
+The part includes a protruding tab on the top right corner.
+The component has a raised border along the perimeter.
+There are two parallel slots running the length of the component.
+The edges of the bar are slightly raised.
+The bar has a flat surface on both sides.
+
+**Relative Positions:**
+The central hole is flanked by two smaller rectangular slots.
+A protruding lip is present on the left side near the top.
+The slot is positioned centrally along the bar.
+The narrow cutout is located at one end of the bar.
+The slot is positioned centrally on the bar.
+The circular hole is located at the midpoint of the bar.
+The rectangular slot is positioned centrally along the bar.
+The circular hole is located at the midpoint of one side.
+The central slot is aligned parallel to the longer edges of the bar.
+The circular hole is positioned adjacent to the central rectangular cutout.
+The slot is positioned centrally on the rod.
+The rod maintains a consistent diameter along its entire length.
+The rectangular slot is positioned centrally on the component.
+Several smaller holes are arranged symmetrically around the central slot.
+The rectangular slot is aligned parallel to the longer side.
+Several small holes are evenly spaced around the central slot.
+The circular hole is positioned centrally on the flat surface.
+The rectangular slot runs parallel to the longer side of the component.
+The central hole is aligned with the rod's longitudinal axis.
+The rectangular slot is positioned parallel to the rod's length.
+The slot is centrally aligned with the rod's length.
+The rod maintains a consistent cross-sectional profile.
+The central hole is aligned with the main body of the rod.
+The rectangular slot is positioned adjacent to the tapered end.
+Several small holes are arranged symmetrically around the central slot.
+The component has a flat surface with a single elongated slot.
+The circular hole is aligned centrally with the rectangular slot.
+Several smaller holes are distributed symmetrically around the central slot.
+The slot is positioned centrally along the bar.
+The circular hole is located at the opposite end of the slot.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular flat plate with rounded corners.
+- Long, narrow rectangular shape.
+- Uniform elongated shape.
+- Central circular hole.
+- Long horizontal slot in the middle.
+
+[HOLES_SLOTS]
+- One large circular hole centrally located.
+- Long horizontal slot in the middle.
+- Small circular holes near one end.
+- Series of evenly spaced small circular holes along the length.
+- Narrow rectangular cutout near one end.
+- Central rectangular cutout.
+- Small circular hole near the left edge.
+- Large oval hole positioned towards the bottom.
+- Narrow rectangular slot near the top right corner.
+- Small circular hole near the right side.
+
+[PROTRUSIONS]
+- Raised ridge along the bottom edge.
+- Raised border along the perimeter.
+- Protruding tab on the right edge.
+- Raised ridge along the top edge.
+- Slight indentation along the center.
+- Flat surface on both ends.
+- Flat top and bottom edge.
+- Slight curvature along its length.
+- Flat surface on one end.
+- Slight taper towards one end.
+
+[RELATIVE_POSITIONS]
+- Central hole flanked by two smaller rectangular slots.
+- Slot positioned centrally along the bar.
+- Circular hole located at the midpoint of the bar.
+- Rectangular slot positioned centrally along the component.
+- Circular hole positioned adjacent to the central rectangular cutout.
+- Slot positioned centrally on the rod.
+- Rectangular slot aligned parallel to the longer side.
+- Central hole aligned with the rod's longitudinal axis.
+- Rectangular slot positioned parallel to the rod's length.
+- Slot centrally aligned with the rod's length.
+- Circular hole aligned centrally with the rectangular slot.
+- Slot positioned centrally along the bar.
+- Circular hole located at the opposite end of the slot.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 12/16 (Images 166-180)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is a straight rectangular bar.
+This part features a uniform elongated shape.
+The component is a straight cylindrical rod.
+This part features a uniform elongated shape.
+The component is a straight cylindrical rod.
+This part features a uniform elongated shape.
+The component is a straight cylindrical rod.
+This part features a uniform elongated shape.
+The component is a straight rectangular bar.
+This part features a uniform elongated shape.
+The component is a straight cylindrical rod.
+This part features a uniform elongated shape.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is a straight cylindrical rod.
+This part features a uniform elongated shape.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+
+**Holes & Slots:**
+There is a narrow vertical slot near the left edge.
+The object has a rectangular cutout on the right side.
+The part includes a small circular hole near the bottom.
+There is a larger rectangular slot positioned centrally.
+It contains a series of evenly spaced small circular holes along its length.
+There is a narrow elongated slot running parallel to the main body.
+The bar has a flat surface with no protrusions.
+The edges of the component are smooth and straight.
+The rod has a consistent diameter throughout its length.
+There are no holes present on the cylindrical surface.
+The part includes a narrow elongated slot along one side.
+The slot runs parallel to the length of the rod.
+The rod has a consistent diameter throughout its length.
+There are no holes present on the cylindrical rod.
+The rod does not contain any slots or openings.
+The cylindrical rod maintains a smooth outer surface.
+The rod has a central circular hole running through its length.
+There is a narrow rectangular slot along one side of the rod.
+The rod has a slight curvature at one end.
+The part includes a small circular protrusion near the middle.
+It contains a series of evenly spaced small circular holes along its length.
+There is a narrow rectangular slot running parallel to the main body.
+The bar has a flat surface with no protrusions.
+The edges of the component are smooth and straight.
+It contains a series of evenly spaced small circular holes along its length.
+There is a narrow rectangular slot positioned near one end.
+The part has a flat surface on both ends.
+Several smaller holes are aligned parallel to the central axis.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+There are two parallel slots on the top surface.
+There is a small circular hole near the left edge.
+The component has a large rectangular cutout on the right side.
+This part includes a series of evenly spaced holes along the bottom edge.
+The component has a narrow vertical slot near the top right corner.
+The rod has a central circular hole running through its length.
+There is a narrow rectangular slot along one side.
+The part has a flat surface on both ends.
+The cylindrical rod is designed with a consistent diameter.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+There are two parallel slots on the top surface.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+This component has a series of evenly spaced holes along the top.
+There is a long horizontal slot on the left side.
+The object includes a small circular hole near the bottom right corner.
+The part has a protruding tab on the upper edge.
+There is a rectangular cutout adjacent to the central hole.
+There is a narrow slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a small circular hole on the right edge.
+This component has a U-shaped notch at the top.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+There are two parallel slots on the top surface.
+
+**Protrusions:**
+The component has a raised edge along the top border.
+The part features a protruding tab on the left side.
+Several small holes are aligned symmetrically along the central axis.
+The component has a consistent width throughout its length.
+The rod has a smooth outer surface without any protrusions.
+The edges of the rod are flat and even.
+There are no protrusions along the length of the rod.
+The rod's ends are flat and parallel to the main body.
+The rod has a flat surface on both ends.
+Several small holes are evenly spaced along the rod's length.
+The component has a consistent width throughout its length.
+The part is designed with a single central axis.
+The rod has a slight taper towards one end.
+This section has a series of evenly distributed perforations.
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes along the perimeter.
+The part has a raised border along the perimeter.
+There are two small protrusions on the left side.
+The edges of the rod are slightly raised.
+The part includes a small notch near one end.
+The component has a raised ridge along the bottom edge.
+This part includes a series of evenly spaced holes along the perimeter.
+The part includes a raised ridge along the bottom edge.
+There is a notch on the left side of the component.
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes along the top edge.
+The part includes a raised ridge along the bottom edge.
+There are two parallel protrusions on the left side.
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes along the perimeter.
+
+**Relative Positions:**
+The rectangular slot is aligned parallel to the top edge.
+Several small holes are evenly spaced along the bottom edge.
+The elongated slot is positioned centrally on the bar.
+The small circular holes are evenly distributed across the length of the bar.
+The slot is centrally aligned with the rod's length.
+The rod maintains a consistent cross-sectional profile.
+The rod is symmetrical along its central axis.
+The rod's length is significantly greater than its diameter.
+The central hole is aligned with the rod's longitudinal axis.
+The rectangular slot is positioned parallel to the rod's length.
+The small circular holes are aligned symmetrically along the bar.
+The rectangular slot is positioned centrally on the bar.
+The central hole is aligned with the main body of the rod.
+The rectangular slot is positioned adjacent to the tapered end.
+The central hole is flanked by two smaller rectangular slots.
+A protruding lip is present on the left side near the top.
+The rectangular slot is positioned centrally on the component.
+Several smaller holes are arranged symmetrically around the central slot.
+The central hole is aligned with the rod's axis.
+The rectangular slot is positioned parallel to the rod's length.
+The central hole is flanked by two smaller rectangular slots.
+A protruding lip is present on the left side near the top.
+The central hole is surrounded by four smaller circular holes.
+The rectangular slot is positioned parallel to the top edge.
+The central hole is surrounded by four smaller rectangular slots.
+The protruding tab aligns with the rectangular slot on the left side.
+The central hole is flanked by two smaller slots on either side.
+A series of evenly spaced holes are aligned along the top edge.
+The central hole is flanked by two smaller rectangular slots.
+A protruding lip is present on the left side near the top.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Flat rectangular plate with rounded corners.
+- Long horizontal slot in the middle.
+- Central circular hole.
+- Uniform elongated shape.
+- Straight cylindrical rod with consistent diameter.
+
+[HOLES_SLOTS]
+- One large circular hole centrally located.
+- Series of evenly spaced small circular holes along the length.
+- Narrow vertical slot near the left edge.
+- Large rectangular cutout on the right side.
+- Small circular hole near the bottom.
+- Narrow elongated slot running parallel to the main body.
+- Small slot on the left side.
+- Large oval opening near the bottom.
+- Two parallel slots on the top surface.
+- Small circular hole near the left edge.
+
+[PROTRUSIONS]
+- Raised ridge along the bottom edge.
+- Protruding tab on the right edge.
+- Small circular protrusion near the middle.
+- Raised edge along the top border.
+- Notch on the left side of the component.
+- Raised border along the perimeter.
+- Two small protrusions on the left side.
+- Series of evenly spaced holes along the perimeter.
+- Raised lip on the left side near the top.
+
+[RELATIVE_POSITIONS]
+- Central circular hole aligned with the rod's longitudinal axis.
+- Rectangular slot positioned centrally on the bar.
+- Small circular holes evenly distributed across the length of the bar.
+- Slot aligned parallel to the top edge.
+- Protruding tab aligns with the rectangular slot on the left side.
+- Central hole flanked by two smaller rectangular slots.
+- Series of evenly spaced holes aligned along the top edge.
+- Central hole surrounded by four smaller circular holes.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 13/16 (Images 181-195)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular flat shape.
+This part features a long horizontal slot in the middle.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a uniform elongated shape.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a flat rectangular bar.
+This part features a series of evenly spaced holes along one edge.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a uniform elongated shape.
+The component is a straight cylindrical rod.
+This part features a uniform elongated shape.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+
+**Holes & Slots:**
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+This component has a series of evenly spaced holes along the top.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+This component has a series of evenly spaced holes along the top.
+There is a narrow vertical slot near the left edge.
+The object includes a small circular hole on the right side.
+The part has a large rectangular cutout in the center.
+There is a small oval hole positioned near the bottom edge.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+There are two parallel slots on the top surface.
+The rod has a central circular hole running through its length.
+There is a narrow rectangular slot along the side of the rod.
+The rod has a flat surface on both ends.
+The component includes a series of evenly spaced small holes along its length.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+This component has a series of evenly spaced holes along the top.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+There are two parallel slots on the top surface.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+There are two parallel slots on the top surface.
+The bar has a central elongated slot.
+There are multiple small circular holes distributed across the surface.
+The part includes a narrow rectangular cutout near the center.
+This component has a series of parallel slots along its length.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+There are two parallel slots on the top surface.
+The rod has a consistent diameter throughout its length.
+There are no holes present on the cylindrical surface.
+The part has a smooth outer contour without any interruptions.
+This cylindrical object lacks any slots or indentations.
+It contains a single central circular hole.
+There is a narrow rectangular slot along the length.
+The rod has a consistent diameter throughout.
+The part includes a small oval indentation near one end.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a series of evenly spaced holes along the top edge.
+This component has a U-shaped notch on the right side.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+There are two parallel slots on the top surface.
+There is a long horizontal slot on the left side.
+The object includes a small circular hole near the bottom right corner.
+The part has a protruding tab on the upper edge.
+There is a rectangular cutout adjacent to the central hole.
+
+**Protrusions:**
+The part includes a raised ridge along the bottom edge.
+There is a notch on the left side of the component.
+The part includes a raised ridge along the bottom edge.
+There is a notch on the left side of the component.
+The part has a raised edge along the top side.
+The component includes a protruding tab on the left side.
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes along the perimeter.
+The part has a slight protrusion at one end.
+The rod's surface is smooth with no additional features.
+The part includes a raised ridge along the bottom edge.
+There is a notch on the left side of the component.
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes along the perimeter.
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes along the perimeter.
+The bar has raised edges along its sides.
+The part features a slight indentation on one side.
+The component has a raised ridge along the bottom edge.
+This part includes a series of evenly spaced holes around the perimeter.
+The rod does not have any raised edges or protrusions.
+The component maintains a simple and uninterrupted form.
+The component has a flat surface on both ends.
+The rod has a slight taper towards one end.
+The part includes a raised ridge along the bottom edge.
+There are two protruding tabs on the left side.
+The component has a raised ridge along the bottom edge.
+This part includes a series of evenly spaced holes around the perimeter.
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes along the top edge.
+
+**Relative Positions:**
+The central hole is surrounded by four smaller circular holes.
+The rectangular slot is positioned parallel to the top edge.
+The central hole is surrounded by four smaller circular holes.
+The rectangular slot is positioned parallel to the top edge.
+The rectangular slot is aligned centrally with the component.
+Several small holes are arranged symmetrically around the central slot.
+The central hole is flanked by two smaller rectangular slots.
+A protruding lip is present on the left side near the top.
+The central hole is aligned perfectly with the rod's axis.
+The rectangular slot is positioned parallel to the rod's length.
+The central hole is surrounded by four smaller circular holes.
+The rectangular slot is positioned parallel to the top edge.
+The central hole is flanked by two smaller rectangular slots.
+A protruding lip is present on the left side near the top.
+The central hole is flanked by two smaller rectangular slots.
+A protruding lip is present on the left side near the top.
+Several smaller holes are arranged symmetrically around the central slot.
+The rectangular bar has a consistent width throughout its length.
+The central hole is flanked by two smaller rectangular slots.
+A protruding lip is present on the left side near the top.
+The rod's length is significantly greater than its diameter.
+There are no additional geometric features on the rod's surface.
+The central hole is aligned with the rod's axis.
+The rectangular slot is positioned parallel to the rod's length.
+The central hole is surrounded by four smaller circular holes.
+The rectangular slot is positioned parallel to the top edge.
+The central hole is flanked by two smaller rectangular slots.
+A protruding lip is present on the left side near the top.
+The central hole is flanked by two smaller slots on either side.
+A protruding lip is present on the right side of the component.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular base with rounded corners.
+- Central circular hole.
+- Long horizontal slot in the middle.
+- Straight cylindrical rod.
+- Uniform elongated shape.
+
+[HOLES_SLOTS]
+- Central circular hole.
+- Series of evenly spaced holes along one edge.
+- Small slot on the left side.
+- Large oval opening near the bottom.
+- Narrow vertical slot near the left edge.
+- Small oval hole near the bottom edge.
+- Large rectangular cutout in the center.
+- Two parallel slots on the top surface.
+- Narrow rectangular slot along the side of the rod.
+- Small circular hole on the right side.
+- Small slot on the left side.
+- Long horizontal slot on the left side.
+- Small circular hole near the bottom right corner.
+- Small oval indentation near one end.
+- Rectangular cutout adjacent to the central hole.
+
+[PROTRUSIONS]
+- Protruding tab on the right edge.
+- Raised ridge along the bottom edge.
+- Notch on the left side.
+- Raised edge along the top side.
+- Slight protrusion at one end.
+- Flat surface on both ends of the rod.
+- Slight taper towards one end of the rod.
+- Two protruding tabs on the left side.
+- Raised ridge along the bottom edge.
+- Series of evenly spaced holes along the perimeter.
+- Raised edges along the sides of the bar.
+- Slight indentation on one side.
+- Series of evenly spaced holes around the perimeter.
+- Protruding lip on the left side near the top.
+- Protruding tab on the upper edge.
+
+[RELATIVE_POSITIONS]
+- Central hole surrounded by four smaller circular holes.
+- Rectangular slot positioned parallel to the top edge.
+- Rectangular slot aligned centrally with the component.
+- Small holes arranged symmetrically around the central slot.
+- Central hole flanked by two smaller rectangular slots.
+- Protruding lip present on the left side near the top.
+- Central hole aligned with the rod's axis.
+- Rectangular slot positioned parallel to the rod's length.
+- Central hole flanked by two smaller slots on either side.
+- Protruding lip present on the right side of the component.
+- Rod's length significantly greater than its diameter.
+- No additional geometric features on the rod's surface.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 14/16 (Images 196-210)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component is a straight cylindrical rod.
+This part features a uniform elongated shape.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular flat shape.
+This part features a long horizontal slot.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is an L-shaped metal bracket.
+This part features a large circular hole in the center.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component is a straight cylindrical rod.
+This part features a uniform elongated shape.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+
+**Holes & Slots:**
+The rod has a central circular hole running through its length.
+There is a narrow rectangular slot along the side of the rod.
+The rod has a slight curvature at one end.
+The part includes a small circular indentation near the middle.
+There is a narrow slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a small circular hole on the right edge.
+This component has a series of evenly spaced holes along the top.
+There is a long horizontal slot on the left side.
+The object includes a small circular hole near the bottom right corner.
+The part has a protruding tab on the upper edge.
+There is a rectangular cutout adjacent to the central hole.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+There are two parallel slots on the top surface.
+There is a narrow elongated slot running parallel to the edge.
+The object includes a small circular hole near the center.
+This part has a series of evenly spaced holes along the side.
+The component features a large rectangular cutout in the middle.
+There is a narrow slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a small triangular notch on the right edge.
+This component contains two parallel slots on the top.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+This component has a series of evenly spaced holes along the top.
+There is a rectangular slot near the edge.
+The object has a U-shaped profile with rounded corners.
+It contains two small circular holes aligned horizontally.
+This section includes a long horizontal slot on one side.
+There is a long horizontal slot on the left side.
+The object includes a small circular hole near the bottom right corner.
+The part has a protruding tab on the upper edge.
+There is a rectangular cutout adjacent to the central hole.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+There are two parallel slots on the top surface.
+There is a small circular hole near the left edge.
+The component has a large rectangular cutout on the right side.
+This part includes a series of evenly spaced holes along the bottom edge.
+The component has a narrow vertical slot near the top right corner.
+The rod has a consistent diameter throughout its length.
+There are no holes present on the cylindrical surface.
+The part includes a central longitudinal slot.
+This cylindrical object has a smooth outer contour.
+There is a small circular hole near the left edge.
+The component has a large rectangular cutout on the right side.
+The part includes a series of evenly spaced holes along the bottom edge.
+This section has a narrow vertical slot near the top.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+There are two parallel slots on the top surface.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a series of evenly spaced holes along the top edge.
+This component has a U-shaped notch on the right side.
+
+**Protrusions:**
+The rod has a flat protrusion on one side.
+The component has a raised edge along the top surface.
+The part includes a raised ridge along the bottom edge.
+There is a protruding tab on the left side.
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes along the top edge.
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes along the perimeter.
+The part has a raised edge along the top side.
+There are two protruding tabs on opposite sides.
+The part has a raised ridge along the bottom edge.
+There are two protruding tabs on the left side.
+The part includes a raised ridge along the bottom edge.
+There is a triangular notch on the left side.
+The part has raised edges along the sides.
+There are two protruding tabs on opposite ends.
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes along the top edge.
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes along the perimeter.
+The part has a raised border along the perimeter.
+There are two small protrusions on the left side.
+The rod does not have any protrusions on its surface.
+The part maintains a straight alignment from end to end.
+The component has a raised border along the perimeter.
+The part includes a protruding tab on the left side.
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes along the perimeter.
+The part includes a raised ridge along the bottom edge.
+There are two protruding tabs on the left side.
+
+**Relative Positions:**
+The central hole is aligned with the rectangular slot.
+Several smaller circular holes are evenly spaced along the rod.
+The central hole is surrounded by four smaller holes.
+The slot is positioned directly above the central hole.
+The central hole is flanked by two smaller slots on either side.
+The rectangular slot is positioned parallel to the top edge.
+The central hole is flanked by two smaller rectangular slots.
+A protruding lip is present on the left side near the top.
+The rectangular slot is positioned centrally on the component.
+Several smaller holes are arranged symmetrically around the central slot.
+The central hole is flanked by two smaller holes on either side.
+The rectangular slot is positioned above the central oval opening.
+The central hole is surrounded by four smaller circular holes.
+The rectangular slot is positioned parallel to the top edge.
+Several smaller holes are arranged around the central opening.
+The component has a central hole flanked by two slots on either side.
+The central hole is flanked by two smaller slots on either side.
+A protruding lip is present on the right side of the component.
+The central hole is flanked by two smaller rectangular slots.
+A protruding lip is present on the left side near the top.
+The rectangular slot is positioned centrally on the component.
+Several smaller holes are arranged symmetrically around the central slot.
+The central slot runs parallel to the rod's length.
+There are no additional geometric features on the rod.
+Several small holes are arranged symmetrically around the central slot.
+The rectangular slot is positioned centrally on the component.
+The central hole is flanked by two smaller rectangular slots.
+A protruding lip is present on the left side near the top.
+The central hole is surrounded by four smaller holes arranged symmetrically.
+The rectangular slot is positioned parallel to the top edge.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Cylindrical rod with a uniform elongated shape.
+- Rectangular base with rounded corners.
+- Flat rectangular plate configuration.
+- L-shaped metal bracket.
+
+[HOLES_SLOTS]
+- Central circular hole.
+- Long horizontal slot in the middle.
+- Small circular holes near the edges.
+- Rectangular cutout adjacent to the central hole.
+- Series of evenly spaced holes along the top or bottom edge.
+- Narrow slot on the left side.
+- Large oval opening near the bottom.
+- Two parallel slots on the top surface.
+- Narrow vertical slot near the top right corner.
+
+[PROTRUSIONS]
+- Raised ridge along the bottom edge.
+- Protruding tab on the left or right side.
+- Raised edge along the top surface.
+- Series of evenly spaced holes along the top edge.
+- Raised border along the perimeter.
+- Triangular notch on the left side.
+
+[RELATIVE_POSITIONS]
+- Central hole aligned with the rectangular slot.
+- Slot positioned directly above the central hole.
+- Central hole flanked by two smaller slots on either side.
+- Rectangular slot positioned parallel to the top edge.
+- Central hole surrounded by four smaller holes.
+- Rectangular slot positioned centrally on the component.
+- Protruding lip present on the left side near the top.
+- Central slot runs parallel to the rod's length.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 15/16 (Images 211-225)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component has a rectangular flat shape.
+This part features a long horizontal slot in the middle.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular flat shape.
+This part features a long horizontal slot.
+The component is a straight cylindrical rod.
+This part features a uniform elongated shape.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a uniform rectangular cross-section.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a straight rectangular bar.
+This part features a uniform elongated shape.
+
+**Holes & Slots:**
+There is a small circular hole near the left edge.
+The component includes another circular hole on the right side.
+A narrow rectangular slot is present near the bottom edge.
+The part has a central elongated slot running horizontally.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+There are two parallel slots on the top surface.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+There are two parallel slots on the top surface.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+There are two parallel slots on the top surface.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+This component has a series of evenly spaced holes along the top.
+There is a narrow slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a small triangular notch on the right edge.
+This component contains two parallel slots on the top.
+There is a narrow elongated slot running across the middle.
+The object is a straight rectangular bar.
+This part includes a single elongated slot along its length.
+The component has a uniform rectangular profile.
+The rod has a consistent diameter throughout its length.
+There are no holes present on the cylindrical surface.
+The part includes a central longitudinal groove.
+This cylindrical object has a smooth outer contour.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+There are two parallel slots on the top surface.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+This component has a series of evenly spaced holes along the top.
+There is a narrow slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a small triangular notch on the right edge.
+This component contains two parallel slots on the top.
+The rod has a central elongated slot running along its length.
+There is a narrow rectangular cutout positioned near one end.
+The part has a flat surface on both ends.
+This component includes a small circular indentation on one side.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+There are two parallel slots on the top surface.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+This component has a series of evenly spaced holes along the top.
+It contains a series of evenly spaced small holes along its length.
+The bar has a consistent width throughout its entire length.
+There is a central rectangular cutout running the length of the bar.
+The edges of the bar are smooth and straight.
+
+**Protrusions:**
+The edges of the component are slightly raised.
+There are two small protrusions on the top corners.
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes along the perimeter.
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes along the perimeter.
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes around the perimeter.
+The part includes a raised ridge along the bottom edge.
+There is a triangular notch on the left side.
+The part has a raised ridge along the bottom edge.
+There are two protruding tabs on the left side.
+The part has a flat surface with no protrusions.
+There are no raised edges or protrusions on the component.
+The rod does not have any protrusions or raised edges.
+The component maintains a straight alignment from end to end.
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes along the perimeter.
+The part includes a raised ridge along the bottom edge.
+There is a notch on the left side of the component.
+The part has a raised ridge along the bottom edge.
+There are two protruding tabs on the left side.
+The rod has a slight protrusion along the central axis.
+The part has a raised edge along the length of the rod.
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes along the perimeter.
+The part includes a raised ridge along the bottom edge.
+There is a notch on the left side of the component.
+The bar has a slight taper towards one end.
+The component has a flat surface on both sides.
+
+**Relative Positions:**
+The circular holes are symmetrically placed on either side.
+The rectangular slots are aligned parallel to the component's length.
+The central hole is flanked by two smaller rectangular slots.
+A protruding lip is present on the left side near the top.
+The central hole is flanked by two smaller rectangular slots.
+A protruding lip is present on the left side near the top.
+The central hole is flanked by two smaller rectangular slots.
+A protruding lip is present on the left side near the top.
+The central hole is surrounded by four smaller circular holes.
+The rectangular slot is positioned parallel to the top edge.
+The central hole is flanked by two smaller holes on either side.
+The rectangular slot is positioned above the central oval opening.
+The elongated slot is centered along the length of the bar.
+The rectangular shape is consistent throughout the component.
+The central groove runs parallel to the rod's length.
+There are no additional geometric features on the rod's surface.
+The central hole is flanked by two smaller rectangular slots.
+A protruding lip is present on the left side near the top.
+The central hole is surrounded by four smaller circular holes.
+The rectangular slot is positioned parallel to the top edge.
+The central hole is flanked by two smaller holes on either side.
+The rectangular slot is positioned above the central oval opening.
+The central slot is aligned parallel to the rod's length.
+The circular indentation is located adjacent to the rectangular cutout.
+The central hole is flanked by two smaller rectangular slots.
+A protruding lip is present on the left side near the top.
+The central hole is surrounded by four smaller circular holes.
+The rectangular slot is positioned parallel to the top edge.
+The small holes are aligned parallel to the length of the bar.
+The central cutout is positioned exactly in the middle of the bar.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular base with rounded corners.
+- Central circular hole.
+- Long horizontal slot in the middle.
+- Uniform elongated shape.
+- Straight cylindrical rod.
+
+[HOLES_SLOTS]
+- Central circular hole.
+- Long horizontal slot.
+- Small circular holes near the edges.
+- Large oval opening near the bottom.
+- Two parallel slots on the top surface.
+- Small slot on the left side.
+- Narrow rectangular slot near the bottom edge.
+- Central rectangular cutout running the length of the bar.
+
+[PROTRUSIONS]
+- Raised ridge along the bottom edge.
+- Protruding tab on the right edge.
+- Two protruding tabs on the left side.
+- Triangular notch on the right edge.
+- Slight protrusion along the central axis.
+
+[RELATIVE_POSITIONS]
+- Central hole flanked by two smaller rectangular slots.
+- Protruding lip on the left side near the top.
+- Rectangular slot positioned parallel to the top edge.
+- Central hole surrounded by four smaller circular holes.
+- Rectangular slot positioned above the central oval opening.
+- Small holes aligned parallel to the length of the bar.
+- Central cutout positioned exactly in the middle of the bar.
+----------------------------------------------------------------------
+
+
+======================================================================
+BATCH 16/16 (Images 226-240)
+======================================================================
+
+INPUT DESCRIPTIONS:
+----------------------------------------------------------------------
+Below are descriptions from 15 images of the same component:
+
+**Global Shape:**
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a central circular hole.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a long horizontal slot in the middle.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a long horizontal slot near the center.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a long horizontal slot near the center.
+The component is a flat rectangular plate.
+This part features a long horizontal slot near the center.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a straight cylindrical rod.
+This part features a uniform rectangular cross-section.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a long horizontal slot near the center.
+The component has a rectangular base with rounded corners.
+This part features a central circular hole.
+The component is a flat rectangular plate.
+This part features a central circular hole.
+
+**Holes & Slots:**
+There is a narrow slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a small triangular notch on the right edge.
+This component contains two parallel slots on the top.
+There is a small slot near the bottom edge.
+The object has a large rectangular cutout on one side.
+This part includes a series of evenly spaced holes along the top edge.
+The component has a single elongated slot on the left side.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+This component has a series of evenly spaced holes along the top.
+There is a small circular hole near the left edge.
+The component has a large rectangular cutout on the right side.
+The part includes a series of evenly spaced holes along the bottom edge.
+This section has a narrow vertical slot adjacent to the central hole.
+There is a narrow slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a small triangular notch on the right edge.
+This component contains two parallel slots on the top.
+It contains a small circular hole on the left side.
+There is a larger circular hole on the right side.
+The part has a series of evenly spaced rectangular slots along the bottom edge.
+This section includes a semi-circular notch at the top.
+There is a small slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a protruding tab on the right edge.
+There are two parallel slots on the top surface.
+It contains a small circular hole on the left side.
+There is a larger circular hole on the right side.
+The part has a series of evenly spaced rectangular slots along the bottom edge.
+This section includes a semi-circular notch at the top.
+It contains a small circular hole on the left side.
+There is a larger circular hole on the right side.
+The part has a series of evenly spaced rectangular slots along the bottom edge.
+This section includes a semi-circular notch at the top.
+There is a narrow slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a small circular hole on the right edge.
+This component has a U-shaped notch at the top.
+The rod has a smooth elongated shape.
+It contains a central longitudinal slot running along its length.
+There are no holes present on the surface.
+The edges of the rod are parallel and straight.
+There is a narrow slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a small circular hole on the right edge.
+This component has a series of evenly spaced holes along the top.
+There is a small circular hole positioned on the left side.
+The component has a large rectangular cutout in the middle.
+This part includes a series of evenly spaced holes along the bottom edge.
+The component has a narrow vertical slot on the right side.
+There is a narrow slot on the left side.
+The object includes a large oval opening near the bottom.
+The part has a small triangular notch on the right edge.
+This component contains two parallel slots on the top.
+There is a small slot near the bottom edge.
+The object has a large rectangular cutout on one side.
+This part includes a series of evenly spaced holes along the top edge.
+The component has a single elongated slot in the middle.
+
+**Protrusions:**
+The part has a raised ridge along the bottom edge.
+There are two protruding tabs on the left side.
+The part has raised edges along the bottom perimeter.
+There are two small protrusions on the right side.
+The part includes a raised ridge along the bottom edge.
+There is a notch on the left side of the component.
+The component has a raised border along the perimeter.
+The part includes a protruding tab on the top right corner.
+The part has a raised ridge along the bottom edge.
+There are two protruding tabs on the left side.
+The component has raised edges along the top and bottom borders.
+There are two parallel rectangular slots positioned side by side near the center.
+The component has a raised ridge along the bottom edge.
+This part features a series of evenly spaced holes along the perimeter.
+The component has raised edges along the top and bottom borders.
+There are two parallel rectangular slots positioned side by side near the middle.
+The component has raised edges along the top and bottom borders.
+There are two parallel rectangular slots positioned side by side near the center.
+The part includes a raised ridge along the bottom edge.
+There are two parallel slots on the upper side.
+The part has a consistent diameter throughout its length.
+The rod is designed with a flat top and bottom surface.
+The part includes a raised ridge along the bottom edge.
+There is a protruding tab on the left side.
+The part has a raised edge along the top border.
+There are two small protrusions on the bottom corners.
+The part has a raised ridge along the bottom edge.
+There are two protruding tabs on the left side.
+The part has raised edges along the left and right sides.
+There are two small protrusions on the bottom corners.
+
+**Relative Positions:**
+The central hole is flanked by two smaller holes on either side.
+The rectangular slot is positioned above the central oval opening.
+The central hole is surrounded by four smaller holes arranged symmetrically.
+The slot is positioned parallel to the longer side of the rectangle.
+The central hole is surrounded by four smaller circular holes.
+The rectangular slot is positioned parallel to the top edge.
+Several small holes are arranged symmetrically around the central slot.
+The component has a flat surface with a single elongated slot.
+The central hole is flanked by two smaller holes on either side.
+The rectangular slot is positioned above the central oval opening.
+The large horizontal slot is flanked by two smaller circular holes.
+Several smaller rectangular slots are aligned vertically along the left edge.
+The central hole is flanked by two smaller rectangular slots.
+A protruding lip is present on the left side near the top.
+The large horizontal slot is flanked by two smaller circular holes.
+Several smaller rectangular slots are aligned vertically along the left edge.
+The large horizontal slot is flanked by two smaller circular holes.
+Several smaller rectangular slots are aligned vertically along the left edge.
+The central hole is flanked by two smaller holes on either side.
+The rectangular slot is positioned adjacent to the central circular hole.
+The slot is positioned centrally along the rod.
+The rod's length is significantly greater than its width.
+The central hole is surrounded by four smaller holes.
+The slot is positioned directly above the central hole.
+The rectangular slot is aligned parallel to the longer edge.
+Several smaller holes are arranged symmetrically around the central cutout.
+The central hole is flanked by two smaller holes on either side.
+The rectangular slot is positioned above the central oval opening.
+The central hole is surrounded by four smaller holes arranged symmetrically.
+The slot is positioned directly above the central hole.
+
+----------------------------------------------------------------------
+MODEL RESPONSE:
+----------------------------------------------------------------------
+[GLOBAL_SHAPE]
+- Rectangular base with rounded corners.
+- Flat rectangular plate.
+- Central circular hole.
+- Long horizontal slot near the center.
+- Uniform rectangular cross-section.
+- Smooth elongated rod shape.
+
+[HOLES_SLOTS]
+- Central circular hole.
+- Long horizontal slot near the center.
+- Large oval opening near the bottom.
+- Small triangular notch on the right edge.
+- Series of evenly spaced holes along the top and bottom edges.
+- Large rectangular cutout on one side.
+- Narrow vertical slot adjacent to the central hole.
+- Semi-circular notch at the top.
+- U-shaped notch at the top.
+- Small circular holes near the left and right edges.
+
+[PROTRUSIONS]
+- Raised ridge along the bottom edge.
+- Two protruding tabs on the left side.
+- Raised edges along the bottom perimeter.
+- Protruding tab on the top right corner.
+- Raised border along the perimeter.
+- Two small protrusions on the right side.
+- Notch on the left side of the component.
+- Raised edges along the top and bottom borders.
+- Two small protrusions on the bottom corners.
+- Raised edge along the top border.
+
+[RELATIVE_POSITIONS]
+- Central hole flanked by two smaller holes on either side.
+- Rectangular slot positioned above the central oval opening.
+- Central hole surrounded by four smaller holes arranged symmetrically.
+- Slot positioned parallel to the longer side of the rectangle.
+- Rectangular slot positioned parallel to the top edge.
+- Small circular holes positioned near the left and right edges.
+- Large horizontal slot flanked by two smaller circular holes.
+- Several smaller rectangular slots aligned vertically along the left edge.
+- Protruding lip on the left side near the top.
+- Slot positioned directly above the central hole.
+----------------------------------------------------------------------
+
